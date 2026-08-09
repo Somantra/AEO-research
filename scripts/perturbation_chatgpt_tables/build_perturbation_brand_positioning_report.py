@@ -66,11 +66,86 @@ def meter(jaccard):
     )
 
 
+def _f(val):
+    """Parse a CSV cell to float, or None if blank / missing / unparseable. The optional score
+    columns default to '' when --score-sentiment / --score-embeddings weren't run, so both
+    'column absent' and 'present but empty' collapse to None here."""
+    if val is None:
+        return None
+    s = str(val).strip()
+    if not s:
+        return None
+    try:
+        return float(s)
+    except ValueError:
+        return None
+
+
+def has_sentiment(rows):
+    """True if any row carries a real sentiment-shift score (i.e. --score-sentiment was run)."""
+    return any(
+        _f(r.get("sentiment_shift_positive")) is not None
+        or _f(r.get("sentiment_shift_negative")) is not None
+        or _f(r.get("sentiment_shift_neutral")) is not None
+        for r in rows
+    )
+
+
+def has_embedding(rows):
+    """True if any row carries a real embedding similarity (i.e. --score-embeddings was run)."""
+    return any(_f(r.get("embedding_similarity")) is not None for r in rows)
+
+
+def sentiment_net(e):
+    """Signed polarity swing for one pair: how much probability mass moved from negative toward
+    positive when the modifier was added (Δpositive − Δnegative). None if unscored."""
+    pos = _f(e.get("sentiment_shift_positive"))
+    neg = _f(e.get("sentiment_shift_negative"))
+    if pos is None and neg is None:
+        return None
+    return (pos or 0.0) - (neg or 0.0)
+
+
+def tone_chip(e):
+    """Compact directional tone indicator for one pair. Em dash when this row wasn't scored."""
+    net = sentiment_net(e)
+    if net is None:
+        return '<span class="tone tone-flat">&mdash;</span>'
+    pos = _f(e.get("sentiment_shift_positive")) or 0.0
+    neg = _f(e.get("sentiment_shift_negative")) or 0.0
+    neu = _f(e.get("sentiment_shift_neutral")) or 0.0
+    if net > 0.02:
+        cls, arrow, word = "tone-pos", "&#9650;", "more positive"
+    elif net < -0.02:
+        cls, arrow, word = "tone-neg", "&#9660;", "more negative"
+    else:
+        cls, arrow, word = "tone-flat", "&#8226;", "no tone change"
+    title = esc(f"Δpositive {pos:+.2f} · Δnegative {neg:+.2f} · Δneutral {neu:+.2f} — {word}")
+    return f'<span class="tone {cls}" title="{title}">{arrow}&nbsp;{net:+.2f}</span>'
+
+
+def meaning_cell(e):
+    """Meaning shift = 1 − cosine similarity, drawn on the same meter as word shift (signal color).
+    Em dash when this row has no embedding score."""
+    sim = _f(e.get("embedding_similarity"))
+    if sim is None:
+        return '<span class="meter-val">&mdash;</span>'
+    shift = max(0.0, 1.0 - sim)
+    pct = round(shift * 100)
+    return (
+        f'<span class="meter meter-mean" style="--pct:{pct}%" aria-hidden="true"></span>'
+        f'<span class="meter-val" title="cosine similarity {sim:.2f}">{shift:.2f}</span>'
+    )
+
+
 def modifier_sort_key(m):
     return (MODIFIER_ORDER.index(m) if m in MODIFIER_ORDER else len(MODIFIER_ORDER), m)
 
 
 def build(rows, featured_min):
+    show_sentiment = has_sentiment(rows)
+    show_embedding = has_embedding(rows)
+
     singles = [r for r in rows if r["group"] not in ("multi_term", "control_same_query")]
 
     by_brand = defaultdict(list)
@@ -96,6 +171,24 @@ def build(rows, featured_min):
         pool = candidates if candidates else entries
         lead = max(pool, key=lambda e: float(e["jaccard_distance"]))
 
+        lead_score_parts = []
+        if show_sentiment:
+            lead_score_parts.append(
+                f'<span class="lead-score"><span class="lead-score-label">Tone</span>{tone_chip(lead)}</span>'
+            )
+        if show_embedding:
+            sim = _f(lead.get("embedding_similarity"))
+            if sim is not None:
+                shift = max(0.0, 1.0 - sim)
+                lead_score_parts.append(
+                    f'<span class="lead-score"><span class="lead-score-label">Meaning shift</span>'
+                    f'<span class="meter-val">{shift:.2f}</span>'
+                    f'<span class="sim-cos">cos&nbsp;{sim:.2f}</span></span>'
+                )
+        lead_scores_html = (
+            f'<div class="lead-scores">{"".join(lead_score_parts)}</div>' if lead_score_parts else ""
+        )
+
         lead_html = f"""
           <div class="lead">
             <div class="lead-query">
@@ -111,12 +204,18 @@ def build(rows, featured_min):
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">{esc(lead['perturbed_phrase'])}</blockquote>
             </div>
+            {lead_scores_html}
           </div>
         """
 
         entries_sorted = sorted(entries, key=lambda e: (categorize(e["base_query"]), -float(e["jaccard_distance"])))
         table_rows = []
         for e in entries_sorted:
+            extra_cells = ""
+            if show_sentiment:
+                extra_cells += f'<td class="tone-cell">{tone_chip(e)}</td>'
+            if show_embedding:
+                extra_cells += f'<td class="meter-cell">{meaning_cell(e)}</td>'
             table_rows.append(f"""
               <tr>
                 <td class="cat-cell">{esc(categorize(e['base_query']))}</td>
@@ -124,8 +223,15 @@ def build(rows, featured_min):
                 <td class="phrase-cell">{esc(e['base_phrase'])}</td>
                 <td class="phrase-cell phrase-cell-after">{esc(e['perturbed_phrase'])}</td>
                 <td class="meter-cell">{meter(float(e['jaccard_distance']))}</td>
+                {extra_cells}
               </tr>
             """)
+
+        extra_headers = ""
+        if show_sentiment:
+            extra_headers += "<th>Tone&nbsp;shift</th>"
+        if show_embedding:
+            extra_headers += "<th>Meaning&nbsp;shift</th>"
 
         cat_badges = "".join(f'<span class="badge">{esc(c)}</span>' for c in categories)
 
@@ -148,6 +254,7 @@ def build(rows, featured_min):
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  {extra_headers}
                 </tr>
               </thead>
               <tbody>
@@ -245,6 +352,8 @@ def build(rows, featured_min):
         "featured_count": len(featured),
         "n_modifiers": len({r["group"] for r in singles}),
         "distinct_response_files": len({r["base_search_result_id"] for r in singles} | {r["perturbed_search_result_id"] for r in singles}),
+        "show_sentiment": show_sentiment,
+        "show_embedding": show_embedding,
     }
 
 
@@ -252,6 +361,25 @@ def render(data, rows, featured_min, total_files):
     total_pairs_all = len(rows)
     files_stat = total_files if total_files is not None else data["distinct_response_files"]
     files_label = "response files parsed" if total_files is not None else "distinct response files referenced"
+
+    method_extra = ""
+    if data["show_sentiment"]:
+        method_extra += (
+            "<li><b>Tone shift</b> is how ChatGPT's sentiment toward the brand moved when the modifier "
+            "was added &mdash; the positive-probability shift minus the negative-probability shift from a "
+            "local sentiment model (roughly &minus;1 to +1). &#9650; means the perturbed phrasing reads "
+            "more positive, &#9660; more negative. It's the one <em>directional</em> measure here: unlike "
+            "word and meaning shift it says which way the tone moved, not just how far. Hover a value for "
+            "the per-sentiment breakdown.</li>"
+        )
+    if data["show_embedding"]:
+        method_extra += (
+            "<li><b>Meaning shift</b> is 1 &minus; cosine similarity between sentence embeddings of the two "
+            "phrases (0 = same meaning, higher = more divergent; hover for the raw cosine). It catches "
+            "rephrasings word shift misses &mdash; a low meaning shift beside a high word shift means "
+            "ChatGPT said much the same thing in different words. It is not on the same absolute scale as "
+            "word shift, so read the two together rather than as identical numbers.</li>"
+        )
 
     return f"""<title>ChatGPT Brand Positioning by Query Wording</title>
 <style>
@@ -263,6 +391,7 @@ def render(data, rows, featured_min, total_files):
   --signal: #2f6f63;
   --signal-strong: #1f4f46;
   --shift: #9c6b14;
+  --neg: #a6402c;
   --line: #cfc9b8;
   --muted: #5e685f;
   --after-tint: #f1ece0;
@@ -281,6 +410,7 @@ def render(data, rows, featured_min, total_files):
     --signal: #62b7a1;
     --signal-strong: #8fd2c0;
     --shift: #d6a14b;
+    --neg: #e6957f;
     --line: #33443d;
     --muted: #9aa79e;
     --after-tint: #20302a;
@@ -295,6 +425,7 @@ def render(data, rows, featured_min, total_files):
   --signal: #62b7a1;
   --signal-strong: #8fd2c0;
   --shift: #d6a14b;
+  --neg: #e6957f;
   --line: #33443d;
   --muted: #9aa79e;
   --after-tint: #20302a;
@@ -672,6 +803,44 @@ tbody tr:last-child td {{ border-bottom: none; }}
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }}
+.meter-mean::before {{ background: var(--signal); }}
+
+/* tone shift (sentiment) + meaning shift (embedding) */
+
+.tone {{
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}}
+.tone-pos {{ color: var(--signal-strong); }}
+.tone-neg {{ color: var(--neg); }}
+.tone-flat {{ color: var(--muted); }}
+.tone-cell {{ white-space: nowrap; }}
+
+.lead-scores {{
+  display: flex;
+  gap: 1.6rem;
+  flex-wrap: wrap;
+  margin-top: 0.9rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed var(--line);
+}}
+.lead-score {{
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--ink);
+}}
+.lead-score-label {{
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.66rem;
+  color: var(--muted);
+}}
+.sim-cos {{ color: var(--muted); }}
 
 /* ---------- Appendix ---------- */
 
@@ -908,6 +1077,7 @@ html {{ scroll-behavior: smooth; }}
             semantic one &mdash; two phrases can score high on word shift while saying something similar in
             different words, or low while making a subtly different claim. The quoted phrases are the primary
             evidence; the number is supporting context.</li>
+          {method_extra}
           <li>The <b>side-by-side comparison tables</b> pool every brand observed in a category, including the
             under-sampled ones above &mdash; a single cell there can rest on just one paired observation, so
             read a lone extreme value as a data point to investigate, not a settled finding.</li>

@@ -135,12 +135,19 @@ directly in a browser. It has:
 - An appendix for brands seen but below the profile threshold.
 - Category comparison matrices (brands × modifiers per product category), so you can compare
   which brands' positioning moves most under a given modifier.
+- **Tone shift** and **Meaning shift** columns (plus a scores strip on each brand's lead example)
+  — but only if the CSV was produced with `--score-sentiment` / `--score-embeddings`. The report
+  auto-detects these columns: if they're absent or empty it renders exactly as before, so the base
+  pipeline is unchanged. See "How the optional scores work" below for what these columns mean.
 
 ## How the optional scores work
 
 Both optional flags measure the *same thing* the default Jaccard metric does — how much a brand's
 positioning language moved between the base query and its perturbed variant — but with richer
-signals than surface word overlap. Both operate on a **pair of phrases**: `base_phrase` (how
+signals than surface word overlap. When present in `perturbation_pairs.csv`, both are surfaced in
+the HTML report automatically (as a **Tone shift** column and a **Meaning shift** column, plus a
+scores strip on each brand's lead example); when absent, the report renders exactly as it does for
+the base pipeline. Both operate on a **pair of phrases**: `base_phrase` (how
 ChatGPT described the brand *without* the modifier) and `perturbed_phrase` (how it described the
 same brand with exactly one quality word, e.g. "cheapest", added). Both also deduplicate first —
 every unique phrase is scored once, no matter how many pairs reference it — then attach per-pair
