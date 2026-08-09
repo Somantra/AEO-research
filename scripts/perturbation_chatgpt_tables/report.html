@@ -8,6 +8,7 @@
   --signal: #2f6f63;
   --signal-strong: #1f4f46;
   --shift: #9c6b14;
+  --neg: #a6402c;
   --line: #cfc9b8;
   --muted: #5e685f;
   --after-tint: #f1ece0;
@@ -26,6 +27,7 @@
     --signal: #62b7a1;
     --signal-strong: #8fd2c0;
     --shift: #d6a14b;
+    --neg: #e6957f;
     --line: #33443d;
     --muted: #9aa79e;
     --after-tint: #20302a;
@@ -40,6 +42,7 @@
   --signal: #62b7a1;
   --signal-strong: #8fd2c0;
   --shift: #d6a14b;
+  --neg: #e6957f;
   --line: #33443d;
   --muted: #9aa79e;
   --after-tint: #20302a;
@@ -81,6 +84,7 @@ a { color: var(--signal-strong); }
   font-size: 1.15rem;
   letter-spacing: 0.01em;
   color: var(--signal-strong);
+  text-decoration: none;
 }
 
 .masthead-dot {
@@ -416,6 +420,44 @@ tbody tr:last-child td { border-bottom: none; }
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
+.meter-mean::before { background: var(--signal); }
+
+/* tone shift (sentiment) + meaning shift (embedding) */
+
+.tone {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.tone-pos { color: var(--signal-strong); }
+.tone-neg { color: var(--neg); }
+.tone-flat { color: var(--muted); }
+.tone-cell { white-space: nowrap; }
+
+.lead-scores {
+  display: flex;
+  gap: 1.6rem;
+  flex-wrap: wrap;
+  margin-top: 0.9rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed var(--line);
+}
+.lead-score {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--ink);
+}
+.lead-score-label {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.66rem;
+  color: var(--muted);
+}
+.sim-cos { color: var(--muted); }
 
 /* ---------- Appendix ---------- */
 
@@ -585,7 +627,7 @@ html { scroll-behavior: smooth; }
 
 <div class="wrap">
   <div class="masthead">
-    <span class="masthead-mark">Somantra</span>
+    <a class="masthead-mark" href="https://somantra.ai">Somantra</a>
     <span class="masthead-dot" aria-hidden="true"></span>
     <span class="masthead-tag">AI Search Brand Intelligence</span>
   </div>
@@ -651,6 +693,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Lower premiums</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-neg" title="Δpositive +0.01 · Δnegative +0.09 · Δneutral -0.10 — more negative">&#9660;&nbsp;-0.09</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.64</span><span class="sim-cos">cos&nbsp;0.36</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -662,6 +705,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -672,6 +716,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Often worth checking for competitive pricing</td>
                 <td class="phrase-cell phrase-cell-after">Lower premiums</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive +0.01 · Δnegative +0.09 · Δneutral -0.10 — more negative">&#9660;&nbsp;-0.09</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:64%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.36">0.64</span></td>
               </tr>
             
               <tr>
@@ -680,6 +725,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Often worth checking for competitive pricing</td>
                 <td class="phrase-cell phrase-cell-after">Price-focused shoppers</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.02 · Δnegative +0.08 · Δneutral -0.06 — more negative">&#9660;&nbsp;-0.10</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:52%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.48">0.52</span></td>
               </tr>
             
               <tr>
@@ -688,6 +734,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Often worth checking for competitive pricing</td>
                 <td class="phrase-cell phrase-cell-after">Particularly QLD &amp; SA | ⭐ Often very price-focused</td>
                 <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.17 · Δnegative +0.10 · Δneutral +0.07 — more negative">&#9660;&nbsp;-0.27</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:53%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.47">0.53</span></td>
               </tr>
             
               <tr>
@@ -696,6 +743,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Often worth checking for competitive pricing</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐ | Often worth checking for a competitive price; recent Australian customer reports also mention straightforward claims experiences.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.20 · Δnegative -0.04 · Δneutral -0.16 — more positive">&#9650;&nbsp;+0.24</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:46%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.54">0.46</span></td>
               </tr>
             
               <tr>
@@ -704,6 +752,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comparing on price</td>
                 <td class="phrase-cell phrase-cell-after">Budget pricing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.00 · Δnegative +0.10 · Δneutral -0.10 — more negative">&#9660;&nbsp;-0.10</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -712,6 +761,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comparing on price</td>
                 <td class="phrase-cell phrase-cell-after">Strong price/online discount | Sample NSW comprehensive quote $1,062.22; 15% first-year online discount may apply</td>
                 <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.51 · Δnegative -0.09 · Δneutral -0.43 — more positive">&#9650;&nbsp;+0.60</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:63%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.37">0.63</span></td>
               </tr>
             
               <tr>
@@ -720,6 +770,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comparing on price</td>
                 <td class="phrase-cell phrase-cell-after">Best for price comparison | Often competitive on premiums; however, I&#x27;d compare the actual PDS/excesses rather than choosing solely on price.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:90%" aria-hidden="true"></span><span class="meter-val">0.90</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.12 · Δnegative -0.06 · Δneutral -0.06 — more positive">&#9650;&nbsp;+0.19</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:44%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.56">0.44</span></td>
               </tr>
             
               <tr>
@@ -728,6 +779,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comparing on price</td>
                 <td class="phrase-cell phrase-cell-after">Easy online quote and often competitive on price; comprehensive cover available | ✅</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.75 · Δnegative -0.09 · Δneutral -0.67 — more positive">&#9650;&nbsp;+0.84</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:67%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.33">0.67</span></td>
               </tr>
             
               <tr>
@@ -736,6 +788,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
                 <td class="phrase-cell phrase-cell-after">Cheapest/simple option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.21 · Δnegative +0.05 · Δneutral +0.16 — more negative">&#9660;&nbsp;-0.25</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:61%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.39">0.61</span></td>
               </tr>
             
               <tr>
@@ -744,6 +797,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
                 <td class="phrase-cell phrase-cell-after">$89.95 | Cheapest; 20 km towing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.42 · Δnegative +0.01 · Δneutral +0.41 — more negative">&#9660;&nbsp;-0.43</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               <tr>
@@ -752,6 +806,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
                 <td class="phrase-cell phrase-cell-after">$76.46 first year | 15% online discount; then $89.95/yr</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.28 · Δnegative +0.01 · Δneutral +0.28 — more negative">&#9660;&nbsp;-0.29</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:60%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.40">0.60</span></td>
               </tr>
             
               <tr>
@@ -760,6 +815,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Low-cost standalone option | ~$90/yr listed currently</td>
                 <td class="phrase-cell phrase-cell-after">💰 Cheap option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:89%" aria-hidden="true"></span><span class="meter-val">0.89</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.40 · Δnegative +0.01 · Δneutral -0.41 — more positive">&#9650;&nbsp;+0.39</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:53%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.47">0.53</span></td>
               </tr>
             
               <tr>
@@ -768,6 +824,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Low-cost standalone option | ~$90/yr listed currently</td>
                 <td class="phrase-cell phrase-cell-after">Roadside Assistance | ~$90 | One of the cheaper standalone options</td>
                 <td class="meter-cell"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.10 · Δnegative +0.00 · Δneutral -0.10 — more positive">&#9650;&nbsp;+0.10</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:44%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.56">0.44</span></td>
               </tr>
             
               <tr>
@@ -776,6 +833,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
                 <td class="phrase-cell phrase-cell-after">Best cheap option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.32 · Δnegative +0.01 · Δneutral -0.32 — more positive">&#9650;&nbsp;+0.31</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:60%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.40">0.60</span></td>
               </tr>
             
               <tr>
@@ -784,6 +842,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Low-cost standalone option | ~$90/yr listed currently</td>
                 <td class="phrase-cell phrase-cell-after">Australia-wide | Lower-cost standalone roadside option.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.05 · Δnegative -0.00 · Δneutral -0.05 — more positive">&#9650;&nbsp;+0.05</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:47%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.53">0.47</span></td>
               </tr>
             
               </tbody>
@@ -814,6 +873,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Value / all-rounder</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-flat" title="Δpositive +0.01 · Δnegative +0.00 · Δneutral -0.01 — no tone change">&#8226;&nbsp;+0.00</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.75</span><span class="sim-cos">cos&nbsp;0.25</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -825,6 +885,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -835,6 +896,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Value / all-rounder</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-flat" title="Δpositive +0.01 · Δnegative +0.00 · Δneutral -0.01 — no tone change">&#8226;&nbsp;+0.00</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:75%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.25">0.75</span></td>
               </tr>
             
               <tr>
@@ -843,6 +905,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Consistently strong value/coverage results and particularly strong Queensland performance. Canstar named it a 2025 Outstanding Value winner nationally and in QLD.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.82 · Δnegative -0.04 · Δneutral -0.77 — more positive">&#9650;&nbsp;+0.86</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:70%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.30">0.70</span></td>
               </tr>
             
               <tr>
@@ -851,6 +914,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Very easy online account, claims and policy management; 24/7 online services and claims support.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.58 · Δnegative -0.04 · Δneutral -0.54 — more positive">&#9650;&nbsp;+0.62</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:57%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.43">0.57</span></td>
               </tr>
             
               <tr>
@@ -859,6 +923,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">NSW, VIC, QLD, SA, WA | ⭐ Strong price contender</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.15 · Δnegative -0.04 · Δneutral -0.11 — more positive">&#9650;&nbsp;+0.19</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:73%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.27">0.73</span></td>
               </tr>
             
               <tr>
@@ -867,6 +932,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Strong all-round low-price option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.69 · Δnegative -0.04 · Δneutral -0.65 — more positive">&#9650;&nbsp;+0.72</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:65%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.35">0.65</span></td>
               </tr>
             
               <tr>
@@ -875,6 +941,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">2025 Canstar Home Insurance Award winner | Established mainstream option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.52 · Δnegative -0.04 · Δneutral -0.48 — more positive">&#9650;&nbsp;+0.56</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:39%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.61">0.39</span></td>
               </tr>
             
               <tr>
@@ -883,6 +950,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Large established insurer, with Finder recognising its service and claims experience | A solid mainstream alternative</td>
                 <td class="meter-cell"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.54 · Δnegative -0.04 · Δneutral -0.51 — more positive">&#9650;&nbsp;+0.58</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:33%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.67">0.33</span></td>
               </tr>
             
               <tr>
@@ -891,6 +959,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Mainstream insurer</td>
                 <td class="phrase-cell phrase-cell-after">Simple online quotes, paperless claims, broad motorcycle coverage | ✅</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.29 · Δnegative -0.10 · Δneutral -0.18 — more positive">&#9650;&nbsp;+0.39</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:58%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.42">0.58</span></td>
               </tr>
             
               <tr>
@@ -899,6 +968,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Mainstream insurer</td>
                 <td class="phrase-cell phrase-cell-after">Widely available, but not always cheapest | Sample NSW quote $2,113.06</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.07 · Δnegative -0.05 · Δneutral +0.12 — more negative">&#9660;&nbsp;-0.03</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:73%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.27">0.73</span></td>
               </tr>
             
               <tr>
@@ -907,6 +977,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Mainstream insurer</td>
                 <td class="phrase-cell phrase-cell-after">Value</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.26 · Δnegative -0.03 · Δneutral -0.23 — more positive">&#9650;&nbsp;+0.29</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:82%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.18">0.82</span></td>
               </tr>
             
               <tr>
@@ -915,6 +986,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Mainstream insurer</td>
                 <td class="phrase-cell phrase-cell-after">Mainstream comprehensive cover | Riding apparel included as standard, with additional customisation options</td>
                 <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive -0.02 · Δnegative -0.11 · Δneutral +0.13 — more positive">&#9650;&nbsp;+0.09</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -923,6 +995,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Mainstream insurer</td>
                 <td class="phrase-cell phrase-cell-after">Mainstream comprehensive cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.01 · Δnegative -0.06 · Δneutral +0.05 — more positive">&#9650;&nbsp;+0.07</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:29%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.71">0.29</span></td>
               </tr>
             
               <tr>
@@ -931,6 +1004,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Mainstream insurer</td>
                 <td class="phrase-cell phrase-cell-after">Mainstream alternative</td>
                 <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+                <td class="tone-cell"><span class="tone tone-flat" title="Δpositive -0.03 · Δnegative -0.03 · Δneutral +0.06 — no tone change">&#8226;&nbsp;+0.01</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:38%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.62">0.38</span></td>
               </tr>
             
               </tbody>
@@ -961,6 +1035,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">⭐ Best in NSW/ACT</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.31 · Δnegative -0.00 · Δneutral -0.31 — more positive">&#9650;&nbsp;+0.32</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.72</span><span class="sim-cos">cos&nbsp;0.28</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -972,6 +1047,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -982,6 +1058,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a large established insurer</td>
                 <td class="phrase-cell phrase-cell-after">Very straightforward online process; comprehensive motorcycle cover; currently offers up to 10% off the first year when bought online | ✅</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.80 · Δnegative -0.03 · Δneutral -0.77 — more positive">&#9650;&nbsp;+0.84</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:61%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.39">0.61</span></td>
               </tr>
             
               <tr>
@@ -990,6 +1067,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a large established insurer</td>
                 <td class="phrase-cell phrase-cell-after">Often very competitive on comprehensive | Finder&#x27;s 2026 profile found it cheapest among its sample, averaging $756.38/year</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.58 · Δnegative -0.03 · Δneutral -0.56 — more positive">&#9650;&nbsp;+0.61</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:67%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.33">0.67</span></td>
               </tr>
             
               <tr>
@@ -998,6 +1076,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a large established insurer</td>
                 <td class="phrase-cell phrase-cell-after">Riders prioritising mainstream insurer/value | Competitive comprehensive pricing in current comparisons</td>
                 <td class="meter-cell"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.04 · Δnegative -0.02 · Δneutral +0.06 — more negative">&#9660;&nbsp;-0.03</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:31%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.69">0.31</span></td>
               </tr>
             
               <tr>
@@ -1006,6 +1085,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
                 <td class="phrase-cell phrase-cell-after">⭐ Best in NSW/ACT</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.31 · Δnegative -0.00 · Δneutral -0.31 — more positive">&#9650;&nbsp;+0.32</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:72%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.28">0.72</span></td>
               </tr>
             
               <tr>
@@ -1014,6 +1094,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
                 <td class="phrase-cell phrase-cell-after">NSW, ACT | One of Australia&#x27;s biggest motoring clubs; Finder&#x27;s 2026 &quot;Most Loved Roadside Assistance&quot; winner.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.33 · Δnegative -0.00 · Δneutral -0.33 — more positive">&#9650;&nbsp;+0.34</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:65%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.35">0.65</span></td>
               </tr>
             
               <tr>
@@ -1022,6 +1103,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
                 <td class="phrase-cell phrase-cell-after">Frequent interstate travel</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.50 · Δnegative +0.06 · Δneutral +0.45 — more negative">&#9660;&nbsp;-0.56</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:66%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.34">0.66</span></td>
               </tr>
             
               <tr>
@@ -1030,6 +1112,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$112–$245 | Unlimited callouts; nationwide reciprocal coverage</td>
                 <td class="phrase-cell phrase-cell-after">Best overall</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.77 · Δnegative +0.01 · Δneutral -0.77 — more positive">&#9650;&nbsp;+0.76</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:83%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.17">0.83</span></td>
               </tr>
             
               <tr>
@@ -1038,6 +1121,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$112–$245 | Unlimited callouts; nationwide reciprocal coverage</td>
                 <td class="phrase-cell phrase-cell-after">$112/yr | Everyday Care; 25 km metro towing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.05 · Δnegative +0.03 · Δneutral +0.02 — more negative">&#9660;&nbsp;-0.08</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:53%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.47">0.53</span></td>
               </tr>
             
               <tr>
@@ -1046,6 +1130,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
                 <td class="phrase-cell phrase-cell-after">Everyday Care | $112/yr | 25 km metro towing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.40 · Δnegative +0.00 · Δneutral +0.40 — more negative">&#9660;&nbsp;-0.41</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:42%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.58">0.42</span></td>
               </tr>
             
               <tr>
@@ -1054,6 +1139,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
                 <td class="phrase-cell phrase-cell-after">Everyday Care | $112–$140 | Simple monthly/annual options, unlimited callouts, national reciprocal coverage</td>
                 <td class="meter-cell"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.25 · Δnegative +0.00 · Δneutral +0.24 — more negative">&#9660;&nbsp;-0.25</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:24%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.76">0.24</span></td>
               </tr>
             
               <tr>
@@ -1062,6 +1148,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Travel insurance alongside other insurance products</td>
                 <td class="phrase-cell phrase-cell-after">Good mainstream alternative</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.66 · Δnegative -0.04 · Δneutral -0.62 — more positive">&#9650;&nbsp;+0.70</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:81%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.19">0.81</span></td>
               </tr>
             
               <tr>
@@ -1070,6 +1157,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Travel insurance alongside other insurance products</td>
                 <td class="phrase-cell phrase-cell-after">Travel insurance from a major Australian insurance brand</td>
                 <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.06 · Δnegative -0.02 · Δneutral -0.04 — more positive">&#9650;&nbsp;+0.09</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:32%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.68">0.32</span></td>
               </tr>
             
               </tbody>
@@ -1100,6 +1188,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Customer satisfaction</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.67 · Δnegative -0.00 · Δneutral -0.66 — more positive">&#9650;&nbsp;+0.67</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.75</span><span class="sim-cos">cos&nbsp;0.25</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1111,6 +1200,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1121,6 +1211,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Customer satisfaction</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.67 · Δnegative -0.00 · Δneutral -0.66 — more positive">&#9650;&nbsp;+0.67</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:75%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.25">0.75</span></td>
               </tr>
             
               <tr>
@@ -1129,6 +1220,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐ | Good claims tracking through its app and 24/7 claims. However, its quoting process can involve a phone call, which some people find annoying.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.11 · Δnegative +0.07 · Δneutral -0.19 — more positive">&#9650;&nbsp;+0.04</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:61%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.39">0.61</span></td>
               </tr>
             
               <tr>
@@ -1137,6 +1229,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">VIC, SA, WA | Can be cheap, but expensive in some states</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.13 · Δnegative +0.08 · Δneutral +0.04 — more negative">&#9660;&nbsp;-0.21</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:58%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.42">0.58</span></td>
               </tr>
             
               <tr>
@@ -1145,6 +1238,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Won Canstar&#x27;s 2025 national Most Satisfied Customers award | People prioritising customer satisfaction</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.67 · Δnegative -0.02 · Δneutral -0.65 — more positive">&#9650;&nbsp;+0.68</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:71%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.29">0.71</span></td>
               </tr>
             
               <tr>
@@ -1153,6 +1247,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Consistently strong customer satisfaction; Canstar’s 2025 national satisfaction winner | Service-focused customers</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.72 · Δnegative -0.02 · Δneutral -0.70 — more positive">&#9650;&nbsp;+0.74</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:67%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.33">0.67</span></td>
               </tr>
             
               <tr>
@@ -1161,6 +1256,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
                 <td class="phrase-cell phrase-cell-after">Can be excellent value for some properties</td>
                 <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.69 · Δnegative -0.01 · Δneutral -0.68 — more positive">&#9650;&nbsp;+0.71</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:57%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.43">0.57</span></td>
               </tr>
             
               <tr>
@@ -1169,6 +1265,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Flexible/customisable policies</td>
                 <td class="phrase-cell phrase-cell-after">Everyday riders wanting strong all-round cover | Comprehensive cover with gear and roadside assistance included in its motorcycle policy</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.18 · Δnegative -0.03 · Δneutral -0.16 — more positive">&#9650;&nbsp;+0.21</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:65%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.35">0.65</span></td>
               </tr>
             
               <tr>
@@ -1177,6 +1274,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Flexible/customisable policies</td>
                 <td class="phrase-cell phrase-cell-after">Overall features &amp; service</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.41 · Δnegative -0.00 · Δneutral -0.41 — more positive">&#9650;&nbsp;+0.42</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:73%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.27">0.73</span></td>
               </tr>
             
               <tr>
@@ -1185,6 +1283,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Flexible/customisable policies</td>
                 <td class="phrase-cell phrase-cell-after">Worth comparing | Offers motorcycle cover with flexible excess and up to $20m legal liability.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.14 · Δnegative -0.03 · Δneutral -0.11 — more positive">&#9650;&nbsp;+0.16</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:66%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.34">0.66</span></td>
               </tr>
             
               <tr>
@@ -1193,6 +1292,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Flexible/customisable policies</td>
                 <td class="phrase-cell phrase-cell-after">Good online quote process and relatively easy-to-understand policies | ✅</td>
                 <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.76 · Δnegative -0.03 · Δneutral -0.73 — more positive">&#9650;&nbsp;+0.79</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               </tbody>
@@ -1223,6 +1323,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">All-round comprehensive</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.19 · Δnegative +0.02 · Δneutral -0.21 — more positive">&#9650;&nbsp;+0.17</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.63</span><span class="sim-cos">cos&nbsp;0.37</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1234,6 +1335,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1244,6 +1346,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">All-round comprehensive</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.19 · Δnegative +0.02 · Δneutral -0.21 — more positive">&#9650;&nbsp;+0.17</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:63%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.37">0.63</span></td>
               </tr>
             
               <tr>
@@ -1252,6 +1355,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">Various states | Usually mid-range rather than rock-bottom</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.53 · Δnegative +0.00 · Δneutral +0.53 — more negative">&#9660;&nbsp;-0.53</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:72%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.28">0.72</span></td>
               </tr>
             
               <tr>
@@ -1260,6 +1364,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">Worth getting a comparison quote</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.40 · Δnegative +0.02 · Δneutral +0.38 — more negative">&#9660;&nbsp;-0.42</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:71%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.29">0.71</span></td>
               </tr>
             
               <tr>
@@ -1268,6 +1373,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">Strong national service recognition in Finder&#x27;s 2026 awards | Good alternative to the big IAG/Suncorp brands</td>
                 <td class="meter-cell"><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.35 · Δnegative -0.01 · Δneutral -0.35 — more positive">&#9650;&nbsp;+0.36</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:61%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.39">0.61</span></td>
               </tr>
             
               <tr>
@@ -1276,6 +1382,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Online quotes, policy management and claims; 24/7 claims support.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.50 · Δnegative -0.00 · Δneutral +0.50 — more negative">&#9660;&nbsp;-0.49</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               <tr>
@@ -1284,6 +1391,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐½ | Strong all-rounder; Canstar 2025 Outstanding Value winner and recognised by Finder for quality service/ease of claiming.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.37 · Δnegative -0.01 · Δneutral -0.36 — more positive">&#9650;&nbsp;+0.37</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:56%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.44">0.56</span></td>
               </tr>
             
               <tr>
@@ -1292,6 +1400,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
                 <td class="phrase-cell phrase-cell-after">2025 Canstar Home Insurance Award winner and strong NSW value rating | Broad national option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.27 · Δnegative -0.01 · Δneutral -0.27 — more positive">&#9650;&nbsp;+0.28</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:52%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.48">0.52</span></td>
               </tr>
             
               <tr>
@@ -1300,6 +1409,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive international and domestic cover</td>
                 <td class="phrase-cell phrase-cell-after">Mainstream, simple cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.02 · Δnegative +0.03 · Δneutral -0.01 — more negative">&#9660;&nbsp;-0.05</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:63%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.37">0.63</span></td>
               </tr>
             
               <tr>
@@ -1308,6 +1418,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive international and domestic cover</td>
                 <td class="phrase-cell phrase-cell-after">Major insurer with Basic, Comprehensive, Domestic and Multi-Trip policies</td>
                 <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.10 · Δnegative +0.00 · Δneutral +0.10 — more negative">&#9660;&nbsp;-0.10</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:41%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.59">0.41</span></td>
               </tr>
             
               </tbody>
@@ -1338,6 +1449,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Comprehensive cover</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.33 · Δnegative -0.01 · Δneutral -0.31 — more positive">&#9650;&nbsp;+0.34</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.60</span><span class="sim-cos">cos&nbsp;0.40</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1349,6 +1461,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1359,6 +1472,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
                 <td class="phrase-cell phrase-cell-after">Comprehensive cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.33 · Δnegative -0.01 · Δneutral -0.31 — more positive">&#9650;&nbsp;+0.34</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:60%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.40">0.60</span></td>
               </tr>
             
               <tr>
@@ -1367,6 +1481,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐½ | Good option if comprehensive/flood cover is particularly important; Mozo&#x27;s 2026 guide selected QBE for flood cover.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.69 · Δnegative -0.03 · Δneutral -0.66 — more positive">&#9650;&nbsp;+0.72</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -1375,6 +1490,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
                 <td class="phrase-cell phrase-cell-after">VIC, SA, WA | Good value contender</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.68 · Δnegative -0.03 · Δneutral -0.65 — more positive">&#9650;&nbsp;+0.71</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:57%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.43">0.57</span></td>
               </tr>
             
               <tr>
@@ -1383,6 +1499,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
                 <td class="phrase-cell phrase-cell-after">Worth checking alongside the cheapest</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.68 · Δnegative -0.03 · Δneutral -0.64 — more positive">&#9650;&nbsp;+0.71</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:74%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.26">0.74</span></td>
               </tr>
             
               <tr>
@@ -1391,6 +1508,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
                 <td class="phrase-cell phrase-cell-after">2025 Canstar Home Insurance Award winner | Another strong national option</td>
                 <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.82 · Δnegative -0.04 · Δneutral -0.78 — more positive">&#9650;&nbsp;+0.85</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:45%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.55">0.45</span></td>
               </tr>
             
               <tr>
@@ -1399,6 +1517,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Broad motorcycle cover</td>
                 <td class="phrase-cell phrase-cell-after">Worth getting a quote, particularly if the others are expensive | ✅</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.16 · Δnegative -0.03 · Δneutral -0.13 — more positive">&#9650;&nbsp;+0.19</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:76%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.24">0.76</span></td>
               </tr>
             
               <tr>
@@ -1407,6 +1526,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Broad motorcycle cover</td>
                 <td class="phrase-cell phrase-cell-after">Worth quoting, especially for some rider profiles | Sample NSW quote $1,732.22, although individual quotes can be much cheaper</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.36 · Δnegative -0.05 · Δneutral -0.31 — more positive">&#9650;&nbsp;+0.41</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:67%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.33">0.67</span></td>
               </tr>
             
               <tr>
@@ -1415,6 +1535,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Broad motorcycle cover</td>
                 <td class="phrase-cell phrase-cell-after">Riders wanting a mainstream insurer with strong cover | Comprehensive cover, agreed/market value options and substantial riding-gear cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.11 · Δnegative -0.05 · Δneutral -0.06 — more positive">&#9650;&nbsp;+0.16</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:44%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.56">0.44</span></td>
               </tr>
             
               <tr>
@@ -1423,6 +1544,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Broad motorcycle cover</td>
                 <td class="phrase-cell phrase-cell-after">Value / broad cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:50%" aria-hidden="true"></span><span class="meter-val">0.50</span></td>
+                <td class="tone-cell"><span class="tone tone-flat" title="Δpositive -0.02 · Δnegative -0.00 · Δneutral +0.02 — no tone change">&#8226;&nbsp;-0.01</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               </tbody>
@@ -1453,6 +1575,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Queensland / Australia-wide trips</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-neg" title="Δpositive -0.90 · Δnegative +0.01 · Δneutral +0.88 — more negative">&#9660;&nbsp;-0.91</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.50</span><span class="sim-cos">cos&nbsp;0.50</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1464,6 +1587,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1474,6 +1598,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Queensland-focused</td>
                 <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Particularly strong choice in Queensland; won Finder’s 2026 “Most Loved” and “Legendary Service” home insurance awards in QLD.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.74 · Δnegative -0.02 · Δneutral -0.71 — more positive">&#9650;&nbsp;+0.76</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:52%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.48">0.52</span></td>
               </tr>
             
               <tr>
@@ -1482,6 +1607,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Queensland-focused</td>
                 <td class="phrase-cell phrase-cell-after">Exceptional customer experience and claims ratings in CHOICE’s 2025 survey | Queensland homeowners</td>
                 <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.77 · Δnegative -0.02 · Δneutral -0.75 — more positive">&#9650;&nbsp;+0.80</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:55%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.45">0.55</span></td>
               </tr>
             
               <tr>
@@ -1490,6 +1616,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Queensland-focused</td>
                 <td class="phrase-cell phrase-cell-after">Excellent customer experience and claims ratings in CHOICE’s survey | Queensland homeowners</td>
                 <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.79 · Δnegative -0.02 · Δneutral -0.77 — more positive">&#9650;&nbsp;+0.81</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:58%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.42">0.58</span></td>
               </tr>
             
               <tr>
@@ -1498,6 +1625,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
                 <td class="phrase-cell phrase-cell-after">Queensland / Australia-wide trips</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.90 · Δnegative +0.01 · Δneutral +0.88 — more negative">&#9660;&nbsp;-0.91</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:50%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.50">0.50</span></td>
               </tr>
             
               <tr>
@@ -1506,6 +1634,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
                 <td class="phrase-cell phrase-cell-after">Everyday | $109 | Very simple basic plan; includes up to 20 km towing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.51 · Δnegative +0.00 · Δneutral +0.50 — more negative">&#9660;&nbsp;-0.51</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:50%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.50">0.50</span></td>
               </tr>
             
               <tr>
@@ -1514,6 +1643,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
                 <td class="phrase-cell phrase-cell-after">Queensland | Huge Queensland membership base (1.7m+); several roadside tiers.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.74 · Δnegative +0.01 · Δneutral +0.73 — more negative">&#9660;&nbsp;-0.76</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:48%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.52">0.48</span></td>
               </tr>
             
               <tr>
@@ -1522,6 +1652,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$227–$310 for higher tiers | Strong Queensland coverage; higher towing options</td>
                 <td class="phrase-cell phrase-cell-after">$80/yr | Everyday Lite; vehicle-based, and no towing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.06 · Δnegative +0.01 · Δneutral +0.05 — more negative">&#9660;&nbsp;-0.06</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:41%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.59">0.41</span></td>
               </tr>
             
               <tr>
@@ -1530,6 +1661,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
                 <td class="phrase-cell phrase-cell-after">⭐ Best overall in QLD</td>
                 <td class="meter-cell"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.06 · Δnegative -0.00 · Δneutral +0.07 — more negative">&#9660;&nbsp;-0.06</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:48%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.52">0.48</span></td>
               </tr>
             
               <tr>
@@ -1538,6 +1670,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$227–$310 for higher tiers | Strong Queensland coverage; higher towing options</td>
                 <td class="phrase-cell phrase-cell-after">Best for Queensland</td>
                 <td class="meter-cell"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.34 · Δnegative +0.01 · Δneutral -0.36 — more positive">&#9650;&nbsp;+0.33</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:50%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.50">0.50</span></td>
               </tr>
             
               </tbody>
@@ -1568,6 +1701,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Victorian homeowners</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-neg" title="Δpositive -0.13 · Δnegative +0.07 · Δneutral +0.05 — more negative">&#9660;&nbsp;-0.20</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.54</span><span class="sim-cos">cos&nbsp;0.46</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1579,6 +1713,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1589,6 +1724,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria-focused</td>
                 <td class="phrase-cell phrase-cell-after">Victorian homeowners</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.13 · Δnegative +0.07 · Δneutral +0.05 — more negative">&#9660;&nbsp;-0.20</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               <tr>
@@ -1597,6 +1733,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria-focused</td>
                 <td class="phrase-cell phrase-cell-after">Strong customer experience results | Victoria</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.73 · Δnegative -0.04 · Δneutral -0.69 — more positive">&#9650;&nbsp;+0.77</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:52%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.48">0.52</span></td>
               </tr>
             
               <tr>
@@ -1605,6 +1742,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria-based riders</td>
                 <td class="phrase-cell phrase-cell-after">Victoria / good comprehensive benefits</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.73 · Δnegative -0.01 · Δneutral -0.72 — more positive">&#9650;&nbsp;+0.74</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -1613,6 +1751,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria | Varies by plan</td>
                 <td class="phrase-cell phrase-cell-after">Roadside Care | $138/yr | 20 km towing</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-flat" title="Δpositive +0.00 · Δnegative +0.00 · Δneutral -0.01 — no tone change">&#8226;&nbsp;-0.00</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:75%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.25">0.75</span></td>
               </tr>
             
               <tr>
@@ -1621,6 +1760,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria | Varies by plan</td>
                 <td class="phrase-cell phrase-cell-after">Victoria | Major Victorian motoring club; 2+ million members across its services.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.32 · Δnegative -0.01 · Δneutral -0.31 — more positive">&#9650;&nbsp;+0.33</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:50%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.50">0.50</span></td>
               </tr>
             
               <tr>
@@ -1629,6 +1769,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Varies | Strong option in Victoria; interstate reciprocal assistance</td>
                 <td class="phrase-cell phrase-cell-after">Best for Victoria</td>
                 <td class="meter-cell"><span class="meter" style="--pct:90%" aria-hidden="true"></span><span class="meter-val">0.90</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.51 · Δnegative +0.01 · Δneutral -0.52 — more positive">&#9650;&nbsp;+0.50</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:44%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.56">0.44</span></td>
               </tr>
             
               <tr>
@@ -1637,6 +1778,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria | Varies by plan</td>
                 <td class="phrase-cell phrase-cell-after">Basic roadside plan | ~\$138+ | Easy app/callout process; particularly convenient in Victoria</td>
                 <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.85 · Δnegative -0.01 · Δneutral -0.84 — more positive">&#9650;&nbsp;+0.86</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:48%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.52">0.48</span></td>
               </tr>
             
               <tr>
@@ -1645,6 +1787,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria | Varies by plan</td>
                 <td class="phrase-cell phrase-cell-after">⭐ Best in Victoria</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.85 · Δnegative -0.01 · Δneutral -0.84 — more positive">&#9650;&nbsp;+0.86</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:53%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.47">0.53</span></td>
               </tr>
             
               <tr>
@@ -1653,6 +1796,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Victoria | Varies by plan</td>
                 <td class="phrase-cell phrase-cell-after">Victoria / Melbourne</td>
                 <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+                <td class="tone-cell"><span class="tone tone-flat" title="Δpositive +0.02 · Δnegative +0.00 · Δneutral -0.02 — no tone change">&#8226;&nbsp;+0.01</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:41%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.59">0.41</span></td>
               </tr>
             
               </tbody>
@@ -1683,6 +1827,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Price-conscious travellers</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-neg" title="Δpositive -0.00 · Δnegative +0.30 · Δneutral -0.29 — more negative">&#9660;&nbsp;-0.30</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.54</span><span class="sim-cos">cos&nbsp;0.46</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1694,6 +1839,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1704,6 +1850,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">International and frequent-traveller policies</td>
                 <td class="phrase-cell phrase-cell-after">Price-conscious travellers</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.00 · Δnegative +0.30 · Δneutral -0.29 — more negative">&#9660;&nbsp;-0.30</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               <tr>
@@ -1712,6 +1859,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">International and frequent-traveller policies</td>
                 <td class="phrase-cell phrase-cell-after">💰 Value</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.28 · Δnegative -0.04 · Δneutral -0.24 — more positive">&#9650;&nbsp;+0.31</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:88%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.12">0.88</span></td>
               </tr>
             
               <tr>
@@ -1720,6 +1868,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">International and frequent-traveller policies</td>
                 <td class="phrase-cell phrase-cell-after">Specialist travel insurer; says it has served over 2 million customers</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.29 · Δnegative -0.05 · Δneutral -0.24 — more positive">&#9650;&nbsp;+0.34</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -1728,6 +1877,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">International and frequent-traveller policies</td>
                 <td class="phrase-cell phrase-cell-after">Cheap comprehensive cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.37 · Δnegative +0.01 · Δneutral -0.39 — more positive">&#9650;&nbsp;+0.36</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:62%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.38">0.62</span></td>
               </tr>
             
               <tr>
@@ -1736,6 +1886,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">International and frequent-traveller policies</td>
                 <td class="phrase-cell phrase-cell-after">Often inexpensive for international trips | Worth quoting</td>
                 <td class="meter-cell"><span class="meter" style="--pct:91%" aria-hidden="true"></span><span class="meter-val">0.91</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.66 · Δnegative -0.05 · Δneutral -0.61 — more positive">&#9650;&nbsp;+0.71</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:49%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.51">0.49</span></td>
               </tr>
             
               </tbody>
@@ -1766,6 +1917,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">People wanting a traditional insurer</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-neg" title="Δpositive -0.30 · Δnegative +0.17 · Δneutral +0.13 — more negative">&#9660;&nbsp;-0.47</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.54</span><span class="sim-cos">cos&nbsp;0.46</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1777,6 +1929,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1787,6 +1940,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive cover; large established provider</td>
                 <td class="phrase-cell phrase-cell-after">People wanting a traditional insurer</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.30 · Δnegative +0.17 · Δneutral +0.13 — more negative">&#9660;&nbsp;-0.47</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:54%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.46">0.54</span></td>
               </tr>
             
               <tr>
@@ -1795,6 +1949,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive cover; large established provider</td>
                 <td class="phrase-cell phrase-cell-after">Usually not the absolute cheapest, but worth comparing for broader cover | Good value on some trips</td>
                 <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.41 · Δnegative -0.01 · Δneutral -0.40 — more positive">&#9650;&nbsp;+0.42</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:52%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.48">0.52</span></td>
               </tr>
             
               <tr>
@@ -1803,6 +1958,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive cover; large established provider</td>
                 <td class="phrase-cell phrase-cell-after">Comprehensive cover + medical assistance</td>
                 <td class="meter-cell"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.07 · Δnegative +0.00 · Δneutral +0.06 — more negative">&#9660;&nbsp;-0.07</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:41%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.59">0.41</span></td>
               </tr>
             
               <tr>
@@ -1811,6 +1967,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive cover; large established provider</td>
                 <td class="phrase-cell phrase-cell-after">Large, established travel insurer; broad international cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+                <td class="tone-cell"><span class="tone tone-flat" title="Δpositive +0.01 · Δnegative -0.01 · Δneutral -0.00 — no tone change">&#8226;&nbsp;+0.02</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:30%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.70">0.30</span></td>
               </tr>
             
               <tr>
@@ -1819,6 +1976,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Comprehensive cover; large established provider</td>
                 <td class="phrase-cell phrase-cell-after">👨‍👩‍👧 Comprehensive cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:60%" aria-hidden="true"></span><span class="meter-val">0.60</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.24 · Δnegative -0.00 · Δneutral +0.24 — more negative">&#9660;&nbsp;-0.24</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:38%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.62">0.38</span></td>
               </tr>
             
               </tbody>
@@ -1849,6 +2007,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">⭐ Best in SA</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.84 · Δnegative -0.02 · Δneutral -0.82 — more positive">&#9650;&nbsp;+0.86</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.67</span><span class="sim-cos">cos&nbsp;0.33</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1860,6 +2019,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1870,6 +2030,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">South Australia-focused</td>
                 <td class="phrase-cell phrase-cell-after">Very strong customer experience and value ratings | South Australia</td>
                 <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.79 · Δnegative -0.02 · Δneutral -0.77 — more positive">&#9650;&nbsp;+0.81</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:48%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.52">0.48</span></td>
               </tr>
             
               <tr>
@@ -1878,6 +2039,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">South Australia | From ~$135/yr</td>
                 <td class="phrase-cell phrase-cell-after">⭐ Best in SA</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.84 · Δnegative -0.02 · Δneutral -0.82 — more positive">&#9650;&nbsp;+0.86</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:67%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.33">0.67</span></td>
               </tr>
             
               <tr>
@@ -1886,6 +2048,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">~$135–$293 | South Australia</td>
                 <td class="phrase-cell phrase-cell-after">Best for SA</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.75 · Δnegative -0.01 · Δneutral -0.74 — more positive">&#9650;&nbsp;+0.76</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:59%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.41">0.59</span></td>
               </tr>
             
               <tr>
@@ -1894,6 +2057,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">South Australia | From ~$135/yr</td>
                 <td class="phrase-cell phrase-cell-after">SA | South Australia&#x27;s major motoring club.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.11 · Δnegative -0.02 · Δneutral -0.09 — more positive">&#9650;&nbsp;+0.13</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -1902,6 +2066,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">South Australia | From ~$135/yr</td>
                 <td class="phrase-cell phrase-cell-after">South Australia</td>
                 <td class="meter-cell"><span class="meter" style="--pct:60%" aria-hidden="true"></span><span class="meter-val">0.60</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.10 · Δnegative +0.03 · Δneutral -0.13 — more positive">&#9650;&nbsp;+0.07</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:31%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.69">0.31</span></td>
               </tr>
             
               </tbody>
@@ -1932,6 +2097,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Best overall / enthusiasts</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.44 · Δnegative -0.00 · Δneutral -0.44 — more positive">&#9650;&nbsp;+0.45</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.45</span><span class="sim-cos">cos&nbsp;0.55</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -1943,6 +2109,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -1953,6 +2120,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
                 <td class="phrase-cell phrase-cell-after">Best overall / enthusiasts</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.44 · Δnegative -0.00 · Δneutral -0.44 — more positive">&#9650;&nbsp;+0.45</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:45%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.55">0.45</span></td>
               </tr>
             
               <tr>
@@ -1961,6 +2129,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
                 <td class="phrase-cell phrase-cell-after">Enthusiast, modified, classic or higher-value bikes | Agreed value, modifications/accessories, helmet &amp; riding gear, choice of repairer</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.17 · Δnegative +0.01 · Δneutral +0.16 — more negative">&#9660;&nbsp;-0.18</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:26%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.74">0.26</span></td>
               </tr>
             
               <tr>
@@ -1969,6 +2138,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
                 <td class="phrase-cell phrase-cell-after">⭐ Best for enthusiast/custom bikes | Worth quoting if your bike is modified, collectible or you want specialist motorcycle-oriented cover.</td>
                 <td class="meter-cell"><span class="meter" style="--pct:81%" aria-hidden="true"></span><span class="meter-val">0.81</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.33 · Δnegative -0.01 · Δneutral -0.33 — more positive">&#9650;&nbsp;+0.34</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:39%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.61">0.39</span></td>
               </tr>
             
               <tr>
@@ -1977,6 +2147,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
                 <td class="phrase-cell phrase-cell-after">🏆 Overall trust / enthusiast bikes</td>
                 <td class="meter-cell"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.15 · Δnegative -0.00 · Δneutral -0.15 — more positive">&#9650;&nbsp;+0.16</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:44%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.56">0.44</span></td>
               </tr>
             
               <tr>
@@ -1985,6 +2156,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
                 <td class="phrase-cell phrase-cell-after">Enthusiast/classic bikes</td>
                 <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.10 · Δnegative +0.00 · Δneutral -0.10 — more positive">&#9650;&nbsp;+0.10</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:22%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.78">0.22</span></td>
               </tr>
             
               </tbody>
@@ -2015,6 +2187,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">Good motorcycle-specific coverage | Sample NSW comprehensive quote $1,479.31; particularly strong inclusions</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.84 · Δnegative -0.04 · Δneutral -0.80 — more positive">&#9650;&nbsp;+0.88</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.61</span><span class="sim-cos">cos&nbsp;0.39</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -2026,6 +2199,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -2036,6 +2210,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a specialist provider</td>
                 <td class="phrase-cell phrase-cell-after">Good motorcycle-specific coverage | Sample NSW comprehensive quote $1,479.31; particularly strong inclusions</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.84 · Δnegative -0.04 · Δneutral -0.80 — more positive">&#9650;&nbsp;+0.88</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:61%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.39">0.61</span></td>
               </tr>
             
               <tr>
@@ -2044,6 +2219,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a specialist provider</td>
                 <td class="phrase-cell phrase-cell-after">Motorcycle-focused insurance</td>
                 <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.12 · Δnegative +0.00 · Δneutral -0.12 — more positive">&#9650;&nbsp;+0.12</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -2052,6 +2228,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a specialist provider</td>
                 <td class="phrase-cell phrase-cell-after">Best specialist coverage</td>
                 <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.85 · Δnegative -0.04 · Δneutral -0.82 — more positive">&#9650;&nbsp;+0.89</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:51%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.49">0.51</span></td>
               </tr>
             
               <tr>
@@ -2060,6 +2237,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Riders wanting a specialist provider</td>
                 <td class="phrase-cell phrase-cell-after">Riders wanting motorcycle-specific cover | Specialist motorcycle insurer; strong comprehensive feature set, choice of repairer and gear cover</td>
                 <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.20 · Δnegative -0.03 · Δneutral -0.17 — more positive">&#9650;&nbsp;+0.22</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:36%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.64">0.36</span></td>
               </tr>
             
               </tbody>
@@ -2090,6 +2268,7 @@ html { scroll-behavior: smooth; }
               <span class="arrow" aria-hidden="true">&#8594;</span>
               <blockquote class="phrase phrase-after">🥾 Adventure travel</blockquote>
             </div>
+            <div class="lead-scores"><span class="lead-score"><span class="lead-score-label">Tone</span><span class="tone tone-pos" title="Δpositive +0.24 · Δnegative -0.00 · Δneutral -0.23 — more positive">&#9650;&nbsp;+0.24</span></span><span class="lead-score"><span class="lead-score-label">Meaning shift</span><span class="meter-val">0.41</span><span class="sim-cos">cos&nbsp;0.59</span></span></div>
           </div>
         
           <div class="table-wrap">
@@ -2101,6 +2280,7 @@ html { scroll-behavior: smooth; }
                   <th>Unmodified positioning</th>
                   <th>Perturbed positioning</th>
                   <th>Word&nbsp;shift</th>
+                  <th>Tone&nbsp;shift</th><th>Meaning&nbsp;shift</th>
                 </tr>
               </thead>
               <tbody>
@@ -2111,6 +2291,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
                 <td class="phrase-cell phrase-cell-after">🥾 Adventure travel</td>
                 <td class="meter-cell"><span class="meter" style="--pct:88%" aria-hidden="true"></span><span class="meter-val">0.88</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.24 · Δnegative -0.00 · Δneutral -0.23 — more positive">&#9650;&nbsp;+0.24</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:41%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.59">0.41</span></td>
               </tr>
             
               <tr>
@@ -2119,6 +2300,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
                 <td class="phrase-cell phrase-cell-after">Backpacking/adventure trips</td>
                 <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.29 · Δnegative +0.03 · Δneutral +0.26 — more negative">&#9660;&nbsp;-0.32</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:39%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.61">0.39</span></td>
               </tr>
             
               <tr>
@@ -2127,6 +2309,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
                 <td class="phrase-cell phrase-cell-after">Adventure/longer trips, but compare policy carefully</td>
                 <td class="meter-cell"><span class="meter" style="--pct:73%" aria-hidden="true"></span><span class="meter-val">0.73</span></td>
+                <td class="tone-cell"><span class="tone tone-neg" title="Δpositive -0.31 · Δnegative +0.03 · Δneutral +0.29 — more negative">&#9660;&nbsp;-0.34</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:39%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.61">0.39</span></td>
               </tr>
             
               <tr>
@@ -2135,6 +2318,7 @@ html { scroll-behavior: smooth; }
                 <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
                 <td class="phrase-cell phrase-cell-after">Particularly popular with backpackers, long trips and adventure travellers</td>
                 <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+                <td class="tone-cell"><span class="tone tone-pos" title="Δpositive +0.41 · Δnegative -0.01 · Δneutral -0.41 — more positive">&#9650;&nbsp;+0.42</span></td><td class="meter-cell"><span class="meter meter-mean" style="--pct:29%" aria-hidden="true"></span><span class="meter-val" title="cosine similarity 0.71">0.29</span></td>
               </tr>
             
               </tbody>
@@ -2281,6 +2465,7 @@ html { scroll-behavior: smooth; }
             semantic one &mdash; two phrases can score high on word shift while saying something similar in
             different words, or low while making a subtly different claim. The quoted phrases are the primary
             evidence; the number is supporting context.</li>
+          <li><b>Tone shift</b> is how ChatGPT's sentiment toward the brand moved when the modifier was added &mdash; the positive-probability shift minus the negative-probability shift from a local sentiment model (roughly &minus;1 to +1). &#9650; means the perturbed phrasing reads more positive, &#9660; more negative. It's the one <em>directional</em> measure here: unlike word and meaning shift it says which way the tone moved, not just how far. Hover a value for the per-sentiment breakdown.</li><li><b>Meaning shift</b> is 1 &minus; cosine similarity between sentence embeddings of the two phrases (0 = same meaning, higher = more divergent; hover for the raw cosine). It catches rephrasings word shift misses &mdash; a low meaning shift beside a high word shift means ChatGPT said much the same thing in different words. It is not on the same absolute scale as word shift, so read the two together rather than as identical numbers.</li>
           <li>The <b>side-by-side comparison tables</b> pool every brand observed in a category, including the
             under-sampled ones above &mdash; a single cell there can rest on just one paired observation, so
             read a lone extreme value as a data point to investigate, not a settled finding.</li>
