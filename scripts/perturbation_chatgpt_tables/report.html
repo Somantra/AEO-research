@@ -1,0 +1,2300 @@
+<title>ChatGPT Brand Positioning by Query Wording</title>
+<style>
+:root {
+  --ink: #1c2624;
+  --paper: #eeede4;
+  --surface: #f7f6f0;
+  --surface-2: #e3e1d4;
+  --signal: #2f6f63;
+  --signal-strong: #1f4f46;
+  --shift: #9c6b14;
+  --line: #cfc9b8;
+  --muted: #5e685f;
+  --after-tint: #f1ece0;
+
+  --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SF Mono", "Cascadia Code", "Roboto Mono", Consolas, "Liberation Mono", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #e7e4d8;
+    --paper: #131c1a;
+    --surface: #182220;
+    --surface-2: #22302c;
+    --signal: #62b7a1;
+    --signal-strong: #8fd2c0;
+    --shift: #d6a14b;
+    --line: #33443d;
+    --muted: #9aa79e;
+    --after-tint: #20302a;
+  }
+}
+
+:root[data-theme="dark"] {
+  --ink: #e7e4d8;
+  --paper: #131c1a;
+  --surface: #182220;
+  --surface-2: #22302c;
+  --signal: #62b7a1;
+  --signal-strong: #8fd2c0;
+  --shift: #d6a14b;
+  --line: #33443d;
+  --muted: #9aa79e;
+  --after-tint: #20302a;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--signal-strong); }
+
+.wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 6rem;
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1.4rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.masthead-mark {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+  color: var(--signal-strong);
+}
+
+.masthead-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--shift);
+  flex: 0 0 auto;
+}
+
+.masthead-tag {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* ---------- Header ---------- */
+
+header.report-head {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--signal-strong);
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.9rem, 3.4vw, 2.7rem);
+  line-height: 1.15;
+  margin: 0;
+  text-wrap: balance;
+  max-width: 34ch;
+}
+
+.dek {
+  font-size: 1.02rem;
+  color: var(--muted);
+  max-width: 62ch;
+}
+
+.report-meta {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+/* ---------- Stat strip ---------- */
+
+.stat-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+  margin-bottom: 1.25rem;
+}
+
+.stat {
+  background: var(--surface);
+  padding: 1rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.stat-val {
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+
+.stat-label {
+  font-size: 0.76rem;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+}
+
+.caveat {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--shift);
+  padding: 0.9rem 1.1rem;
+  font-size: 0.9rem;
+  color: var(--ink);
+  margin-bottom: 2.5rem;
+}
+.caveat b { color: var(--shift); }
+
+/* ---------- Layout: nav + main ---------- */
+
+.layout {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+nav.brand-index {
+  position: sticky;
+  top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+nav.brand-index .nav-heading {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.4rem;
+}
+
+.nav-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: var(--ink);
+  font-size: 0.86rem;
+  padding: 0.35rem 0.5rem;
+  border-radius: 4px;
+}
+.nav-item:hover { background: var(--surface-2); }
+.nav-n {
+  font-family: var(--font-mono);
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+main { min-width: 0; }
+
+/* ---------- Brand cards ---------- */
+
+.brand-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  padding: 1.6rem 1.7rem 1.8rem;
+  margin-bottom: 1.6rem;
+  scroll-margin-top: 1.5rem;
+}
+
+.brand-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin-bottom: 1.2rem;
+}
+
+.brand-head h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.brand-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.n-pairs {
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  color: var(--muted);
+}
+
+.badge {
+  font-size: 0.72rem;
+  color: var(--signal-strong);
+  border: 1px solid var(--signal);
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+}
+
+/* lead example */
+
+.lead {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: 1.1rem 1.2rem;
+  margin-bottom: 1.3rem;
+}
+
+.lead-query {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  margin-bottom: 0.3rem;
+}
+
+.lead-label {
+  flex: 0 0 auto;
+  color: var(--muted);
+  width: 5.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.68rem;
+}
+
+.qtext { color: var(--ink); }
+.qd-ins {
+  color: var(--shift);
+  font-weight: 700;
+  background: color-mix(in srgb, var(--shift) 16%, transparent);
+  padding: 0.02rem 0.25rem;
+  border-radius: 3px;
+}
+.qd-rest { color: var(--ink); }
+
+.lead-transform {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.9rem;
+  flex-wrap: wrap;
+}
+
+.phrase {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.35;
+  flex: 1 1 260px;
+  min-width: 0;
+  padding: 0.2rem 0;
+}
+.phrase-before { color: var(--muted); }
+.phrase-after { color: var(--ink); }
+
+.arrow {
+  flex: 0 0 auto;
+  color: var(--shift);
+  font-size: 1.3rem;
+}
+
+/* table */
+
+.table-wrap { overflow-x: auto; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+thead th {
+  text-align: left;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 500;
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+tbody td {
+  padding: 0.55rem 0.6rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+tbody tr:last-child td { border-bottom: none; }
+
+.cat-cell {
+  color: var(--muted);
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+
+.mod-cell {
+  font-family: var(--font-mono);
+  color: var(--signal-strong);
+  white-space: nowrap;
+  text-transform: capitalize;
+}
+
+.phrase-cell { color: var(--muted); max-width: 26ch; }
+.phrase-cell-after { color: var(--ink); background: var(--after-tint); }
+
+.meter-cell { white-space: nowrap; }
+.meter {
+  display: inline-block;
+  width: 3.4rem;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--line);
+  position: relative;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 0.4rem;
+}
+.meter::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  width: var(--pct);
+  background: var(--shift);
+}
+.meter-val {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Appendix ---------- */
+
+.appendix {
+  margin-top: 3rem;
+}
+
+.appendix h2 {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.6rem;
+}
+
+.appendix p.note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  max-width: 62ch;
+}
+
+.appendix table { margin-top: 1rem; }
+.appendix th, .appendix td {
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  font-size: 0.82rem;
+}
+.appendix thead th {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  font-size: 0.66rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+/* ---------- Category comparison matrices ---------- */
+
+.comparison {
+  margin-top: 3rem;
+}
+
+.comparison h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.6rem;
+}
+
+.comparison > p.note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  max-width: 66ch;
+  margin-bottom: 1.8rem;
+}
+
+.cmp-block {
+  margin-bottom: 2.4rem;
+}
+
+.cmp-block h3 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  margin-bottom: 0.3rem;
+}
+
+.cmp-note {
+  color: var(--muted);
+  font-size: 0.82rem;
+  max-width: 66ch;
+  margin-bottom: 0.8rem;
+}
+
+table.cmp-table {
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  width: 100%;
+}
+
+.cmp-table thead th {
+  text-align: left;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: capitalize;
+  color: var(--muted);
+  font-weight: 500;
+  padding: 0.45rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.cmp-brand-head {
+  position: sticky;
+  left: 0;
+  background: var(--surface);
+  z-index: 1;
+}
+
+.cmp-table .cmp-brand {
+  position: sticky;
+  left: 0;
+  background: var(--surface);
+  text-align: left;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.84rem;
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.cmp-cell, .cmp-empty {
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.cmp-cell { cursor: default; }
+
+.cmp-empty {
+  color: var(--line);
+  text-align: center;
+}
+
+/* ---------- Methodology footer ---------- */
+
+footer.method {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+  max-width: 74ch;
+}
+footer.method h3 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+footer.method ul { padding-left: 1.1rem; }
+footer.method li { margin-bottom: 0.5rem; }
+
+@media (max-width: 860px) {
+  .layout { grid-template-columns: 1fr; }
+  nav.brand-index {
+    position: static;
+    flex-direction: row;
+    overflow-x: auto;
+    max-height: none;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+  nav.brand-index .nav-heading { display: none; }
+  .nav-item { flex: 0 0 auto; flex-direction: column; gap: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+}
+
+html { scroll-behavior: smooth; }
+</style>
+
+<div class="wrap">
+  <div class="masthead">
+    <span class="masthead-mark">Somantra</span>
+    <span class="masthead-dot" aria-hidden="true"></span>
+    <span class="masthead-tag">AI Search Brand Intelligence</span>
+  </div>
+
+  <header class="report-head">
+    <span class="eyebrow">Query Perturbation Study &middot; Level 0/1 findings</span>
+    <h1>How one added word changes what ChatGPT says about your brand</h1>
+    <p class="dek">Australian general &amp; travel insurance. For each brand, ChatGPT was asked the same underlying
+      question twice &mdash; once plain, once with a single quality modifier (&ldquo;cheapest&rdquo;,
+      &ldquo;safest&rdquo;, &ldquo;most trusted&rdquo;&hellip;) added to the front. This report shows, brand by
+      brand, how its one-line positioning in ChatGPT's comparison tables moved between the two.</p>
+    <div class="report-meta">
+      <span>4,445 response files parsed</span>
+      <span>135 clean single-modifier pairs</span>
+      <span>25 brands observed</span>
+      <span>10 modifier terms tested</span>
+    </div>
+  </header>
+
+  <div class="stat-strip">
+    <div class="stat"><span class="stat-val">14</span><span class="stat-label">Brands with enough data for a profile (4+ pairs)</span></div>
+    <div class="stat"><span class="stat-val">4</span><span class="stat-label">Insurance categories covered</span></div>
+    <div class="stat"><span class="stat-val">H=33.2</span><span class="stat-label">Kruskal-Wallis across modifier groups, p=0.0001</span></div>
+    <div class="stat"><span class="stat-val">2,433</span><span class="stat-label">Multi-modifier pairs excluded from this report (see methodology)</span></div>
+  </div>
+
+  <div class="caveat">
+    <b>No noise-floor comparison in this run.</b> The credibility check this study design calls for &mdash;
+    asking ChatGPT the identical query twice and confirming the language barely moves on its own &mdash;
+    needs the same query pulled on two separate occasions. No such repeat pulls exist in this corpus, so the
+    shifts below are not yet benchmarked against ChatGPT's baseline response variance. Treat the examples as
+    directional, not yet statistically defended against &ldquo;isn't this just the AI being random?&rdquo;
+  </div>
+
+  <div class="layout">
+    <nav class="brand-index" aria-label="Jump to brand">
+      <span class="nav-heading">Brands (14)</span>
+      <a class="nav-item" href="#budget-direct"><span class="nav-name">Budget Direct</span><span class="nav-n">15</span></a><a class="nav-item" href="#aami"><span class="nav-name">AAMI</span><span class="nav-n">13</span></a><a class="nav-item" href="#nrma"><span class="nav-name">NRMA</span><span class="nav-n">12</span></a><a class="nav-item" href="#youi"><span class="nav-name">Youi</span><span class="nav-n">10</span></a><a class="nav-item" href="#allianz"><span class="nav-name">Allianz</span><span class="nav-n">9</span></a><a class="nav-item" href="#qbe"><span class="nav-name">QBE</span><span class="nav-n">9</span></a><a class="nav-item" href="#racq"><span class="nav-name">RACQ</span><span class="nav-n">9</span></a><a class="nav-item" href="#racv"><span class="nav-name">RACV</span><span class="nav-n">9</span></a><a class="nav-item" href="#1cover"><span class="nav-name">1Cover</span><span class="nav-n">5</span></a><a class="nav-item" href="#cover-more"><span class="nav-name">Cover-More</span><span class="nav-n">5</span></a><a class="nav-item" href="#raa"><span class="nav-name">RAA</span><span class="nav-n">5</span></a><a class="nav-item" href="#shannons"><span class="nav-name">Shannons</span><span class="nav-n">5</span></a><a class="nav-item" href="#national-motorcycle-insurance"><span class="nav-name">National Motorcycle Insurance</span><span class="nav-n">4</span></a><a class="nav-item" href="#world-nomads"><span class="nav-name">World Nomads</span><span class="nav-n">4</span></a>
+    </nav>
+
+    <main>
+      
+        <section class="brand-card" id="budget-direct">
+          <div class="brand-head">
+            <h2>Budget Direct</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">15 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Motorcycle Insurance</span><span class="badge">Roadside Assistance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">home insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">home insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Often worth checking for competitive pricing</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Lower premiums</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Often worth checking for competitive pricing</td>
+                <td class="phrase-cell phrase-cell-after">Lower premiums</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">Often worth checking for competitive pricing</td>
+                <td class="phrase-cell phrase-cell-after">Price-focused shoppers</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Often worth checking for competitive pricing</td>
+                <td class="phrase-cell phrase-cell-after">Particularly QLD &amp; SA | ⭐ Often very price-focused</td>
+                <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Often worth checking for competitive pricing</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐ | Often worth checking for a competitive price; recent Australian customer reports also mention straightforward claims experiences.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Comparing on price</td>
+                <td class="phrase-cell phrase-cell-after">Budget pricing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Comparing on price</td>
+                <td class="phrase-cell phrase-cell-after">Strong price/online discount | Sample NSW comprehensive quote $1,062.22; 15% first-year online discount may apply</td>
+                <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Comparing on price</td>
+                <td class="phrase-cell phrase-cell-after">Best for price comparison | Often competitive on premiums; however, I&#x27;d compare the actual PDS/excesses rather than choosing solely on price.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:90%" aria-hidden="true"></span><span class="meter-val">0.90</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Comparing on price</td>
+                <td class="phrase-cell phrase-cell-after">Easy online quote and often competitive on price; comprehensive cover available | ✅</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
+                <td class="phrase-cell phrase-cell-after">Cheapest/simple option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
+                <td class="phrase-cell phrase-cell-after">$89.95 | Cheapest; 20 km towing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
+                <td class="phrase-cell phrase-cell-after">$76.46 first year | 15% online discount; then $89.95/yr</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Low-cost standalone option | ~$90/yr listed currently</td>
+                <td class="phrase-cell phrase-cell-after">💰 Cheap option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:89%" aria-hidden="true"></span><span class="meter-val">0.89</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Low-cost standalone option | ~$90/yr listed currently</td>
+                <td class="phrase-cell phrase-cell-after">Roadside Assistance | ~$90 | One of the cheaper standalone options</td>
+                <td class="meter-cell"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">~$90 | Unlimited callouts; relatively cheap</td>
+                <td class="phrase-cell phrase-cell-after">Best cheap option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Low-cost standalone option | ~$90/yr listed currently</td>
+                <td class="phrase-cell phrase-cell-after">Australia-wide | Lower-cost standalone roadside option.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="aami">
+          <div class="brand-head">
+            <h2>AAMI</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">13 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Motorcycle Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">home insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">home insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Large mainstream insurer; home &amp; contents</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Value / all-rounder</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Value / all-rounder</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Consistently strong value/coverage results and particularly strong Queensland performance. Canstar named it a 2025 Outstanding Value winner nationally and in QLD.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Very easy online account, claims and policy management; 24/7 online services and claims support.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">NSW, VIC, QLD, SA, WA | ⭐ Strong price contender</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Strong all-round low-price option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">2025 Canstar Home Insurance Award winner | Established mainstream option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Large mainstream insurer; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Large established insurer, with Finder recognising its service and claims experience | A solid mainstream alternative</td>
+                <td class="meter-cell"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Mainstream insurer</td>
+                <td class="phrase-cell phrase-cell-after">Simple online quotes, paperless claims, broad motorcycle coverage | ✅</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Mainstream insurer</td>
+                <td class="phrase-cell phrase-cell-after">Widely available, but not always cheapest | Sample NSW quote $2,113.06</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Mainstream insurer</td>
+                <td class="phrase-cell phrase-cell-after">Value</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">premium</td>
+                <td class="phrase-cell">Mainstream insurer</td>
+                <td class="phrase-cell phrase-cell-after">Mainstream comprehensive cover | Riding apparel included as standard, with additional customisation options</td>
+                <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Mainstream insurer</td>
+                <td class="phrase-cell phrase-cell-after">Mainstream comprehensive cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Mainstream insurer</td>
+                <td class="phrase-cell phrase-cell-after">Mainstream alternative</td>
+                <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="nrma">
+          <div class="brand-head">
+            <h2>NRMA</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">12 paired observations</span>
+              <span class="badge">Motorcycle Insurance</span><span class="badge">Roadside Assistance</span><span class="badge">Travel Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">roadside assistance plans in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">roadside assistance plans in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">⭐ Best in NSW/ACT</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Riders wanting a large established insurer</td>
+                <td class="phrase-cell phrase-cell-after">Very straightforward online process; comprehensive motorcycle cover; currently offers up to 10% off the first year when bought online | ✅</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Riders wanting a large established insurer</td>
+                <td class="phrase-cell phrase-cell-after">Often very competitive on comprehensive | Finder&#x27;s 2026 profile found it cheapest among its sample, averaging $756.38/year</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">premium</td>
+                <td class="phrase-cell">Riders wanting a large established insurer</td>
+                <td class="phrase-cell phrase-cell-after">Riders prioritising mainstream insurer/value | Competitive comprehensive pricing in current comparisons</td>
+                <td class="meter-cell"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
+                <td class="phrase-cell phrase-cell-after">⭐ Best in NSW/ACT</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
+                <td class="phrase-cell phrase-cell-after">NSW, ACT | One of Australia&#x27;s biggest motoring clubs; Finder&#x27;s 2026 &quot;Most Loved Roadside Assistance&quot; winner.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
+                <td class="phrase-cell phrase-cell-after">Frequent interstate travel</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">~$112–$245 | Unlimited callouts; nationwide reciprocal coverage</td>
+                <td class="phrase-cell phrase-cell-after">Best overall</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">~$112–$245 | Unlimited callouts; nationwide reciprocal coverage</td>
+                <td class="phrase-cell phrase-cell-after">$112/yr | Everyday Care; 25 km metro towing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
+                <td class="phrase-cell phrase-cell-after">Everyday Care | $112/yr | 25 km metro towing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care</td>
+                <td class="phrase-cell phrase-cell-after">Everyday Care | $112–$140 | Simple monthly/annual options, unlimited callouts, national reciprocal coverage</td>
+                <td class="meter-cell"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Travel insurance alongside other insurance products</td>
+                <td class="phrase-cell phrase-cell-after">Good mainstream alternative</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Travel insurance alongside other insurance products</td>
+                <td class="phrase-cell phrase-cell-after">Travel insurance from a major Australian insurance brand</td>
+                <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="youi">
+          <div class="brand-head">
+            <h2>Youi</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">10 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Motorcycle Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">home insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">home insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Known for personalised pricing; home &amp; contents</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Customer satisfaction</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Customer satisfaction</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐ | Good claims tracking through its app and 24/7 claims. However, its quoting process can involve a phone call, which some people find annoying.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">VIC, SA, WA | Can be cheap, but expensive in some states</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Won Canstar&#x27;s 2025 national Most Satisfied Customers award | People prioritising customer satisfaction</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Consistently strong customer satisfaction; Canstar’s 2025 national satisfaction winner | Service-focused customers</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">Known for personalised pricing; home &amp; contents</td>
+                <td class="phrase-cell phrase-cell-after">Can be excellent value for some properties</td>
+                <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">premium</td>
+                <td class="phrase-cell">Flexible/customisable policies</td>
+                <td class="phrase-cell phrase-cell-after">Everyday riders wanting strong all-round cover | Comprehensive cover with gear and roadside assistance included in its motorcycle policy</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Flexible/customisable policies</td>
+                <td class="phrase-cell phrase-cell-after">Overall features &amp; service</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Flexible/customisable policies</td>
+                <td class="phrase-cell phrase-cell-after">Worth comparing | Offers motorcycle cover with flexible excess and up to $20m legal liability.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Flexible/customisable policies</td>
+                <td class="phrase-cell phrase-cell-after">Good online quote process and relatively easy-to-understand policies | ✅</td>
+                <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="allianz">
+          <div class="brand-head">
+            <h2>Allianz</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">9 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Travel Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">home insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">home insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Home, building and contents; strong nationwide presence</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">All-round comprehensive</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">All-round comprehensive</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">Various states | Usually mid-range rather than rock-bottom</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">Worth getting a comparison quote</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">Strong national service recognition in Finder&#x27;s 2026 awards | Good alternative to the big IAG/Suncorp brands</td>
+                <td class="meter-cell"><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Online quotes, policy management and claims; 24/7 claims support.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐½ | Strong all-rounder; Canstar 2025 Outstanding Value winner and recognised by Finder for quality service/ease of claiming.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Home, building and contents; strong nationwide presence</td>
+                <td class="phrase-cell phrase-cell-after">2025 Canstar Home Insurance Award winner and strong NSW value rating | Broad national option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Comprehensive international and domestic cover</td>
+                <td class="phrase-cell phrase-cell-after">Mainstream, simple cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Comprehensive international and domestic cover</td>
+                <td class="phrase-cell phrase-cell-after">Major insurer with Basic, Comprehensive, Domestic and Multi-Trip policies</td>
+                <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="qbe">
+          <div class="brand-head">
+            <h2>QBE</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">9 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Motorcycle Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">home insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">home insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Major Australian insurer with home &amp; contents products</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Comprehensive cover</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
+                <td class="phrase-cell phrase-cell-after">Comprehensive cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐½ | Good option if comprehensive/flood cover is particularly important; Mozo&#x27;s 2026 guide selected QBE for flood cover.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
+                <td class="phrase-cell phrase-cell-after">VIC, SA, WA | Good value contender</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
+                <td class="phrase-cell phrase-cell-after">Worth checking alongside the cheapest</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Major Australian insurer with home &amp; contents products</td>
+                <td class="phrase-cell phrase-cell-after">2025 Canstar Home Insurance Award winner | Another strong national option</td>
+                <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Broad motorcycle cover</td>
+                <td class="phrase-cell phrase-cell-after">Worth getting a quote, particularly if the others are expensive | ✅</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Broad motorcycle cover</td>
+                <td class="phrase-cell phrase-cell-after">Worth quoting, especially for some rider profiles | Sample NSW quote $1,732.22, although individual quotes can be much cheaper</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">premium</td>
+                <td class="phrase-cell">Broad motorcycle cover</td>
+                <td class="phrase-cell phrase-cell-after">Riders wanting a mainstream insurer with strong cover | Comprehensive cover, agreed/market value options and substantial riding-gear cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Broad motorcycle cover</td>
+                <td class="phrase-cell phrase-cell-after">Value / broad cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:50%" aria-hidden="true"></span><span class="meter-val">0.50</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="racq">
+          <div class="brand-head">
+            <h2>RACQ</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">9 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Roadside Assistance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">roadside assistance plans in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Most reliable</span> <span class="qd-rest">roadside assistance plans in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Queensland / Australia-wide trips</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Queensland-focused</td>
+                <td class="phrase-cell phrase-cell-after">⭐⭐⭐⭐⭐ | Particularly strong choice in Queensland; won Finder’s 2026 “Most Loved” and “Legendary Service” home insurance awards in QLD.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Queensland-focused</td>
+                <td class="phrase-cell phrase-cell-after">Exceptional customer experience and claims ratings in CHOICE’s 2025 survey | Queensland homeowners</td>
+                <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Queensland-focused</td>
+                <td class="phrase-cell phrase-cell-after">Excellent customer experience and claims ratings in CHOICE’s survey | Queensland homeowners</td>
+                <td class="meter-cell"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
+                <td class="phrase-cell phrase-cell-after">Queensland / Australia-wide trips</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
+                <td class="phrase-cell phrase-cell-after">Everyday | $109 | Very simple basic plan; includes up to 20 km towing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
+                <td class="phrase-cell phrase-cell-after">Queensland | Huge Queensland membership base (1.7m+); several roadside tiers.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">~$227–$310 for higher tiers | Strong Queensland coverage; higher towing options</td>
+                <td class="phrase-cell phrase-cell-after">$80/yr | Everyday Lite; vehicle-based, and no towing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate</td>
+                <td class="phrase-cell phrase-cell-after">⭐ Best overall in QLD</td>
+                <td class="meter-cell"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">~$227–$310 for higher tiers | Strong Queensland coverage; higher towing options</td>
+                <td class="phrase-cell phrase-cell-after">Best for Queensland</td>
+                <td class="meter-cell"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="racv">
+          <div class="brand-head">
+            <h2>RACV</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">9 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Motorcycle Insurance</span><span class="badge">Roadside Assistance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">home insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">home insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Victoria-focused</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Victorian homeowners</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Victoria-focused</td>
+                <td class="phrase-cell phrase-cell-after">Victorian homeowners</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Victoria-focused</td>
+                <td class="phrase-cell phrase-cell-after">Strong customer experience results | Victoria</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Victoria-based riders</td>
+                <td class="phrase-cell phrase-cell-after">Victoria / good comprehensive benefits</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Victoria | Varies by plan</td>
+                <td class="phrase-cell phrase-cell-after">Roadside Care | $138/yr | 20 km towing</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Victoria | Varies by plan</td>
+                <td class="phrase-cell phrase-cell-after">Victoria | Major Victorian motoring club; 2+ million members across its services.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Varies | Strong option in Victoria; interstate reciprocal assistance</td>
+                <td class="phrase-cell phrase-cell-after">Best for Victoria</td>
+                <td class="meter-cell"><span class="meter" style="--pct:90%" aria-hidden="true"></span><span class="meter-val">0.90</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Victoria | Varies by plan</td>
+                <td class="phrase-cell phrase-cell-after">Basic roadside plan | ~\$138+ | Easy app/callout process; particularly convenient in Victoria</td>
+                <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">Victoria | Varies by plan</td>
+                <td class="phrase-cell phrase-cell-after">⭐ Best in Victoria</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Victoria | Varies by plan</td>
+                <td class="phrase-cell phrase-cell-after">Victoria / Melbourne</td>
+                <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="1cover">
+          <div class="brand-head">
+            <h2>1Cover</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">5 paired observations</span>
+              <span class="badge">Travel Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">travel insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Easiest</span> <span class="qd-rest">travel insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">International and frequent-traveller policies</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Price-conscious travellers</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">International and frequent-traveller policies</td>
+                <td class="phrase-cell phrase-cell-after">Price-conscious travellers</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">International and frequent-traveller policies</td>
+                <td class="phrase-cell phrase-cell-after">💰 Value</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">International and frequent-traveller policies</td>
+                <td class="phrase-cell phrase-cell-after">Specialist travel insurer; says it has served over 2 million customers</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most affordable</td>
+                <td class="phrase-cell">International and frequent-traveller policies</td>
+                <td class="phrase-cell phrase-cell-after">Cheap comprehensive cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">International and frequent-traveller policies</td>
+                <td class="phrase-cell phrase-cell-after">Often inexpensive for international trips | Worth quoting</td>
+                <td class="meter-cell"><span class="meter" style="--pct:91%" aria-hidden="true"></span><span class="meter-val">0.91</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="cover-more">
+          <div class="brand-head">
+            <h2>Cover-More</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">5 paired observations</span>
+              <span class="badge">Travel Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">travel insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Easiest</span> <span class="qd-rest">travel insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Comprehensive cover; large established provider</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">People wanting a traditional insurer</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Comprehensive cover; large established provider</td>
+                <td class="phrase-cell phrase-cell-after">People wanting a traditional insurer</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Comprehensive cover; large established provider</td>
+                <td class="phrase-cell phrase-cell-after">Usually not the absolute cheapest, but worth comparing for broader cover | Good value on some trips</td>
+                <td class="meter-cell"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Comprehensive cover; large established provider</td>
+                <td class="phrase-cell phrase-cell-after">Comprehensive cover + medical assistance</td>
+                <td class="meter-cell"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Comprehensive cover; large established provider</td>
+                <td class="phrase-cell phrase-cell-after">Large, established travel insurer; broad international cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Comprehensive cover; large established provider</td>
+                <td class="phrase-cell phrase-cell-after">👨‍👩‍👧 Comprehensive cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:60%" aria-hidden="true"></span><span class="meter-val">0.60</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="raa">
+          <div class="brand-head">
+            <h2>RAA</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">5 paired observations</span>
+              <span class="badge">Home Insurance</span><span class="badge">Roadside Assistance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">roadside assistance plans in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Best</span> <span class="qd-rest">roadside assistance plans in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">South Australia | From ~$135/yr</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">⭐ Best in SA</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Home Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">South Australia-focused</td>
+                <td class="phrase-cell phrase-cell-after">Very strong customer experience and value ratings | South Australia</td>
+                <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">South Australia | From ~$135/yr</td>
+                <td class="phrase-cell phrase-cell-after">⭐ Best in SA</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">best</td>
+                <td class="phrase-cell">~$135–$293 | South Australia</td>
+                <td class="phrase-cell phrase-cell-after">Best for SA</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">South Australia | From ~$135/yr</td>
+                <td class="phrase-cell phrase-cell-after">SA | South Australia&#x27;s major motoring club.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Roadside Assistance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">South Australia | From ~$135/yr</td>
+                <td class="phrase-cell phrase-cell-after">South Australia</td>
+                <td class="meter-cell"><span class="meter" style="--pct:60%" aria-hidden="true"></span><span class="meter-val">0.60</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="shannons">
+          <div class="brand-head">
+            <h2>Shannons</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">5 paired observations</span>
+              <span class="badge">Motorcycle Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">motorcycle insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Most reliable</span> <span class="qd-rest">motorcycle insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Enthusiast, modified and specialist bikes</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Best overall / enthusiasts</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most reliable</td>
+                <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
+                <td class="phrase-cell phrase-cell-after">Best overall / enthusiasts</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">premium</td>
+                <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
+                <td class="phrase-cell phrase-cell-after">Enthusiast, modified, classic or higher-value bikes | Agreed value, modifications/accessories, helmet &amp; riding gear, choice of repairer</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
+                <td class="phrase-cell phrase-cell-after">⭐ Best for enthusiast/custom bikes | Worth quoting if your bike is modified, collectible or you want specialist motorcycle-oriented cover.</td>
+                <td class="meter-cell"><span class="meter" style="--pct:81%" aria-hidden="true"></span><span class="meter-val">0.81</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
+                <td class="phrase-cell phrase-cell-after">🏆 Overall trust / enthusiast bikes</td>
+                <td class="meter-cell"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Enthusiast, modified and specialist bikes</td>
+                <td class="phrase-cell phrase-cell-after">Enthusiast/classic bikes</td>
+                <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="national-motorcycle-insurance">
+          <div class="brand-head">
+            <h2>National Motorcycle Insurance</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">4 paired observations</span>
+              <span class="badge">Motorcycle Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">motorcycle insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Cheapest</span> <span class="qd-rest">motorcycle insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Riders wanting a specialist provider</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">Good motorcycle-specific coverage | Sample NSW comprehensive quote $1,479.31; particularly strong inclusions</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">cheapest</td>
+                <td class="phrase-cell">Riders wanting a specialist provider</td>
+                <td class="phrase-cell phrase-cell-after">Good motorcycle-specific coverage | Sample NSW comprehensive quote $1,479.31; particularly strong inclusions</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Riders wanting a specialist provider</td>
+                <td class="phrase-cell phrase-cell-after">Motorcycle-focused insurance</td>
+                <td class="meter-cell"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Riders wanting a specialist provider</td>
+                <td class="phrase-cell phrase-cell-after">Best specialist coverage</td>
+                <td class="meter-cell"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Motorcycle Insurance</td>
+                <td class="mod-cell">premium</td>
+                <td class="phrase-cell">Riders wanting a specialist provider</td>
+                <td class="phrase-cell phrase-cell-after">Riders wanting motorcycle-specific cover | Specialist motorcycle insurer; strong comprehensive feature set, choice of repairer and gear cover</td>
+                <td class="meter-cell"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+        <section class="brand-card" id="world-nomads">
+          <div class="brand-head">
+            <h2>World Nomads</h2>
+            <div class="brand-meta">
+              <span class="n-pairs">4 paired observations</span>
+              <span class="badge">Travel Insurance</span>
+            </div>
+          </div>
+          
+          <div class="lead">
+            <div class="lead-query">
+              <span class="lead-label">Base</span>
+              <span class="qtext">travel insurance providers in Australia</span>
+            </div>
+            <div class="lead-query">
+              <span class="lead-label">Perturbed</span>
+              <span class="qtext"><span class="qd-ins">Most trusted</span> <span class="qd-rest">travel insurance providers in Australia</span></span>
+            </div>
+            <div class="lead-transform">
+              <blockquote class="phrase phrase-before">Longer trips, adventure activities and younger travellers</blockquote>
+              <span class="arrow" aria-hidden="true">&#8594;</span>
+              <blockquote class="phrase phrase-after">🥾 Adventure travel</blockquote>
+            </div>
+          </div>
+        
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Modifier</th>
+                  <th>Unmodified positioning</th>
+                  <th>Perturbed positioning</th>
+                  <th>Word&nbsp;shift</th>
+                </tr>
+              </thead>
+              <tbody>
+                
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most trusted</td>
+                <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
+                <td class="phrase-cell phrase-cell-after">🥾 Adventure travel</td>
+                <td class="meter-cell"><span class="meter" style="--pct:88%" aria-hidden="true"></span><span class="meter-val">0.88</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">easiest</td>
+                <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
+                <td class="phrase-cell phrase-cell-after">Backpacking/adventure trips</td>
+                <td class="meter-cell"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">safest</td>
+                <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
+                <td class="phrase-cell phrase-cell-after">Adventure/longer trips, but compare policy carefully</td>
+                <td class="meter-cell"><span class="meter" style="--pct:73%" aria-hidden="true"></span><span class="meter-val">0.73</span></td>
+              </tr>
+            
+              <tr>
+                <td class="cat-cell">Travel Insurance</td>
+                <td class="mod-cell">most popular</td>
+                <td class="phrase-cell">Longer trips, adventure activities and younger travellers</td>
+                <td class="phrase-cell phrase-cell-after">Particularly popular with backpackers, long trips and adventure travellers</td>
+                <td class="meter-cell"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td>
+              </tr>
+            
+              </tbody>
+            </table>
+          </div>
+        </section>
+        
+
+      <div class="appendix">
+        <h2>Observed but under-sampled</h2>
+        <p class="note">These brands appeared in the corpus but with fewer than 4 clean
+          single-modifier pairs &mdash; not enough to characterize a pattern, only to note they're part of the
+          comparison set ChatGPT draws from.</p>
+        <table>
+          <thead><tr><th>Brand</th><th>Pairs</th><th>Categories seen</th><th>Modifiers seen</th></tr></thead>
+          <tbody>
+            <tr>
+            <td>InsureandGo</td>
+            <td>3</td>
+            <td>Travel Insurance</td>
+            <td>easiest, most affordable, most popular</td>
+          </tr><tr>
+            <td>NRMA Insurance</td>
+            <td>3</td>
+            <td>Home Insurance</td>
+            <td>most reliable, most trusted, safest</td>
+          </tr><tr>
+            <td>Suncorp</td>
+            <td>3</td>
+            <td>Home Insurance</td>
+            <td>best, most trusted, safest</td>
+          </tr><tr>
+            <td>Apia</td>
+            <td>2</td>
+            <td>Home Insurance</td>
+            <td>cheapest, most affordable</td>
+          </tr><tr>
+            <td>GIO</td>
+            <td>2</td>
+            <td>Home Insurance</td>
+            <td>cheapest, most affordable</td>
+          </tr><tr>
+            <td>RAC</td>
+            <td>2</td>
+            <td>Home Insurance, Roadside Assistance</td>
+            <td>most popular, most trusted</td>
+          </tr><tr>
+            <td>RACT</td>
+            <td>2</td>
+            <td>Roadside Assistance</td>
+            <td>most popular, most reliable</td>
+          </tr><tr>
+            <td>AANT</td>
+            <td>1</td>
+            <td>Roadside Assistance</td>
+            <td>most popular</td>
+          </tr><tr>
+            <td>AIG</td>
+            <td>1</td>
+            <td>Travel Insurance</td>
+            <td>worst</td>
+          </tr><tr>
+            <td>Tick Travel Insurance</td>
+            <td>1</td>
+            <td>Travel Insurance</td>
+            <td>most affordable</td>
+          </tr><tr>
+            <td>Travel Insurance Direct</td>
+            <td>1</td>
+            <td>Travel Insurance</td>
+            <td>safest</td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+
+      
+        <div class="comparison" id="comparison">
+          <h2>Brands side by side, by product category</h2>
+          <p class="note">Every brand observed for a given category and modifier, compared on the same word-shift
+            scale used above &mdash; so you can see, within Home Insurance for example, whose positioning moves
+            the most under &ldquo;cheapest&rdquo; versus whose barely changes.</p>
+          
+          <div class="cmp-block">
+            <h3>Home Insurance</h3>
+            <p class="cmp-note">Word shift (0&ndash;1) between each brand's unmodified positioning and its
+              positioning once the column's modifier is added. Hover a cell for the perturbed phrase itself;
+              &mdash; means that brand/modifier pair wasn't observed in the corpus.</p>
+            <div class="table-wrap">
+              <table class="cmp-table">
+                <thead><tr><th class="cmp-brand-head">Brand</th><th>best</th><th>cheapest</th><th>easiest</th><th>most affordable</th><th>most reliable</th><th>most trusted</th><th>safest</th></tr></thead>
+                <tbody><tr><th class="cmp-brand">AAMI</th><td class="cmp-cell" title="Value / all-rounder"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="NSW, VIC, QLD, SA, WA | ⭐ Strong price contender"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="⭐⭐⭐⭐⭐ | Very easy online account, claims and policy management; 24/7 online services and claims support."><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Strong all-round low-price option"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Large established insurer, with Finder recognising its service and claims experience | A solid mainstream alternative"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td><td class="cmp-cell" title="2025 Canstar Home Insurance Award winner | Established mainstream option"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-cell" title="⭐⭐⭐⭐⭐ | Consistently strong value/coverage results and particularly strong Queensland performance. Canstar named it a 2025 Outstanding Value winner nationally and in QLD."><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td></tr><tr><th class="cmp-brand">Allianz</th><td class="cmp-cell" title="All-round comprehensive"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Various states | Usually mid-range rather than rock-bottom"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="⭐⭐⭐⭐⭐ | Online quotes, policy management and claims; 24/7 claims support."><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td><td class="cmp-cell" title="Worth getting a comparison quote"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Strong national service recognition in Finder&#x27;s 2026 awards | Good alternative to the big IAG/Suncorp brands"><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td><td class="cmp-cell" title="2025 Canstar Home Insurance Award winner and strong NSW value rating | Broad national option"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-cell" title="⭐⭐⭐⭐½ | Strong all-rounder; Canstar 2025 Outstanding Value winner and recognised by Finder for quality service/ease of claiming."><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td></tr><tr><th class="cmp-brand">Youi</th><td class="cmp-cell" title="Customer satisfaction"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="VIC, SA, WA | Can be cheap, but expensive in some states"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="⭐⭐⭐⭐ | Good claims tracking through its app and 24/7 claims. However, its quoting process can involve a phone call, which some people find annoying."><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Can be excellent value for some properties"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td><td class="cmp-cell" title="Consistently strong customer satisfaction; Canstar’s 2025 national satisfaction winner | Service-focused customers"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Won Canstar&#x27;s 2025 national Most Satisfied Customers award | People prioritising customer satisfaction"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">QBE</th><td class="cmp-cell" title="Comprehensive cover"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="VIC, SA, WA | Good value contender"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Worth checking alongside the cheapest"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="2025 Canstar Home Insurance Award winner | Another strong national option"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td><td class="cmp-cell" title="⭐⭐⭐⭐½ | Good option if comprehensive/flood cover is particularly important; Mozo&#x27;s 2026 guide selected QBE for flood cover."><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td></tr><tr><th class="cmp-brand">Budget Direct</th><td class="cmp-cell" title="Lower premiums"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Particularly QLD &amp; SA | ⭐ Often very price-focused"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td><td class="cmp-cell" title="⭐⭐⭐⭐ | Often worth checking for a competitive price; recent Australian customer reports also mention straightforward claims experiences."><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td><td class="cmp-cell" title="Price-focused shoppers"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">NRMA Insurance</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Strongest current national customer-satisfaction results; Finder 2026 named it Most Recommended nationally and Easiest to Claim | Best overall national pick"><span class="meter" style="--pct:97%" aria-hidden="true"></span><span class="meter-val">0.97</span></td><td class="cmp-cell" title="Strong recent trust and customer-satisfaction results, particularly in NSW | Homeowners wanting a large, established insurer"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td><td class="cmp-cell" title="⭐⭐⭐⭐⭐ | Strong national claims/customer results; Finder named it the 2026 national “Most Recommended” and “Easiest to Claim” provider."><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td></tr><tr><th class="cmp-brand">RACQ</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Exceptional customer experience and claims ratings in CHOICE’s 2025 survey | Queensland homeowners"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td><td class="cmp-cell" title="Excellent customer experience and claims ratings in CHOICE’s survey | Queensland homeowners"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td><td class="cmp-cell" title="⭐⭐⭐⭐⭐ | Particularly strong choice in Queensland; won Finder’s 2026 “Most Loved” and “Legendary Service” home insurance awards in QLD."><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td></tr><tr><th class="cmp-brand">Suncorp</th><td class="cmp-cell" title="Contents / established insurer"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Major established insurer; particularly worth comparing for Queensland and higher-risk properties | Homeowners wanting a large insurer"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td><td class="cmp-cell" title="⭐⭐⭐⭐ | Established major insurer and worth quoting, particularly in Queensland."><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td></tr><tr><th class="cmp-brand">Apia</th><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Most states | ⭐ Worth quoting, especially eligible customers"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Older homeowners"><span class="meter" style="--pct:88%" aria-hidden="true"></span><span class="meter-val">0.88</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">GIO</th><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="NSW, VIC, WA | ⭐ Often cheap"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="NSW/VIC/WA"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">RACV</th><td class="cmp-cell" title="Victorian homeowners"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Strong customer experience results | Victoria"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">RAA</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Very strong customer experience and value ratings | South Australia"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">RAC</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Strong customer experience results | Western Australia"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td><td class="cmp-empty">&mdash;</td></tr></tbody>
+              </table>
+            </div>
+          </div>
+        
+          <div class="cmp-block">
+            <h3>Motorcycle Insurance</h3>
+            <p class="cmp-note">Word shift (0&ndash;1) between each brand's unmodified positioning and its
+              positioning once the column's modifier is added. Hover a cell for the perturbed phrase itself;
+              &mdash; means that brand/modifier pair wasn't observed in the corpus.</p>
+            <div class="table-wrap">
+              <table class="cmp-table">
+                <thead><tr><th class="cmp-brand-head">Brand</th><th>cheapest</th><th>easiest</th><th>most popular</th><th>most reliable</th><th>most trusted</th><th>premium</th><th>safest</th></tr></thead>
+                <tbody><tr><th class="cmp-brand">AAMI</th><td class="cmp-cell" title="Widely available, but not always cheapest | Sample NSW quote $2,113.06"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Simple online quotes, paperless claims, broad motorcycle coverage | ✅"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Mainstream comprehensive cover"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td><td class="cmp-cell" title="Value"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Mainstream alternative"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td><td class="cmp-cell" title="Mainstream comprehensive cover | Riding apparel included as standard, with additional customisation options"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">Shannons</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Enthusiast/classic bikes"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td><td class="cmp-cell" title="Best overall / enthusiasts"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="🏆 Overall trust / enthusiast bikes"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td><td class="cmp-cell" title="Enthusiast, modified, classic or higher-value bikes | Agreed value, modifications/accessories, helmet &amp; riding gear, choice of repairer"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-cell" title="⭐ Best for enthusiast/custom bikes | Worth quoting if your bike is modified, collectible or you want specialist motorcycle-oriented cover."><span class="meter" style="--pct:81%" aria-hidden="true"></span><span class="meter-val">0.81</span></td></tr><tr><th class="cmp-brand">Budget Direct</th><td class="cmp-cell" title="Strong price/online discount | Sample NSW comprehensive quote $1,062.22; 15% first-year online discount may apply"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td><td class="cmp-cell" title="Easy online quote and often competitive on price; comprehensive cover available | ✅"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-cell" title="Budget pricing"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Best for price comparison | Often competitive on premiums; however, I&#x27;d compare the actual PDS/excesses rather than choosing solely on price."><span class="meter" style="--pct:90%" aria-hidden="true"></span><span class="meter-val">0.90</span></td></tr><tr><th class="cmp-brand">National Motorcycle Insurance</th><td class="cmp-cell" title="Good motorcycle-specific coverage | Sample NSW comprehensive quote $1,479.31; particularly strong inclusions"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Motorcycle-focused insurance"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Best specialist coverage"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td><td class="cmp-cell" title="Riders wanting motorcycle-specific cover | Specialist motorcycle insurer; strong comprehensive feature set, choice of repairer and gear cover"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">QBE</th><td class="cmp-cell" title="Worth quoting, especially for some rider profiles | Sample NSW quote $1,732.22, although individual quotes can be much cheaper"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Worth getting a quote, particularly if the others are expensive | ✅"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Value / broad cover"><span class="meter" style="--pct:50%" aria-hidden="true"></span><span class="meter-val">0.50</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Riders wanting a mainstream insurer with strong cover | Comprehensive cover, agreed/market value options and substantial riding-gear cover"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">Youi</th><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Good online quote process and relatively easy-to-understand policies | ✅"><span class="meter" style="--pct:92%" aria-hidden="true"></span><span class="meter-val">0.92</span></td><td class="cmp-cell" title="Overall features &amp; service"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Everyday riders wanting strong all-round cover | Comprehensive cover with gear and roadside assistance included in its motorcycle policy"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Worth comparing | Offers motorcycle cover with flexible excess and up to $20m legal liability."><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td></tr><tr><th class="cmp-brand">NRMA</th><td class="cmp-cell" title="Often very competitive on comprehensive | Finder&#x27;s 2026 profile found it cheapest among its sample, averaging $756.38/year"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Very straightforward online process; comprehensive motorcycle cover; currently offers up to 10% off the first year when bought online | ✅"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Riders prioritising mainstream insurer/value | Competitive comprehensive pricing in current comparisons"><span class="meter" style="--pct:87%" aria-hidden="true"></span><span class="meter-val">0.87</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">RACV</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Victoria / good comprehensive benefits"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr></tbody>
+              </table>
+            </div>
+          </div>
+        
+          <div class="cmp-block">
+            <h3>Roadside Assistance</h3>
+            <p class="cmp-note">Word shift (0&ndash;1) between each brand's unmodified positioning and its
+              positioning once the column's modifier is added. Hover a cell for the perturbed phrase itself;
+              &mdash; means that brand/modifier pair wasn't observed in the corpus.</p>
+            <div class="table-wrap">
+              <table class="cmp-table">
+                <thead><tr><th class="cmp-brand-head">Brand</th><th>best</th><th>cheapest</th><th>easiest</th><th>most affordable</th><th>most popular</th><th>most reliable</th></tr></thead>
+                <tbody><tr><th class="cmp-brand">Budget Direct</th><td class="cmp-cell" title="Best cheap option"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td><td class="cmp-cell" title="$89.95 | Cheapest; 20 km towing"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Cheapest/simple option"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="$76.46 first year | 15% online discount; then $89.95/yr"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Australia-wide | Lower-cost standalone roadside option."><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">NRMA</th><td class="cmp-cell" title="Best overall"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Everyday Care | $112/yr | 25 km metro towing"><span class="meter" style="--pct:83%" aria-hidden="true"></span><span class="meter-val">0.83</span></td><td class="cmp-cell" title="Everyday Care | $112–$140 | Simple monthly/annual options, unlimited callouts, national reciprocal coverage"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td><td class="cmp-cell" title="$112/yr | Everyday Care; 25 km metro towing"><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td><td class="cmp-cell" title="NSW, ACT | One of Australia&#x27;s biggest motoring clubs; Finder&#x27;s 2026 &quot;Most Loved Roadside Assistance&quot; winner."><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Frequent interstate travel"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td></tr><tr><th class="cmp-brand">RACQ</th><td class="cmp-cell" title="Best for Queensland"><span class="meter" style="--pct:82%" aria-hidden="true"></span><span class="meter-val">0.82</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Everyday | $109 | Very simple basic plan; includes up to 20 km towing"><span class="meter" style="--pct:96%" aria-hidden="true"></span><span class="meter-val">0.96</span></td><td class="cmp-cell" title="$80/yr | Everyday Lite; vehicle-based, and no towing"><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td><td class="cmp-cell" title="Queensland | Huge Queensland membership base (1.7m+); several roadside tiers."><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td><td class="cmp-cell" title="Queensland / Australia-wide trips"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td></tr><tr><th class="cmp-brand">RACV</th><td class="cmp-cell" title="Best for Victoria"><span class="meter" style="--pct:90%" aria-hidden="true"></span><span class="meter-val">0.90</span></td><td class="cmp-cell" title="Roadside Care | $138/yr | 20 km towing"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Basic roadside plan | ~\$138+ | Easy app/callout process; particularly convenient in Victoria"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Victoria | Major Victorian motoring club; 2+ million members across its services."><span class="meter" style="--pct:93%" aria-hidden="true"></span><span class="meter-val">0.93</span></td><td class="cmp-cell" title="Victoria / Melbourne"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td></tr><tr><th class="cmp-brand">RAA</th><td class="cmp-cell" title="Best for SA"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="SA | South Australia&#x27;s major motoring club."><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td><td class="cmp-cell" title="South Australia"><span class="meter" style="--pct:60%" aria-hidden="true"></span><span class="meter-val">0.60</span></td></tr><tr><th class="cmp-brand">RACT</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Tasmania | Tasmania&#x27;s main motoring club."><span class="meter" style="--pct:88%" aria-hidden="true"></span><span class="meter-val">0.88</span></td><td class="cmp-cell" title="Tasmania"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td></tr><tr><th class="cmp-brand">AANT</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="NT | Northern Territory&#x27;s major motoring organisation."><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">RAC</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="WA | Western Australia&#x27;s major motoring club."><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td><td class="cmp-empty">&mdash;</td></tr></tbody>
+              </table>
+            </div>
+          </div>
+        
+          <div class="cmp-block">
+            <h3>Travel Insurance</h3>
+            <p class="cmp-note">Word shift (0&ndash;1) between each brand's unmodified positioning and its
+              positioning once the column's modifier is added. Hover a cell for the perturbed phrase itself;
+              &mdash; means that brand/modifier pair wasn't observed in the corpus.</p>
+            <div class="table-wrap">
+              <table class="cmp-table">
+                <thead><tr><th class="cmp-brand-head">Brand</th><th>cheapest</th><th>easiest</th><th>most affordable</th><th>most popular</th><th>most trusted</th><th>safest</th><th>worst</th></tr></thead>
+                <tbody><tr><th class="cmp-brand">1Cover</th><td class="cmp-cell" title="Often inexpensive for international trips | Worth quoting"><span class="meter" style="--pct:91%" aria-hidden="true"></span><span class="meter-val">0.91</span></td><td class="cmp-cell" title="Price-conscious travellers"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Cheap comprehensive cover"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Specialist travel insurer; says it has served over 2 million customers"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="💰 Value"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">Cover-More</th><td class="cmp-cell" title="Usually not the absolute cheapest, but worth comparing for broader cover | Good value on some trips"><span class="meter" style="--pct:95%" aria-hidden="true"></span><span class="meter-val">0.95</span></td><td class="cmp-cell" title="People wanting a traditional insurer"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Large, established travel insurer; broad international cover"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td><td class="cmp-cell" title="👨‍👩‍👧 Comprehensive cover"><span class="meter" style="--pct:60%" aria-hidden="true"></span><span class="meter-val">0.60</span></td><td class="cmp-cell" title="Comprehensive cover + medical assistance"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">World Nomads</th><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Backpacking/adventure trips"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Particularly popular with backpackers, long trips and adventure travellers"><span class="meter" style="--pct:67%" aria-hidden="true"></span><span class="meter-val">0.67</span></td><td class="cmp-cell" title="🥾 Adventure travel"><span class="meter" style="--pct:88%" aria-hidden="true"></span><span class="meter-val">0.88</span></td><td class="cmp-cell" title="Adventure/longer trips, but compare policy carefully"><span class="meter" style="--pct:73%" aria-hidden="true"></span><span class="meter-val">0.73</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">InsureandGo</th><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="⭐ Easiest overall"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Cheap international cover"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-cell" title="Broad range of international and domestic travel policies"><span class="meter" style="--pct:38%" aria-hidden="true"></span><span class="meter-val">0.38</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">Allianz</th><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Mainstream, simple cover"><span class="meter" style="--pct:86%" aria-hidden="true"></span><span class="meter-val">0.86</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Major insurer with Basic, Comprehensive, Domestic and Multi-Trip policies"><span class="meter" style="--pct:75%" aria-hidden="true"></span><span class="meter-val">0.75</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">NRMA</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Travel insurance from a major Australian insurance brand"><span class="meter" style="--pct:80%" aria-hidden="true"></span><span class="meter-val">0.80</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Good mainstream alternative"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">AIG</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Recent high-profile dispute involving a major medical claim and a pre-existing-condition interpretation."><span class="meter" style="--pct:94%" aria-hidden="true"></span><span class="meter-val">0.94</span></td></tr><tr><th class="cmp-brand">Tick Travel Insurance</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Low-cost policies"><span class="meter" style="--pct:100%" aria-hidden="true"></span><span class="meter-val">1.00</span></td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td></tr><tr><th class="cmp-brand">Travel Insurance Direct</th><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-empty">&mdash;</td><td class="cmp-cell" title="Competitive comprehensive policies"><span class="meter" style="--pct:71%" aria-hidden="true"></span><span class="meter-val">0.71</span></td><td class="cmp-empty">&mdash;</td></tr></tbody>
+              </table>
+            </div>
+          </div>
+        
+        </div>
+    
+
+      <footer class="method">
+        <h3>How to read this</h3>
+        <ul>
+          <li><b>Word shift</b> is Jaccard distance between the unmodified and perturbed positioning phrases
+            (0 = identical wording, 1 = no words in common). It's a literal text-overlap measure, not a
+            semantic one &mdash; two phrases can score high on word shift while saying something similar in
+            different words, or low while making a subtly different claim. The quoted phrases are the primary
+            evidence; the number is supporting context.</li>
+          <li>The <b>side-by-side comparison tables</b> pool every brand observed in a category, including the
+            under-sampled ones above &mdash; a single cell there can rest on just one paired observation, so
+            read a lone extreme value as a data point to investigate, not a settled finding.</li>
+          <li>Only <b>single-modifier</b> pairs are shown &mdash; one query with no modifier compared against
+            the same question with exactly one quality word added (&ldquo;cheapest&rdquo;, &ldquo;safest&rdquo;,
+            &hellip;). Queries carrying two stacked signals (a modifier plus a follow-on refinement clause like
+            &ldquo;&hellip;with monthly payments&rdquo;) were excluded so each row isolates one variable.</li>
+          <li>Positioning phrases are extracted from ChatGPT's own comparison-table cells (the &ldquo;best
+            for&rdquo;/&ldquo;my take&rdquo;/strengths column), not written or paraphrased by this analysis.</li>
+          <li><b>NRMA</b> and <b>NRMA Insurance</b> are kept as separate rows because ChatGPT itself
+            distinguishes them in these tables &mdash; the motoring-club roadside brand and the underwritten
+            insurance brand &mdash; not merged, to avoid overstating either one's data.</li>
+        </ul>
+      </footer>
+    </main>
+  </div>
+</div>
