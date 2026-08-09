@@ -1,5 +1,5 @@
 # AEO-research
-Somantra AEO Research data and reports
+[Somantra](https://somantra.ai) AEO Research data and reports
 
 ## Studies
 

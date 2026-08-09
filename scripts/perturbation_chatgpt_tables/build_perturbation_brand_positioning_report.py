@@ -336,6 +336,7 @@ a {{ color: var(--signal-strong); }}
   font-size: 1.15rem;
   letter-spacing: 0.01em;
   color: var(--signal-strong);
+  text-decoration: none;
 }}
 
 .masthead-dot {{
@@ -840,7 +841,7 @@ html {{ scroll-behavior: smooth; }}
 
 <div class="wrap">
   <div class="masthead">
-    <span class="masthead-mark">Somantra</span>
+    <a class="masthead-mark" href="https://somantra.ai">Somantra</a>
     <span class="masthead-dot" aria-hidden="true"></span>
     <span class="masthead-tag">AI Search Brand Intelligence</span>
   </div>
