@@ -1,0 +1,12 @@
+2,160d5c4f-94e0-4ede-a559-47cb8b9253de,08080130-1126-0626-0000-cb718623ca20,89638b50-5eb2-4422-99ca-fb133e6431d0,2026-08-08T13:01:25.618300+10:00
+Least reliable roadside assistance for motorcycles in Australia compared to other providers
+Tables found: 1
+| Provider | Motorcycle suitability | Main concern |
+|---|---|---|
+| **Youi** | 🔴 **Weakest of the mainstream options** | Only 20 km metro / 50 km regional towing; first 2 call-outs included, then $150 each |
+| **RACV** | 🟠 Limited | Motorcycle assistance is essentially **fuel or towing**, rather than motorcycle troubleshooting |
+| **NRMA** | 🟢 Good | Better towing options, up to 100 km on Ultimate Care |
+| **Allianz** | 🟢 Good | 50 km Basic / 100 km Platinum; nationwide network |
+| **RACQ** | 🟢 Good | Strong option for Queensland, particularly for longer trips |
+| **Motorcycle-specialist providers** | 🟢🟢 **Best fit** | Usually designed around motorcycle towing/recovery rather than generic car assistance |
+End Of Line

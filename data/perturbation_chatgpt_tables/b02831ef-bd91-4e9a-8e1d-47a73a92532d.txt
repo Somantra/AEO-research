@@ -1,0 +1,11 @@
+2,5f62a248-8f33-4e01-b0d5-e2b6962aff7a,08080127-1126-0626-0000-8dca30f7df34,b02831ef-bd91-4e9a-8e1d-47a73a92532d,2026-08-08T12:53:28.423619+10:00
+Premium home insurance for older properties in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Why consider it for an older home |
+|---|---|---|
+| **Allianz** | ✅ | Online building/home & contents quotes; covers rebuilding after insured events and has a building replacement calculator. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| **Youi** | ✅ | Offers home insurance and specifically markets cover to seniors; quotes can be started online. [www.youi.com.au](https://www.youi.com.au/home-insurance/seniors-home-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | ✅ | Very straightforward online quoting and currently advertises an online-purchase discount. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance.html?utm_source=chatgpt.com) |
+| **GIO** | ✅ | Online home insurance quoting with flexible cover options. [www.gio.com.au](https://www.gio.com.au/?utm_source=chatgpt.com) |
+| **QBE** | ✅ via comparison | Listed by Canstar with home & contents cover and new-for-old replacement. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+End Of Line

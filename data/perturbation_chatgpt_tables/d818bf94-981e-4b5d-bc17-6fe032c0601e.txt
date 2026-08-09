@@ -1,0 +1,11 @@
+2,7148fa65-53dd-455d-be02-dfaeab69a4be,08080133-1126-0626-0000-20311cd8ccf0,d818bf94-981e-4b5d-bc17-6fe032c0601e,2026-08-08T13:11:02.567388+10:00
+Most trusted travel insurance for business trips in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims indication |
+|---|---|---|
+| **1Cover** | Strong claims/customer-service reputation and straightforward online claims | Says claims take **up to 10 business days** once all relevant documents are received; won 2024 WeMoney *Outstanding Claims Experience* and 2025 LMI Claims Service Rating. [www.1cover.com.au](https://www.1cover.com.au/faqs/claiming/submitting-a-claim/?utm_source=chatgpt.com) |
+| **Fast Cover** | **Best fit specifically for business travellers**; dedicated business-travel product and Australian-based support | Says claims are reviewed/updated within **10 business days** after submission with required documents. [fastcover.com.au](https://fastcover.com.au/business-travel-insurance?utm_source=chatgpt.com) |
+| **World2Cover** | Particularly interesting if claims experience is your top concern | Won Finder's **2025 "Easiest to Claim"** award, based on thousands of customer reviews. [www.world2cover.com.au](https://www.world2cover.com.au/w2cawards?utm_source=chatgpt.com) |
+| **Allianz Australia** | Large, established insurer with online claim tracking | Online claims, but Allianz currently says a travel-claims consultant will contact you within **10 business days**. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/claims.html?utm_source=chatgpt.com) |
+| **Cover-More** | Major travel specialist with a well-developed online claims portal | Online claims are easy to lodge, but its claims portal currently says a team member may contact you within **30 working days**, so I'd rank it lower if speed is paramount. [claims.covermore.com.au](https://claims.covermore.com.au/BW/TravelClaims?utm_source=chatgpt.com) |
+End Of Line

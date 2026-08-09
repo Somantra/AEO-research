@@ -1,0 +1,9 @@
+2,d38e41a3-d5a4-4203-bd85-f64f0dd6a82a,08080141-1126-0626-0000-923ead26b307,f3b4290b-aa49-4702-9f86-6d13e6ce8aad,2026-08-08T13:27:56.573854+10:00
+Easiest accident-only pet insurance in Australia with strong customer reviews
+Tables found: 1
+| Provider | Accident-only availability | Customer reputation | Ease |
+|---|---|---|---|
+| **RSPCA Pet Insurance** | ✅ Available | Good | ⭐⭐⭐⭐ |
+| **PetSure/Pet Insurance Australia** | ⚠️ Existing-policy only for its standalone Accident Only product | Strong brand/claims infrastructure | ⭐⭐⭐ |
+| **Other budget accident-only policies** | Varies | Mixed | ⭐⭐⭐ |
+End Of Line

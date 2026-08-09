@@ -1,0 +1,9 @@
+2,51f7bebf-595c-4ef1-9ed0-95005f022d29,08080141-1126-0626-0000-fd70b84ac3bc,b1a939da-47c3-4369-843d-a9962ca43e61,2026-08-08T13:27:45.543962+10:00
+Worst accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Policy | My assessment | Main issue |
+|---|---|---|
+| **PetsOnMe Accident Plan** | 🔴 **Avoid** | $5k annual cap + no cruciate + upfront vet payment |
+| **Other basic/low-limit policies** | 🟠 Caution | Can leave substantial gaps despite cheap premiums |
+| **Higher-limit accident/comprehensive policies** | 🟢 Better | More protection against a major vet bill |
+End Of Line

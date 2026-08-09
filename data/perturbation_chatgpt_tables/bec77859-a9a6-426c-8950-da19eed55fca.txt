@@ -1,0 +1,9 @@
+2,083e035b-bbfb-408f-9140-e53182cddc7b,08080141-1126-0626-0000-ffe5a8fcd3cc,bec77859-a9a6-426c-8950-da19eed55fca,2026-08-08T13:28:15.303719+10:00
+Premium accident-only pet insurance in Australia with monthly payments
+Tables found: 1
+| Provider | Accident-only? | Monthly payments | Key point |
+|---|---|---|---|
+| **Ruff n Tumble** | ✅ | **$40/month** | Dogs only; any age/breed; no annual claim limit |
+| **Pet Insurance Australia (PIA)** | ⚠️ Limited availability | Monthly available | Their accident-only product appears to be restricted to existing/renewing customers |
+| **PetsOnMe** | ✅ | Monthly pricing available | Offers accident-only as well as accident & illness cover |
+End Of Line

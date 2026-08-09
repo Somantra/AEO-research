@@ -1,0 +1,9 @@
+2,ffdd5342-72ad-460e-b312-b7e848468da6,08080141-1126-0626-0000-77d7331285a5,f000ee6d-deb9-4d15-a238-620ee8342450,2026-08-08T13:26:58.852006+10:00
+Most reliable pet insurance for exotic pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Exotic pets | Customer reviews | My take |
+|---|---|---|---|
+| **Petcover** | ✅ Yes | ⚠️ 3.0/5 | **Best/most obvious choice for exotics, but read PDS carefully** |
+| **Bow Wow Meow** | ❌ Dogs/cats | ⭐ Strong | Excellent reviews, **but not suitable for exotic pets** |
+| **Pet Insurance Australia** | ❌ Dogs/cats | ⭐ Strong | Good conventional pet insurer, **not exotics** |
+End Of Line

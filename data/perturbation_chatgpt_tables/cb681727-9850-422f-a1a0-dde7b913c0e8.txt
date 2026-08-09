@@ -1,0 +1,12 @@
+2,aff231da-6ce1-4fcd-b26c-7cad593abbad,08080133-1126-0626-0000-8c3723758b01,cb681727-9850-422f-a1a0-dde7b913c0e8,2026-08-08T13:09:10.093262+10:00
+Premium standalone roadside assistance cover in Australia compared to other providers
+Tables found: 1
+| Provider / premium plan | Approx. annual price | Towing | Call-outs | Key advantage |
+|---|---:|---:|---|---|
+| **Allianz Platinum** | **$139+** | **100 km** | 24/7 Australia-wide | Excellent value for a premium-style plan |
+| **NRMA Ultimate Care** | **$299 RRP** | **100 km** | Unlimited | Strong all-round national option |
+| **RACV Total Care** | **$318** | **100 km** | Unlimited | Excellent for Victoria + interstate travel |
+| **RACQ Ultra Care** | **$227** | 60 km | Unlimited | Very good personal + vehicle coverage |
+| **RAA Premium** | **$293** | 50 km metro / up to 200 km country* | Unlimited | Excellent personal coverage |
+| Budget Direct | ~$90 | More limited | Unlimited | Cheap rather than genuinely premium |
+End Of Line

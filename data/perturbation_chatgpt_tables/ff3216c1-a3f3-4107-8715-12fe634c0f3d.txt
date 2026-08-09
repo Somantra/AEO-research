@@ -1,0 +1,10 @@
+2,a787fe07-f9b8-4a3d-b840-4523d4be2b12,08080139-1126-0626-0000-a1479243fe2f,ff3216c1-a3f3-4107-8715-12fe634c0f3d,2026-08-08T13:23:43.837402+10:00
+Easiest pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | Multi-pet discount | Online quote | Ease |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10%** on 2nd + subsequent pets | Instant/quick | ⭐⭐⭐⭐⭐ |
+| **Knose** | **5% lifetime** | ~60 seconds | ⭐⭐⭐⭐⭐ |
+| **RSPCA Pet Insurance** | **10%** on additional pets | Online | ⭐⭐⭐⭐ |
+| **Fetch Pet Insurance** | 5% | Online | ⭐⭐⭐⭐ |
+End Of Line

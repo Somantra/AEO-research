@@ -1,0 +1,11 @@
+2,917b806b-2d5b-4c62-a006-5826b92432fc,08080127-1126-0626-0000-c2a328dae8d2,9e94cda2-2fee-4ecb-8677-4b972d0153e1,2026-08-08T12:53:34.432352+10:00
+Cheapest home insurance for apartments in Australia with monthly payments
+Tables found: 1
+| Insurer | Often competitive for | Monthly payment |
+|---|---|---|
+| Budget Direct | Budget-focused home & contents policies | Usually available |
+| AAMI | Lower-cost quotes in many states | Usually available |
+| GIO | Competitive apartment/home quotes | Usually available |
+| Youi | Personalised pricing | Usually available |
+| QBE Insurance | Broad home cover options | Usually available |
+End Of Line

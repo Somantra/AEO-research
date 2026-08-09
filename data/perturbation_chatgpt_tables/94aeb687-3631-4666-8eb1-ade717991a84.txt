@@ -1,0 +1,10 @@
+2,42c06d6b-9c43-4ab2-b697-257f2dd2329e,08080140-1126-0626-0000-39c7f91ba79c,94aeb687-3631-4666-8eb1-ade717991a84,2026-08-08T13:24:38.423448+10:00
+Safest pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Pre-existing conditions | Hidden-cost risk | Why I'd consider it |
+|---|---|---|---|
+| **Knose** | Curable conditions may become eligible after being symptom-free; chronic pre-existing conditions remain excluded | **Low** | **No sub-limits**, annual excess, up to $25k cover, 70/80/90% reimbursement |
+| **Pet Insurance Australia** | Temporary conditions can potentially be reviewed after **18 months**; chronic conditions generally remain excluded | Low–moderate | Very explicit pre-existing-condition rules and review process |
+| **Medibank** | Similar **18-month review** pathway for temporary conditions | Moderate | Clear documentation and established insurer |
+| **Trupanion** | **Doesn't cover pre-existing conditions** | **Low for claim structure** | 90% cover, no payout limits, lifetime *per-condition* excess rather than resetting annually |
+End Of Line

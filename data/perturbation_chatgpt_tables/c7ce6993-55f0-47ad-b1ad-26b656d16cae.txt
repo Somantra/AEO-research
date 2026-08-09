@@ -1,0 +1,12 @@
+1,2ca9aed6-3fe9-494f-b0a7-067fe4b9ee99,08080124-1126-0626-0000-6ae624148ab6,c7ce6993-55f0-47ad-b1ad-26b656d16cae,2026-08-08T12:46:35.988866+10:00
+Most popular home insurance for older properties in Australia
+Tables found: 1
+| Insurer | Why consider it for an older home |
+|---|---|
+| **Budget Direct** | Very popular and often competitive on price; Finder currently describes it as its most popular insurer. [www.finder.com.au](https://www.finder.com.au/home-insurance/older-homes-insurance?utm_source=chatgpt.com) |
+| **QBE** | Strong mainstream option with comprehensive home & contents cover; worth checking where flood or other risks are relevant. [www.finder.com.au](https://www.finder.com.au/home-insurance/older-homes-insurance?utm_source=chatgpt.com) |
+| **Youi** | Particularly worth getting a quote because it assesses the individual property rather than simply relying on a generic price. Can be competitive for some older homes. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **AAMI / Suncorp** | Large mainstream insurers that are worth including in a comparison, particularly for established Australian homes. |
+| **Allianz** | Worth checking for older or unusual properties, especially if some mainstream insurers decline the property. |
+| **RACV** | A particularly strong option to investigate if the property is in Victoria; Canstar currently rates its home & contents product highly. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+End Of Line

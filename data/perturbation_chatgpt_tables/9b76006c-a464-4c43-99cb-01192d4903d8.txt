@@ -1,0 +1,11 @@
+2,b5786a2f-600c-4889-bee3-85a25b477ba3,08080128-1126-0626-0000-c98bfa8b0ddf,9b76006c-a464-4c43-99cb-01192d4903d8,2026-08-08T12:57:32.480243+10:00
+Most popular home insurance for flood-prone areas in Australia with instant online quotes
+Tables found: 1
+| Insurer | Flood cover | Online quote | Best for |
+|---|---|---|---|
+| **Budget Direct** | Optional, subject to eligibility | ✅ | Fast online comparison and potentially lower premiums |
+| **NRMA** | Storm & flood cover available | ✅ | Established insurer with substantial flood cover |
+| **QBE** | Flood available on eligible policies | ✅ | Broad home-insurance offering |
+| **AAMI** | Flood cover available | ✅ | Mainstream option |
+| **Youi** | Flood cover available on eligible policies | ✅ | Properties with more complex risk profiles |
+End Of Line

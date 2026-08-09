@@ -1,0 +1,19 @@
+2,11071b84-ff55-4963-a391-5bba31a9ee65,08080141-1126-0626-0000-baeebd66c31c,42ac4156-b575-4019-a3dd-ae2d4ded1217,2026-08-08T13:27:27.235358+10:00
+Most comprehensive pet insurance for exotic pets in Australia with monthly payments
+Tables found: 1
+| Feature | Petcover |
+|---|---|
+| **Monthly payments** | ✅ Yes — premiums can be paid monthly by direct debit [www.petcovergroup.com](https://www.petcovergroup.com/au/pet-insurance/?utm_source=chatgpt.com) |
+| **Illness** | ✅ |
+| **Accidental injury** | ✅ |
+| **Veterinary treatment** | ✅ |
+| **Diagnostics / specialist vets** | ✅ |
+| **Hospitalisation / surgery** | ✅ Subject to policy limits |
+| **Alternative therapies** | ✅ On eligible plans |
+| **Missing-pet advertising/reward** | ✅ |
+| **Third-party liability** | ✅ Up to **$1 million** |
+| **Dental** | ✅ Some small-mammal policies |
+| **Death/loss benefits** | ✅ Depending on plan/species |
+| **Maximum vet-fee benefit** | Up to **$6,000** for eligible exotic pets |
+| **Species range** | Birds, reptiles, turtles, rabbits, guinea pigs, ferrets, rats/mice and other eligible exotics |
+End Of Line

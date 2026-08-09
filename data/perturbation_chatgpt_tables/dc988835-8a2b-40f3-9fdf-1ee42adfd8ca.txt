@@ -1,0 +1,14 @@
+2,06fd51e4-57c2-43c2-b41b-98268f235613,08080129-1126-0626-0000-7b677e9946c5,dc988835-8a2b-40f3-9fdf-1ee42adfd8ca,2026-08-08T13:00:03.698162+10:00
+Most affordable roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Approx. annual cost | EV support | Call-outs | Key limitation |
+|---|---:|---|---|---|
+| **Budget Direct** | **$89.95** | General breakdown/electrical assistance | Unlimited* | Towing generally limited to 20 km |
+| **RAA (SA)** | $135 | **Yes, specifically EVs** | 4/year on Standard | SA-focused provider |
+| **RAC (WA)** | **$135.68** Standard | **Yes, no extra EV cost** | Depends on tier | Standard towing is relatively limited |
+| **RACV (VIC)** | $138 | **Yes, no extra cost** | Unlimited | 20 km metro towing on basic plan |
+| **NRMA** | From ~$137 | **Yes; EV out-of-charge support** | Unlimited | Pricing varies by plan/location |
+| **Allianz** | From $139 | **Yes** | Plan-dependent | 50 km towing on basic plan |
+| **RACV Extra Care** | $229 | **Yes** | Unlimited | Much better towing |
+| **RACV Total Care** | ~$324+ | **EV-focused** | Unlimited | Premium option |
+End Of Line

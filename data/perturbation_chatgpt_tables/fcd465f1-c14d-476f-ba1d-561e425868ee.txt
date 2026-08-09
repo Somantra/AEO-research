@@ -1,0 +1,12 @@
+2,ead81665-a4e4-4864-83dd-a93bc9bf465b,08080138-1126-0626-0000-2291cd4ff8a1,fcd465f1-c14d-476f-ba1d-561e425868ee,2026-08-08T13:22:12.406769+10:00
+Most popular pet insurance for dogs in Australia with monthly payments
+Tables found: 1
+| Provider | Best known for | Typical cover options |
+|---|---|---|
+| RSPCA Pet Insurance | Strong brand recognition and supporting animal welfare | Accident + illness, comprehensive options, high annual limits [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| Medibank | Backed by a major health insurer; higher-end cover options | Up to around 90% reimbursement on eligible vet bills on some plans [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/dog-insurance/?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Specialist pet insurer with broad dog cover options | Accident & illness, comprehensive plans [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| Budget Direct | Often considered by price-conscious owners | Accident + illness and comprehensive options [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com) |
+| Petcover | Range of cover levels and reimbursement choices | Accident, illness and higher cover tiers [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com) |
+| Knose | Newer digital-first option | Comprehensive dog cover options [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+End Of Line

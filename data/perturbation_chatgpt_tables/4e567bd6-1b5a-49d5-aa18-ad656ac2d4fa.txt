@@ -1,0 +1,13 @@
+2,4f98da33-6715-438a-b702-cc8ad04aa84d,08080129-1126-0626-0000-4c23fab707f9,4e567bd6-1b5a-49d5-aa18-ad656ac2d4fa,2026-08-08T13:00:11.036806+10:00
+Worst roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV roadside support | Out-of-charge help | Towing | My take |
+|---|---|---|---|---|
+| **RACV** | ⭐⭐⭐⭐⭐ | Strong | Excellent on higher plans | **Best overall** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Strong | Good, plan-dependent | **Excellent** |
+| **RAA (SA)** | ⭐⭐⭐⭐⭐ | Mobile charging in Adelaide | Good, plan-dependent | **Excellent in SA** |
+| **NRMA** | ⭐⭐⭐⭐ | Mobile EV charger or tow | Basic plans can be restrictive | **Good, but plan matters** |
+| **AANT** | ⭐⭐⭐⭐ | Mobile charging in Darwin | More limited regionally | **Good for NT** |
+| **RAC / RACT** | ⭐⭐⭐–⭐⭐⭐⭐ | More dependent on circumstances | Plan-dependent | **Middle of pack** |
+| **Manufacturer/insurer assistance** | ⭐⭐–⭐⭐⭐⭐ | Often limited | Often dealer-oriented | **Very variable** |
+End Of Line

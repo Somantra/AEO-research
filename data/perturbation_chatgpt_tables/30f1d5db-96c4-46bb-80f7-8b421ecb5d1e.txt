@@ -1,0 +1,12 @@
+2,0eb0a619-7b7d-4289-9def-9267e9ee93f7,08080142-1126-0626-0000-86a70ae496f1,30f1d5db-96c4-46bb-80f7-8b421ecb5d1e,2026-08-08T13:29:05.352709+10:00
+Most popular pet insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Online quote | Notable cover | Good for |
+|---|---|---|---|
+| **[Knose](https://www.knose.com.au/)** | **~60 sec** | Up to $25k annual limit, flexible excess/benefit % | Easy comparison & customisation |
+| **[Petsy](https://petsy.com.au/)** | **A few minutes** | No sub-limits, customisable cover | Broad cover & value |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | **Minutes** | Up to $35k annual limit, optional extras | High annual limits |
+| **[Petinsurance.com.au](https://www.petinsurance.com.au/)** | **<1 minute** | Up to $30k, up to 80% back, $0 excess option | Fastest quote |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | **Quick online quote** | Up to $30k / 90% depending on plan | Existing Medibank customers |
+| **[RSPCA Pet Insurance](https://www.rspca.org.au/pet-insurance/)** | **Quick quote** | Up to $35k, no tricky sub-limits on new product | Supporting animal welfare |
+End Of Line

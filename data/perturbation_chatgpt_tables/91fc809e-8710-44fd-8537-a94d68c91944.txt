@@ -1,0 +1,12 @@
+2,8910667e-a6d7-45eb-8e02-6aeedc28579b,08080117-1126-0626-0000-d9c81cc208df,91fc809e-8710-44fd-8537-a94d68c91944,2026-08-08T12:30:30.523817+10:00
+Premium car insurance for P-plate drivers in Australia compared to other providers
+Tables found: 1
+| Provider | P-plater suitability | Main advantage | Watch out for |
+|---|---|---|---|
+| **AAMI** | ⭐⭐⭐⭐⭐ | Often competitive for young drivers; flexible excess | Under-25 age excess; unlisted young driver can be costly |
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | Often very price-competitive | Under-25 driver-age excess; household drivers need to be listed |
+| **Youi** | ⭐⭐⭐⭐ | Good customisation/service reputation | Quote can be very expensive for some young drivers |
+| **NRMA** | ⭐⭐⭐⭐ | Broad cover; P-platers explicitly supported | Young/unlisted-driver excesses |
+| **RACV** | ⭐⭐⭐⭐ | Particularly worth checking in Victoria; strong comprehensive options | Young-driver age excess |
+| **ROLLiN'** | ⭐⭐⭐⭐ | Specifically attractive for younger drivers | Compare the actual policy benefits/excess, not just premium |
+End Of Line

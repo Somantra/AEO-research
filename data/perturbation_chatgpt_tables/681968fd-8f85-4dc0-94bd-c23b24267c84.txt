@@ -1,0 +1,10 @@
+2,0878eb0f-c181-47b5-933d-e1ad474a74f2,08080140-1126-0626-0000-fb24ee8c587a,681968fd-8f85-4dc0-94bd-c23b24267c84,2026-08-08T13:24:42.382661+10:00
+Safest pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Online quote | Why consider it |
+|---|---|---|---|
+| **Fetch** | ❌ Generally excluded | ✅ | Strong choice if you want the insurer to check your pet's history **up front** rather than leaving everything until a claim. [www.fetchpet.com.au](https://www.fetchpet.com.au/articles/does-pet-insurance-cover-pre-existing-conditions?utm_source=chatgpt.com)[www.fetchpet.com.au](https://www.fetchpet.com.au/?utm_source=chatgpt.com) |
+| **Knose** | ❌ Generally excluded | ✅ ~60 sec | Very fast quote process, up to $25k annual limit and no sub-limits on its advertised cover. [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) |
+| **Petinsurance.com.au / PetSure products** | ⚠️ Temporary conditions may eventually be reconsidered | ✅ | PetSure says temporary pre-existing conditions can be automatically removed from exclusion after **18 consecutive months without symptoms**; chronic conditions remain excluded. [petsure.com.au](https://petsure.com.au/knowledge-hub/purchasing-pet-insurance-ask-these-questions-first/?utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | ⚠️ Case-by-case review | ✅ | Specifically allows you to request a review of a pre-existing condition; temporary conditions may sometimes be accepted. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/faqs/pre-existing-conditions/?utm_source=chatgpt.com) |
+End Of Line

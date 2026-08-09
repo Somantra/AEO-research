@@ -1,0 +1,11 @@
+1,e3b4c375-c1a6-4e22-9fc5-491f6c3a15d0,08080137-1126-0626-0000-128325869990,1bf8dc7f-c8be-4017-b141-244347485a1a,2026-08-08T13:19:42.947015+10:00
+Premium pet insurance providers in Australia
+Tables found: 1
+| Provider | Premium option | Annual limit | Reimbursement | Why consider it |
+|---|---|---:|---:|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | Comprehensive | Up to **$30,000** | 80%, 90% or 100% | Currently Finder's **2026 Best Comprehensive Pet Insurance**; no sub-limits and direct-to-vet claims |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | Pet Max + Extra Care | **$30,000** | Up to **90%** | Strong high-end cover, no sub-limits on several major conditions, GapOnly and 24/7 vet support [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/pet-insurance/)** | Nose-to-Tail | **$30,000** | Up to **90%** | No sub-limits, flexible excess and optional dental/specialist-care benefits [bowwowinsurance.com.au](https://bowwowinsurance.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| **[Petcover](https://www.petcovergroup.com/au/)** | Superior | **$20,000** | Up to **100%** | Particularly attractive if you want a very high reimbursement percentage and no sub-limits |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Platinum/Major Medical options | Varies | Varies | Long-established specialist pet insurer with higher-end accident & illness options |
+End Of Line

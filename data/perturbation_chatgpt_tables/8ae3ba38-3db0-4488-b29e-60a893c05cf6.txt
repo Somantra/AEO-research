@@ -1,0 +1,10 @@
+2,65666300-db69-4b88-a8bf-f921fef52852,08080132-1126-0626-0000-141fbdbefcbc,8ae3ba38-3db0-4488-b29e-60a893c05cf6,2026-08-08T13:07:43.883440+10:00
+Easiest roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Hybrid/EV support | Ease of getting help | Claims/process |
+|---|---|---|---|
+| **RACV Roadside Assistance** | **Excellent** | **Excellent** | **Very easy** |
+| **NRMA** | Good | Good | **Excellent online claims** |
+| **RACQ** | Good | Good | Easy |
+| AAMI roadside add-on | Good | Convenient if already insured with AAMI | **Very easy online** |
+End Of Line

@@ -1,0 +1,11 @@
+1,0c50a7e6-d202-44ae-be1d-73bb50a12ae3,08080136-1126-0626-0000-5a54f2cbf246,666b3a36-36fa-4daa-bc1a-301db3e03ae8,2026-08-08T13:16:21.967904+10:00
+Most trusted pet insurance for puppies and kittens in Australia
+Tables found: 1
+| Insurer | Why I’d consider it | Best for |
+|---|---|---|
+| **Fetch** | Up to **$30,000/year**, no sub-limits, dental/physio/behaviour included, and up to 100% reimbursement options | **Best overall comprehensive cover** |
+| **Petsy** | Up to **$30,000/year**, no sub-limits, Australian-based support, annual excess, and a **young-pet annual-limit bonus** | **Best for puppies/kittens** |
+| **Knose** | Up to **$25,000/year**, no sub-limits, 70/80/90% reimbursement choices, Australian customer care and 24/7 vet-nurse support | **Best flexible alternative** |
+| **Medibank Pet Max** | Up to **$30,000/year and 90% back**, with GapOnly available | **Good if direct-at-vet claiming matters** |
+| **RSPCA PetFlex** | Up to **$35,000/year**, up to 90% back and no sub-limits | **High annual-limit option** |
+End Of Line

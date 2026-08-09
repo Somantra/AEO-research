@@ -1,0 +1,14 @@
+2,e99a188b-3a28-421f-8d60-5588d97aad1f,08080119-1126-0626-0000-b0fbbf24d067,09810976-b9c1-4805-9b1b-94b3d2d2fe86,2026-08-08T12:34:17.490158+10:00
+Least reliable car insurance for used cars in Australia compared to other providers
+Tables found: 1
+| Insurer | Customer satisfaction | Claims experience | My take |
+|---|---:|---:|---|
+| **Allianz** | 61% | 69% | ⚠️ One of the weaker performers |
+| **AAMI** | 62% | 64% | ⚠️ Below average |
+| **Budget Direct** | 62% | **52%** | 🚩 Biggest concern for claims |
+| **RACV** | 64% | 66% | ⚠️ Below average |
+| Suncorp | 68% | 75% | Reasonable/mid-pack |
+| NRMA | 72% | 78% | 👍 Above average |
+| Youi | 77% | 73% | 👍 Strong overall |
+| RACQ | **85%** | **85%** | ⭐ Very strong |
+End Of Line

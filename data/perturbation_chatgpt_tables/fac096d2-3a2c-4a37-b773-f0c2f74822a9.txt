@@ -1,0 +1,12 @@
+1,15b3e789-110c-423a-a2b1-461a94794f99,08080136-1126-0626-0000-b76f05d76d30,fac096d2-3a2c-4a37-b773-f0c2f74822a9,2026-08-08T13:18:05.454376+10:00
+Safest pet insurance for exotic pets in Australia
+Tables found: 1
+| Pet | I'd look at |
+|---|---|
+| 🦜 Parrot/cockatoo/macaw | **Premier** |
+| 🦎 Bearded dragon/gecko | **Premier** |
+| 🐢 Turtle/tortoise | **Premier** |
+| 🐰 Rabbit | **Plus** |
+| 🐹 Guinea pig | **Plus** |
+| 🐀 Rat/mouse/ferret | **Plus** |
+End Of Line

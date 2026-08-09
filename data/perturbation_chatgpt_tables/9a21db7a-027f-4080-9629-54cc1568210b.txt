@@ -1,0 +1,10 @@
+2,6add7d92-c123-4785-a3d7-834f7905ec6d,08080125-1126-0626-0000-e904b58622d0,9a21db7a-027f-4080-9629-54cc1568210b,2026-08-08T12:48:32.617866+10:00
+Worst motorcycle insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | My take | Why |
+|---|---|---|
+| **Swann** | 🔴 **Most concerning** | Poorer customer-review scores and a noticeable number of complaints about claims/service. ProductReview currently shows **2.2/5 from 25 comprehensive-policy reviews**, with 78% negative vs positive. [www.productreview.com.au](https://www.productreview.com.au/listings/swann-comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | 🟠 **Mixed** | Not necessarily “bad”, but can be expensive for comparable cover. Finder notes its comprehensive motorcycle premiums are often higher than some competitors. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/nrma-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | 🟠 **Very quote-dependent** | Can be extremely expensive for higher-risk riders/bikes. Recent Australian rider reports show enormous quote differences depending on age, licence and bike. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1vbjwgb/insurance_quotes/?utm_source=chatgpt.com) |
+| **Budget Direct** | 🟡 **Worth checking carefully** | Can be competitive on price and received an “Easy to Claim” recognition in Finder's 2026 awards, but I'd compare the actual PDS rather than assuming cheap = good. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/motorcycle-insurance-satisfaction?utm_source=chatgpt.com) |
+End Of Line

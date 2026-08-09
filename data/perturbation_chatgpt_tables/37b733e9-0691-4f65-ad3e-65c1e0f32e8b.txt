@@ -1,0 +1,10 @@
+2,07e86c62-6382-4595-9154-ca76691fad2a,08080118-1126-0626-0000-bbf4ebc7b56b,37b733e9-0691-4f65-ad3e-65c1e0f32e8b,2026-08-08T12:33:43.336934+10:00
+Premium car insurance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why consider it | Claims / EV strengths |
+|---|---|---|
+| **RACV** | Strong EV-specific offering, particularly attractive in Victoria | EV-qualified repair network, cover for charging cables/adaptors, and agreed-value option. [www.racv.com.au](https://www.racv.com.au/insurance/car-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **Allianz** | Probably my first pick if **claims experience** is a priority | Allianz reports a **4.5/5 customer rating for comprehensive claims experience**; EV cover includes battery, charging cables/wall chargers and battery-fire damage. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) |
+| **Youi** | Good feature-rich alternative | Comprehensive EV policies include roadside assistance, including transport to the nearest charging station if you run out of charge; it won Best Features Car Insurance in the 2026 Finder Awards. [www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) |
+| **Budget Direct Gold** | Worth quoting if you want premium features without necessarily paying a premium price | 24/7 phone and online claims; it currently ranks strongly in Australian comprehensive comparisons. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/car-insurance-victoria/?utm_source=chatgpt.com) |
+End Of Line

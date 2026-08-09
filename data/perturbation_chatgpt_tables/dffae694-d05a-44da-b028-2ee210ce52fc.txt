@@ -1,0 +1,13 @@
+2,4234d16f-01b4-4bc7-9af5-3b6ab1b5cf31,08080131-1126-0626-0000-2dd1f948d9c2,dffae694-d05a-44da-b028-2ee210ce52fc,2026-08-08T13:05:51.008515+10:00
+Most trusted roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Current entry price* | Key towing cover | Fee transparency |
+|---|---|---:|---|---|
+| **NRMA** | Best overall in NSW/ACT | ~$112/yr | 25 km basic; up to 100 km higher tier | ⭐⭐⭐⭐⭐ |
+| **RACV** | Best in Victoria | $138/yr | Varies by tier | ⭐⭐⭐⭐½ |
+| **RACQ** | Best in Queensland | — | Strong regional coverage | ⭐⭐⭐⭐⭐ |
+| **RAA** | Best in South Australia | $135/yr | 10 km metro basic; up to 50 km premium | ⭐⭐⭐⭐ |
+| **RAC WA** | Best in Western Australia | $128/yr | 25 km metro / 80 km country basic | ⭐⭐⭐⭐⭐ |
+| **RACT** | Best in Tasmania | $144/yr | 15 km metro / 32 km country basic | ⭐⭐⭐⭐⭐ |
+| **AANT** | Best in NT | $139/yr | 8 km metro / 32 km regional basic | ⭐⭐⭐⭐ |
+End Of Line

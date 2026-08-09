@@ -1,0 +1,10 @@
+2,35e9940e-bb77-4df8-b50e-e4865ec54488,08080130-1126-0626-0000-bd3c2bbdbe98,69e28827-ed3d-40cb-aea7-6db6b0c99019,2026-08-08T13:02:21.307595+10:00
+Worst roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Avoid | Why it can hurt on an interstate trip |
+|---|---|
+| **Very cheap “basic” roadside plans** | They may cover a call-out but leave you paying for long-distance towing, accommodation, or recovery costs. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **Insurance add-on roadside only** | Often fine for city driving, but check towing distances and interstate arrangements before relying on it in remote areas. [www.finder.com.au](https://www.finder.com.au/car-insurance/roadside-assistance-nsw?utm_source=chatgpt.com) |
+| **Plans with low free towing limits** | A 20–25 km tow is not very useful if you break down hundreds of kilometres from a major town. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **Providers that charge non-member call-out fees** | Joining after a breakdown can attract extra costs or waiting periods. [www.finder.com.au](https://www.finder.com.au/car-insurance/racq-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

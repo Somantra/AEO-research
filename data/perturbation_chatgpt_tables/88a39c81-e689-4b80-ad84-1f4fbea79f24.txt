@@ -1,0 +1,10 @@
+2,53a22b92-ed24-4c4c-93fc-82e4f5dbc11e,08080128-1126-0626-0000-24d1cc976592,88a39c81-e689-4b80-ad84-1f4fbea79f24,2026-08-08T12:58:23.304505+10:00
+Easiest home insurance for first-time homeowners in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Watch out for |
+|---|---|---|
+| **QBE** | Straightforward online quote, building + contents options, flood included, 24/7 claims, and currently **10% off new policies bought online**. [www.qbe.com](https://www.qbe.com/au/home-insurance?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/choosing-home-insurance?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/home-insurance/home-contents-insurance?utm_source=chatgpt.com) | Optional extras and excesses can change the price. Read the PDS. |
+| **Budget Direct** | Often competitive on price and relatively simple online purchase process. Finder currently lists it as an inexpensive all-rounder. [www.finder.com.au](https://www.finder.com.au/home-insurance/cheap-home-insurance?utm_source=chatgpt.com) | Cancellation/payment charges can apply, so check the PDS before buying. [www.finder.com.au](https://www.finder.com.au/home-insurance/cancelling-home-insurance?utm_source=chatgpt.com) |
+| **Youi** | Good option if you want a more tailored quote; flood is included as standard according to current comparisons. [www.finder.com.au](https://www.finder.com.au/home-insurance/cheap-home-insurance?utm_source=chatgpt.com) | Premium can vary significantly depending on the property and risk profile. |
+| **Allianz** | Established insurer with a relatively simple home + contents offering; combining building and contents can save up to 10%. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) | Check the excess and optional-cover costs rather than assuming the advertised discount is the cheapest overall. |
+End Of Line

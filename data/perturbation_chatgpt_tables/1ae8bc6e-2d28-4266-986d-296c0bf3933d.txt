@@ -1,0 +1,12 @@
+2,6d2d663c-9209-40ae-a233-af767425b01a,08080132-1126-0626-0000-93167994ca15,1ae8bc6e-2d28-4266-986d-296c0bf3933d,2026-08-08T13:07:48.206070+10:00
+Easiest roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid support | Best for | Pros | Weak points |
+|---|---|---|---|---|
+| NRMA Roadside Assistance | Yes (hybrid/plug-in hybrid included) | NSW, ACT, frequent travellers | Very large network; strong app; EV/hybrid assistance options | Can be more expensive |
+| RACV | Yes | Victoria | Strong EV/hybrid support, 24/7 service, unlimited callouts on higher plans | Less relevant if outside Victoria | 
+| RACQ | Yes | Queensland | Good regional coverage | Pricing can be higher |
+| AAMI | Generally suitable through roadside add-on | Low-cost option if already insured with AAMI | Often cheaper; unlimited callouts | Only available to AAMI insurance customers |
+| Budget Direct | Suitable | Budget-focused drivers | Competitive pricing | Usually not the same dedicated motoring-club network |
+| 24/7 Roadservices Australia | Suitable | Independent alternative | Often highly rated by users | Smaller brand/network than major motoring clubs |
+End Of Line

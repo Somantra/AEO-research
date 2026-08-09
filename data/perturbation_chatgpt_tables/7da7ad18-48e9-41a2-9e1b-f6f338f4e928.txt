@@ -1,0 +1,14 @@
+2,80ddf417-493f-4e62-8819-14d874429770,08080136-1126-0626-0000-429d4b2a71d7,7da7ad18-48e9-41a2-9e1b-f6f338f4e928,2026-08-08T13:17:06.632901+10:00
+Least reliable travel insurance for pre-existing medical conditions in Australia compared to other providers
+Tables found: 1
+| Provider/policy | Concern for pre-existing conditions | Why |
+|---|---|---|
+| **Allianz Basic** | 🔴 Very poor | **No pre-existing medical-condition cover is available** under the Basic plan. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/basic.html?utm_source=chatgpt.com) |
+| **Tick Basic / Budget** | 🔴 Very poor | CHOICE lists these as having **no automatic cover and no application option** for pre-existing conditions. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| **Worldcare Essential** | 🔴 Poor | CHOICE lists it as having **no automatic pre-existing-condition cover and no option to apply**. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| **Allianz Comprehensive** | 🟠 Condition-dependent | You can apply for pre-existing-condition cover, but it's subject to medical assessment; CHOICE lists a 24-month relevant period. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| **SCTI Medical Only** | 🟠 More restrictive | CHOICE lists a 36-month period, considerably longer than several competitors. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| **Cover-More** | 🟢 Generally stronger | 30+ conditions can be automatically covered if specific criteria are met, with assessment available for others. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/existing-medical?hc_location=ufi&utm_source=chatgpt.com) |
+| **Insure&Go** | 🟢 Flexible | It considers **all pre-existing conditions** through its medical assessment process, although acceptance isn't guaranteed. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/pre-existing-medical-conditions/?utm_source=chatgpt.com) |
+| **1Cover** | 🟢 Flexible | Offers an online medical assessment to determine whether your particular condition can be covered. [www.1cover.com.au](https://www.1cover.com.au/faqs/pre-ex-medical/what-do-you-cover/?utm_source=chatgpt.com) |
+End Of Line

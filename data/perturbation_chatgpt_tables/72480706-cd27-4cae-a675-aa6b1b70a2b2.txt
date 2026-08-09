@@ -1,0 +1,11 @@
+2,f8944948-6f87-4287-8400-2ffc8a697196,08080121-1126-0626-0000-f257e67e3cbe,72480706-cd27-4cae-a675-aa6b1b70a2b2,2026-08-08T12:41:01.706060+10:00
+Cheapest motorcycle insurance for high-performance bikes in Australia with a fast claims process
+Tables found: 1
+| Insurer | Price potential | Claims experience/process | High-performance bike fit |
+|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good |
+| **QBE** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐⭐ | **Very good** |
+| **National Motorcycle Insurance** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Excellent** |
+| **Suncorp** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Good |
+| **Shannons** | ⭐⭐⭐ | ⭐⭐⭐⭐ | **Excellent for enthusiast bikes** |
+End Of Line

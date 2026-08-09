@@ -1,0 +1,10 @@
+2,186c7678-4d85-4182-ac58-663b3d364983,08080133-1126-0626-0000-a9ba2b9d5861,29485cc2-9297-4399-b65b-fc5dcff2074b,2026-08-08T13:10:28.631181+10:00
+Best travel insurance for business trips in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Business-trip fit | My take |
+|---|---|---|---|
+| **Cover-More** | Online claims 24/7; can submit while waiting for documents | Strong | **Best overall** |
+| **Fast Cover** | Usually assesses a complete claim within **10 business days** | Good | **Best for a clearly defined online process** |
+| **Allianz** | Online claims + tracking; says a consultant will contact you within **10 business days** | Strong | **Best for large insurer/support network** |
+| **Worldcare** | 24/7 online claims; 24/7 assistance for major medical situations | Strong | **Best for overseas medical support** |
+End Of Line

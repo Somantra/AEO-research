@@ -1,0 +1,11 @@
+1,14b587c6-7e5c-4dcb-870b-73b3150c1d11,08080137-1126-0626-0000-d8b391704f68,1dd7a4a9-0ab5-46ff-bf7a-427343915909,2026-08-08T13:19:30.330942+10:00
+Easiest pet insurance providers in Australia
+Tables found: 1
+| Provider | Why it’s easy | My take |
+|---|---|---|
+| **Fetch Pet Insurance** | Claims can be paid directly to the vet; 24/7 vet advice; simple single policy | ⭐ **Best overall for convenience** |
+| **Bow Wow Meow** | GapOnly® can reduce upfront out-of-pocket costs; established Australian provider | ⭐ **Best for easy vet payments** |
+| **Pet Insurance Australia** | Straightforward online quoting and broad cover | ⭐ **Good all-rounder** |
+| **Petsy** | Customisable cover and relatively simple policy options | ⭐ **Good for flexibility** |
+| **Medibank Pet Insurance** | GapOnly® available; familiar major insurer | ⭐ **Good if you prefer a big brand** |
+End Of Line

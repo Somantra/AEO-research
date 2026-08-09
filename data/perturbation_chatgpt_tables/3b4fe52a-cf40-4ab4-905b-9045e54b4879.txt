@@ -1,0 +1,11 @@
+2,52d4963d-e51b-471d-a4c2-88967a546356,08080140-1126-0626-0000-3d3cae5b227d,3b4fe52a-cf40-4ab4-905b-9045e54b4879,2026-08-08T13:24:15.421308+10:00
+Best pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Best for | Pre-existing condition approach | Watch for |
+|---|---|---|---|
+| Pet Insurance Australia | Broad cover options | Some conditions may be reviewed depending on circumstances | Read exclusions carefully |
+| Fetch Pet Insurance | Policies with fewer sub-limits on some plans | Existing conditions generally excluded | Check exact policy wording |
+| Knose Pet Insurance | Simpler policies and transparency focus | Existing conditions generally excluded | Confirm annual limits and exclusions |
+| Medibank Pet Insurance | High benefit limits and GapOnly options | Existing conditions generally excluded | Premiums and optional extras |
+| RSPCA Pet Insurance | Higher annual benefit options | Existing conditions generally excluded | Check welfare-related claims and policy limits |
+End Of Line

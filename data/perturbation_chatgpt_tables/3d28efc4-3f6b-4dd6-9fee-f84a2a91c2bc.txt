@@ -1,0 +1,13 @@
+1,e704c299-c568-4a7c-bd6a-0119f03577ad,08080136-1126-0626-0000-1e04710e7618,3d28efc4-3f6b-4dd6-9fee-f84a2a91c2bc,2026-08-08T13:18:24.004033+10:00
+Most comprehensive pet insurance for exotic pets in Australia
+Tables found: 1
+| Exotic pet | Highest vet-fee cover | Best level |
+|---|---:|---|
+| 🦜 Parrot/bird | **$6,000** | Premier |
+| 🦎 Reptile | **$6,000** | Premier |
+| 🐢 Turtle/tortoise | **$6,000** | Premier |
+| 🐰 Rabbit | **$4,000** | Plus |
+| 🐹 Guinea pig | **$4,000** | Plus |
+| 🐀 Rat/mouse | **$4,000** | Plus |
+| 🦦 Ferret | **$4,000** | Plus |
+End Of Line

@@ -1,0 +1,13 @@
+2,7a80ac38-5046-4bee-9b06-8bbed6d94b19,08080137-1126-0626-0000-ec1410cc1f08,66531348-b883-44c0-96db-fd316438b6a4,2026-08-08T13:19:06.335277+10:00
+Worst domestic travel insurance in Australia compared to other providers
+Tables found: 1
+| Provider/policy | My view | Why |
+|---|---|---|
+| **Budget/basic policies with very low cancellation & baggage limits** | ⚠️ Most likely to disappoint | Cheap, but potentially poor protection when something actually goes wrong |
+| **Cover-More Basic** | ⚠️ Be careful | CHOICE lists **$0 baggage cover** on its Domestic Basic policy; Comprehensive is substantially better. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/domestic-travel-insurance?utm_source=chatgpt.com) |
+| **Allianz Domestic** | 🟡 Reasonable | Solid mainstream option, including cancellation, baggage and rental-car excess, but compare limits/excess carefully. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/domestic.html?utm_source=chatgpt.com) |
+| **RACQ Domestic** | 🟢 Good option | Competitive if you're eligible for member pricing; check the PDS and sub-limits. [www.racq.com.au](https://www.racq.com.au/travel/travel-insurance/domestic-travel-insurance?utm_source=chatgpt.com) |
+| **Cover-More Comprehensive / Comprehensive+** | 🟢 Good | Much more comprehensive than its Basic option. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/compare-our-plans?utm_source=chatgpt.com) |
+| **InsureandGo Gold Domestic** | 🟢 Strong | **2026 Finder winner for Best Domestic Travel Insurance**. [www.finder.com.au](https://www.finder.com.au/travel-insurance/insureandgo-travel-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/product-awards/travel-insurance-awards?utm_source=chatgpt.com) |
+| **1Cover / Southern Cross / Fast Cover / ReadySet** | 🟢 Worth comparing | Canstar's current domestic comparison includes these among the major options being rated. [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/domestic-travel-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/product-awards/travel-insurance-awards?utm_source=chatgpt.com) |
+End Of Line

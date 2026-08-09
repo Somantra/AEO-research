@@ -1,0 +1,12 @@
+2,8a55e381-22cd-4fda-8f5a-cdd96f97e95f,08080119-1126-0626-0000-edda967d2394,4f437c02-761c-429a-b0de-e32d1c15f446,2026-08-08T12:34:38.762699+10:00
+Most popular car insurance for used cars in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction* | Best for |
+|---|---:|---|
+| **NRMA Insurance** | **72%** | Strong all-rounder, especially NSW |
+| **Youi** | **77%** | Customer service and claims experience |
+| **GIO** | **75%** | Good balance of service and mainstream coverage |
+| **Suncorp** | **68%** | Comprehensive cover and established insurer |
+| **AAMI** | **62%** | Very mainstream, often worth getting a quote |
+| **Budget Direct** | **62%** | Often competitive on price |
+End Of Line

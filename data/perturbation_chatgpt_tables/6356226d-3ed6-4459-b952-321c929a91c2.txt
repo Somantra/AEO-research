@@ -1,0 +1,10 @@
+2,5b63510a-1d8a-4884-9205-691456d0d05c,08080131-1126-0626-0000-c7d924dec61f,6356226d-3ed6-4459-b952-321c929a91c2,2026-08-08T13:03:43.151728+10:00
+Most trusted roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | Payment style | Notes |
+|---|---|---|---|
+| RACV Business Roadside Assistance | Small–medium businesses in Victoria | Mainly annual per vehicle (some flexible billing options available) | Covers business vehicles up to **8 tonnes GVM**, with interstate support through partner auto clubs. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business.html?utm_source=chatgpt.com) |
+| FleetCard Roadside Assistance | Fleets wanting a low monthly cost | Monthly per vehicle/card | 24/7 nationwide roadside assistance; advertised from **$6.99/month per card** for Classic members. [www.fleetcard.com.au](https://www.fleetcard.com.au/road-assistance/?utm_source=chatgpt.com) |
+| Caltex StarCard Roadside Assistance | Businesses already using fuel cards | Monthly or annual subscription | Pricing depends on vehicle type (light commercial or passenger vehicles). [www.caltex.com](https://www.caltex.com/content/caltex/au/en/business-solutions/starcard/caltex-starcard-roadside-assistance.html?utm_source=chatgpt.com) |
+| RACV Total Care | Owner-operators with 1–5 vehicles | Monthly payment available | More premium cover; RACV lists monthly payment options and multi-vehicle plans. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+End Of Line

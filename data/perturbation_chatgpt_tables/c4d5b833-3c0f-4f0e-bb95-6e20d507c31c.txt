@@ -1,0 +1,12 @@
+2,3587fcdb-f787-418b-b38d-c671733c0deb,08080130-1126-0626-0000-4b102598d9e9,c4d5b833-3c0f-4f0e-bb95-6e20d507c31c,2026-08-08T13:01:47.906136+10:00
+Most popular roadside assistance for motorcycles in Australia compared to other providers
+Tables found: 1
+| Provider | Motorcycle focus | Best for | My take |
+|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐ | Queensland riders | **Excellent overall** |
+| **NRMA** | ⭐⭐⭐ | NSW/ACT & broader coverage | Strong mainstream option |
+| **RACV** | ⭐⭐⭐ | Victoria | Strong mainstream option |
+| **RAC/RAA/RACT/AANT** | ⭐⭐⭐ | Their respective states | Usually worth comparing locally |
+| **Motorcycle Assist Australia (MCAA)** | ⭐⭐⭐⭐⭐ | Dedicated motorcycle riders | **Strong specialist alternative** |
+| **Rider Support Australia (RSA)** | ⭐⭐⭐⭐⭐ | Dedicated motorcycle riders | **Strong specialist alternative** |
+End Of Line

@@ -1,0 +1,10 @@
+2,b1e46c4c-8904-4a54-ab48-b6c9e3895efc,08080136-1126-0626-0000-3545a5c08bce,7defd5d7-2ed2-4a84-9368-057a44f93921,2026-08-08T13:17:43.386275+10:00
+Cheapest long-term travel insurance in Australia without hidden fees
+Tables found: 1
+| Provider | Long-trip suitability | Cost/value | Hidden-fee transparency |
+|---|---|---|---|
+| **[1Cover Long-Term Travel Insurance](https://www.1cover.com.au/long-term-travel-insurance/)** | **Up to 12 months** | ⭐ Strong | Good |
+| **[Insure4less / Finder comparison](https://www.finder.com.au/travel-insurance/annual-multi-trip-travel-insurance)** | Mainly annual multi-trip | ⭐ Often cheapest for multiple trips | Compare PDS |
+| **[nib Annual Multi Trip](https://www.nib.com.au/travel-insurance/plans/annual-travel-insurance)** | Up to **45 days per trip** | Good | Good |
+| **[Australia Post Annual Multi Trip](https://auspost.com.au/personal/money-travel/travel-services/travel-insurance/compare-travel-insurance-plans/annual-multi-trip-travel-insurance)** | Up to **60 days per trip** | Good | Good |
+End Of Line

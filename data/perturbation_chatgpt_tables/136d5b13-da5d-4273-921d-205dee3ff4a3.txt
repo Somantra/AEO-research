@@ -1,0 +1,10 @@
+2,8a00dc83-8b27-46c0-bcbc-92ba7e581e11,08080139-1126-0626-0000-52ae742be9fb,136d5b13-da5d-4273-921d-205dee3ff4a3,2026-08-08T13:23:14.819301+10:00
+Cheapest pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer | Multi-pet discount | Monthly payments | Current offer / price signal |
+|---|---:|---|---|
+| **Budget Direct** | Check quote | **Yes** | Finder currently identifies it as one of the cheapest options; 15% first-year online discount |
+| **Pet Insurance Australia** | **5% 2nd, 10% 3rd, 15% 4th+** | Yes | Currently advertising **2 months free** |
+| **Bow Wow Meow** | **10%** | Yes | Often competitive for multiple pets |
+| **AAMI** | Multi-pet discount | **Yes** | **2 months free** for eligible new policies until 1 Sept 2026 |
+End Of Line

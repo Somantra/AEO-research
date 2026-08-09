@@ -1,0 +1,12 @@
+2,db76518c-0d48-4a86-8b51-67a484e0df41,08080133-1126-0626-0000-6affbb124ec0,37b3d4b0-be70-487f-999f-c8a009dad184,2026-08-08T13:10:04.855508+10:00
+Most popular roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. monthly cost | Notes |
+|---|---:|---|
+| NRMA | From about **$11.65/month** | Large national provider; unlimited call-outs on many plans and 24/7 assistance. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.ds&utm_source=chatgpt.com) |
+| RAC | About **$11.30/month** (Standard) to **$36.21/month** (Ultimate Plus) | Very popular in WA; monthly direct debit options available. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.ds&utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?utm_source=chatgpt.com) |
+| RACV | Varies by plan | Major Victorian provider with roadside assistance membership options.  |
+| RACQ | Varies by plan | One of Queensland’s main roadside assistance providers. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.ds&utm_source=chatgpt.com) |
+| RAA | Varies by plan | Main South Australian roadside assistance club. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.ds&utm_source=chatgpt.com) |
+| Budget Direct | Around **$7.50/month equivalent** (annual price converted) | Lower-cost option; roadside assistance is available as a standalone product. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.ds&utm_source=chatgpt.com) |
+End Of Line

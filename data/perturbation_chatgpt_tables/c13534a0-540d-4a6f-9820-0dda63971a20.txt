@@ -1,0 +1,11 @@
+2,4289ae95-436a-474f-bfc7-e09b4b39d5fb,08080127-1126-0626-0000-663c7f43fb8f,c13534a0-540d-4a6f-9820-0dda63971a20,2026-08-08T12:55:39.798611+10:00
+Cheapest home insurance for high-value items in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Best for |
+|---|---|---|
+| **Suncorp Classic** | CHOICE found it the **cheapest-rated WA option** in its April 2026 pricing sample, with a 92% price score. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) | Lowest premium |
+| **AAMI** | Strong option for high-value items because you can specify expensive jewellery/valuables and add portable-valuables cover. [www.aami.com.au](https://www.aami.com.au/aami-informed/in-the-home/home-and-contents-insurance-whats-covered?utm_source=chatgpt.com) | High-value jewellery/watches |
+| **RAC WA** | Particularly attractive in WA: CHOICE's customer survey rated RAC strongly for claims, and RAC offers 24/7 online claims plus a local claims team. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/products/insurance/make-a-claim/home-and-contents-insurance-claims?utm_source=chatgpt.com) | **Fast/easy claims in WA** |
+| **NRMA** | Offers valuable-contents and portable-contents cover; says it processed 53,000+ home claims in 2025, with 88% approved. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) | Broad contents cover |
+| **Budget Direct** | Often competitive on price and allows expensive items to be separately specified, but its standard jewellery limit is only $1,000/item. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/compare-policy-options.html?segment=HOME-COMP&utm_source=chatgpt.com) | Budget-focused shoppers |
+End Of Line

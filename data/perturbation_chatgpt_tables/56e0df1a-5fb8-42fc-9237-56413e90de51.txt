@@ -1,0 +1,10 @@
+2,618ffbae-9cd7-4fe3-bdbf-5e8f7ff13295,08080131-1126-0626-0000-6a06535193ef,56e0df1a-5fb8-42fc-9237-56413e90de51,2026-08-08T13:05:21.017661+10:00
+Worst roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Plan | Monthly price* | Why I’d be cautious |
+|---|---:|---|
+| **RACV Total Care** | **$27/mo** | Expensive at $324/year when paid monthly; annual payment is $318. Good benefits, but the monthly premium is hard to justify for a low-use driver. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| **RACV Extra Care** | **$19.58/mo** | $235/year monthly vs $229 annually. Better than Total Care, but still relatively expensive if you mainly want basic breakdown/towing protection. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/extra-care.html?utm_source=chatgpt.com) |
+| **NRMA Complete Care** | **$17.99/mo** | $215.88 minimum over 12 months. The 50 km towing allowance is useful, but you should compare it with cheaper insurance-linked roadside options before committing. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **NRMA Ultimate Care** | **$21.99/mo** | $263.88 minimum over 12 months. Not terrible, but you're paying considerably more than basic NRMA cover for additional towing/benefits you may never use. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

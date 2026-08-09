@@ -1,0 +1,10 @@
+2,bcf378ec-4c8b-470b-8c08-5a4dea17aa43,08080119-1126-0626-0000-032835cb217f,b4af356d-07dd-46aa-83be-2780977814ea,2026-08-08T12:34:48.818752+10:00
+Most comprehensive car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Claims/customer experience | Key strengths |
+|---|---|---|---|
+| **RACQ Comprehensive** | 🥇 **Best overall for Queensland** | **Excellent** — 85% of RACQ customers with settled claims rated the experience above average/excellent in CHOICE’s 2025 survey | Strong claims satisfaction, good value, comprehensive cover |
+| **NRMA Comprehensive Plus** | 🥈 **Best feature-rich option** | Very good — 78% claims satisfaction in CHOICE | Hire car after covered incidents, agreed value, towing, emergency repairs, 400+ repairers, lifetime repair guarantee |
+| **Youi Comprehensive** | 🥉 **Best flexible cover** | Good — 73% claims satisfaction in CHOICE | Flexible agreed/market value, hire car, weather/theft/accident cover, optional extras |
+| **Allianz Comprehensive** | **Best for repairer choice** | Strong — customers currently rate its claims experience **4.5/5** | Choice of repairer, agreed value, guaranteed repairs, 24/7 claims support, hire car after theft |
+End Of Line

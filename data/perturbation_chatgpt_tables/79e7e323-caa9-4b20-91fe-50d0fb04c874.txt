@@ -1,0 +1,9 @@
+2,9a19ed29-01bf-44bb-a2b5-e688aae0fdf2,08080129-1126-0626-0000-2daceaafceae,79e7e323-caa9-4b20-91fe-50d0fb04c874,2026-08-08T13:00:50.653724+10:00
+Most reliable roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | EV roadside | Speed/convenience | Claims process | My take |
+|---|---|---|---|---|
+| **RACV** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Best overall for EVs** |
+| **NRMA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best for claims + national coverage** |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best simple insurance + roadside combo** |
+End Of Line

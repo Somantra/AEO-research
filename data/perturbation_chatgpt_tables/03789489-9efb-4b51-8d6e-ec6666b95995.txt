@@ -1,0 +1,10 @@
+2,400254f2-8219-4cfa-9eb3-229542de35bb,08080127-1126-0626-0000-5542ad16e7aa,03789489-9efb-4b51-8d6e-ec6666b95995,2026-08-08T12:53:49.313195+10:00
+Best home insurance for apartments in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Fee transparency |
+|---|---|---|
+| **urlAllianz Contents Insuranceturn1search0** | Specifically designed for apartment/strata owners; covers contents and potentially fixtures/fittings not covered by strata | **Best fit for your “no hidden fees” requirement** — Allianz states there are no cancellation fees, although outstanding premium/taxes may still be payable. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/contents.html?utm_source=chatgpt.com) |
+| **urlNRMA Contents Insuranceturn1search5** | Strong standard cover including theft, storm, flood and storm surge; optional accidental damage, valuables and portable contents | Good transparency — NRMA publishes its PDS and separate Premium, Excess & Discounts Guide. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| **urlYoui Home Insuranceturn1search4** | Worth quoting, particularly in South Australia; offers contents and building/contents options | Get the quote and check instalment/cancellation terms carefully. Youi reports an average $254 annual saving among surveyed SA customers who switched, but that's not a guarantee for an individual quote. [www.youi.com.au](https://www.youi.com.au/home-insurance/sa?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/assets/documents/aami/home/pds-contents.pdf?utm_source=chatgpt.com) |
+| **urlAAMI Contents Insuranceturn1search48** | Worth comparing on price | **Less attractive if avoiding fees is your priority:** its current PDS specifies a $30 cancellation fee in many circumstances, plus applicable charges. [www.aami.com.au](https://www.aami.com.au/assets/documents/aami/home/pds-contents.pdf?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,c1e5bda6-d542-4d04-a256-e42772298af3,08080132-1126-0626-0000-743e8905e076,531a6dc6-dd6a-4045-8947-945969a35c4e,2026-08-08T13:07:37.764526+10:00
+Most reliable roadside assistance for hybrid cars in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Customer feedback | Hybrid/EV capability |
+|---|---|---|---|
+| **RAC** | ⭐ Best overall if you're in WA | **4.8/5 from 1,221 reviews** | Strong EV/hybrid capability |
+| **NRMA** | NSW / broader national travel | **4.5/5 from 1,913 reviews** | Established roadside network |
+| **RACV** | ⭐ Victoria | Won **Canstar 2026 Victoria** satisfaction award | Explicitly covers hybrids/EVs; high-voltage-trained patrols |
+| **RACQ** | Queensland | 3.2/5 from 405 ProductReview reviews | Explicit hybrid/EV cover; high-voltage-aware patrols |
+| **RACT** | Tasmania | 3.6/5, but only 23 reviews | Established Tasmanian network |
+End Of Line

@@ -1,0 +1,11 @@
+2,60466b33-b672-4152-958b-7bfbe468a66c,08080142-1126-0626-0000-949aa87af289,0dabf460-7cdb-4e4b-94b6-afd4f72b1252,2026-08-08T13:28:53.623402+10:00
+Safest pet insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | My take | Why |
+|---|---|---|
+| **Petsy** | ⭐ **Best for transparency** | Annual excess rather than per-condition/per-claim; no sub-limits on many core conditions; clear PDS; upfront pre-existing-condition assessment available. [petsy.com.au](https://petsy.com.au/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia (PIA)** | ⭐ **Strong all-rounder** | Current plans allow you to choose annual limit, reimbursement and excess; PDS is publicly available and current. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/?utm_source=chatgpt.com) |
+| **Trupanion** | ⭐ **Best for major/chronic conditions** | Worth considering if you prioritise comprehensive protection over low premiums. It has current Australian PDS documentation, including policies issued from March 2026. [trupanion.com.au](https://trupanion.com.au/pet-insurance/policy/?utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | 👍 **Good mainstream option** | New policies offer up to $35,000 annual cover and advertise no tricky sub-limits. Note that the product changed from 1 April 2026, so make sure you're looking at the current PDS. [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+| **Fetch** | ⚠️ **I'd scrutinise carefully** | The PDS is accessible and explains the contribution calculation, but premiums, government charges and other applicable fees can form part of the total cost. [www.fetchpet.com.au](https://www.fetchpet.com.au/pds/contribution?utm_source=chatgpt.com) |
+End Of Line

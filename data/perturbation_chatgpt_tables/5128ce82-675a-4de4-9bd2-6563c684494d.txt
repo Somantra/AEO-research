@@ -1,0 +1,12 @@
+2,b658968d-85d0-4941-b89d-b3ac7b559643,08080133-1126-0626-0000-72abb085f85a,5128ce82-675a-4de4-9bd2-6563c684494d,2026-08-08T13:09:57.898716+10:00
+Safest roadside assistance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Current entry price* | Online quote/buy |
+|---|---|---:|---|
+| **NRMA** | NSW/ACT, strong national coverage | Varies by plan | [Get an NRMA roadside quote](https://www.nrma.com.au/roadside-assistance) |
+| **RACV** | Victoria + interstate driving | Varies | [Compare RACV roadside plans](https://www.racv.com.au/cars-transport/roadside-assistance.html) |
+| **RACQ** | Queensland + Australia-wide | **$80/yr** Everyday Lite | [Compare RACQ roadside cover](https://www.racq.com.au/car/roadside-assistance/compare-roadside) |
+| **RAA** | South Australia | **$135/yr** Standard | [Compare RAA Road Service](https://www.raa.com.au/motor/road-service) |
+| **RAC WA** | Western Australia | **$128/yr** Standard | [Compare RAC roadside cover](https://rac.com.au/car-motoring/roadside-assistance/compare) |
+| **RACT** | Tasmania | **$144/yr** Advantage | [Compare RACT roadside assistance](https://www.ract.com.au/cars-and-driving/roadside-assistance/roadside-cover-that-travels-with-you) |
+End Of Line

@@ -1,0 +1,12 @@
+2,f5822ed5-5dac-4d36-9bad-3d47ef2e2c2f,08080129-1126-0626-0000-d9552ee47f05,dee15be5-9aa4-49e1-a342-ec43df19a0dc,2026-08-08T12:58:39.228652+10:00
+Most popular home insurance for first-time homeowners in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer signal |
+|---|---|---|
+| **Youi** | Particularly strong in Victoria; good service reputation and competitive pricing | 🏆 **Canstar 2026 winner in VIC & QLD** |
+| **NAB** | Excellent if you want to manage insurance alongside your home loan/banking | 🏆 **Canstar 2026 national winner** |
+| **RACV** | Very strong option for Victorian homeowners, especially if you value established local support | **72%** rated experience above average/excellent |
+| **AAMI** | Large, mainstream insurer with strong product/value credentials | 🏆 Canstar Outstanding Value winner |
+| **Suncorp** | Worth quoting alongside the above, particularly for bundled insurance | **65%** above average/excellent satisfaction |
+| **NRMA** | Major insurer worth getting a comparison quote from | **61%** above average/excellent satisfaction |
+End Of Line

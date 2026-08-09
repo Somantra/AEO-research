@@ -1,0 +1,12 @@
+2,329f50b8-9492-464f-9aa3-7d4075b4ba87,08080118-1126-0626-0000-57d80ef2e89c,4f31d54d-b382-4f49-83d7-192ccada4e26,2026-08-08T12:32:00.076143+10:00
+Most affordable car insurance for small cars in Australia compared to other providers
+Tables found: 1
+| Insurer | Price/value | Best for | Main trade-off |
+|---|---|---|---|
+| **Bingle** | ⭐⭐⭐⭐⭐ | Lowest-cost comprehensive | Basic cover, online-only |
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | Cheap + broader features | Quote varies substantially by driver |
+| **AAMI** | ⭐⭐⭐⭐ | Good value/coverage balance | Can be more expensive than Bingle |
+| **Allianz Essentials** | ⭐⭐⭐⭐ | Lower-cost comprehensive from a major insurer | Fewer extras/allocated repairer |
+| **RACV** | ⭐⭐⭐ | Particularly worth checking in Victoria | Often not the cheapest |
+| **Youi** | ⭐⭐⭐⭐ | Drivers who get a personalised low quote | Can be expensive for some profiles |
+End Of Line

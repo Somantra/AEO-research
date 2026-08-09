@@ -1,0 +1,10 @@
+2,877bc069-67e3-4d77-9d8c-a05c757e5719,08080139-1126-0626-0000-a4e98c908dc9,01203685-de5b-4575-aa89-6820d8bc0664,2026-08-08T13:23:29.698360+10:00
+Worst pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Multi-pet | Fast-claim option | My take |
+|---|---:|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | 5% discount | FetchPay can settle with participating vets in ~15 min | **Best for speed** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | 5% per additional pet, up to 15% | GapOnly can process eligible claims in ~10 min | **Best combination for multiple pets** |
+| **Petcover** | 5% | No pre-approval of claims | Less attractive if speed is critical [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **Other standard reimbursement policies** | Often 5–10% | Usually requires paying the vet first | I'd avoid if cash-flow/claim speed is your #1 concern |
+End Of Line

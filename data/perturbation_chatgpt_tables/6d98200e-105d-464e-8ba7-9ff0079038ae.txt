@@ -1,0 +1,11 @@
+2,cde43db3-3459-4e3a-9158-6007367a6fa4,08080139-1126-0626-0000-e3770eaa9d02,6d98200e-105d-464e-8ba7-9ff0079038ae,2026-08-08T13:24:01.578678+10:00
+Most comprehensive pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Provider | Why it stands out for multi-pet households | Multi-pet discount (where available) |
+|---|---|---|
+| Fetch Pet Insurance | One of the more comprehensive options; high annual limits and flexible reimbursement choices | 5% discount reported for multiple pets [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Strong coverage options with high benefit limits; good fit if you want broad cover | 10% multi-pet discount reported [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Petcover | Multiple plan tiers, including higher-cover options | 5% multi-pet discount reported [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Convenient if you already use Medibank; multiple cover tiers | 5% multi-pet discount reported [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Bow Wow Meow | Popular among Australian pet owners and offers multi-pet options | 10% multi-pet discount reported [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

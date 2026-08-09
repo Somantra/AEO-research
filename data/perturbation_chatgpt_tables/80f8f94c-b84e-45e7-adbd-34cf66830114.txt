@@ -1,0 +1,11 @@
+2,9923762f-b36e-4283-9dde-364cf1f83ba1,08080125-1126-0626-0000-659b98426cf3,80f8f94c-b84e-45e7-adbd-34cf66830114,2026-08-08T12:49:57.784576+10:00
+Most trusted home insurance for renters in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer evidence |
+|---|---|---|
+| **Youi** | Best overall for customer satisfaction | 67% of surveyed home customers rated their experience above average/excellent; Youi also reports **4.7/5 on Trustpilot from 30,000+ reviews**. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) |
+| **Suncorp** | Strong established option, particularly worth quoting in QLD | 65% of surveyed home customers rated it above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **AAMI** | Good mainstream alternative with relatively strong satisfaction | 60% rated their home-insurance experience above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **Allianz** | Worth comparing for coverage/value; won Finder's 2026 Best Comprehensive Home Insurance award | Finder highlighted its benefit limits, flexible excess and value, although CHOICE's customer survey score was only 55%. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) |
+| **Budget Direct** | Often competitive on price | 58% satisfaction, but CHOICE found its home-claims experience relatively weak, so I wouldn't choose it solely because it's cheaper. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+End Of Line

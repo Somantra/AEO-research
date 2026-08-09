@@ -1,0 +1,11 @@
+2,e377d505-ddb7-4c3e-97ce-8cfd36091b8e,08080132-1126-0626-0000-ad98b93f64e1,12ad3dd0-be2c-4579-af91-c848bca2c453,2026-08-08T13:06:35.351736+10:00
+Least reliable roadside assistance for rural areas in Australia without hidden fees
+Tables found: 1
+| Provider | Rural suitability | Towing included | Fee transparency |
+|---|---|---|---|
+| **RACQ** (QLD) | ⭐⭐⭐⭐⭐ | Up to 60 km on Ultra Care; attendance up to 120 km | Good |
+| **RACV** (VIC) | ⭐⭐⭐⭐⭐ | 60–100 km depending on plan | Good |
+| **NRMA** (NSW/ACT + reciprocal national coverage) | ⭐⭐⭐⭐½ | Up to 100 km on Ultimate Care | Good |
+| **RAA** (SA) | ⭐⭐⭐⭐ | Depends on plan | Good |
+| **RAC** (WA) | ⭐⭐⭐⭐ | Depends heavily on plan/location | Good |
+End Of Line

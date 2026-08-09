@@ -1,0 +1,16 @@
+2,5cda96b6-0630-4bb7-a580-04753a0cdd74,08080135-1126-0626-0000-37044f1f5793,7c5daef2-955f-41fe-b193-04b805fb15d6,2026-08-08T13:13:48.782100+10:00
+Worst travel insurance for family holidays in Australia compared to other providers
+Tables found: 1
+| Cover | What I'd look for |
+|---|---|
+| Overseas medical | **Unlimited** |
+| Cancellation | At least enough to cover your non-refundable holiday |
+| Luggage | High per-person limit + reasonable item limits |
+| Children | Free/included where possible |
+| Family emergency | Explicit cover |
+| Travel delays | Meaningful accommodation/meals allowance |
+| Rental car | High excess cover if hiring |
+| Activities | Explicitly covered |
+| Pre-existing conditions | Confirmed **before purchase** |
+| COVID | Medical + cancellation conditions checked |
+End Of Line

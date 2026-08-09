@@ -1,0 +1,11 @@
+2,61f1ef4d-4b87-4cdf-8aee-6065cbee889f,08080139-1126-0626-0000-99d0dd4b2546,8b0a6e65-fa29-4ed6-93db-98768aa638ed,2026-08-08T13:22:29.231909+10:00
+Most affordable pet insurance for older pets in Australia without hidden fees
+Tables found: 1
+| Provider / plan | Older-pet access | What stands out |
+|---|---|---|
+| **Real Pet Insurance – Classic** | New pets up to **under 16** | One of the few options with a higher entry age; 60% reimbursement and $12k annual limit. [www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/compare-pet-insurance?utm_source=chatgpt.com) |
+| **Australian Seniors** | Up to around **15** depending on product | Worth checking particularly if you're 50+, as a 10% discount is available. [www.finder.com.au](https://www.finder.com.au/pet-insurance/australian-seniors-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| **Guardian / Real Premium / Australian Seniors Top** | Up to **15** in comparison data | Finder's April 2026 quotes for a Cavoodle showed roughly **$812–$861/year at age 9**, rising to about **$1,247–$1,314 at age 12** and **$2,125–$2,239 at age 15**. These are indicative, not quotes for your pet. [www.finder.com.au](https://www.finder.com.au/pet-insurance/australian-seniors-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| **RSPCA PetFlex** | New pets **under 9** | Particularly transparent: **no sub-limits**, and once insured there is no maximum renewal age. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/faqs/our-cover/?utm_source=chatgpt.com)[rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/faqs/insurance-101/?utm_source=chatgpt.com) |
+| **Medibank** | New pets **under 9** | Good if your pet is still eligible; currently offering a first-month-free promotion and 10% annual discount for Medibank/ahm health members. [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/compare/?utm_source=chatgpt.com) |
+End Of Line

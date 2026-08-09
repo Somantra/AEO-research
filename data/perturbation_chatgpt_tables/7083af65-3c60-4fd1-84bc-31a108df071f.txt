@@ -1,0 +1,9 @@
+2,3902be75-cf9c-41ef-b86a-8642684b85c5,08080125-1126-0626-0000-47ccc72b29d7,7083af65-3c60-4fd1-84bc-31a108df071f,2026-08-08T12:50:11.141163+10:00
+Premium home insurance for renters in Australia compared to other providers
+Tables found: 1
+| Provider type | Examples | Strengths | Possible downsides |
+|---|---|---|---|
+| **Large “premium” insurers** | NRMA Insurance, Allianz Australia, QBE Insurance | Strong brand recognition, broad policy options, established claims processes | Often higher premiums |
+| **Value-focused insurers** | AAMI, Budget Direct, Youi | Competitive pricing, online quotes, customisation | Check inclusions carefully; cheaper policies may have lower limits or more exclusions |
+| **Member/community insurers** | RACV, RACQ, RAA | Often good local service and member benefits | Availability depends on state |
+End Of Line

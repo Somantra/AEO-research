@@ -1,0 +1,11 @@
+2,a9bad19c-faa2-4872-bc66-2fd2254067b2,08080123-1126-0626-0000-4d67f6ac5dc4,b3a37bff-57db-417a-8b4a-f9d419215dbd,2026-08-08T12:44:28.573819+10:00
+Least reliable third-party motorcycle insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reputation | Third-party suitability |
+|---|---|---|
+| Shannons | One of the strongest motorcycle-focused reputations; won Finder’s “Most Loved Motorcycle Insurance” and “Most Recommended Motorcycle Insurance” categories. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/motorcycle-insurance-satisfaction?utm_source=chatgpt.com) | Good for enthusiasts, modified bikes, and riders wanting specialist service |
+| AAMI | Strong claims reputation; recognised by Finder for ease of claiming. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/motorcycle-insurance-satisfaction?utm_source=chatgpt.com) | Often competitive for basic third-party cover |
+| Budget Direct | Frequently competitive on price; recognised for ease of claiming in Finder’s awards. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/motorcycle-insurance-satisfaction?utm_source=chatgpt.com) | Good if price is the priority |
+| NRMA Insurance | Large established insurer with mixed rider opinions online. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1tmgdd3/insurance_company_suggestion_for_motorcycle/?utm_source=chatgpt.com) | Worth comparing, but check excess and exclusions |
+| QBE Insurance | Commonly considered by riders; experiences vary. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1qjm8qi/insurance/?utm_source=chatgpt.com) | Can be competitive depending on rider profile |
+End Of Line

@@ -1,0 +1,12 @@
+2,6350ac6b-9e56-490c-8fef-266059f2863d,08080124-1126-0626-0000-213e94340748,af5b078b-efb5-4cc9-9f08-f89a221b43cf,2026-08-08T12:46:14.755524+10:00
+Cheapest motorcycle insurance for custom bikes in Australia compared to other providers
+Tables found: 1
+| Insurer | Price position | Custom/modified bikes | Agreed value | My take |
+|---|---|---|---|---|
+| **NRMA** | 🟢 Often cheap | Some modifications/options | Yes, depending on policy | Worth getting a quote |
+| **QBE** | 🟢 Often competitive | **Yes, modifications must be listed** | Yes | **Best value starting point** |
+| **Budget Direct** | 🟢 Often cheap | Yes, but significant exclusions | Yes in some cases | Good if mods fit their rules |
+| **Shannons** | 🟡 Can cost more | **Excellent for custom/enthusiast bikes** | **Yes, including listed mods** | Best for heavily customised bikes |
+| **Youi** | 🟡 Variable | Case-by-case | Yes | Worth quoting |
+| **AAMI/GIO/Suncorp** | 🟡 Variable | Depends on bike/modifications | Depends | Get quotes, but don't assume cheapest |
+End Of Line

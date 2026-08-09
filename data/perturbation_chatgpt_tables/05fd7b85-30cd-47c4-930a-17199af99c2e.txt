@@ -1,0 +1,12 @@
+2,bec2b90b-f41b-477c-8bd0-4dabbd548a15,08080140-1126-0626-0000-5343a45518ac,05fd7b85-30cd-47c4-930a-17199af99c2e,2026-08-08T13:25:18.925759+10:00
+Most reliable pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Annual limit | Key strength | Main drawback |
+|---|---|---:|---|---|
+| **Petsy** | ⭐ Best overall for young pets | Up to $30k for young pets | No condition sub-limits + 20% puppy/kitten bonus | Dental/behavioural are optional |
+| **Trupanion** | ⭐ Best for catastrophic/lifetime illness | **No payout limit** | Lifetime, per-condition cover | Expensive; per-condition excess |
+| **Pet Insurance Australia** | ⭐ Strong comprehensive alternative | Up to $35k | No sub-limits + GapOnly | Dental/specialised cover is an add-on |
+| **Knose** | ⭐ Flexible/value option | Up to $25k | 70/80/90% reimbursement; short waits | Some desirable benefits are optional |
+| **Fetch** | ⭐ Broad all-round cover | Up to $30k | No sub-limits; dental/physio/behaviour included | Need to scrutinise the PDS for exclusions |
+| **RSPCA Pet Insurance** | Good mainstream alternative | Up to $35k | New 2026 product, customisable | Product changed substantially in April 2026 |
+End Of Line

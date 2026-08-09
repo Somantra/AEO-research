@@ -1,0 +1,11 @@
+2,987f3d25-3835-4b95-9fdf-04f718d6c8ae,08080128-1126-0626-0000-e779d4655892,e76f4c18-a075-4e55-add8-7be801da88fc,2026-08-08T12:58:31.082974+10:00
+Most trusted home insurance for first-time homeowners in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I’d consider it | Monthly payments | Trust/customer evidence |
+|---|---|---|---|
+| **NRMA** | ⭐ Best overall for your requirements | **Yes** — monthly, quarterly or annually | Roy Morgan’s **Most Trusted Insurance Brand** for 2022–2025; monthly payments currently available at no extra cost for eligible home policies [www.nrma.com.au](https://www.nrma.com.au/home-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Good mainstream alternative | **Yes** | 60% of surveyed AAMI home customers rated their experience above average/excellent; Canstar recognised AAMI among its 2025 Home Insurance Award winners [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **Youi** | Strong customer satisfaction | Check quote/payment terms | Canstar's **2025 Most Satisfied Customers – Home Insurance** winner; 67% of surveyed customers rated their home-insurance experience above average/excellent in CHOICE's survey [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **QBE** | Worth quoting alongside the above | Check quote | One of Canstar's 2025 Home Insurance Award winners [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **Allianz** | Worth getting a price from | Check quote | One of Canstar's 2025 Home Insurance Award winners, although its customer satisfaction result was weaker in CHOICE's survey [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,3b52767a-37be-4ba3-88b0-9fa9cce67045,08080132-1126-0626-0000-6aec63c1aac9,1c38a8d1-0f3e-4655-9760-177ac914aae5,2026-08-08T13:07:22.309488+10:00
+Most affordable roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Basic annual price | Towing | Hybrid/EV support | My take |
+|---|---:|---|---|---|
+| **Budget Direct** | **$89.95** | Limited, plan-dependent | Yes for mechanical/electrical faults | 🥇 Cheapest |
+| **NRMA** | **$112** | 25 km | Yes | 🥈 Excellent value |
+| **RACV** | **$138** | 20 km | Yes | 🥉 Best choice in Victoria |
+| **RACV Extra Care** | $229 | 60 km | Yes | Better for regional driving |
+| **RACV Total Care** | $318 | 100 km | Yes | Best for long-distance/EV-style coverage |
+End Of Line

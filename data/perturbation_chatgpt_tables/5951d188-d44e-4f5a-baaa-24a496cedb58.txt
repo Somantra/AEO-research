@@ -1,0 +1,10 @@
+2,47bf0ed4-902e-440f-8524-d9cbc1ca3ef6,08080133-1126-0626-0000-e19a52fe7866,5951d188-d44e-4f5a-baaa-24a496cedb58,2026-08-08T13:09:06.683431+10:00
+Most popular standalone roadside assistance cover in Australia with instant online quotes
+Tables found: 1
+| Provider | Availability | Indicative price | Online purchase/quote | Notable point |
+|---|---|---:|---|---|
+| **RACV** | Australia-wide assistance; particularly strong in VIC | From ~$229/yr for Extra Care | **Yes** | Unlimited callouts; strong Melbourne/Victoria network |
+| **Allianz Roadside Assistance** | Australia-wide | **From $99/yr** Basic | **Yes** | One of the cheapest major-brand options |
+| **NRMA Roadside Assistance** | Membership available; particularly NSW/ACT | Varies | **Yes** | Large roadside network; unlimited callouts |
+| **RAC/RACQ/RAA/RACT** | State-based | Varies | Generally yes | Strong local alternatives depending on state |
+End Of Line

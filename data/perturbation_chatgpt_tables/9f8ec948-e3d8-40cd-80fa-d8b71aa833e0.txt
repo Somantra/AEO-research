@@ -1,0 +1,12 @@
+2,94b92b94-f5f4-443d-87a5-05abacc1aaec,08080136-1126-0626-0000-cbf3029b8c84,9f8ec948-e3d8-40cd-80fa-d8b71aa833e0,2026-08-08T13:18:08.638007+10:00
+Least reliable long-term travel insurance in Australia compared to other providers
+Tables found: 1
+| Provider/brand | Reliability view | Why |
+|---|---|---|
+| **AIG / AIG-backed travel policies** | ⚠️ **Higher caution** | A very recent Australian case involved AIG rejecting a major medical claim over an alleged pre-existing condition, leaving the travellers facing enormous medical costs. This is one case, not proof of systemic poor performance. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| **Allianz** | 🟡 **Mixed** | Large, established insurer with substantial travel infrastructure, but Allianz has performed relatively poorly in broader Australian insurance claims/customer surveys. That evidence isn't travel-specific, so I'd treat it as a warning rather than a verdict. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) |
+| **InsureandGo / Europ Assistance** | 🟡 **Reasonable, but read the limits carefully** | Current policies offer extensive medical cover, but annual multi-trip policies cap each individual trip at 30/45/60 days depending on the option. [www.insureandgo.com.au](https://www.insureandgo.com.au/multi-trip-travel-insurance/?utm_source=chatgpt.com) |
+| **Cover-More / Zurich** | 🟢 **Worth considering** | Major Australian travel-insurance operation; Cover-More is part of Zurich. CHOICE includes it among the major providers it assesses. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/how-we-compare-travel-insurance?utm_source=chatgpt.com) |
+| **Travel Insurance Direct / NIB** | 🟢 **Worth comparing** | NIB is another major group included in CHOICE's travel-insurance comparison. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/how-we-compare-travel-insurance?utm_source=chatgpt.com) |
+| **World Nomads** | 🟡 **Good for certain long/active trips, but policy-specific** | Particularly worth examining if you're travelling for months and doing activities that conventional annual policies restrict. But the exact policy and underwriting arrangements matter. |
+End Of Line

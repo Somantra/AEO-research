@@ -1,0 +1,12 @@
+2,01fcad20-7f20-4508-a1ef-6eaf08a6e989,08080130-1126-0626-0000-237b4632ef61,3446c328-9f57-4cba-a364-44f01fbf476f,2026-08-08T13:01:02.466474+10:00
+Most affordable roadside assistance for motorcycles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly price | Motorcycle covered? | Towing |
+|---|---:|---|---|
+| **NRMA Everyday Care** | **$9.99/mo** | ✅ Yes | Up to 25 km metro |
+| **NRMA Complete Care** | **$17.99/mo** | ✅ Yes | Up to 50 km |
+| **NRMA Ultimate Care** | **$21.99/mo** | ✅ Yes | Up to 100 km |
+| **RACV Roadside Care** | $12/mo | ⚠️ Bike Assist included, but motorcycle-specific terms need checking | 20 km metro |
+| **RACV Extra Care** | $19.58/mo | ⚠️ Bike Assist | 60 km |
+| **RACV Total Care** | $27/mo | ✅ Bike Assist | 100 km |
+End Of Line

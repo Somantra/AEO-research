@@ -1,0 +1,12 @@
+1,78de7783-82ea-4f8d-8c99-9da44cffd1aa,08080134-1126-0626-0000-072d5d8634ab,cba520dc-7cb1-497c-87b5-08a74e75564a,2026-08-08T13:12:54.538560+10:00
+Most trusted pet insurance for dogs in Australia
+Tables found: 1
+| Provider | Why I’d consider it |
+|---|---|
+| **RSPCA Pet Insurance** | Strong all-round option; new policies offer up to **$35,000 annual cover**, up to 90% reimbursement and no sub-limits. [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| **Knose** | Pet-insurance specialist with a strong reputation and highly customisable cover. Canstar lists it among the major Australian providers. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| **Petsy** | Worth comparing if you want flexible cover, particularly for dental illness and alternative therapies. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| **Fetch** | Pet-insurance specialist; claims can be paid directly to your vet, which can make larger bills easier to manage. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| **Medibank Pet Max** | A strong mainstream option: Canstar currently shows up to **$30,000 annual cover and 90% reimbursement**, with GapOnly available. [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | Long-established Australian pet insurer and worth getting a quote from, especially if GapOnly is important to you. Community feedback is also generally positive, although individual experiences vary. [www.reddit.com](https://www.reddit.com/r/AustralianPets/comments/1ve9or8/aus_which_of_these_insurance_companies_is_best/?utm_source=chatgpt.com) |
+End Of Line

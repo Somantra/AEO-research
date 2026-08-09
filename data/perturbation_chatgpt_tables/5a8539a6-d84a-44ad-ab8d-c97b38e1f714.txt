@@ -1,0 +1,11 @@
+1,d7c4df03-d8e1-4215-ad16-32743a206374,08080128-1126-0626-0000-e850cce02de4,5a8539a6-d84a-44ad-ab8d-c97b38e1f714,2026-08-08T12:57:51.786645+10:00
+Most trusted car insurance for young drivers in Australia
+Tables found: 1
+| Insurer | Why I’d consider it | Best for |
+|---|---|---|
+| **NRMA Insurance** | Australia’s **Most Trusted Insurance Brand in 2025** for the 7th year running; also received a 2025 Mozo award for **Exceptional Value Young Driver Insurance**. [www.roymorgan.com](https://www.roymorgan.com/findings/10038-trusted-brand-awards-2025-finance-and-insurance-companies?utm_source=chatgpt.com) | ⭐ **Trust & claims confidence** |
+| **AAMI** | 2026 Canstar **National Outstanding Value** winner, and also a winner in **Victoria**. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/best-car-insurance/?utm_source=chatgpt.com) | ⭐ **Best overall in Victoria** |
+| **ROLLiN’ Insurance** | 2026 Canstar Outstanding Value winner; specifically highlighted for younger drivers, with **no additional excess for drivers under 25**. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/car-insurance-under-25s/?utm_source=chatgpt.com) | 💰 **Young-driver value** |
+| **Bingle** | 2026 Canstar National Outstanding Value winner; digital-only and generally focused on competitive pricing. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/best-car-insurance/?utm_source=chatgpt.com) | 💰 **Lower-cost option** |
+| **Youi** | Offers specific learner-driver insurance and includes roadside assistance with Comprehensive cover for learners. [www.youi.com.au](https://www.youi.com.au/car-insurance/learner-driver-insurance?utm_source=chatgpt.com) | 🚗 **Learners / feature-rich cover** |
+End Of Line

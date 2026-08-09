@@ -1,0 +1,10 @@
+2,5e85c03e-ffa5-4a04-97f8-bc66e712b929,08080138-1126-0626-0000-84a46de4a4f7,323fd026-341c-4d26-8392-ebb63bddd6ca,2026-08-08T13:21:08.111783+10:00
+Least reliable pet insurance for cats in Australia with instant online quotes
+Tables found: 1
+| Insurer | Reliability signal | Instant online quote? | My take |
+|---|---|---|---|
+| **Budget Direct** | ⭐ **1.9/5** on ProductReview, with 72% of reviews negative [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-pet-insurance?utm_source=chatgpt.com) | ✅ Yes [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/cat.html?utm_source=chatgpt.com) | **Most concerning** |
+| **Knose** | ⭐ 4.8/5, but some complaints about premium increases as pets age [www.productreview.com.au](https://www.productreview.com.au/listings/knose?utm_source=chatgpt.com) | ✅ Yes — quote in ~60 seconds [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) | Generally reliable, but watch future premiums |
+| **Fetch** | ⭐ 4.8/5, 95% positive; occasional complaints about exclusions/history checks [www.productreview.com.au](https://www.productreview.com.au/listings/fetch-pet?utm_source=chatgpt.com) | ✅ | Looks considerably stronger |
+| **Petsy** | ⭐ 4.9/5, 98% positive [www.productreview.com.au](https://www.productreview.com.au/listings/petsy-pet-insurance?utm_source=chatgpt.com) | ✅ | One of the stronger options |
+End Of Line

@@ -1,0 +1,11 @@
+2,8bd672c1-9a30-4451-85ab-15fa28098ef9,08080132-1126-0626-0000-dc43a4dd5cec,1f07c94b-b488-47a6-b17a-8cc60660dd9d,2026-08-08T13:07:55.743534+10:00
+Most trusted roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Hybrid/EV support | Australia-wide | My take |
+|---|---:|---|---|---|
+| **NRMA** | From **$9.99/month** | Yes | Yes* | ⭐ **Best overall for NSW/ACT** |
+| **RACV Total Care** | **$27/month** | Yes, including EV-specific help | Yes | ⭐ Best premium option |
+| **RAA** | From **$11.25/month** | Covers you in any vehicle | Yes | ⭐ Excellent if SA-based |
+| **RAC WA** | From **$11.30/month** | Roadside cover Australia-wide | Yes | ⭐ Best if WA-based |
+| **Allianz** | Annual membership | Yes | Yes | Good, but not ideal for monthly payments |
+End Of Line

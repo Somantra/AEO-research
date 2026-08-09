@@ -1,0 +1,9 @@
+1,80761a1d-5db5-49dd-848f-89689b391acb,08080119-1126-0626-0000-0b40f5a78d8f,06a084b1-fc45-473f-9bf4-d0c159ecc79f,2026-08-08T12:34:24.477546+10:00
+Least reliable motorcycle insurance for learner riders in Australia
+Tables found: 1
+| Insurer | Why learner riders may be cautious |
+|---|---|
+| Swann Insurance | Some riders report issues around policy administration and cancellations. For example, a learner rider review alleged a cancellation left them unknowingly without cover for a period. These are individual complaints, not proof that all customers have problems. [www.productreview.com.au](https://www.productreview.com.au/listings/swann-comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+| Budget-focused insurers generally | Cheaper premiums can sometimes come with higher excesses, narrower cover, stricter claim conditions, or less motorcycle-specific support. Rider forums commonly advise checking the Product Disclosure Statement rather than choosing on price alone. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1qjm8qi/insurance/?utm_source=chatgpt.com) |
+| Any insurer with unclear learner coverage | Learners should confirm that the policy explicitly covers an L-plater riding the specific motorcycle, because assumptions about driver eligibility can cause claim disputes. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=3eefa0cc-a31d-f111-8342-6045bde6951a&utm_source=chatgpt.com) |
+End Of Line

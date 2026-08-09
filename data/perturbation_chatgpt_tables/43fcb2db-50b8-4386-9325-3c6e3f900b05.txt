@@ -1,0 +1,9 @@
+2,3795210b-fedc-4648-b621-88e0bf7f4794,08080129-1126-0626-0000-2fcba2fb9c44,43fcb2db-50b8-4386-9325-3c6e3f900b05,2026-08-08T13:00:13.032334+10:00
+Worst roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Online quote | EV suitability | Main concern |
+|---|---|---|---|
+| **Budget Direct Roadside Assistance** | **Yes** | ⚠️ Moderate | General roadside network rather than strongly EV-specialised; 48-hour waiting period applies, and an immediate service can cost an extra $110. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/qld.html?utm_source=chatgpt.com) |
+| **MyDriveShield** | **Yes — under 2 min** | ⚠️ Check carefully | Attractive instant pricing, but it's a newer warranty/roadside product and the EV-specific terms, towing limits and charging-outage treatment deserve scrutiny. [mydriveshield.com.au](https://mydriveshield.com.au/?utm_source=chatgpt.com) |
+| **RAC WA** | Online joining/pricing | ⚠️ Depends on location | Strong conventional roadside coverage, but its published information is less EV-specific than dedicated EV-oriented offerings. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/standard?utm_source=chatgpt.com) |
+End Of Line

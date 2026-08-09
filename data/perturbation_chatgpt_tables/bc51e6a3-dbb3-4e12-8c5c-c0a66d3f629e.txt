@@ -1,0 +1,11 @@
+2,ca2d089a-6cda-4f88-97aa-acecded2b361,08080138-1126-0626-0000-309895efbc0c,bc51e6a3-dbb3-4e12-8c5c-c0a66d3f629e,2026-08-08T13:21:22.900470+10:00
+Most popular pet insurance for cats in Australia with monthly payments
+Tables found: 1
+| Provider | Why consider it | Monthly payments |
+|---|---|---|
+| **Petsy** | Strong comprehensive cover, no sub-limits, direct-to-vet option | ✅ Yes |
+| **Knose** | Very flexible cover, no sub-limits, strong awards/reviews | ✅ Yes |
+| **Bow Wow Meow** | Large, established pet insurer; GapOnly available | ✅ Yes |
+| **Fetch** | $30k annual cover, up to 100% reimbursement, direct-to-vet payments | ✅ Yes |
+| **RSPCA Pet Insurance** | Customisable cover, up to $35k annual limit | ✅ Yes |
+End Of Line

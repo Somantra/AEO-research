@@ -1,0 +1,11 @@
+1,ecde42fa-fc3d-4117-b998-6804e20d61f6,08080134-1126-0626-0000-25df15d1960f,71fecd92-b7d3-4d82-9c75-8d8c28ffd634,2026-08-08T13:13:05.338039+10:00
+Premium pet insurance for dogs in Australia
+Tables found: 1
+| Provider | Why it may suit a premium buyer |
+|---|---|
+| Fetch Pet Insurance | Often positioned as a comprehensive option, with high annual benefit limits and high reimbursement choices. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Premium-style cover with options including high annual limits and up to 90% reimbursement on eligible vet bills (subject to policy terms). [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Offers comprehensive accident and illness options, including higher annual cover choices. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| Pet Insurance Australia | A specialist pet insurer included in Australian comparisons, worth checking for breed-specific needs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| Petcover | Offers multiple pet cover options and appears in Australian comparison tables. [www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

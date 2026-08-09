@@ -1,0 +1,14 @@
+2,313ada56-bd15-4ec9-b056-dd10787415ab,08080119-1126-0626-0000-9a972a133148,553ac5a3-ab5d-4383-b243-de699f880d19,2026-08-08T12:34:53.103479+10:00
+Most comprehensive car insurance for used cars in Australia compared to other providers
+Tables found: 1
+| Provider / policy | Best for | Used-car suitability | Key strengths | Main catch |
+|---|---|---:|---|---|
+| **RACV Complete Care** | ⭐ Maximum protection | ⭐⭐⭐⭐⭐ | Any repairer, hire car for virtually any incident, $0 glass excess, pickup/return, personal items, emergency transport | Mainly relevant if you’re in Victoria |
+| **NRMA Comprehensive Plus** | ⭐ Best all-rounder | ⭐⭐⭐⭐⭐ | Hire car after covered incidents, higher limits, extras/modifications included, optional any repairer | Choice of repairer is an extra |
+| **Allianz Comprehensive** | ⭐ Strong nationwide option | ⭐⭐⭐⭐⭐ | Choice of repairer, agreed value, broad accident/weather/theft cover | Some premium features depend on eligibility/options |
+| **RACQ Comprehensive** | ⭐ Excellent QLD option | ⭐⭐⭐⭐⭐ | Choice of repairer, lifetime repair guarantee with selected repairer, hire car, glass benefit | Primarily attractive to QLD drivers |
+| **Suncorp Comprehensive Advantages** | ⭐ High-end cover | ⭐⭐⭐⭐⭐ | Unlimited hire-car option, lifetime repair guarantee, agreed-value option | Higher-tier cover can cost more |
+| **QBE Comprehensive** | Strong mainstream option | ⭐⭐⭐⭐½ | 3-year new-car replacement, guaranteed repairs, optional hire car/repairer/glass | Several desirable features are optional |
+| **RACV Comprehensive** | Flexible mainstream cover | ⭐⭐⭐⭐½ | Agreed/market value, optional hire car and repairer, new-car replacement | Complete Care is substantially more comprehensive |
+| **Budget Direct Gold** | 💰 Value-oriented comprehensive | ⭐⭐⭐⭐ | Agreed/market value, broad comprehensive cover | Choice of repairer/glass benefits can cost extra |
+End Of Line

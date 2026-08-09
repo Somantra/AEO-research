@@ -1,0 +1,10 @@
+0,d8e40340-1b0f-4db7-b3f7-495edf57b23e,08080116-1126-0626-0000-855d2e2ac226,9c5f0b1e-36e8-4665-86d4-4aba4a58c7b8,2026-08-08T12:28:12.438668+10:00
+car insurance for P-plate drivers in Australia
+Tables found: 1
+| Cover | What it covers | Worth considering? |
+|---|---|---|
+| **CTP** | Injuries/death caused by your vehicle | **Mandatory** for registered vehicles |
+| **Third Party Property** | Damage you cause to someone else's car/property | **Minimum I'd recommend** |
+| **Third Party Fire & Theft** | Third party + your car if stolen or damaged by fire | Good middle ground |
+| **Comprehensive** | Your car + other vehicles/property, including many accident/theft/weather situations | Best protection |
+End Of Line

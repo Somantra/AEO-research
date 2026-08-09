@@ -1,0 +1,13 @@
+1,03cba6ae-1df9-44e9-a098-dc36d56c19a7,08080121-1126-0626-0000-3b8e45890e16,40d3999f-ac96-40d2-9023-94f4aeb17322,2026-08-08T12:41:35.782842+10:00
+Premium car insurance for young drivers in Australia
+Tables found: 1
+| Insurer | Why consider it |
+|---|---|
+| **RAC** | Among the cheapest comprehensive options for young drivers nationally in CHOICE’s January 2026 sample |
+| **RACT** | Ranked #1 on average price for young drivers in the same CHOICE comparison |
+| **RACQ** | Strong option if you’re in Queensland |
+| **AAMI** | Often competitive and widely available |
+| **ROLLiN'** | Specifically targets younger drivers and has **no additional age/experience excess** |
+| **Youi** | Comprehensive cover with **no age-based excess** according to its current comparison listing |
+| **Budget Direct** | Gold Comprehensive offers agreed/market value and new-car replacement eligibility on qualifying vehicles |
+End Of Line

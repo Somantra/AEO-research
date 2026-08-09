@@ -1,0 +1,10 @@
+2,6f80d308-f368-4f5a-bc24-10fa9f9ed2ab,08080138-1126-0626-0000-285fc2687294,731023d9-76ad-4994-9716-270016d61a91,2026-08-08T13:21:45.916878+10:00
+Worst pet insurance for dogs in Australia with monthly payments
+Tables found: 1
+| Provider/policy type | Why some owners avoid them |
+|---|---|
+| PetsOnMe | Ranked among lower-rated policies in a CHOICE comparison based on coverage/value factors. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Pet Insurance | Some consumers report frustration with premium increases and value for money. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Petcover Australia | Some owners report large premium increases over time. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+| Very cheap “accident-only” or low-benefit plans | They can look attractive monthly but may leave you paying most illness/surgery costs yourself. [moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

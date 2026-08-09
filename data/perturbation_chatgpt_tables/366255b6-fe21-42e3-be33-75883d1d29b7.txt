@@ -1,0 +1,15 @@
+2,21b12177-9597-4bc1-8119-9ba8a7fd487f,08080125-1126-0626-0000-48cbb21efe53,366255b6-fe21-42e3-be33-75883d1d29b7,2026-08-08T12:49:05.808129+10:00
+Most popular motorcycle insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Position in market | Best suited to | General impression |
+|---|---|---|---|
+| **Shannons** | Specialist | Enthusiasts, modified/classic bikes | ⭐⭐⭐⭐⭐ |
+| **NRMA** | Major mainstream insurer | Riders wanting a large established insurer | ⭐⭐⭐⭐ |
+| **QBE** | Major insurer | Riders prioritising competitive pricing | ⭐⭐⭐⭐ |
+| **AAMI** | Major mainstream insurer | Everyday riders, straightforward cover | ⭐⭐⭐⭐ |
+| **GIO** | Major mainstream insurer | Riders wanting mainstream cover/options | ⭐⭐⭐⭐ |
+| **Youi** | Major insurer | Riders who get competitive personalised quotes | ⭐⭐⭐⭐ |
+| **National Motorcycle Insurance (NMI)** | Motorcycle specialist | Dedicated motorcycle policies | ⭐⭐⭐⭐ |
+| **Swann** | Motorcycle specialist/brand | Traditionally popular with motorcyclists | — |
+| **RACV/RACQ** | State-focused major insurers | Riders in Victoria/Queensland | ⭐⭐⭐⭐ |
+End Of Line

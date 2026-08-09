@@ -1,0 +1,11 @@
+2,70e87179-a88c-452f-b404-30948721fcd0,08080131-1126-0626-0000-e88a7c23530d,bc6c2cc7-33b8-44d4-9fa7-eac85c53f7a7,2026-08-08T13:05:07.821792+10:00
+Most comprehensive roadside assistance for older cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Best comprehensive option | Price* | Key strengths for an older car |
+|---|---|---:|---|
+| **RACQ** | Ultimate Care | **$310/yr** | 200 km attendance, 100 km towing, travel entitlements; nominated vehicle + personal cover |
+| **NRMA** | Ultimate Care | **$245/yr** | Unlimited callouts Australia-wide, 100 km towing, optional add-ons |
+| **RACV** | Total Care | **$318/yr** | 100 km towing, unlimited callouts, caravans/trailers, multiple vehicles |
+| **RAA** | Premium | **$293/yr** | Personal cover, Australia-wide, up to 200 km country attendance, 50 km metro towing |
+| **RAC WA** | Ultimate Plus | **$410/yr** | Very extensive cover, Australia-wide assistance, particularly strong for long-distance/country driving |
+End Of Line

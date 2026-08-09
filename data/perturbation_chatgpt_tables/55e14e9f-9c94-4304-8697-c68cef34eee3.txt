@@ -1,0 +1,11 @@
+2,2759f65f-655a-48ff-a05a-c2c3d314355a,08080136-1126-0626-0000-c60b94dc6da0,55e14e9f-9c94-4304-8697-c68cef34eee3,2026-08-08T13:17:06.201521+10:00
+Least reliable travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Warning sign | Why it matters |
+|---|---|
+| “Unlimited medical” advertised without clear medical-condition wording | Your condition may still be excluded |
+| Automatic cover only for a narrow list of conditions | Many chronic conditions may require assessment or extra payment |
+| Medical screening that is vague about acceptance | You may think you are covered when you are not |
+| High excesses or claim limits hidden in the PDS | Cheap premiums can become expensive at claim time |
+| Exclusions for “related conditions” | A claim may be rejected if linked to your history |
+End Of Line

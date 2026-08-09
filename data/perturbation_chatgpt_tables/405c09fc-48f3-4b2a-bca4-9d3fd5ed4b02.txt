@@ -1,0 +1,12 @@
+2,b369742e-3112-40fb-a477-f835c6e6c355,08080131-1126-0626-0000-7de85753fd64,405c09fc-48f3-4b2a-bca4-9d3fd5ed4b02,2026-08-08T13:04:36.669219+10:00
+Easiest roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Older-car friendliness | Current basic option | Main advantage |
+|---|---|---:|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | $80/yr | Very straightforward in QLD; eligible registered, roadworthy vehicles up to 4.5t |
+| **RAA** | ⭐⭐⭐⭐⭐ | $135/yr | **Covers you regardless of which car you're driving** |
+| **RACV** | ⭐⭐⭐⭐⭐ | $138/yr | Excellent option in Victoria; flexible vehicle arrangements |
+| **RAC WA** | ⭐⭐⭐⭐⭐ | $128/yr | Good Australia-wide breakdown service |
+| **NRMA** | ⭐⭐⭐⭐ | varies | Strong network, particularly NSW |
+| Insurance add-on | ⭐⭐⭐ | often cheaper | Convenient, but usually less generous towing/benefits |
+End Of Line

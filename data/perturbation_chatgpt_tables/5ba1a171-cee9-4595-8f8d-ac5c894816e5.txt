@@ -1,0 +1,10 @@
+2,19fd2805-0181-4c92-9abe-f2201c0c8fc5,08080128-1126-0626-0000-a8cf85017463,5ba1a171-cee9-4595-8f8d-ac5c894816e5,2026-08-08T12:56:42.359767+10:00
+Cheapest home insurance for flood-prone areas in Australia with a fast claims process
+Tables found: 1
+| Insurer | Flood cover | Price signal | Claims convenience | My take |
+|---|---|---|---|---|
+| **Youi** | Yes | **Generally lower** | 24/7 claims | **Best first quote for value** |
+| **Budget Direct** | Optional add-on | Often competitive | Online claims | **Worth quoting for lowest price** |
+| **QBE** | Yes | Variable | **24/7 claims + dedicated claims officer** | **Strong claims-focused option** |
+| **NRMA** | Yes on Plus policy | Generally higher | **24/7 claims** | Good if flood risk is substantial |
+End Of Line

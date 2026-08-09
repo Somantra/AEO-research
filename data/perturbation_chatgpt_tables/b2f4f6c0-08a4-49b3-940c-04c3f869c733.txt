@@ -1,0 +1,10 @@
+2,16161931-ec2a-4df7-b589-4f835306708b,08080128-1126-0626-0000-f3cf41b86f0a,b2f4f6c0-08a4-49b3-940c-04c3f869c733,2026-08-08T12:57:09.924530+10:00
+Least reliable home insurance for flood-prone areas in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Flood cover | Customer satisfaction | Flood-prone suitability |
+|---|---|---|---|
+| **Youi** | ✅ Included/available depending on policy | ⭐ **Very strong** | **Excellent** |
+| **NRMA** | ✅ | Strong | **Excellent** |
+| **Allianz** | ✅ Standard on new policies | Strong | **Excellent** |
+| **Suncorp** | ✅ | Good/strong | **Very good**, particularly QLD |
+End Of Line

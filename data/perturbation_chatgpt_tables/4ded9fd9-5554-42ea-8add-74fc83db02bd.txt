@@ -1,0 +1,10 @@
+2,5ad577b3-63b7-450f-b72a-b54af403b76f,08080126-1126-0626-0000-4d08060fb765,4ded9fd9-5554-42ea-8add-74fc83db02bd,2026-08-08T12:51:41.245297+10:00
+Best home insurance for new builds in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it for a new build | Fee transparency |
+|---|---|---|
+| **Allianz** | Strong building cover, flood included in many policies, and an optional **30% rebuild safety net** | ⭐⭐⭐⭐⭐ |
+| **Budget Direct** | Often competitive on price; currently advertises online discounts | ⭐⭐⭐⭐ |
+| **AAMI** | Established option with flexible excess choices and current PDS documentation | ⭐⭐⭐⭐ |
+| **Youi** | Worth quoting because pricing is highly property-specific; uses a rebuild-cost calculator | ⭐⭐⭐⭐ |
+End Of Line

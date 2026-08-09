@@ -1,0 +1,9 @@
+2,59e4a315-d0bc-486d-8bd9-6848702823e9,08080140-1126-0626-0000-b86c35857569,b91689bf-5874-46d1-8923-9d7bbc97e8c9,2026-08-08T13:24:48.931680+10:00
+Premium pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims speed | Why consider it |
+|---|---|---|---|
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Chronic conditions excluded; some temporary conditions can potentially be reviewed | **Excellent** — GapOnly claims can be assessed in ~10 min | Best fit if **fast claims + potential review of old temporary conditions** are priorities |
+| **[Trupanion Australia](https://trupanion.com.au/)** | **No pre-existing conditions** | **Excellent** — GapOnly/direct-vet payments can happen at checkout | Strongest option for **high-end ongoing cover**: 90% benefit and no annual/lifetime payout limits |
+| **[K​nose Pet Insurance](https://www.knose.com.au/)** | Some pre-existing restrictions may be reviewed depending on condition | Good — assessment generally within 5 business days once information is complete | Worth comparing if you want flexible comprehensive cover |
+End Of Line

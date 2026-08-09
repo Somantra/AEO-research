@@ -1,0 +1,14 @@
+2,854e939b-3911-4245-9c58-dd9507760ebe,08080133-1126-0626-0000-c971854784e6,b71c0c22-9d26-4ddc-8992-1f4d77fead26,2026-08-08T13:10:12.628627+10:00
+Premium roadside assistance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Premium plan | Indicative annual price* | Standout strength | Best suited to |
+|---|---|---:|---|---|
+| **NRMA** | Ultimate Care | ~$299 | 100 km free towing, nationwide reciprocal coverage | NSW/ACT drivers wanting strong all-round cover |
+| **RACV** | Total Care | ~$318 | Broad benefits, including accommodation/transport | Victorian drivers |
+| **RACQ** | Ultra Care | $227 | Excellent value for long-distance travel | Queensland drivers |
+| **RAA** | Premium | ~$293 | Strong premium benefits | South Australian drivers |
+| **RAC WA** | Ultimate / Ultimate Plus | ~$350 / ~$435 | Exceptional towing distances and rural-trip benefits | WA & long-distance/country drivers |
+| **RACT** | Premium/Ultimate-level cover | varies | Tasmania-focused network | Tasmanian drivers |
+| **AANT** | Premium-level cover | varies | NT/rural expertise | Northern Territory drivers |
+| **Insurer/independent providers** | Varies | Often ~$80–$150 | Lower price | Mainly metro drivers wanting basic protection |
+End Of Line

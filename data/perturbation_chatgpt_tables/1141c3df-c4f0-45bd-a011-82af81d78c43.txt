@@ -1,0 +1,10 @@
+2,d233e244-b0f0-4015-92a9-4f562060a955,08080129-1126-0626-0000-36b4e60d3570,1141c3df-c4f0-45bd-a011-82af81d78c43,2026-08-08T13:00:22.113394+10:00
+Least reliable roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | EV-specific support | Fee transparency | My take |
+|---|---|---|---|
+| **RACV** | Excellent — EV out-of-charge towing; high-voltage-trained patrols on Total Care | **Good** | **Best overall for EVs** |
+| **RAA** | Excellent — EV-trained patrols and towing to charging stations | **Good** | **Very strong in SA** |
+| **NRMA** | Good — strong national network and multiple towing tiers | **Good, but check limits** | Strong NSW/ACT choice |
+| **Allianz** | Yes — EV out-of-charge assistance | **Very clear**, but conditions matter | Good national alternative |
+End Of Line

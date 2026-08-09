@@ -1,0 +1,9 @@
+2,75c72b20-85cb-430b-addd-2ddbd9de8bd5,08080134-1126-0626-0000-219231f15ce6,f7be13d3-6832-4cd5-a697-0f76514dd326,2026-08-08T13:11:23.883865+10:00
+Cheapest travel insurance for backpackers in Australia with monthly payments
+Tables found: 1
+| Option | Approx. cost | Payment style | Best for |
+|---|---:|---|---|
+| **SafetyWing Essential** | **US$62.72 / 4 weeks** (~A$96) for ages 18–39 | Every 4 weeks | Cheapest flexible/monthly-style cover |
+| **World Nomads Standard** | Quote-based | Usually paid for selected trip period | Backpacking + activities + baggage |
+| **Fast Cover** | Quote-based | Trip-based | Australian-style comprehensive travel insurance |
+End Of Line

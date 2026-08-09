@@ -1,0 +1,12 @@
+2,8c029486-f99d-4b51-925f-b0fa2d4671e8,08080121-1126-0626-0000-a38f2b3433c8,bec919f5-0326-4dc6-b4f4-2c92c957187e,2026-08-08T12:39:42.899275+10:00
+Most popular motorcycle insurance for learner riders in Australia with monthly payments
+Tables found: 1
+| Insurer | Learner suitability | Monthly payment | My take |
+|---|---|---|---|
+| **QBE** | ✅ Often worth quoting | ✅ | Strong option for competitive learner quotes |
+| **AAMI** | ✅ | Check quote | Large mainstream insurer; comprehensive available |
+| **Budget Direct** | ✅ | ✅ | Often price-competitive; monthly payment available |
+| **Shannons** | ✅ | Depends on quote | Popular with motorcycle riders, but learner pricing can vary a lot |
+| **NRMA** | ✅ | Check quote | Worth comparing, especially in NSW/ACT |
+| **Youi** | ✅ | Check quote | Can be competitive depending on rider/profile |
+End Of Line

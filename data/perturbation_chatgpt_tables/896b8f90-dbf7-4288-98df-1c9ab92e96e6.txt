@@ -1,0 +1,11 @@
+1,5bcce392-ae1b-45c6-b5f5-2d616880f52e,08080134-1126-0626-0000-b8b124fab38a,896b8f90-dbf7-4288-98df-1c9ab92e96e6,2026-08-08T13:13:13.131250+10:00
+Cheapest pet insurance for older pets in Australia
+Tables found: 1
+| Option | Why consider it |
+|---|---|
+| **Budget Direct** | Currently identified by Finder as the **cheapest insurer overall** in its July 2026 comparison; online discounts may reduce the first-year premium. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+| **Petcover** | Worth checking for older pets because it offers several levels of cover and relatively flexible reimbursement options. [www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com) |
+| **Cover-More / CoverMy** | Budget-oriented options with accident & illness cover and lifetime cover on some plans. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | Can be good value if you want a higher annual limit, though it may not be the cheapest. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+| **Accident-only insurance** | Often the cheapest route for a genuinely senior pet, particularly when illness cover is prohibitively expensive. |
+End Of Line

@@ -1,0 +1,10 @@
+2,b9c85d58-7000-44a1-8bd1-91582a3b4576,08080140-1126-0626-0000-23c6340e23c5,d2caf945-1f5a-42e5-9f75-348e7ac8bad9,2026-08-08T13:24:20.174350+10:00
+Best pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why it may suit pets with history | Instant online quote |
+|---|---|---|
+| [Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/) | Has a process for reviewing some pre-existing condition exclusions; useful if a condition may be considered cured. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) | Yes |
+| [Knose Pet Insurance](https://www.knose.com.au/) | Allows a pre-existing condition assessment before claiming, which can clarify exclusions early. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) | Yes |
+| [Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/) | Some temporary pre-existing conditions may be reviewed after a symptom-free period with vet evidence. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) | Yes |
+| [RACQ Pet Insurance](https://www.racq.com.au/insurance/pet-insurance) | Worth checking if your pet’s condition is no longer active; some reviews depend on veterinary history. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) | Yes |
+End Of Line

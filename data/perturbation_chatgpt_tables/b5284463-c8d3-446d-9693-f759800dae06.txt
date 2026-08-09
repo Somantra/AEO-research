@@ -1,0 +1,10 @@
+2,deee1620-6df5-47d5-9ba0-eb85906fc3ea,08080141-1126-0626-0000-d63fdb08d13a,b5284463-c8d3-446d-9693-f759800dae06,2026-08-08T13:27:45.402203+10:00
+Worst accident-only pet insurance in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why it stands out | Review/customer signals |
+|---|---|---|
+| PD Insurance | One of the clearer accident-only options; often chosen for low-cost cover | Strong recent customer-review signals on Australian review platforms, including positive comments about fast claims. [www.productreview.com.au](https://www.productreview.com.au/c/pet-insurance?utm_source=chatgpt.com) |
+| PetsOnMe | Simple accident-only plan structure | Listed as an accident-only option in Australian comparisons. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Established specialist pet insurer; offers accident-related cover options | Frequently discussed by Australian pet owners, though experiences vary. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1vg301m/pet_insurance_crazy_increase/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Well-known brand with strong consumer recognition | Often considered by Australian owners, though you should check the specific accident-only availability and policy wording. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/y4bppx/pet_insurance_best_options/?utm_source=chatgpt.com) |
+End Of Line

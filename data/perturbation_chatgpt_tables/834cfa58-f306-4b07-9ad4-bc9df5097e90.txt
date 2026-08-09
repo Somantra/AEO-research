@@ -1,0 +1,17 @@
+2,d59fb4fd-3b45-4a4d-8157-11b343b093a0,08080126-1126-0626-0000-57d856d75f03,834cfa58-f306-4b07-9ad4-bc9df5097e90,2026-08-08T12:51:56.533876+10:00
+Least reliable home insurance for new builds in Australia compared to other providers
+Tables found: 1
+| Provider | My view for a new build | Why |
+|---|---|---|
+| **Qantas Insurance** | 🔴 **Cautious** | Lowest CHOICE satisfaction among the nationally surveyed insurers at **42%** |
+| **CGU** | 🔴 **Cautious** | Only **48%** rated their experience above average/excellent |
+| **GIO** | 🟠 **Below average** | **55%** satisfaction; only **50%** rated claims experience above average/excellent |
+| **Allianz** | 🟠 **Mixed** | **55%** satisfaction and **52%** claims experience |
+| **Budget Direct** | 🟠 **Mixed** | **58%** satisfaction and only **49%** claims experience |
+| **AAMI** | 🟢 **Generally stronger** | **60%** satisfaction; **57%** claims experience |
+| **NRMA** | 🟢 **Strong** | **61%** satisfaction; **69%** claims experience |
+| **Suncorp** | 🟢 **Strong** | **65%** satisfaction; **66%** claims experience |
+| **Youi** | 🟢 **Strong** | **67%** satisfaction; **65%** claims experience |
+| **RAC (WA)** | 🟢 **Very strong** | **78%** satisfaction; **71%** claims experience |
+| **RACQ (QLD)** | 🟢 **Excellent customer results** | **91%** satisfaction; **88%** claims experience |
+End Of Line

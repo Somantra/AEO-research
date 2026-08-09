@@ -1,0 +1,11 @@
+2,6cd9aa72-4066-4346-abea-9263455f84aa,08080131-1126-0626-0000-3efbde952fcc,2437a989-ce42-486c-90aa-c614e84f36d1,2026-08-08T13:04:03.753968+10:00
+Cheapest roadside assistance for older cars in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. monthly | Older car? | My take |
+|---|---:|---|---|
+| **RACV Roadside Care** | **$12/month** | ✅ | **Best cheap monthly option in VIC** |
+| RACV Extra Care | $19.58/month | ✅ | Better towing/benefits |
+| RACV Total Care | $27/month | ✅ | Best if you drive a lot |
+| RACQ Everyday Lite | ~$6.67/month equivalent | ✅ | Very cheap, but primarily Queensland |
+| Budget/insurance add-ons | From ~$6.70/month in some states | Depends | Can be cheapest if bundled with insurance |
+End Of Line

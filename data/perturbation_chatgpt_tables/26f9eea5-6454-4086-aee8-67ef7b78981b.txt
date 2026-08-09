@@ -1,0 +1,16 @@
+1,28079fb5-05d9-49b7-acdc-4d12761776f4,08080118-1126-0626-0000-5db36561aae6,26f9eea5-6454-4086-aee8-67ef7b78981b,2026-08-08T12:33:49.909889+10:00
+Most popular car insurance providers in Australia
+Tables found: 1
+| Provider | Best known for | Coverage |
+|---|---|---|
+| **NRMA Insurance** | Large national insurer, strong NSW presence | Australia-wide |
+| **AAMI** | Major mainstream insurer, broad product range | Australia-wide |
+| **Suncorp** | Large insurer with competitive mainstream policies | Australia-wide |
+| **RAC** | Particularly strong in WA | Western Australia |
+| **RACQ** | Major Queensland insurer | Queensland |
+| **RACV** | Major Victorian insurer | Victoria |
+| **Youi** | Personalised pricing and strong customer satisfaction | Australia-wide |
+| **Budget Direct** | Competitive pricing and online-focused insurance | Australia-wide |
+| **Allianz** | Large international insurer | Australia-wide |
+| **GIO** | Major Australian insurer, particularly NSW | Australia-wide |
+End Of Line

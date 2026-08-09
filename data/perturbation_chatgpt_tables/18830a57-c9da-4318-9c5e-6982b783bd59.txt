@@ -1,0 +1,9 @@
+2,1540e379-237e-4c05-bfd3-5695eb4a0bd0,08080117-1126-0626-0000-2d2d898d101d,18830a57-c9da-4318-9c5e-6982b783bd59,2026-08-08T12:29:23.868786+10:00
+Premium car insurance for young drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **Budget Direct** | Competitive pricing, flexible excess/driver-age options, and online policy management. Currently advertising **15% off the first year** for eligible new policies bought online. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/comprehensive-car-insurance.html?utm_source=chatgpt.com) | urlGet a Budget Direct quoteturn0search8 |
+| **NRMA** | Comprehensive cover available to young drivers, including P-platers; online quotes available. Eligible policies can receive **up to 10% off** when bought online. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/car-insurance-young-drivers?utm_source=chatgpt.com) | urlGet an NRMA quoteturn0search3 |
+| **Youi** | Specifically caters for under-25 and learner drivers; Comprehensive includes 24/7 roadside assistance. [www.youi.com.au](https://www.youi.com.au/car-insurance/learner-driver-insurance?utm_source=chatgpt.com) | urlGet a Youi quoteturn0search4 |
+End Of Line

@@ -1,0 +1,17 @@
+2,ddb859c4-cab8-488f-9795-7d3afbd327f5,08080141-1126-0626-0000-042293b36668,aeae4785-2b91-4586-9860-a43419c4f426,2026-08-08T13:26:51.200200+10:00
+Best pet insurance for exotic pets in Australia without hidden fees
+Tables found: 1
+| Cost/condition | Why it matters |
+|---|---|
+| **Annual premium** | Can increase at renewal |
+| **Excess** | What you pay before reimbursement |
+| **Benefit percentage** | e.g. 70%, 80%, 90% |
+| **Annual vet-fee limit** | Maximum insurer pays |
+| **Sub-limits** | Separate caps for particular treatments |
+| **Waiting periods** | Claims may not be covered immediately |
+| **Pre-existing conditions** | Often excluded |
+| **Age limits** | Important for older exotic pets |
+| **Species-specific exclusions** | Particularly important for reptiles/birds |
+| **Cancellation/admin fees** | Check the policy wording |
+| **Renewal terms** | Check whether premiums/terms can change |
+End Of Line

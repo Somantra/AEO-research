@@ -1,0 +1,11 @@
+2,c5f65c77-d5b9-4248-8380-0de4668ee0bd,08080139-1126-0626-0000-33d4e894cfaf,460d8647-be1f-4f11-a3ff-917ed1ed395e,2026-08-08T13:23:29.667607+10:00
+Worst pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Provider | Multi-pet discount | Hidden-fee concern | My take |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10%** on 2nd+ pets | Relatively transparent | 🟢 Strong choice |
+| **Petsy** | **5%** lifetime on additional pets | Discloses policy fees/charges | 🟢 Strong choice |
+| **Fetch** | **5%** | Check PDS carefully | 🟢 Strong coverage |
+| **Petcover** | 5% on some policies | Compare fees/exclusions | 🟡 Quote-dependent |
+| **PetSure-backed brands** | Varies | Can differ substantially by policy | 🟠 Read PDS carefully |
+End Of Line

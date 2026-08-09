@@ -1,0 +1,10 @@
+2,67165c56-a76e-49ac-98ed-8cc82dee287d,08080130-1126-0626-0000-4cdf8c43857b,77248793-5de8-48bc-b372-3043afac6915,2026-08-08T13:02:06.536081+10:00
+Cheapest roadside assistance for interstate travel in Australia with instant online quotes
+Tables found: 1
+| Provider | Current price | Towing | Australia-wide | Online |
+|---|---:|---|---|---|
+| **Budget Direct** | **$76.46 first year** online; $89.95 thereafter | Up to 20 km from breakdown / 50 km round-trip from depot | ✅ | ✅ |
+| **Allianz** | From $99/yr | Up to 50 km | ✅ | ✅ |
+| **RAC WA** | $135.68/yr Standard | Depends on plan | ✅ | ✅ |
+| **RACV** | $138/yr Roadside Care | 20 km metro | Primarily VIC-focused | ✅ |
+End Of Line

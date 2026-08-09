@@ -1,0 +1,11 @@
+2,9e7bba0f-b8a3-4617-b27a-f0136925c8f9,08080120-1126-0626-0000-a694a4d428eb,0f876b3e-508a-4a41-9923-dd0b006daf93,2026-08-08T12:38:09.653983+10:00
+Worst car insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Why some customers complain | Instant online quote? |
+|---|---|---|
+| Budget Direct | Often competitive on price, but some customers report frustration around claims decisions and communication. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1sta3dh/fuck_budget_direct/?utm_source=chatgpt.com) | Yes |
+| Allianz Australia | Some online reviews and community discussions criticise slow or difficult claims experiences. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1oilx5c/warning_please_avoid_allianz/?utm_source=chatgpt.com) | Yes |
+| RAC | Some WA customers report dissatisfaction with renewal price increases and value. [www.reddit.com](https://www.reddit.com/r/perth/comments/1ljal61?utm_source=chatgpt.com) | Yes |
+| AAMI | Large provider with mixed reviews; some customers like the convenience, others dislike claim outcomes or pricing changes. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1lgorjt?utm_source=chatgpt.com) | Yes |
+| Bingle | Very price-focused; may suit simple claims but check inclusions, repair choices and excess carefully. [www.finder.com.au](https://www.finder.com.au/car-%20insurance?utm_source=chatgpt.com) | Yes |
+End Of Line

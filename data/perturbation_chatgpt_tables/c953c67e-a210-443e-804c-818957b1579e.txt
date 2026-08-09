@@ -1,0 +1,11 @@
+2,fa2845ff-ecc3-4266-9658-25ec1a8962b9,08080139-1126-0626-0000-435c004da8a0,c953c67e-a210-443e-804c-818957b1579e,2026-08-08T13:22:43.836310+10:00
+Most reliable pet insurance for older pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | New-pet age limit | Cover | Online quote | My take for older pets |
+|---|---:|---|---|---|
+| **Petinsurance.com.au – Silver** | **Under 15 years** for dogs | Up to $20k/year, 80% | **Yes** | ⭐ **Best first quote for an older dog** |
+| **Trupanion** | **Under 14 years** | Lifelong accident & illness; custom excess | **Yes** | ⭐ **Best for comprehensive senior cover** |
+| **Petsy** | Under 9 years | Up to $25k/year, 80–90% | **Yes** | Excellent, but only if <9 |
+| **Knose** | Under 9 years | Up to $25k/year | **Yes — ~60 sec** | Excellent for younger seniors |
+| **RSPCA** | Depends on current eligibility | Up to $35k/year | **Yes** | Worth checking, particularly for its current product |
+End Of Line

@@ -1,0 +1,13 @@
+2,e770b227-a48d-4dac-b5ff-1d08706b4cc1,08080138-1126-0626-0000-ae4fdbafa9b2,256ad7ed-aa3f-4d85-adda-623d0fd561c8,2026-08-08T13:20:40.453326+10:00
+Premium travel insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider / premium policy | Best for | Medical | Cancellation | Luggage | Overall view |
+|---|---|---:|---:|---:|---|
+| **Cover-More Comprehensive Plus** | Maximum/high-limit cover | Unlimited | Optional | Up to $25k | ⭐⭐⭐⭐⭐ |
+| **Fast Cover Comprehensive** | High cover + value | Unlimited | **Unlimited** | $15k | ⭐⭐⭐⭐⭐ |
+| **World2Cover Top Cover** | Premium all-round cover | Unlimited | Choose limit | High | ⭐⭐⭐⭐½ |
+| **TID – The Works** | Strong cover at competitive pricing | Unlimited | Flexible | $12k | ⭐⭐⭐⭐½ |
+| **1Cover Comprehensive** | Value-conscious travellers | Unlimited | Flexible | $15k | ⭐⭐⭐⭐ |
+| **Allianz Comprehensive** | Large established insurer | Unlimited* | High | Good | ⭐⭐⭐⭐ |
+| **World Nomads** | Adventure/backpacking | $5m on Standard | $5k on Standard | $2k on Standard | ⭐⭐⭐½ |
+End Of Line

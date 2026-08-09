@@ -1,0 +1,10 @@
+2,d244fdaa-6fa7-434d-94cd-66485b00f129,08080139-1126-0626-0000-94b4beccb7b6,e2a99294-ae6f-4a1d-bf19-8ee936e41fab,2026-08-08T13:22:53.892839+10:00
+Easiest pet insurance for older pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | Older-pet entry age* | Why it stands out |
+|---|---:|---|
+| **Everyday Pet Insurance** | Up to **9** | High annual limit (up to $35k), up to 90% back, online quote |
+| **RSPCA Pet Insurance** | Depends on pet/plan | Up to $35k cover, up to 90% back, quick online quote |
+| **Bow Wow Meow** | Up to **8** | Well-established, 70/80/90% reimbursement options, online quote |
+| **Medibank Pet Insurance** | Up to **9** on some cover | Up to $30k and 90% back; online quote |
+End Of Line

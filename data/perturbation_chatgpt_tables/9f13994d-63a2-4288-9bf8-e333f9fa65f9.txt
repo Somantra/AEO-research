@@ -1,0 +1,13 @@
+2,cf418ec3-02c4-48b8-9e3e-9f440dbf77b0,08080141-1126-0626-0000-1ca7a697e228,9f13994d-63a2-4288-9bf8-e333f9fa65f9,2026-08-08T13:27:11.314008+10:00
+Safest pet insurance for exotic pets in Australia with monthly payments
+Tables found: 1
+| | Value | Plus | Premier |
+|---|---:|---:|---:|
+| Vet fees | $2,000 | **$4,000** | **$6,000** |
+| Illness waiting period | 21 days | 21 days | 21 days |
+| Injury waiting period | None | None | None |
+| Specialist vet | ✓ | ✓ | ✓ |
+| Third-party liability | $1m | $1m | $1m |
+| Small-mammal dental | ✓ | ✓ | — |
+| Best for | Budget | **Best balance** | Birds/reptiles needing maximum cover |
+End Of Line

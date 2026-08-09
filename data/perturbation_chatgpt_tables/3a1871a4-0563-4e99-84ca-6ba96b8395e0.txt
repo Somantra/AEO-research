@@ -1,0 +1,16 @@
+2,8c877682-bb55-4d78-b8b3-20807102b71e,08080129-1126-0626-0000-a99a876b43cf,3a1871a4-0563-4e99-84ca-6ba96b8395e0,2026-08-08T12:59:09.768233+10:00
+Worst home insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Positive customer rating | Take |
+|---|---:|---|
+| **Qantas Insurance** | **42%** | 🔴 Weakest |
+| **CGU** | **48%** | 🔴 Weak |
+| **CBA** | 51% | 🟠 Below average |
+| **GIO** | 55% | 🟠 Middling |
+| **Allianz** | 55% | 🟠 Middling |
+| **Everyday/Woolworths** | 57% | 🟠 Middling |
+| **Budget Direct** | 58% | 🟡 Fair |
+| **Apia** | 59% | 🟡 Fair |
+| **AAMI** | 60% | 🟡 Fair |
+| **NRMA** | 61% | 🟡 Fair |
+End Of Line

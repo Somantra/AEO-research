@@ -1,0 +1,11 @@
+2,1a5814b0-812f-4eae-a3b8-e69ffbe8fa34,08080129-1126-0626-0000-ec6d912f8118,a0541171-a0b4-43d6-9ead-8babd3d60a82,2026-08-08T12:58:39.261284+10:00
+Most popular home insurance for first-time homeowners in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims experience/process |
+|---|---|---|
+| **Suncorp** | Strong all-round option, particularly in QLD | Online/app claims 24/7; Suncorp says some claims may be decided instantly and, if more information is needed, it will contact you within 2 business days. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/home/claims.html?utm_source=chatgpt.com) |
+| **Allianz** | Excellent option for a first-time homeowner | 24/7 claims team and online claims; Allianz says it has over 1 million home customers and paid over $1.5bn in home claims in 2025. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| **AAMI** | Very mainstream, with strong recent award recognition | Canstar currently lists AAMI among its national home-insurance award winners. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-qld/?utm_source=chatgpt.com) |
+| **QBE** | Good major-insurer alternative | Online claims plus a 24/7 claims line and a dedicated claims officer to manage the claim. [www.qbe.com](https://www.qbe.com/au/claims/home?utm_source=chatgpt.com) |
+| **NRMA** | Worth quoting alongside the above | A major Australian home insurer; recent consumer feedback is mixed, but some customers report very good claims experiences. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+End Of Line

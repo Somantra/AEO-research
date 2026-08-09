@@ -1,0 +1,14 @@
+2,feae2cff-eb17-49d8-812f-59f9fcd07ee4,08080118-1126-0626-0000-02e7bed17494,60ae0f88-a7bb-430d-9dd3-e89a75f4eab0,2026-08-08T12:32:20.925972+10:00
+Least reliable car insurance for small cars in Australia compared to other providers
+Tables found: 1
+| Insurer | Claims/customer experience | Compared with others |
+|---|---|---|
+| **Budget Direct** | 🔴 Weakest | **Below average** |
+| **Allianz** | 🟠 Below average | Below average |
+| **AAMI** | 🟠 Below average | Below average |
+| **RACV** | 🟡 Mixed | Around average |
+| **Suncorp/GIO** | 🟢 Good–average | Above many |
+| **NRMA** | 🟢 Good | Above average |
+| **Youi** | 🟢 Very good | Well above average |
+| **RACQ** | 🟢 Very good in QLD | Among the better choices |
+End Of Line

@@ -1,0 +1,10 @@
+2,6b90398f-abfb-487f-b735-ffa2c411c171,08080138-1126-0626-0000-9ec8c1425979,66850ab6-5403-4571-bb63-b630fd4314ea,2026-08-08T13:21:46.952608+10:00
+Worst pet insurance for dogs in Australia with strong customer reviews
+Tables found: 1
+| Insurer / underwriter | Customer-review picture | Why I'd be cautious |
+|---|---|---|
+| **PetSure** | ⭐ **2.0/5 from 59 reviews** | Very high proportion of negative reviews (78%). Complaints include claim disputes, premium increases and cancellation/payment issues. [www.productreview.com.au](https://www.productreview.com.au/listings/petsure?utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | Mixed | RSPCA policies are backed by PetSure, and there are recurring customer complaints about rising premiums and difficulty with claims/history documentation. [www.productreview.com.au](https://www.productreview.com.au/listings/rspca-pet-insurance?utm_source=chatgpt.com) |
+| **Pet Insurance Australia (PIA)** | ⭐ **4.5/5 from 2,259 reviews** | **Not a “worst” insurer by reviews**—but some customers complain about sublimits and increasingly expensive premiums as dogs age. [www.productreview.com.au](https://www.productreview.com.au/listings/pet-insurance-australia?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/fetch-pet?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | ⭐ **4.5/5 from 3,237 reviews** | Generally strong, but I'd still scrutinise exclusions, limits and renewal pricing rather than relying on the excellent rating. [www.productreview.com.au](https://www.productreview.com.au/listings/bow-wow-meow-pet-health-insurance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/fetch-pet?utm_source=chatgpt.com) |
+End Of Line

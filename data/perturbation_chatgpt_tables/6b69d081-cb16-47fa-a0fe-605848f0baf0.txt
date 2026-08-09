@@ -1,0 +1,11 @@
+1,21ed8e1b-75f6-4358-9485-90298bf14336,08080125-1126-0626-0000-982a6d09788f,6b69d081-cb16-47fa-a0fe-605848f0baf0,2026-08-08T12:49:22.297333+10:00
+Most popular home insurance for high-value items in Australia
+Tables found: 1
+| If you have… | I'd investigate first |
+|---|---|
+| $1–3m home + expensive contents | **Chubb Masterpiece** |
+| $3m+ home / substantial wealth | **Chubb Masterpiece + AXA XL** |
+| $100k+ jewellery/watch collection | **Chubb Masterpiece** |
+| Fine art / collectibles | **Chubb Masterpiece** |
+| Multiple luxury properties / very high net worth | **Private-client broker + Chubb/AXA XL** |
+End Of Line

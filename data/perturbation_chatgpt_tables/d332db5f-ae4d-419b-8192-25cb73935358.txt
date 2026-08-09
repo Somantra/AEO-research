@@ -1,0 +1,10 @@
+2,55c0e785-b6ac-48c9-b618-98acd8a30feb,08080139-1126-0626-0000-7959506ec6fc,d332db5f-ae4d-419b-8192-25cb73935358,2026-08-08T13:23:43.940748+10:00
+Safest pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I’d consider it | Multi-pet | Monthly payments |
+|---|---|---|---|
+| **RSPCA Pet Insurance** | Very strong overall cover; up to $35k annual limit and **no sub-limits** on PetFlex | **10% off each additional pet** | Yes |
+| **Pet Insurance Australia (PIA)** | Up to $35k annual limit, up to 90% reimbursement, flexible excess | 5% / 10% / 15% for pets 2/3/4+ | Yes |
+| **Bow Wow Meow** | Strong comprehensive cover and multi-pet discount; GapOnly available | **10% multi-pet discount** currently advertised | Yes |
+| **Coles Pet Insurance** | Convenient monthly structure and multi-pet discount | Yes | Yes |
+End Of Line

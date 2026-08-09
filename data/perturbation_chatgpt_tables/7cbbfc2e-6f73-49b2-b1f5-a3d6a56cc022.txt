@@ -1,0 +1,9 @@
+2,07e412cd-d9a0-450a-aff2-afe3e4fb5f55,08080139-1126-0626-0000-b0c853820e8a,7cbbfc2e-6f73-49b2-b1f5-a3d6a56cc022,2026-08-08T13:23:46.836052+10:00
+Safest pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | Multi-pet discount | Online quote | Why I’d consider it |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10%** off 2nd+ pets for life | **Instant** | Strong all-rounder; GapOnly, 24/7 vet support, no sub-limits on some covers |
+| **Petsy** | **5%** off each additional pet for life | **Instant** | Direct-to-vet payment option, very customisable |
+| **Knose** | **5%** off for life | **~60 seconds** | Flexible cover, no sub-limits advertised, strong customer-service focus |
+End Of Line

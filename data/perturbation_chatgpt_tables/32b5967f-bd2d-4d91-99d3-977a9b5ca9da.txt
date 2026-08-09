@@ -1,0 +1,10 @@
+2,9d46b2d1-97c2-4f49-85e0-2d1dbbad2f5e,08080135-1126-0626-0000-0263c37f9f16,32b5967f-bd2d-4d91-99d3-977a9b5ca9da,2026-08-08T13:15:52.605960+10:00
+Worst travel insurance for seniors in Australia compared to other providers
+Tables found: 1
+| Potentially poor choice | Why it can be a problem |
+|---|---|
+| **The cheapest policy with limited medical cover** | Overseas medical costs and evacuation can be enormous; low-cost policies may have lower limits or more exclusions. [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/seniors-travel-insurance/?utm_source=chatgpt.com) |
+| **Credit-card travel insurance without checking age limits** | Some complimentary policies have restrictions, including age caps or conditions that make them unsuitable for older travellers. [www.ft.com](https://www.ft.com/content/151a0cfa-2341-490f-b47f-e36988fbf3ec?utm_source=chatgpt.com) |
+| **Policies with strict pre-existing condition rules** | Seniors are more likely to have conditions that need approval; failing to disclose or misunderstanding exclusions can lead to denied claims. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/seniors-travel-insurance?utm_source=chatgpt.com) |
+| **A policy with poor claims reputation** | The real test of insurance is how it handles emergencies, not just the premium price. A recent case involving a Jetstar-linked AIG policy highlighted the consequences of disputes over pre-existing conditions and medical claims. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+End Of Line

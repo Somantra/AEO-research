@@ -1,0 +1,13 @@
+2,35c67bef-9516-4687-9b95-665b200ec1aa,08080118-1126-0626-0000-ba50c3585b33,11eab480-91ee-411c-8515-bd6f5157437a,2026-08-08T12:33:50.807577+10:00
+Most comprehensive car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Insurer | EV battery | Charging cable | Home wall charger | EV repair network | New-car replacement | Agreed value | My view |
+|---|---|---|---|---|---|---|---|
+| **Allianz Comprehensive** | ✅ Explicitly covered | ✅ | ✅ If you own it | ✅ EV-certified repairers | ✅ 2 years | ✅ | **🥇 Best overall EV-specific cover** |
+| **RACV Complete Care** | ✅ | ✅ Factory cables/adaptors | ❌ Car policy | ✅ EV-qualified | ✅ 3 years | ✅ | **🥈 Excellent, especially VIC** |
+| **RoLLiN’** | ✅ | ✅ | ✅ | Network of repairers | Depends on policy | ✅/vehicle value | **🥉 Excellent EV-specific features** |
+| **Youi Comprehensive** | ✅ EV cover | Check PDS/quote | Check policy | Quality Repair Guarantee | ✅ 2 years | Policy-dependent | **Excellent roadside support** |
+| **NRMA Comprehensive** | ✅ | ✅ Portable cable | ❌ | EV support | Policy-dependent | Policy-dependent | **Very good mainstream option** |
+| **QBE Comprehensive** | Covered as vehicle damage | Not specifically highlighted | Not specifically highlighted | Accredited repairer network | ✅ 3 years* | ✅/market | **Good general cover, less EV-specialised** |
+| **Budget Direct Gold** | Generally covered as vehicle | Check PDS | Check PDS/home policy | Lifetime repair guarantee | ✅ 2 years/40k km | Choice | **Best value contender, not my #1 for EV-specific protection** |
+End Of Line

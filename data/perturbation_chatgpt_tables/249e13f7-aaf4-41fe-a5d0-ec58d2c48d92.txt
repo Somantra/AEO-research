@@ -1,0 +1,10 @@
+1,68f5f8cc-8028-43de-ba9c-ef48841af9d1,08080126-1126-0626-0000-01b590cf4e81,249e13f7-aaf4-41fe-a5d0-ec58d2c48d92,2026-08-08T12:52:13.108556+10:00
+Cheapest roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | Approx. cheapest cover | EV coverage | Notes |
+|---|---:|---|---|
+| RACQ | Around **$80–$109/year** depending on plan | Some low-cost plans exclude EVs; EV-inclusive plans available | RACQ’s EV roadside assistance includes EVs in eligible plans, with towing to a charging location/destination according to entitlements. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| NRMA | About **$112/year** when paid annually for entry cover | Yes | Includes EVs, battery issues, towing, and EV charging support options. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV | Usually around the low-$100s/year | Yes | EVs are covered under roadside assistance at no extra cost, including running out of charge. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| Independent providers (e.g. 24/7 Roadservices Australia) | Often cheaper than major clubs | Check EV wording carefully | Community comparisons often mention lower prices, but EV charging/towing benefits vary. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+End Of Line

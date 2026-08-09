@@ -1,0 +1,17 @@
+2,267e4ee2-0a6c-44e6-913c-3cf956eeecba,08080118-1126-0626-0000-1b17872638ce,fcf7cf5a-7a8f-4514-8047-936b4ce55630,2026-08-08T12:31:32.861874+10:00
+Most popular car insurance for older drivers in Australia compared to other providers
+Tables found: 1
+| Insurer | Older-driver appeal | Customer satisfaction* | Comments |
+|---|---|---:|---|
+| **RAA** | ⭐⭐⭐⭐⭐ | **91%** | Particularly strong in South Australia |
+| **RACQ** | ⭐⭐⭐⭐⭐ | **85%** | Very strong in Queensland |
+| **Youi** | ⭐⭐⭐⭐½ | **77%** | Strong satisfaction; often worth getting a quote |
+| **RAC** | ⭐⭐⭐⭐½ | **77%** | Strong option in WA |
+| **GIO** | ⭐⭐⭐⭐ | **75%** | Competitive mainstream option |
+| **NRMA** | ⭐⭐⭐⭐ | **72%** | Large, established insurer; strong option to compare |
+| **Apia** | ⭐⭐⭐⭐ | **68%** | Specifically oriented toward mature Australians |
+| **Suncorp** | ⭐⭐⭐½ | **68%** | Mainstream alternative |
+| **AAMI** | ⭐⭐⭐½ | **62%** | Very large, but satisfaction below the leaders |
+| **Budget Direct** | ⭐⭐⭐½ | **62%** | Often competitive on price |
+| **Allianz** | ⭐⭐⭐ | **61%** | Major insurer, but lower satisfaction in this survey |
+End Of Line

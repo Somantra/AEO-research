@@ -1,0 +1,11 @@
+2,12331814-0dca-465f-afdf-f5531aa02031,08080142-1126-0626-0000-6baf09e1601d,78aaeec4-2e12-4f6a-810f-1fc00c6823f9,2026-08-08T13:29:01.029106+10:00
+Most popular pet insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | ProductReview score | Reviews | My take |
+|---|---:|---:|---|
+| **Petsy** | ⭐ **4.9/5** | 323 | Best-rated overall, though smaller review base |
+| **Knose** | ⭐ **4.8/5** | 747 | Excellent combination of rating + review volume |
+| **Fetch Pet** | ⭐ **4.8/5** | 562 | Strong claims/customer-service reputation |
+| **Bow Wow Meow** | ⭐ **4.5/5** | **3,237** | Very popular; strongest large-volume review evidence |
+| **Pet Insurance Australia (PIA)** | ⭐ **4.5/5** | **2,259** | Long-established and lots of customer feedback |
+End Of Line

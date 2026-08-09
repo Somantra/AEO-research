@@ -1,0 +1,9 @@
+2,5f32b1e7-b320-4329-b3ec-f553787664d0,08080141-1126-0626-0000-af449fa3f50c,b8cd3486-31a6-4bff-b0b7-b5edebb20c89,2026-08-08T13:28:03.704497+10:00
+Safest accident-only pet insurance in Australia with strong customer reviews
+Tables found: 1
+| Provider | Accident-only | Customer reviews | Cover | My take |
+|---|---|---|---|---|
+| **PD Pet Insurance** | ✅ | **5.0/5** on ProductReview | $5,000 annual limit, 80% reimbursement | 🥇 **Best review signal** |
+| **PetsOnMe Accidental Plan** | ✅ | **4.0/5** from 18 reviews | $5,000 annual limit, up to 80% | 🥈 **Good alternative** |
+| **Medibank Accident/Emergency-type cover** | ⚠️ | **4.2/5** overall | More substantial options available | Worth considering if you don't need *strictly* accident-only |
+End Of Line

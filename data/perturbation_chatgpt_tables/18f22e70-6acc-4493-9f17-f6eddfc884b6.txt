@@ -1,0 +1,11 @@
+2,f789eb8b-3a0a-42a9-84e5-3e75be2f043c,08080120-1126-0626-0000-7aad3482a15d,18f22e70-6acc-4493-9f17-f6eddfc884b6,2026-08-08T12:36:42.083898+10:00
+Premium third-party car insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Claims speed/convenience |
+|---|---|---|
+| **[Youi](https://www.youi.com.au/)** | Strong service focus; TPPD includes up to $20m liability and up to $5,000 cover if an uninsured driver is entirely at fault | **Excellent** — 24/7 claims lodgement via app, online or phone; Youi says calls average around 30 seconds to answer [www.youi.com.au](https://www.youi.com.au/car-insurance/third-party-property-only?utm_source=chatgpt.com) |
+| **[Allianz Australia](https://www.allianz.com.au/)** | More traditional “premium” insurer; $20m third-party property liability and broad national presence | **Excellent** — 24/7 claims and online lodgement; Allianz says online is the fastest way to claim [www.allianz.com.au](https://www.allianz.com.au/car-insurance/third-party-property-damage-car-insurance.html?utm_source=chatgpt.com) |
+| **[NRMA Insurance](https://www.nrma.com.au/)** | Established insurer with $20m liability and guaranteed workmanship on authorised repairs | **Very good** — 24/7 claims helpline and claims can be made anytime [www.nrma.com.au](https://www.nrma.com.au/car-insurance/third-party-property-damage-car-insurance?utm_source=chatgpt.com) |
+| **[QBE Australia](https://www.qbe.com/au/)** | Strong corporate insurer and nationwide repair network; $20m liability | **Very good** — online claims plus a 24/7 claims line; QBE describes its process as three steps: lodge, manage claim, manage repairs [www.qbe.com](https://www.qbe.com/au/car-insurance/third-party-car-insurance?utm_source=chatgpt.com) |
+| **[AAMI](https://www.aami.com.au/)** | Good mainstream alternative, with optional Fire & Theft on top of TPPD | **Good**, although there's an important catch: AAMI's online/app claim process isn't available for TPPD policies, unlike its comprehensive cover [www.aami.com.au](https://www.aami.com.au/car-insurance/third-party-property?utm_source=chatgpt.com) |
+End Of Line

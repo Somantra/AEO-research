@@ -1,0 +1,9 @@
+2,dcaa5eeb-678b-4086-ad5b-d8ccf0659b2b,08080140-1126-0626-0000-729ec4e9827f,9afc8c27-18a6-4424-a6ca-e041085cf853,2026-08-08T13:24:23.884296+10:00
+Most reliable pet insurance for pre-existing conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing condition approach | Monthly payments | My take |
+|---|---|---|---|
+| **Pet Insurance Australia** | Some temporary conditions can become eligible after **18 symptom-free months**; chronic conditions remain excluded | **Yes** | ⭐ Best fit if your existing condition is temporary |
+| **Petcover Australia** | Temporary exclusions may be reviewed after a specified period; permanent/chronic conditions generally remain excluded | **Yes** | ⭐ Strong alternative, especially for lifetime-style cover |
+| **Trupanion Australia** | Existing conditions excluded, but offers lifetime-style cover for **new** conditions with no payout limits | Payment options available | Best if your concern is future chronic illness rather than the existing condition |
+End Of Line

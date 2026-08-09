@@ -1,0 +1,9 @@
+1,d55a5121-282b-4f6f-98b6-fa7646507b1c,08080137-1126-0626-0000-15be625a0803,a7ab4304-cff2-4dac-9121-e1b07690069d,2026-08-08T13:19:05.880368+10:00
+Premium accident-only pet insurance in Australia
+Tables found: 1
+| Provider | Type of cover | Notable features |
+|---|---|---|
+| Ruff ‘n’ Tumble | Accident-only (dogs) | Focused on accidental injuries; advertises no annual limits or sub-limits on eligible vet treatment, with a set excess. [ruffntumble.com.au](https://ruffntumble.com.au/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Accident-only options may be available depending on product selection | A recognised Australian pet insurance brand; compare current policy wording and limits before choosing. [petguides.au](https://petguides.au/tools/pet-insurance-comparison/?utm_source=chatgpt.com)[ruffntumble.com.au](https://ruffntumble.com.au/?utm_source=chatgpt.com) |
+| PetSure | Underwrites/administers many Australian pet insurance products | Appears behind multiple pet insurance offerings in Australia; check the specific insurer’s Product Disclosure Statement (PDS). [petguides.au](https://petguides.au/tools/pet-insurance-comparison/?utm_source=chatgpt.com)[ruffntumble.com.au](https://ruffntumble.com.au/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,9 @@
+2,5e9cb3d0-9e93-4f89-893c-fe05506a9866,08080135-1126-0626-0000-fe006c529fae,85a5c428-97c8-4b80-aab9-bf8fa4f810c0,2026-08-08T13:15:26.790772+10:00
+Premium travel insurance for adventure sports in Australia with instant online quotes
+Tables found: 1
+| Provider | Adventure-sports strength | Online quote | Best for |
+|---|---|---|---|
+| **urlWorld Nomads Australiaturn0search3** | 220+ sports/activities | ✅ Instant | Broad adventure coverage |
+| **urlCover-More Australiaturn0search5** | Adventure Activities Cover + 80 activities automatically covered | ✅ Fast | Premium mainstream cover |
+| **urlAllianz Australiaturn0search2** | Optional Adventure Pack | ✅ Online | Comprehensive cover + adventure add-on |
+End Of Line

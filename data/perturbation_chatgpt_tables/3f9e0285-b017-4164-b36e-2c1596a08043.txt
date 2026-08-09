@@ -1,0 +1,11 @@
+2,682058c2-f633-4706-9b30-45142054f963,08080138-1126-0626-0000-a98fb1f5045b,3f9e0285-b017-4164-b36e-2c1596a08043,2026-08-08T13:21:58.571806+10:00
+Least reliable pet insurance for dogs in Australia compared to other providers
+Tables found: 1
+| Policy | CHOICE Expert Rating | Main concern |
+|---|---:|---|
+| **Petcover Economy** | **25%** | No lifetime cover; benefits reduce substantially with age |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only, only $5,000 annual limit, excludes illness and cruciate ligament injuries |
+| **Australian Seniors Basic Cover** | **53%** | Only 60% reimbursement; $2,000 per-condition limit |
+| **Guardian Bronze** | **53%** | Same underlying PetSure product; limited injury cover |
+| **Real Insurance Classic** | **53%** | Same underlying PetSure product; 60% reimbursement and per-condition limits |
+End Of Line

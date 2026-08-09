@@ -1,0 +1,12 @@
+2,8ae2e2d0-9ab6-4e41-8229-2abc279f7094,08080131-1126-0626-0000-d7ff32eccf27,c214ed27-7346-4167-b834-539a7bf71744,2026-08-08T13:05:10.835307+10:00
+Cheapest roadside assistance plans in Australia with instant online quotes
+Tables found: 1
+| Provider | Cheapest plan | Advertised price | Call-outs | Key catch |
+|---|---|---:|---|---|
+| **Budget Direct** | Roadside Assistance | **$76.46 first year** | Unlimited | 15% online discount; 48-hour wait |
+| **Coles Insurance** | Roadside Assistance | **$89.95/yr** | Unlimited | Must be added to Coles car insurance |
+| **NRMA** | Everyday Care | **$112/yr currently** | Unlimited | 25 km metro towing |
+| **RACV** | Roadside Care | **$138/yr** | Unlimited | Victoria; 20 km metro towing |
+| **RAA** | Standard | **$135/yr** | 4/year | Mainly SA |
+| **RAC WA** | Standard | **$128/yr** | Unlimited | WA-focused membership |
+End Of Line

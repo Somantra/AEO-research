@@ -1,0 +1,9 @@
+2,f7152836-99c4-47b7-a5cc-20bcddec872b,08080131-1126-0626-0000-d87d52f53810,b23c433b-48d5-4b3d-a136-2d53a80b2749,2026-08-08T13:04:29.760364+10:00
+Least reliable roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider type | Why it may disappoint with an older car |
+|---|---|
+| Cheap insurer add-on roadside | Often fine for batteries/tyres, but may rely heavily on contractors and have less specialised towing support |
+| Budget standalone plans | Lower price can mean fewer benefits (especially towing distance) |
+| Basic plans with minimal towing | An older car’s main need is often getting it to a trusted mechanic, not just a roadside fix |
+End Of Line

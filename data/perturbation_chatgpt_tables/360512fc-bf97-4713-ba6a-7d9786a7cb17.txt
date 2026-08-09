@@ -1,0 +1,13 @@
+2,e9c9816b-4701-497b-aa1a-982c04690348,08080131-1126-0626-0000-462f21a9fdcf,360512fc-bf97-4713-ba6a-7d9786a7cb17,2026-08-08T13:04:08.305627+10:00
+Cheapest roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Basic annual price | Towing | My take for an older car |
+|---|---:|---|---|
+| **Allianz** | **from $99** | Up to 50 km | ⭐ Cheapest straightforward option |
+| **NRMA** (NSW/ACT) | **$112/year** currently | Up to 25 km | ⭐ Very good value in NSW |
+| **RACV** (VIC) | $138/year | 20 km | Good basic cover |
+| **RAC WA** | about $136/year* | Depends on plan | Competitive in WA |
+| NRMA Complete | $195/year | Up to 50 km | Better if you travel farther |
+| NRMA Ultimate | $245/year | Up to 100 km | Better for regional/high-mileage driving |
+| RACV Extra Care | $229/year | 60 km | Stronger regional cover |
+End Of Line

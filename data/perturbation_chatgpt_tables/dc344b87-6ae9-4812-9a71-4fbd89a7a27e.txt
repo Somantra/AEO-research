@@ -1,0 +1,12 @@
+2,c505006f-19d9-407b-b933-c1e09ae84002,08080123-1126-0626-0000-7f7de8e8718f,dc344b87-6ae9-4812-9a71-4fbd89a7a27e,2026-08-08T12:45:25.562888+10:00
+Worst motorcycle insurance for older riders in Australia compared to other providers
+Tables found: 1
+| Provider | Example comprehensive quote* | Relative position |
+|---|---:|---|
+| **AAMI** | $2,113 | Very expensive in this example |
+| **QBE** | $1,732 | Relatively expensive |
+| **National Motorcycle Insurance** | $1,479 | Mid-range |
+| **Mi-Bike** | $1,114 | Mid-range/cheaper |
+| **Budget Direct** | $1,062 | Cheaper |
+| **NRMA** | $765 | Cheapest in this example |
+End Of Line

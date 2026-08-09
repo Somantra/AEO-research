@@ -1,0 +1,11 @@
+2,6f7ffe3a-04b5-4424-8a96-7ed3ed2b5327,08080132-1126-0626-0000-88ea35df4a4c,1b352294-1bc4-44f1-be2d-5b5c61529f18,2026-08-08T13:07:20.840072+10:00
+Most affordable roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Basic monthly price | Best for |
+|---|---:|---|
+| **RAA Standard** | **$8.58/month** | Cheapest overall, SA residents |
+| **NRMA Everyday Care** | **$9.99/month** | NSW/ACT, good basic cover |
+| **RAC WA Standard** | **$11.30/month** | WA residents |
+| **RACV Roadside Care** | **$12/month** | Victoria residents |
+| Budget Direct | ~$6.37/month equivalent* | Cheapest annual offer |
+End Of Line

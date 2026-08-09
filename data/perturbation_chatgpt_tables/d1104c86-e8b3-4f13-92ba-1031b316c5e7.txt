@@ -1,0 +1,11 @@
+2,24e87afb-0131-40d3-b65b-105047b8ba95,08080132-1126-0626-0000-a4b1b8a793f4,d1104c86-e8b3-4f13-92ba-1031b316c5e7,2026-08-08T13:08:13.460949+10:00
+Most comprehensive roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid/EV support | Callouts | Strongest feature | My take |
+|---|---|---:|---|---|
+| **RACV Total Care** | **Excellent** | Unlimited | High-voltage-trained patrols + up to 200 km out-of-charge towing | 🥇 **Best overall** |
+| **RAA Road Service** | **Excellent** | Varies by plan | Patrols trained for hybrids/EVs; EV towing to charger | 🥈 Excellent, especially SA |
+| **NRMA Ultimate Care** | **Excellent** | Unlimited | 100 km towing + nationwide reciprocal coverage | 🥉 Excellent nationwide option |
+| **RAC WA Ultimate/Ultimate Plus** | Very good | Unlimited | EV coverage, EV top-up charging, strong WA network | Excellent in WA |
+| **Allianz Platinum** | Very good | Plan-dependent | EV out-of-charge assistance + 100 km towing | Good insurer alternative |
+End Of Line

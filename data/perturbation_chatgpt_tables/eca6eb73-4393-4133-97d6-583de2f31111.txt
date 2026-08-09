@@ -1,0 +1,9 @@
+2,cd601a7c-90a8-415d-b457-57087aa2c3c0,08080130-1126-0626-0000-c8c1df272c9c,eca6eb73-4393-4133-97d6-583de2f31111,2026-08-08T13:02:14.602760+10:00
+Worst roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider type | Why interstate travellers may find it poor |
+|---|---|
+| **Cheap insurance add-on roadside plans** | Often have lower towing limits and may rely on contractor networks rather than a dedicated patrol fleet. |
+| **Basic entry-level memberships** | A cheap monthly fee can look attractive but may only cover short towing distances, leaving you stranded far from a repairer. |
+| **State-only motoring club plans at basic levels** | Generally reliable, but some entry plans are designed around local driving rather than remote highways. |
+End Of Line

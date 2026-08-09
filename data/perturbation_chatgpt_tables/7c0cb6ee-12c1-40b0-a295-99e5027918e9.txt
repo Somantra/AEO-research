@@ -1,0 +1,17 @@
+2,83123224-dba6-4db1-8c04-596c9710f6f4,08080129-1126-0626-0000-10012d0345b8,7c0cb6ee-12c1-40b0-a295-99e5027918e9,2026-08-08T12:59:42.251584+10:00
+Most popular home insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider / group | Market position | Typical strengths | Customer satisfaction* |
+|---|---|---|---:|
+| **IAG brands** — NRMA, AAMI, CGU | 🟢 Major | Very large network, broad range of brands | NRMA 61%, AAMI 60%, CGU 48% |
+| **Suncorp** | 🟢 Major | Large Australian insurer, strong Queensland presence | **65%** |
+| **Allianz** | 🟢 Major | Large international insurer, broad coverage | 55% |
+| **QBE** | 🟢 Major | Large Australian insurer, established claims infrastructure | Not separately reported in latest CHOICE survey |
+| **Hollard** | 🟢 Major underwriter | Provides insurance behind a number of consumer brands | Not separately reported |
+| **Youi** | 🟡 Large challenger | Personalised underwriting, strong customer satisfaction | **67%** |
+| **Budget Direct** | 🟡 Large direct insurer | Often competitive on price | 58% |
+| **RAC/RACQ/RACV/RAA** | 🟡 State-based | Strong local presence and member focus | **72–91%** depending on state |
+| **Coles Insurance** | 🟡 Retail brand | Value-oriented, retail rewards/brand | **69%** |
+| **Woolworths / Everyday** | 🟡 Retail brand | Convenience and rewards | 57% |
+| **Westpac / CBA / ANZ etc.** | 🟠 Bank-distributed | Convenient if you already bank with them | Varies |
+End Of Line

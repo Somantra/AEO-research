@@ -1,0 +1,10 @@
+2,82e845d6-0e4b-4ab7-82b9-cd5b621519e2,08080118-1126-0626-0000-08ba541ee706,ea256eec-4676-4637-9e63-9c30b5565a27,2026-08-08T12:31:45.554201+10:00
+Premium car insurance for older drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **Australian Seniors** | Specifically aimed at over-50s; comprehensive cover includes agreed value, hire car after theft, guaranteed repairs and 24/7 claims. | urlGet an Australian Seniors quoteturn0search5 |
+| **Youi** | Has dedicated seniors insurance information; comprehensive cover includes 24/7 roadside assistance and broad accident/weather/theft cover. | urlGet a Youi quoteturn1search9 |
+| **Budget Direct Gold** | Strong value option with lifetime authorised-repair guarantee, choice of repairer, hire-car benefits and age restrictions that can reduce premiums. | urlGet a Budget Direct quoteturn1search10 |
+| **NRMA Comprehensive** | Comprehensive cover plus an online purchase discount of up to 10% on eligible policies. | urlGet an NRMA quoteturn1search8 |
+End Of Line

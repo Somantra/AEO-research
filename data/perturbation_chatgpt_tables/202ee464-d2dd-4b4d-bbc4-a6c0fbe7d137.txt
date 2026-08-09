@@ -1,0 +1,11 @@
+2,985758c9-4b23-46b0-a2b1-4f5ddc91a984,08080122-1126-0626-0000-fcd1d5d5d23c,202ee464-d2dd-4b4d-bbc4-a6c0fbe7d137,2026-08-08T12:42:10.334375+10:00
+Most affordable motorcycle insurance for commuters in Australia compared to other providers
+Tables found: 1
+| Provider | Comprehensive sample premium | Relative value |
+|---|---:|---|
+| **Budget Direct** | **$1,028/yr** | 🟢 Cheapest |
+| **Mi-Bike** | **$1,279/yr** | 🟢 Good |
+| **National Motorcycle Insurance** | **$1,417/yr** | 🟡 Mid-range |
+| **QBE** | **$1,854/yr** | 🟠 Higher |
+| **AAMI** | **$2,385/yr** | 🔴 Highest |
+End Of Line

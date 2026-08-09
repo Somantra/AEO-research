@@ -1,0 +1,10 @@
+2,0306e212-8755-41d7-8a98-90705d610bb1,08080140-1126-0626-0000-d63ed0ae835c,71e2be0d-2158-44a2-b1ca-33c24119e2de,2026-08-08T13:24:42.204510+10:00
+Most trusted pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Handling of pre-existing conditions | Strengths | Potential drawbacks |
+|---|---|---|---|
+| Pet Insurance Australia | Temporary conditions may be reviewed after a symptom-free period; chronic conditions generally remain excluded | Clear explanation of exclusions; strong focus on condition reviews | Chronic issues (arthritis, allergies, diabetes etc.) usually remain excluded [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com) |
+| Bow Wow Meow | Temporary pre-existing conditions can be removed from exclusion after 18 months without signs | One of the more flexible approaches for resolved issues | Not helpful for ongoing/chronic conditions [bowwowinsurance.com.au](https://bowwowinsurance.com.au/pre-existing-conditions-changes/?utm_source=chatgpt.com)[www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com) |
+| RSPCA Australia Pet Insurance | Like most insurers, pre-existing conditions are generally excluded | Strong brand trust; policies support animal welfare; customisable cover | Check the current underwriter and Product Disclosure Statement carefully [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+| PetSure-backed policies (many brands use this platform) | Depends on the specific insurer/product wording | Large claims experience across the Australian market | The selling brand may not tell the full story—read the PDS and exclusions |
+End Of Line

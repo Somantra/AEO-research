@@ -1,0 +1,16 @@
+1,f05c4928-2968-4112-a9fa-88218e18c3b1,08080126-1126-0626-0000-d49291f266de,096d00f2-dcd1-410c-a88c-eb10be776374,2026-08-08T12:51:56.100248+10:00
+Most trusted home insurance providers in Australia
+Tables found: 1
+| Provider | Why I’d consider them | Best suited to |
+|---|---|---|
+| **NRMA Insurance** | Strong recent trust and customer-satisfaction results, particularly in NSW | Homeowners wanting a large, established insurer |
+| **RACQ** | Excellent customer experience and claims ratings in CHOICE’s survey | Queensland homeowners |
+| **RAA** | Very strong customer experience and value ratings | South Australia |
+| **RAC** | Strong customer experience results | Western Australia |
+| **RACV** | Strong customer experience results | Victoria |
+| **Youi** | Won Canstar's 2025 national Most Satisfied Customers award | People prioritising customer satisfaction |
+| **Allianz** | 2025 Canstar Home Insurance Award winner and strong NSW value rating | Broad national option |
+| **AAMI** | 2025 Canstar Home Insurance Award winner | Established mainstream option |
+| **QBE** | 2025 Canstar Home Insurance Award winner | Another strong national option |
+| **Suncorp** | Major established insurer; particularly worth comparing for Queensland and higher-risk properties | Homeowners wanting a large insurer |
+End Of Line

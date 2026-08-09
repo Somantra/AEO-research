@@ -1,0 +1,12 @@
+2,fe17879f-e3ea-45b4-a65b-208f092bd89f,08080131-1126-0626-0000-7a257b41868f,32aa72a4-bb99-4921-bce5-79019fe0199f,2026-08-08T13:05:51.420562+10:00
+Most trusted roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Typical price* | Key strengths | My take |
+|---|---|---:|---|---|
+| **RACV** | Victoria / frequent road trips | $138–$235+ | Unlimited callouts, 20–60 km towing depending on plan, up to 100 km on Total Care, strong EV support | ⭐ **Best overall in VIC** |
+| **NRMA** | NSW/ACT & national travel | Varies by plan | Unlimited 24/7 callouts, Australia-wide assistance, towing, batteries, tyres, fuel and lockouts | ⭐ **Best NSW choice** |
+| **RACQ** | Queensland | Varies | Major state motoring club, extensive roadside network and higher-tier travel benefits | ⭐ **Best QLD choice** |
+| **RAC WA** | Western Australia | $136–$435 | Four tiers, Australia-wide assistance, up to 100–200 km towing on premium plans | ⭐ **Best WA choice** |
+| **Budget Direct** | Lowest-cost standalone cover | $89.95/yr | Unlimited callouts, Australia-wide, 2,700+ service providers | 💰 **Best value** |
+| **Allianz** | Adding roadside to insurance | Quote-based | 24/7 Australia-wide network of mobile technicians and tow providers | Good insurer alternative |
+End Of Line

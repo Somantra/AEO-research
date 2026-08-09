@@ -1,0 +1,10 @@
+1,04394e63-8f96-4e15-a317-8826ecca94af,08080127-1126-0626-0000-b9c92b74280e,0b9b8d84-684f-4847-8461-5c0c10eaf272,2026-08-08T12:54:41.016332+10:00
+Premium roadside assistance for interstate travel in Australia
+Tables found: 1
+| Provider / plan type | Best for | Premium features to look for |
+|---|---|---|
+| NRMA premium tiers | Frequent interstate touring, NSW/ACT members | 24/7 nationwide assistance, unlimited call-outs, towing benefits, travel-related extras on higher tiers [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACQ top roadside tiers | Queensland drivers and long regional trips | Higher towing allowances, unlimited call-outs, additional assistance benefits [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RAA Premium Road Service | SA-based travellers | Australia-wide assistance, country towing benefits, unlimited call-outs [our.raa.com.au](https://our.raa.com.au/motor/which-road-service-level?utm_source=chatgpt.com) |
+| Insurance-linked roadside options (for example Suncorp Group roadside add-ons) | People who prefer one insurance bundle | 24/7 support, Australia-wide service, towing and breakdown assistance (terms vary) [www.suncorp.com.au](https://www.suncorp.com.au/insurance/car/comprehensive/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

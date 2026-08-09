@@ -1,0 +1,11 @@
+2,94b9dcc8-f25e-4b67-86ec-6a7a056cd85f,08080137-1126-0626-0000-b504954a9673,2e68af5d-7b0d-42df-9d77-a86bb682d22d,2026-08-08T13:19:38.403418+10:00
+Most popular domestic travel insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why travellers choose it | Claims reputation |
+|---|---|---|
+| World2Cover | Strong value and easy online claims experience | Rated highly for “easiest to claim” in Finder’s customer satisfaction awards. [www.finder.com.au](https://www.finder.com.au/travel-insurance/best-travel-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Well-known Australian brand with broad customer base | Recognised for recommendation and claims experience in customer surveys. [www.finder.com.au](https://www.finder.com.au/travel-insurance/best-travel-insurance?utm_source=chatgpt.com) |
+| InsureandGo | Popular domestic travel option with multiple cover levels | Named Finder’s 2026 Best Domestic Travel Insurance provider. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/domestic-travel-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/product-awards/travel-insurance-awards?utm_source=chatgpt.com) |
+| Cover-More | Established travel specialist | Frequently included among major domestic travel insurance comparisons. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/domestic-travel-insurance?utm_source=chatgpt.com) |
+| Qantas Travel Insurance | Convenient if you book flights through Qantas | Highly commended for domestic travel insurance in Finder’s awards. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/domestic-travel-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/product-awards/travel-insurance-awards?utm_source=chatgpt.com) |
+End Of Line

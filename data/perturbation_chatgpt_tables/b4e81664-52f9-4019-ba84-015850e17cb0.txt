@@ -1,0 +1,10 @@
+2,10931452-97ba-4079-97af-cb01159f8de3,08080129-1126-0626-0000-ddcf67cf6f7d,b4e81664-52f9-4019-ba84-015850e17cb0,2026-08-08T13:00:03.996804+10:00
+Best roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | EV support | Speed / convenience |
+|---|---|---|---|
+| **RACQ** | 🥇 **Best overall, especially QLD** | High-voltage-aware patrols; towing to a charger | **35-min average response**, online/app request + live tracking |
+| **RACV** | Best Australia-wide option | EV-trained patrols; out-of-charge towing | 24/7 Australia-wide, app tracking; says 8/10 issues fixed roadside |
+| **RAA** | Best in SA | EV-trained patrols; towing to nearest charger | 24/7 app/online/phone |
+| **RAC WA** | Best in WA | EV roadside assistance + charger towing | Large WA network |
+End Of Line

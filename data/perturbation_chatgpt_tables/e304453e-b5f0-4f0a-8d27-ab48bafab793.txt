@@ -1,0 +1,9 @@
+2,e2be21f6-5172-4dcc-a6a5-f91622b7d611,08080132-1126-0626-0000-b48c595e26d0,e304453e-b5f0-4f0a-8d27-ab48bafab793,2026-08-08T13:06:07.983565+10:00
+Cheapest roadside assistance for rural areas in Australia with a fast claims process
+Tables found: 1
+| Provider | Current price* | Rural suitability | My take |
+|---|---:|---|---|
+| **NRMA** | from **$112/year** | ⭐⭐⭐⭐ | **Best cheap nationwide option** |
+| **RACV Extra Care** | **$229/year** | ⭐⭐⭐⭐⭐ | Best for **regional Victoria** |
+| **RACV Roadside Care** | **$138/year** | ⭐⭐⭐ | Cheapest RACV option, but less suitable for long rural trips |
+End Of Line

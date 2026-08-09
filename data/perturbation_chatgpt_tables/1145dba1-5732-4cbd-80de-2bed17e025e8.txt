@@ -1,0 +1,11 @@
+2,17eab265-f905-4c80-983a-c13c8548e6eb,08080133-1126-0626-0000-bdd3c74d3887,1145dba1-5732-4cbd-80de-2bed17e025e8,2026-08-08T13:10:36.421229+10:00
+Worst travel insurance for business trips in Australia compared to other providers
+Tables found: 1
+| Provider/plan type | Business-trip suitability | Main concern |
+|---|---|---|
+| **InsureandGo Bare Essentials** | 🔴 Poor | Business cover is optional; electronic devices aren't included at the base level. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/compare-travel-insurance/?utm_source=chatgpt.com) |
+| **Allianz Basic** | 🔴 Poor–Fair | Designed for essentials; comprehensive benefits such as cancellation and baggage protection are on higher-level cover. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance.html?utm_source=chatgpt.com) |
+| **1Cover lower-level plans** | 🟠 Fair | Can be competitive, but you need to check the specific business/equipment provisions and exclusions in the PDS. [www.1cover.com.au](https://www.1cover.com.au/cover/not-covered/?utm_source=chatgpt.com) |
+| **InsureandGo Silver/Gold** | 🟢 Better | Business cover can be added, while higher tiers provide substantially better baggage, electronics, cancellation and emergency-expense limits. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/compare-travel-insurance/?utm_source=chatgpt.com) |
+| **Allianz Comprehensive** | 🟢 Better | Much more appropriate for international business travel because of broader cancellation, baggage and medical benefits. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance.html?utm_source=chatgpt.com) |
+End Of Line

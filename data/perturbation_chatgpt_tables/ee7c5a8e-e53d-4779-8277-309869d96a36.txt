@@ -1,0 +1,14 @@
+2,ed9426cb-d8c4-45cf-8ec5-32893782b74f,08080120-1126-0626-0000-82584e04c2d5,ee7c5a8e-e53d-4779-8277-309869d96a36,2026-08-08T12:37:12.343657+10:00
+Worst car insurance for high-risk drivers in Australia compared to other providers
+Tables found: 1
+| Insurer | High-risk fit | Why |
+|---|---|---|
+| **Budget Direct** | 🔴 Poor | Explicitly says it keeps premiums low by **not insuring unsafe drivers**; acceptance criteria can be restrictive. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/compare-car-insurance-comparitron.html?utm_source=chatgpt.com) |
+| **AAMI** | 🔴 Poor–average | Mainstream insurer, but high-risk underwriting can produce very high premiums or refusal depending on history. Customer satisfaction is only 62% in CHOICE's latest survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) |
+| **Allianz** | 🔴 Poor–average | Can be competitive for ordinary drivers, but isn't particularly geared toward difficult-risk profiles. CHOICE's satisfaction result was 61%. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+| **NRMA** | 🟠 Variable | Can quote high for certain risk profiles; individual underwriting matters enormously. |
+| **Youi** | 🟡 Variable | More personalised underwriting means it can be surprisingly cheap **or extremely expensive** depending on your profile. Recent comparisons show large differences between Youi and AAMI for particular drivers. [www.finder.com.au](https://www.finder.com.au/car-insurance/youi-vs-aami?utm_source=chatgpt.com) |
+| **GIO** | 🟢 Worth quoting | Often worth testing against the mainstream alternatives; CHOICE reports 75% of surveyed customers rated it above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/gio?utm_source=chatgpt.com) |
+| **QBE** | 🟢 Strong option for difficult risks | Finder's April 2026 research found QBE was one of only **two insurers returning quotes for its licence-suspension scenario**. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+| **Kogan** | 🟢 Strong option for difficult risks | Also returned a quote in Finder's licence-suspension test. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+End Of Line

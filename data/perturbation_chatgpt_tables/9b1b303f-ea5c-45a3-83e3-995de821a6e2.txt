@@ -1,0 +1,12 @@
+2,858295aa-b814-47c5-ab37-32a6c390498c,08080128-1126-0626-0000-7ca42d7de88a,9b1b303f-ea5c-45a3-83e3-995de821a6e2,2026-08-08T12:56:24.498305+10:00
+Most popular home insurance for high-value items in Australia with monthly payments
+Tables found: 1
+| Insurer | High-value items | Monthly payments | Best for |
+|---|---|---|---|
+| **Budget Direct** | Specified valuables available | Yes | Value/price |
+| **Youi** | Flexible contents and specified items | Yes | Customising cover |
+| **Allianz** | High-value/specified contents | Yes | Comprehensive cover |
+| **AAMI** | Specified portable valuables | Yes | Jewellery & valuables |
+| **QBE** | High-value contents options | Yes | Broad/comprehensive cover |
+| **NRMA** | Specified valuables | Yes | Established mainstream insurer |
+End Of Line

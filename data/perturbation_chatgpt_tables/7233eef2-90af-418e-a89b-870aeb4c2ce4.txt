@@ -1,0 +1,11 @@
+2,d8a66d18-387e-4e71-b05c-2d51bd5ae1ab,08080139-1126-0626-0000-c1dda37a403b,7233eef2-90af-418e-a89b-870aeb4c2ce4,2026-08-08T13:23:08.104550+10:00
+Premium pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Provider / type | Strengths for older pets | Potential drawbacks |
+|---|---|---|
+| Pet Insurance Australia | Often considered for comprehensive accident + illness cover, with higher annual benefit options available | New-policy age limits and exclusions need checking carefully |
+| Medibank Pet Insurance | Premium-style options can offer high annual limits and up to 90% reimbursement on eligible vet bills | Older-pet eligibility can be restricted depending on age and product |
+| RSPCA Pet Insurance | Flexible cover options and welfare-linked brand reputation | Check sub-limits, waiting periods and age rules |
+| Petsy | Customisable cover and options such as dental illness/alternative therapies | Suitability depends heavily on your pet’s age and history |
+| Petcover | Some options cater to older pets where other insurers may not | Compare benefit limits and exclusions closely |
+End Of Line

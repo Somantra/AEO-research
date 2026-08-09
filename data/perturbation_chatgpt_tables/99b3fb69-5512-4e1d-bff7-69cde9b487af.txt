@@ -1,0 +1,11 @@
+1,a8babae0-ce9a-476c-842f-7943bb29b73a,08080126-1126-0626-0000-6d74e7ea9f0f,99b3fb69-5512-4e1d-bff7-69cde9b487af,2026-08-08T12:52:25.811065+10:00
+Best roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | Best for | EV-specific strengths |
+|---|---|---|
+| RAC | **WA drivers (especially Perth)** | Covers EVs under roadside assistance plans; strong local coverage and WA-focused support. [evroadside.com.au](https://evroadside.com.au/providers/rac-wa-ev/?utm_source=chatgpt.com) |
+| NRMA | NSW/ACT drivers and interstate travellers | EV cover includes help for running out of charge, including mobile EV charging or towing to a charger where available. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance-sa?utm_source=chatgpt.com) |
+| RACV | VIC drivers | EV support includes out-of-charge towing, 24/7 assistance, and high-voltage-trained patrols on some plans. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| RACQ | QLD drivers | A good choice for Queensland coverage through the state motoring club network. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+| AAMI / other insurers | People who want roadside bundled with insurance | Can be convenient, but compare EV-specific benefits and towing limits carefully. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

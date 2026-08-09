@@ -1,0 +1,12 @@
+2,76b99971-0ef1-4bc8-9954-653e0ed7243b,08080122-1126-0626-0000-8abd903ac92f,73d3770e-1412-42bd-922d-8945ebc996c8,2026-08-08T12:41:22.186194+10:00
+Best motorcycle insurance for high-performance bikes in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | High-performance bike verdict |
+|---|---|---|
+| **Youi** | Best overall/features | ⭐⭐⭐⭐⭐ |
+| **National Motorcycle Insurance** | Motorcycle-focused cover | ⭐⭐⭐⭐½ |
+| **QBE** | Value + strong comprehensive cover | ⭐⭐⭐⭐½ |
+| **Shannons** | Enthusiast/specialist bikes | ⭐⭐⭐⭐ |
+| **NRMA** | Mainstream alternative | ⭐⭐⭐⭐ |
+| **Budget Direct** | Price-focused riders | ⭐⭐⭐½ |
+End Of Line

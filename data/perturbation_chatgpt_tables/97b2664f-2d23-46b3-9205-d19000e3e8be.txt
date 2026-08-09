@@ -1,0 +1,11 @@
+2,7364ec1a-752b-468f-8c10-d45dd0215c64,08080133-1126-0626-0000-17ca8e15596c,97b2664f-2d23-46b3-9205-d19000e3e8be,2026-08-08T13:09:02.278117+10:00
+Most popular standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Typical entry price | Best for |
+|---|---:|---:|---|
+| **NRMA** | Yes | **$9.99/mo** | NSW/ACT; strong all-round option |
+| **RACV** | Yes | **$12/mo** | Victoria |
+| **RAC WA** | Yes | **$11.30/mo** | WA |
+| **RAA** | Yes | **$11.25/mo** | SA |
+| **Allianz Roadside** | No monthly option shown | From $99/yr | Nationwide, insurance-company alternative |
+End Of Line

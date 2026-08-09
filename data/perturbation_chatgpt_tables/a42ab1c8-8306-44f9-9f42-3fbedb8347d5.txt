@@ -1,0 +1,12 @@
+1,50b7a653-cef6-4f66-ba9c-d5460abbf759,08080125-1126-0626-0000-ddb48cfeddb7,a42ab1c8-8306-44f9-9f42-3fbedb8347d5,2026-08-08T12:48:58.226433+10:00
+Worst home insurance for high-value items in Australia
+Tables found: 1
+| Item | What to look for |
+|---|---|
+| Jewellery | Listed item cover, worldwide/portable cover, valuation requirements |
+| Watches | Individual item limit and theft conditions |
+| Art | Whether specialist valuation is accepted |
+| Collectibles | Collection limits and depreciation rules |
+| Cameras/computers | Portable cover and accidental damage |
+| Wine, coins, memorabilia | Collection-specific limits |
+End Of Line

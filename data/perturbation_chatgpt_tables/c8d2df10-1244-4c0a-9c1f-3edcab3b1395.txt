@@ -1,0 +1,16 @@
+0,dbe51bb4-b988-4a86-ae51-4cf597bc772a,08080116-1126-0626-0000-ebaf8cb0f59b,c8d2df10-1244-4c0a-9c1f-3edcab3b1395,2026-08-08T12:28:20.583878+10:00
+comprehensive car insurance in Australia
+Tables found: 1
+| Feature | Why it matters |
+|---|---|
+| **Agreed vs market value** | Agreed value gives you a set insured amount; market value pays what the insurer considers the car was worth immediately before the loss. |
+| **Excess** | A higher excess generally lowers the premium, but means more out-of-pocket after a claim. |
+| **Choice of repairer** | Useful if you want your own trusted repair shop rather than an insurer-selected repairer. |
+| **New-car replacement** | Particularly valuable for a newer vehicle if it's written off. |
+| **Windscreen/glass excess** | Some policies let you pay no excess for eligible glass claims. |
+| **Hire car** | Check whether you're covered while your car is being repaired—and for how long. |
+| **Roadside assistance** | Often optional rather than automatically included. |
+| **Personal belongings** | Check the dollar limit and exclusions. |
+| **Driver restrictions** | Limiting who can drive the car can reduce premiums, but breaches can affect claims. |
+| **Modifications/accessories** | Make sure aftermarket equipment is declared and covered. |
+End Of Line

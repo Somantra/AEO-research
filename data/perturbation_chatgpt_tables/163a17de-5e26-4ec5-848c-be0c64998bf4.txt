@@ -1,0 +1,12 @@
+1,94dc7e7e-153a-462d-af29-84460fa3e895,08080129-1126-0626-0000-415dde44d874,163a17de-5e26-4ec5-848c-be0c64998bf4,2026-08-08T12:59:34.774605+10:00
+Cheapest roadside assistance for rural areas in Australia
+Tables found: 1
+| Provider | Basic annual price | Rural suitability |
+|---|---:|---|
+| **RACQ Everyday Lite** | **$80** | ⚠️ Cheapest, but **no towing** |
+| **Budget Direct Roadside Assistance** | **$89.95** | 👍 Very cheap; check rural towing limits |
+| **RACQ Everyday** | **$109** | 👍 20 km towing, 50 km attendance |
+| **NRMA Everyday Care** | **$112/year currently advertised** | ⭐ Good nationwide/rural option |
+| **RACV Roadside Care** | **$138/year** | 👍 Basic; better rural options cost more |
+| **RACQ Everyday Plus** | **$179** | ⭐ 50 km towing, 100 km attendance |
+End Of Line

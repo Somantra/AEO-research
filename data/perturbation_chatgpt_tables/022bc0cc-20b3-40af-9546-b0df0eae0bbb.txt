@@ -1,0 +1,14 @@
+2,1c4ecc14-1124-4adb-8883-2a7aa530e7aa,08080125-1126-0626-0000-63c2218c0326,022bc0cc-20b3-40af-9546-b0df0eae0bbb,2026-08-08T12:50:05.506543+10:00
+Most popular home insurance for renters in Australia compared to other providers
+Tables found: 1
+| Provider | Position | What stands out |
+|---|---|---|
+| **Budget Direct** | ⭐ Very popular/value | Finder currently describes it as the **most popular insurer on its platform**, with a strong low-cost focus. Its contents policy scores 9.1/10 on Finder. [www.finder.com.au](https://www.finder.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| **QBE** | ⭐ Strong all-rounder | Finder score 8.5/10; good core fire/theft cover and optional extras. [www.finder.com.au](https://www.finder.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| **AAMI** | ⭐ Major mainstream option | One of Canstar's 2025 award winners for contents insurance. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **Suncorp** | ⭐ Major mainstream option | Also a 2025 Canstar contents-insurance award winner. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **Allianz** | ⭐ Large established insurer | Widely available, although several brands actually use Allianz policies as white-label products. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/contents-insurance?utm_source=chatgpt.com) |
+| **NRMA** | ⭐ Major Australian brand | Well-known option; included in CHOICE's comparison of 60+ insurers. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/contents-insurance?utm_source=chatgpt.com) |
+| **Youi** | ⭐ Customer satisfaction | Won Canstar's **2025 Most Satisfied Customers – Home Insurance** award. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **ING** | 💰 Alternative | Its contents policy is a white-label version of Budget Direct's policy, though pricing can differ. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/contents-insurance?utm_source=chatgpt.com) |
+End Of Line

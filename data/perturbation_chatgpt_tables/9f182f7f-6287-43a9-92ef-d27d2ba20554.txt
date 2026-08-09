@@ -1,0 +1,9 @@
+2,ccb73448-ec0c-43e3-a51e-e9638c172434,08080139-1126-0626-0000-6e07f004fffe,9f182f7f-6287-43a9-92ef-d27d2ba20554,2026-08-08T13:22:54.374335+10:00
+Safest pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | New-pet age limit | Claims speed | Why I’d consider it |
+|---|---|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Up to 9 years | **88% within 1 day** after documents; GapOnly can be on-the-spot | Best overall combination for a senior pet |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Before 9th birthday | **88% within 1 day, 98% within 5 days** | Excellent claims track record + up to $35k annual limit |
+| **[Knose](https://www.knose.com.au/)** | Up to 8y 364d | Most claims settled within **5 working days** | Strong high-limit/no-sub-limit coverage |
+End Of Line

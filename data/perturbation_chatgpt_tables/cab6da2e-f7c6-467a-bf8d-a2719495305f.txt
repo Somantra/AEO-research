@@ -1,0 +1,11 @@
+2,ed44c4fb-73a1-4d14-b2eb-12bfe258fcf8,08080128-1126-0626-0000-c6ab18981366,cab6da2e-f7c6-467a-bf8d-a2719495305f,2026-08-08T12:57:01.010342+10:00
+Worst home insurance for flood-prone areas in Australia with a fast claims process
+Tables found: 1
+| Insurer | Flood suitability | Claims-speed concern | My take |
+|---|---|---|---|
+| **QBE** | Strong flood offering | ⚠️ Some serious recent delay cases | Good cover on paper, but I'd scrutinise claims service |
+| **IAG brands** (e.g. NRMA, AAMI, CGU) | Depends heavily on address/brand | ⚠️ Disaster-event capacity can be stretched | Get a specific quote and ask about flood claims |
+| **Suncorp brands** (e.g. Suncorp, APIA) | Strong catastrophe exposure/experience | ⚠️ Large event volumes can create bottlenecks | Worth quoting, but don't assume fast settlement |
+| **Allianz** | Flood available on eligible policies | ⚠️ Recent AFCA cases involving delays | Compare carefully rather than ruling out outright |
+| **Budget Direct** | Flood can be added | 🟡 More attractive for price than high-touch claims | I'd prioritise another option if claims service is your #1 concern |
+End Of Line

@@ -1,0 +1,11 @@
+2,74f997d1-26d8-4899-b530-90815473a8be,08080131-1126-0626-0000-1d1cb51ef73b,4361f6cc-7ea6-45f2-9352-404363bf278f,2026-08-08T13:04:08.734143+10:00
+Most affordable roadside assistance for older cars in Australia with monthly payments
+Tables found: 1
+| Provider | Cheapest monthly | Approx. annual cost | Key point |
+|---|---:|---:|---|
+| **RACV (VIC)** | **$12/month** | $144 | 20 km towing, unlimited callouts |
+| **RAC WA** | **$11.30/month** | $135.68 | Unlimited callouts |
+| **RAA (SA)** | **$11.25/month** | $135 | 4 callouts/year on Standard |
+| **NRMA (NSW/ACT)** | **$9.99/month** | $119.88 | 25 km metro towing, unlimited callouts |
+| **RACV Extra Care** | $19.58/month | $235 | 60 km towing, stronger cover |
+End Of Line

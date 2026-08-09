@@ -1,0 +1,9 @@
+2,5d9e9cfe-391e-49ef-bb12-44703fa6186c,08080141-1126-0626-0000-0b1c1014d71e,b68a3c54-3862-45c1-893b-11271e13de01,2026-08-08T13:27:34.514374+10:00
+Cheapest accident-only pet insurance in Australia without hidden fees
+Tables found: 1
+| Insurer / plan | Accident-only? | Annual limit | Reimbursement | Transparency |
+|---|---|---:|---:|---|
+| **PetsOnMe Accidental** | ✅ | $5,000 | Quote-dependent | ⭐⭐⭐⭐⭐ |
+| **Bow Wow Meow Accident Plus** | ✅ | Varies | Varies | ⭐⭐⭐⭐ |
+| **Other accident-only policies** | ✅ | Varies | Varies | ⭐⭐⭐ |
+End Of Line

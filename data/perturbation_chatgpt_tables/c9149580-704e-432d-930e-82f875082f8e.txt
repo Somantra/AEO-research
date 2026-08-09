@@ -1,0 +1,15 @@
+2,f57de2b3-51ae-4955-865c-2282942c8004,08080138-1126-0626-0000-c257cf574f07,c9149580-704e-432d-930e-82f875082f8e,2026-08-08T13:20:33.669987+10:00
+Most popular travel insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Best known for | Online quote |
+|---|---|---|
+| Cover-More | Large, established travel insurer; broad international travel coverage | Yes [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Major insurer with travel insurance options and strong brand recognition | Yes [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Popular Australian insurer; travel insurance offered alongside other insurance products | Yes [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/travel-insurance/?utm_source=chatgpt.com) |
+| Travel Insurance Direct | Online-focused provider; commonly compared on Australian comparison sites | Yes [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com) |
+| World2Cover | Known for online sales and claims experience | Yes [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/travel-insurance/?utm_source=chatgpt.com) |
+| Fast Cover | Popular for quick online purchase and specialised trips (e.g., adventure travel) | Yes [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/?utm_source=chatgpt.com) |
+| Tick Travel Insurance | Often positioned as a value-focused option | Yes [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com) |
+| 1Cover | Long-running online travel insurer | Yes [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/?utm_source=chatgpt.com) |
+| Southern Cross Travel Insurance | Australian specialist travel insurer | Yes [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/?utm_source=chatgpt.com) |
+End Of Line

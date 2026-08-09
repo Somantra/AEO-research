@@ -1,0 +1,10 @@
+2,8d450920-6aa1-4568-82bf-b2d66032cc08,08080119-1126-0626-0000-90ec1fcf6741,c0b730fc-a2ba-468b-80bb-e539cb787eb5,2026-08-08T12:36:14.207380+10:00
+Least reliable third-party car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Relative concerns reported by customers |
+|---|---|
+| Allianz Australia | Lower customer satisfaction scores in CHOICE’s 2025 survey compared with many major competitors; some customers report frustration around claims processes. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| Budget Direct | Rated below average for overall satisfaction and had one of the weaker claims-experience results in the CHOICE survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| AAMI | Below some competitors for customer satisfaction in the CHOICE survey, although it remains a large and established insurer. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| RACV Insurance | Customer satisfaction was below some state-based motoring insurers in CHOICE’s comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

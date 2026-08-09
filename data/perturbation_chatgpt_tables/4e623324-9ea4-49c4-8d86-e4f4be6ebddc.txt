@@ -1,0 +1,10 @@
+1,5c21ec18-9ae1-44a8-8f9a-fd76e4c243cc,08080135-1126-0626-0000-f190d2cbdfed,4e623324-9ea4-49c4-8d86-e4f4be6ebddc,2026-08-08T13:13:34.913166+10:00
+Easiest pet insurance for older pets in Australia
+Tables found: 1
+| Insurer | New pets accepted up to | Why I'd consider it |
+|---|---:|---|
+| **[Real Insurance](https://www.realinsurance.com.au/pet-insurance)** | **Under 16** on Classic cover | **Best option if your pet is 9–15**. No fixed excess; up to 60% reimbursement, $12k annual limit. [www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/compare-pet-insurance?utm_source=chatgpt.com) |
+| **[Petsy](https://petsy.com.au/)** | **Under 9** | Simple policy structure, no sub-limits/condition limits, and ongoing renewal after age 9. [petsy.com.au](https://petsy.com.au/pet-insurance-faqs/?utm_source=chatgpt.com) |
+| **[Knose](https://www.knose.com.au/)** | **Under 9** | Good choice for a pet who's 8–9; 70/80/90% reimbursement options and no upper age limit once insured. [www.knose.com.au](https://www.knose.com.au/faqs-and-resources/?utm_source=chatgpt.com) |
+| **[Budget Direct](https://www.budgetdirect.com.au/pet-insurance.html)** | **Under 9** | Straightforward and potentially worth getting a quote; 80% cover is available. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance.html?utm_source=chatgpt.com) |
+End Of Line

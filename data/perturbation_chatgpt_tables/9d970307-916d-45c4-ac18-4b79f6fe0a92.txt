@@ -1,0 +1,11 @@
+2,bb34c9c6-a5c2-427a-b422-339515c98ad2,08080140-1126-0626-0000-fbbd21e575de,9d970307-916d-45c4-ac18-4b79f6fe0a92,2026-08-08T13:26:10.614258+10:00
+Most reliable pet insurance for large dog breeds in Australia with instant online quotes
+Tables found: 1
+| Insurer | Best for | Cover highlights | Online quote |
+|---|---|---|---|
+| **[Trupanion Australia](https://trupanion.com.au/)** | ⭐ **Best for very large/expensive claims** | **90%**, no annual payout limit, no sub-limits, lifetime per-condition excess | ~2 min |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | ⭐ **Best all-rounder/value** | Up to **$35,000**, 90% reimbursement, no sub-limits, GapOnly | Minutes |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | ⭐ **Strong alternative** | Up to **$30,000**, 90%, no sub-limits, GapOnly | Quick |
+| **[Knose](https://www.knose.com.au/)** | ⭐ **Good flexible option** | Up to $25,000, flexible cover, no sub-limits | ~60 sec |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | Good if you value RSPCA partnership | Up to **$35,000**, no sub-limits | Quick |
+End Of Line

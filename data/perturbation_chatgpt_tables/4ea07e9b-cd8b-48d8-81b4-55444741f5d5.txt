@@ -1,0 +1,11 @@
+1,3bf7eb4c-bcd2-4bdb-9755-04eeecbb58a2,08080136-1126-0626-0000-8a35da0149bf,4ea07e9b-cd8b-48d8-81b4-55444741f5d5,2026-08-08T13:17:22.735604+10:00
+Premium pet insurance for large dog breeds in Australia
+Tables found: 1
+| Provider / plan | Why consider it |
+|---|---|
+| **Medibank Pet Max Cover** | Up to **$30,000/year** and up to **90% reimbursement**; GapOnly is available. Strong all-round premium option. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **RSPCA PetFlex** | Up to **$35,000/year**, up to 90% reimbursement and no sub-limits on the advertised cover. Particularly attractive if you want a high ceiling. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| **Petsy** | Up to **$25,000/year** and 80–90% reimbursement depending on selection; worth comparing if you want comprehensive cover without necessarily paying for the absolute highest limit. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | Established Australian option worth getting a quote from, particularly for comparison against the high-limit policies. CHOICE includes it among the insurers it compares. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| **Fetch** | Another comprehensive option to quote; CHOICE includes it in its current comparison of Australian policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

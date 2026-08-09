@@ -1,0 +1,12 @@
+1,26789657-f7c5-4865-a791-3a74a34e401a,08080117-1126-0626-0000-07ca629179fd,d72e37d7-5e68-4d2b-9808-44dc9fcc7766,2026-08-08T12:28:43.818657+10:00
+Cheapest car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | Why check it |
+|---|---|
+| **Budget Direct** | Frequently competitive on price; currently offering 15% off a new policy bought online. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/compare-car-insurance-comparitron.html?utm_source=chatgpt.com) |
+| **AAMI** | Often competitive for EVs; recent EV-owner comparisons show it can beat Budget Direct/Youi depending on model. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1sa3u7d/ev_insurance_surprise_at_the_cost/?utm_source=chatgpt.com) |
+| **RAC** | Particularly worth checking if you're in WA; comprehensive cover includes lifetime repair guarantee. [rac.com.au](https://rac.com.au/car-motoring/car-insurance/compare-car-insurance?utm_source=chatgpt.com) |
+| **NRMA** | Worth getting a quote, particularly for newer EVs that some insurers won't cover. |
+| **Youi** | Offers specific EV insurance, but isn't necessarily cheap—the quote can be substantially higher for some EVs. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1sa3u7d/ev_insurance_surprise_at_the_cost/?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) |
+| **Bingle / ROLLiN'** | Among the cheaper options in WA research, although their coverage can be more limited. [www.finder.com.au](https://www.finder.com.au/car-insurance/wa-car-insurance?utm_source=chatgpt.com) |
+End Of Line

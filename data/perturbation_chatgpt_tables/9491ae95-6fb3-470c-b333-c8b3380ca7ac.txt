@@ -1,0 +1,13 @@
+1,18420d1d-0467-4a06-8d1c-6d47cdba5b38,08080127-1126-0626-0000-2ae19185533e,9491ae95-6fb3-470c-b333-c8b3380ca7ac,2026-08-08T12:54:34.328967+10:00
+Most popular roadside assistance for interstate travel in Australia
+Tables found: 1
+| Provider | Best for | Interstate cover |
+|---|---|---|
+| **NRMA** | ⭐ Best overall nationwide choice | Yes — reciprocal coverage Australia-wide |
+| **RACV** | Victoria-based drivers | Yes |
+| **RACQ** | Queensland-based drivers | Yes |
+| **RACT** | Tasmania-based drivers | Yes |
+| **RAA** | South Australia | Yes |
+| **RAC** | Western Australia | Yes |
+| **AANT** | Northern Territory | Yes |
+End Of Line

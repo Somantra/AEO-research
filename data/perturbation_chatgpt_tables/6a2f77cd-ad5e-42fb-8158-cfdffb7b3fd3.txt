@@ -1,0 +1,11 @@
+2,4b1fa2af-e1e2-4f12-8fce-c7d82152a3b5,08080133-1126-0626-0000-f7a3da4e354e,6a2f77cd-ad5e-42fb-8158-cfdffb7b3fd3,2026-08-08T13:09:50.851146+10:00
+Easiest roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Cheapest monthly option | Monthly payment | Best for |
+|---|---:|---:|---|
+| **[NRMA](https://www.nrma.com.au/roadside-assistance)** | Everyday Care | **$9.99/mo** promo price | ⭐ Best overall, especially NSW |
+| **[RACV](https://www.racv.com.au/cars-transport/roadside-assistance.html)** | Roadside Care | **$12/mo** | Victoria |
+| **[RAA](https://www.raa.com.au/motor/road-service)** | Standard | **$11.25/mo** | SA / Australia-wide travel |
+| **[RAC WA](https://rac.com.au/car-motoring/roadside-assistance)** | Standard | **$11.30/mo** | WA |
+| RACQ | Entry-level cover | varies | Queensland |
+End Of Line

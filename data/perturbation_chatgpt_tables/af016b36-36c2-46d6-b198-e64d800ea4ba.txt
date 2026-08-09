@@ -1,0 +1,12 @@
+2,124f78e6-931a-4b9e-b629-2ef2241fb3eb,08080130-1126-0626-0000-2b37831ed3bc,af016b36-36c2-46d6-b198-e64d800ea4ba,2026-08-08T13:02:06.592181+10:00
+Most affordable roadside assistance for interstate travel in Australia with a fast claims process
+Tables found: 1
+| Provider | Approx. annual cost | Interstate coverage | Best for |
+|---|---:|---|---|
+| **NRMA Everyday Care** | **$112/yr** | Australia-wide via reciprocal clubs | **Cheapest strong mainstream option** |
+| **RACV Roadside Care** | **$138/yr** | Australia-wide | Good Victorian option |
+| **RAA Standard** | **$135/yr** | Australia-wide | Individual/person-based cover |
+| **RAC WA Standard** | **$135.68/yr** | Australia-wide | Good if based in WA |
+| **NRMA Ultimate Care** | **$245/yr** | Australia-wide | Better for frequent long trips |
+| **RACV Total Care** | **$318/yr** | Australia-wide | Strong long-distance/towing benefits |
+End Of Line

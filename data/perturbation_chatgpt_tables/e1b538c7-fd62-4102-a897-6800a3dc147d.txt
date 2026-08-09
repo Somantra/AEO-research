@@ -1,0 +1,10 @@
+2,9404d38c-a2c9-491d-b943-7a53ead9154e,08080128-1126-0626-0000-dcaa013258b5,e1b538c7-fd62-4102-a897-6800a3dc147d,2026-08-08T12:57:24.645500+10:00
+Most trusted home insurance for flood-prone areas in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims / flood |
+|---|---|---|
+| **NRMA Insurance** | **Best overall for NSW** | Rated Australia’s **Most Trusted Home Insurance** in NSW in Finder’s 2026 awards. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) NRMA says it processed 53,000+ home claims in 2025, with flood/storm the largest category. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/home-insurance/buildings-insurance?utm_source=chatgpt.com) |
+| **Suncorp** | **Best for a streamlined claims process** | Flood is standard cover; claims can be lodged/tracked 24/7 online/app, and Suncorp says it may contact you within 2 business days if more information is needed. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/home/home-and-contents.html?bvstate=pg%3A31%2Fct%3Ar&utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **RACQ** | **Excellent claims reputation in QLD** | CHOICE's 2025 survey put RACQ at the top for claims experience, although its sample was relatively small. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **Youi** | Worth getting a comparison quote | Strong customer satisfaction in the CHOICE survey, but claims experiences were more mixed than the top performers. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

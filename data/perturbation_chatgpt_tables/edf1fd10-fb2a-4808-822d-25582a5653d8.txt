@@ -1,0 +1,10 @@
+2,e1c5320a-879d-4ed6-9e78-2d248bdf93ed,08080130-1126-0626-0000-38a14d4f99a1,edf1fd10-fb2a-4808-822d-25582a5653d8,2026-08-08T13:00:57.041165+10:00
+Cheapest roadside assistance for motorcycles in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. cost | Monthly payment? | Motorcycle? | Notes |
+|---|---:|---|---|---|
+| **RACQ Everyday** | **$109/year (~$9.08/mo)** | Need to confirm monthly instalments | ✅ Yes | 20 km towing, breakdowns, flat tyres, fuel, etc. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/everyday-roadside?utm_source=chatgpt.com) |
+| **Motorcycle Assist Australia (MCAA)** | ~$119/year (~$9.92/mo) | Check payment options | ✅ Yes | Motorcycle-focused; unlimited callouts reported |
+| **Rider Support Australia (RSA)** | ~$119.95/year (~$10/mo) | Check payment options | ✅ Yes | Motorcycle-focused; 50 km metro/100 km country towing reported [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1v4amh2/motorcycle_roadside_assistance/?utm_source=chatgpt.com) |
+| **iKalypso** | From **$9.99/month** | ✅ Yes | **Need to confirm motorcycle eligibility** | Unlimited callouts and up to 100 km towing advertised [www.ikalypso.com](https://www.ikalypso.com/services/roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

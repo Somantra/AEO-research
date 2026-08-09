@@ -1,0 +1,12 @@
+2,ef6bbb06-f55a-4272-bc5a-fc0e0be563ea,08080127-1126-0626-0000-9d3894e620c8,785c1a99-40ee-4604-9110-dc5615aef905,2026-08-08T12:55:49.045961+10:00
+Best home insurance for high-value items in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Strengths for high-value items | Watch-outs |
+|---|---|---|---|
+| Chubb | Luxury homes, collections, serious valuables | Specialist high-net-worth style coverage, strong claims expertise, better suited to art/jewellery collections | Often more expensive and may require higher-value household profile |
+| QBE Insurance Group | High-value contents with flexible cover | Allows customers to identify high-value items; optional portable contents cover can help with items taken away from home | Check individual item limits and exclusions carefully [www.qbe.com](https://www.qbe.com/au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Broad mainstream cover with valuables options | Portable contents options can cover items such as jewellery and handbags away from home; listed items can be covered for full replacement value where required [www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-insurance-comparison.html?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/home-insurance/contents-insurance?utm_source=chatgpt.com) | May not be as tailored as specialist high-net-worth insurers |
+| AAMI | Value-focused comprehensive cover | Often competitive pricing and broad consumer availability; recognised in Australian home insurance awards [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) | Check sub-limits for jewellery, collections and portable valuables |
+| NRMA Insurance | NSW-focused homeowners | Large established provider and strong local presence | High-value collections may need careful checking of item caps and optional extras |
+| Youi | Customised everyday home cover | Tailored quoting approach can suit unusual households | Not always the first choice for major collections |
+End Of Line

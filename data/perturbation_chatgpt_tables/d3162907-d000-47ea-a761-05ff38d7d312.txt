@@ -1,0 +1,9 @@
+2,4661622c-bcc5-450a-864e-12b0fb31fb88,08080140-1126-0626-0000-fb5747ed794e,d3162907-d000-47ea-a761-05ff38d7d312,2026-08-08T13:24:27.378914+10:00
+Least reliable pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing condition concern | Claims speed notes |
+|---|---|---|
+| RACQ Pet Insurance | Pre-existing conditions are generally excluded; switching insurers can create exclusions for existing issues. Some customer reviews report claim delays. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/c/pet-insurance?utm_source=chatgpt.com) | Mixed feedback |
+| HCF Pet Insurance | Consumer reviews include complaints about conditions being classified as pre-existing. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/c/pet-insurance?utm_source=chatgpt.com) | Mixed feedback |
+| Coles Insurance Pet Insurance | Clearly excludes pre-existing conditions and states claims generally take around 5–10 business days once documents are complete. [www.coles.com.au](https://www.coles.com.au/insurance/pet-insurance/faqs?utm_source=chatgpt.com) | Reasonably defined timeframe |
+End Of Line

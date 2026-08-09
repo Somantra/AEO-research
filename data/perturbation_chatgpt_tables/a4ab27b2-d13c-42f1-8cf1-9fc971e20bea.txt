@@ -1,0 +1,11 @@
+2,b2150e26-1f5c-4c2a-8de9-5bba22e652cd,08080128-1126-0626-0000-9259be0f5d6a,a4ab27b2-d13c-42f1-8cf1-9fc971e20bea,2026-08-08T12:57:00.814732+10:00
+Worst home insurance for flood-prone areas in Australia with instant online quotes
+Tables found: 1
+| Insurer | Flood cover | Online quote | Flood-prone suitability |
+|---|---|---|---|
+| **QBE** | Included | Yes | ⭐⭐⭐⭐⭐ |
+| **Allianz** | Included for new policies | Yes | ⭐⭐⭐⭐⭐ |
+| **NRMA** | Available, subject to risk | Yes | ⭐⭐⭐⭐ |
+| **Suncorp/AAMI** | Available, with high-risk variations | Yes | ⭐⭐⭐⭐ |
+| **Youi** | Included/available | Yes | ⭐⭐⭐⭐ |
+End Of Line

@@ -1,0 +1,13 @@
+2,3060bc24-e9c0-4f06-96fa-e1472c16619d,08080133-1126-0626-0000-4ddfd9d84dcf,b49e4cce-7753-4812-b7dd-e58ac40b9d33,2026-08-08T13:10:05.356791+10:00
+Most trusted roadside assistance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Online pricing/joining | Current indicative price* |
+|---|---|---|---:|
+| **NRMA** | ⭐ Best overall for NSW/ACT | Yes | From ~$137/yr |
+| **RACQ** | ⭐ Queensland | Yes | From ~$80/yr |
+| **RACV** | Victoria | Yes | Varies by plan |
+| **RAA** | South Australia | Yes | From ~$135/yr |
+| **RAC WA** | Western Australia | Yes | Check online |
+| **AANT** | Northern Territory | Yes | From ~$139/yr |
+| **RACT** | Tasmania | Yes | Check online |
+End Of Line

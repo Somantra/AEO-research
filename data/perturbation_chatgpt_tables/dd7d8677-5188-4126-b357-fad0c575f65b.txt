@@ -1,0 +1,9 @@
+2,c7d377ff-dae7-457f-8f2e-db709e19282a,08080140-1126-0626-0000-bc56f3f249d2,dd7d8677-5188-4126-b357-fad0c575f65b,2026-08-08T13:25:00.585906+10:00
+Cheapest pet insurance for puppies and kittens in Australia with monthly payments
+Tables found: 1
+| Insurer | Why consider it | Monthly payments |
+|---|---|---|
+| **Budget Direct** | Finder currently identifies it as the **cheapest insurer in its research**; 80% reimbursement on eligible bills | **Yes** — monthly, fortnightly or yearly [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+| **Petsy** | Specifically covers puppies/kittens from **6 weeks**; monthly direct debit or card payments | **Yes** [petsy.com.au](https://petsy.com.au/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | Has puppy/kitten cover and plans with lower annual limits designed to keep premiums manageable | Check quote [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/our-pet-insurance-cover-options/?utm_source=chatgpt.com) |
+End Of Line

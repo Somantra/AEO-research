@@ -1,0 +1,11 @@
+2,7484b2ae-f173-4df3-ab52-e41e6b71e61b,08080139-1126-0626-0000-30d488385568,2e184a42-adf6-42cf-900b-4952dd58801c,2026-08-08T13:23:03.462167+10:00
+Premium pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Provider | Suitable for older pets? | Payment style | Notes |
+|---|---|---|---|
+| [Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/) | Often accepts pets up to around 8–9 years for new cover depending on product | Monthly instalments available | Higher-tier cover may offer larger annual limits and higher reimbursement options. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) |
+| [RSPCA Pet Insurance](https://www.rspcapetinsurance.org.au/) | Can be an option for mature pets within age limits | Monthly instalments available | Offers accident and illness-style cover options with varying benefit levels. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) |
+| [Bow Wow Meow Pet Insurance](https://bowwowinsurance.com.au/) | Often considered by owners of older pets where eligible | Monthly instalments available | Offers different reimbursement and annual benefit choices. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| [Petcover Australia](https://www.petcovergroup.com/australia/) | Has senior pet options depending on age and circumstances | Monthly instalments may be available | Worth checking for older pets because entry rules vary by plan. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| [Australian Seniors Insurance Agency Pet Insurance](https://www.seniors.com.au/pet-insurance) | Marketed toward older owners and older pets | Monthly instalments available | Compare limits and exclusions carefully. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,73736b86-acdb-49a1-9d29-497b86fc0564,08080120-1126-0626-0000-20b603d2f71a,6f0896c8-06de-4ac8-9355-7d56dc5eb506,2026-08-08T12:37:53.707458+10:00
+Cheapest car insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Price/value | Customer experience | Best for |
+|---|---|---|---|
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Cheapest/value-focused |
+| **Youi** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Best balance of price + service |
+| **Bingle** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Very price-conscious drivers |
+| **NRMA Insurance** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Strong claims/customer satisfaction |
+| **RACQ / RAA / RAC** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Excellent if you're in their state |
+End Of Line

@@ -1,0 +1,14 @@
+2,1a502c31-9d5d-4441-936a-e48e9f3daddf,08080133-1126-0626-0000-8034446d93fb,9131f952-1a51-44df-979d-ec0e6a194199,2026-08-08T13:10:08.626831+10:00
+Most popular roadside assistance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Coverage | Online quote / purchase | Current indicative price |
+|---|---|---|---|
+| **[NRMA](https://www.nrma.com.au/)** | Australia-wide | Yes | From about **$137/yr** for Everyday Care |
+| **urlRACQturn0search0** | Australia-wide | Yes | From **$80/yr** for Everyday Lite in QLD |
+| **urlRACVturn1search0** | Australia-wide | Yes | State/plan dependent |
+| **urlRACturn1search2** | Australia-wide; strongest presence in WA | Yes | State/plan dependent |
+| **urlRAAturn1search1** | Australia-wide | Yes | From roughly **$135/yr** |
+| **urlBudget Directturn1search3** | Australia-wide | **Yes — very straightforward online** | **$76.46 first year** with current 15% online discount |
+| **urlAllianzturn0search5** | Australia-wide | Yes | From **$99/yr** Basic |
+| **urlAANTturn1search29** | Primarily NT | Yes | From **$139/yr** |
+End Of Line

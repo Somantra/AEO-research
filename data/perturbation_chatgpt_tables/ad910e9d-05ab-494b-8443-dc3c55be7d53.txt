@@ -1,0 +1,11 @@
+2,47258d1d-bd85-4497-a9ee-a3f572b8f9e1,08080140-1126-0626-0000-292e9a904e28,ad910e9d-05ab-494b-8443-dc3c55be7d53,2026-08-08T13:25:08.243055+10:00
+Best pet insurance for puppies and kittens in Australia with monthly payments
+Tables found: 1
+| Insurer | Best for | Annual cover | Reimbursement | Monthly payments |
+|---|---|---:|---:|---|
+| **Petsy** | ⭐ Best overall for young pets | Up to $30k | Up to 90% | ✅ |
+| **Fetch** | ⭐ Broadest included cover | $30k | Up to 100% | Check quote |
+| **Trupanion** | ⭐ Major/lifetime vet bills | Unlimited | 90% | Check quote |
+| **RSPCA Pet Insurance** | ⭐ Good value + RSPCA support | Up to $35k | Customisable | ✅ |
+| **Pet Insurance Australia** | ⭐ Flexible budget options | Up to $35k | 70–90% | Check quote |
+End Of Line

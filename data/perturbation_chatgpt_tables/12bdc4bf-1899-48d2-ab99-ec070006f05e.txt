@@ -1,0 +1,9 @@
+2,2d9c8383-f444-47b8-a304-23873b0e59cd,08080136-1126-0626-0000-501014697469,12bdc4bf-1899-48d2-ab99-ec070006f05e,2026-08-08T13:18:07.700926+10:00
+Least reliable long-term travel insurance in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why travellers raise concerns | What to check carefully |
+|---|---|---|
+| AIG Australia (including some travel insurance sold through partners) | Some travellers report difficult claims experiences, particularly around medical claims and pre-existing conditions. A recent case involving a Jetstar/AIG travel policy highlighted a dispute over a serious medical claim. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | Medical evacuation process, pre-existing condition definitions, claim escalation process |
+| RAC Western Australia travel insurance | Customer review sites contain complaints about slow claims handling and communication, although there are also positive claim experiences. [www.trustpilot.com](https://www.trustpilot.com/review/rac.com.au?utm_source=chatgpt.com) | Who underwrites the policy, overseas contact options, claims turnaround times |
+| World Nomads | Popular with long-term travellers, but reviews are mixed, especially around claim documentation and exclusions. [www.reddit.com](https://www.reddit.com/r/AusVisa/comments/1qrb8ji/moving_to_australia_from_canada_on_whv_what_is/?utm_source=chatgpt.com) | Adventure activity coverage, extensions while overseas, proof requirements |
+End Of Line

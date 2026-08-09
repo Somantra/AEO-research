@@ -1,0 +1,12 @@
+2,bea0e61e-0781-402b-aef0-2b348355bdb5,08080139-1126-0626-0000-1d644c58d4fe,0976f9ff-f0d0-4457-b6b8-b6817ffc17f5,2026-08-08T13:22:44.415811+10:00
+Worst pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Insurer/policy | New-pet age limit | Monthly payments? | Why poor for seniors |
+|---|---:|---|---|
+| **Knose** | 8 years | Yes/quote-dependent | Can't newly insure after 8 |
+| **Bow Wow Meow Nose-to-Tail** | 8 years | Yes | Can't newly insure after 8 |
+| **RAC/RACQ policies** | 8 years | Yes/quote-dependent | Very restrictive for senior pets |
+| **Medibank Pet** | 8 years | Yes/quote-dependent | Not suitable if already over 8 |
+| **Petsy** | 8 years | Yes | New cover unavailable after 8 |
+| **Pet Insurance Australia** | 9 years | Yes | Better than an 8-year cutoff, but still excludes new applicants after 9 |
+End Of Line

@@ -1,0 +1,11 @@
+2,ac97c2ee-7177-441b-806e-247f94e67e56,08080140-1126-0626-0000-52140884340f,644cb34c-e04d-4558-bd94-e0aea058ee85,2026-08-08T13:24:20.640455+10:00
+Worst pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider/policy | Pre-existing-condition situation | My take |
+|---|---|---|
+| **Petcover Economy** | Particularly problematic: after 12 months, conditions/clinical signs from the previous year can become pre-existing exclusions; no lifetime cover | 🔴 **Worst** |
+| **PetsOnMe Accident Plan** | Accident-only, so existing illness isn't the main issue—but it doesn't cover illness at all | 🔴 Poor if illness is a concern |
+| **Australian Seniors Basic** | Existing conditions generally excluded; 60% reimbursement and $2,000 per-condition limit | 🔴 Poor value |
+| **Guardian Bronze** | Same PetSure underwriting structure as Australian Seniors Basic | 🔴 Poor value |
+| **Real Insurance Classic** | Same PetSure structure; 60% reimbursement and $2,000 per-condition cap | 🔴 Poor value |
+End Of Line

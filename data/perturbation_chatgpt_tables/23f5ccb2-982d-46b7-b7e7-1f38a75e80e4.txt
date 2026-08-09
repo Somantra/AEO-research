@@ -1,0 +1,10 @@
+2,0795fb52-20d9-441f-a4d7-01275f224f3c,08080129-1126-0626-0000-5f57ea99f650,23f5ccb2-982d-46b7-b7e7-1f38a75e80e4,2026-08-08T13:00:36.195051+10:00
+Most trusted roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | EV support | Speed / convenience | Claims |
+|---|---|---|---|
+| **RACV** | ⭐⭐⭐⭐⭐ | **Excellent** — typically within an hour; app tracking | Online/app claims; reimbursement generally processed in 5–10 business days once approved |
+| **RACQ** | ⭐⭐⭐⭐⭐ | **Excellent in QLD** — advertises ~35-min average response | Online claims and app; straightforward digital process |
+| **NRMA** | ⭐⭐⭐⭐½ | **Excellent nationwide presence** | Very convenient online claims with photo/document upload and claim tracking |
+| **RAC/RAA/RACT/AANT** | ⭐⭐⭐⭐ | Strong in their home states | Good state-based support |
+End Of Line

@@ -1,0 +1,9 @@
+2,079827ec-496b-4731-976a-6f54badd293c,08080129-1126-0626-0000-d8d2a3ab0e62,e5477f02-78bd-4a41-a099-bcf05bc1314a,2026-08-08T13:00:33.614317+10:00
+Safest roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | EV roadside strengths | Claims/process | My take |
+|---|---|---|---|
+| **RACQ** | High-voltage-aware patrols, towing to a charger/destination, 24/7 service; advertises an average **35-minute response in Queensland** | Online/phone claims; dedicated claims team | **Best overall if you're in QLD** |
+| **RACV** | High-voltage-trained patrols, EV out-of-charge towing, unlimited callouts, Australia-wide assistance | App/online claims, upload documents/photos, track claim | **Excellent EV roadside package** |
+| **NRMA** | Large roadside network and established assistance service | Online claims, upload documents/photos and track progress | **Good choice for NSW/interstate travel** |
+End Of Line

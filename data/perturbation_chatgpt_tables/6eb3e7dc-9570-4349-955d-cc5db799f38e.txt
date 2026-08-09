@@ -1,0 +1,10 @@
+2,2f029915-cd38-4642-b7cf-f83260253aaf,08080136-1126-0626-0000-58ff593c9c17,6eb3e7dc-9570-4349-955d-cc5db799f38e,2026-08-08T13:17:36.039133+10:00
+Premium travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Why consider it | Pre-existing conditions |
+|---|---|---|
+| **[AllClear Australia](https://www.allcleartravel.com.au/)** | Strongest specialist option for complex medical histories; no upper age limit | Specifically designed for pre-existing conditions; says it can cover all pre-existing conditions, subject to assessment |
+| **[World2Cover](https://www.world2cover.com.au/)** | Good mainstream comprehensive option | Many conditions automatically covered; others assessed and may attract an additional premium |
+| **[1Cover](https://www.1cover.com.au/)** | Straightforward online medical assessment | Pre-existing conditions assessed before purchase; accepted conditions are documented |
+| **Allianz** | Major insurer with comprehensive policies | Pre-existing conditions generally require assessment rather than being universally covered |
+End Of Line

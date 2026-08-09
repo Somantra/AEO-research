@@ -1,0 +1,11 @@
+1,190e2bbc-6bac-46a7-a3f5-d79d49e14317,08080130-1126-0626-0000-810ea4aa8044,15730c9a-d55d-4560-ae2a-7f57b3eac829,2026-08-08T13:01:54.962935+10:00
+Premium standalone roadside assistance cover in Australia
+Tables found: 1
+| Provider | Premium level | Approx. annual price | Key strengths |
+|---|---|---:|---|
+| **NRMA Ultimate Care** | ⭐⭐⭐⭐⭐ | **$299** | Unlimited call-outs, up to 100 km towing, strong nationwide reciprocal coverage |
+| **RACV Total Care** | ⭐⭐⭐⭐⭐ | **$318** | 100 km towing, up to $2,400 travel benefits, $350 locksmith; particularly strong in Victoria |
+| **RAC Ultimate / Ultimate Plus** | ⭐⭐⭐⭐⭐ | **$349.80 / $434.60** | Strong WA coverage, long-distance benefits, unlimited call-outs |
+| **Allianz Premium** | ⭐⭐⭐⭐ | **from $139** | Standalone, Australia-wide, up to 100 km towing on higher tier, EV/bogged vehicle assistance |
+| **RACQ Ultimate Care** | ⭐⭐⭐⭐⭐ | around **$310** | Excellent Queensland option; long-distance towing and substantial travel benefits |
+End Of Line

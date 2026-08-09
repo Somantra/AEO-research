@@ -1,0 +1,16 @@
+1,47672a6c-ab77-499a-b051-de21b7be216b,08080137-1126-0626-0000-88c15c5820bb,b926b38c-7b21-4d8a-a0a8-a70a856468bb,2026-08-08T13:19:38.591108+10:00
+Most popular pet insurance providers in Australia
+Tables found: 1
+| Provider | What they’re known for |
+|---|---|
+| **Medibank** | Large mainstream insurer; Pet Max offers up to $30,000 annual cover and up to 90% reimbursement |
+| **RSPCA Pet Insurance** | Comprehensive options; up to $35,000 annual cover and up to 90% reimbursement |
+| **Bow Wow Meow** | Pet-insurance specialist; popular for flexible cover and GapOnly |
+| **Pet Insurance Australia** | Established specialist provider with Select and Protect policies |
+| **Petsy** | Customisable policies, including optional dental and alternative-therapy benefits |
+| **Fetch Pet Insurance** | Specialist insurer; claims can be paid directly to participating vets |
+| **Knose** | Customisable accident-and-illness cover with optional wellness benefits |
+| **Petcover** | Long-established pet-insurance provider with a range of cover options |
+| **Coles Insurance** | Mainstream retailer-backed option |
+| **Kogan** | Pet insurance alongside its broader financial-services offerings |
+End Of Line

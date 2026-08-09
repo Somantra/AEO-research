@@ -1,0 +1,13 @@
+1,66c906fb-f08c-496e-a9cf-00de007648a6,08080124-1126-0626-0000-91721b8121c9,7f9f3823-e74f-4c1c-971a-3d004da0e8fd,2026-08-08T12:47:40.407482+10:00
+Most popular home insurance for apartments in Australia
+Tables found: 1
+| Insurer | Often considered good for |
+|---|---|
+| AAMI | Broad home and contents options, strong brand recognition |
+| NRMA Insurance | Large customer base, especially in NSW |
+| Budget Direct | Competitive pricing/value-focused policies |
+| Youi | Personalised quotes and customer service focus |
+| Allianz Australia | Large insurer with comprehensive options |
+| QBE Insurance | Established insurer with broad products |
+| Suncorp Insurance | Major provider with home and contents cover |
+End Of Line

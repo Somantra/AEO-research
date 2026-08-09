@@ -1,0 +1,11 @@
+2,30eac6cd-3d6b-4a35-a24e-5ca1db5d8e87,08080120-1126-0626-0000-c0f5e0547ed1,7f779d7e-9df5-493b-a71d-1335169f6a45,2026-08-08T12:38:36.210311+10:00
+Most trusted car insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | My take | Why consider it |
+|---|---|---|
+| **Allianz** | ⭐ **Best overall** | Clear policy documentation, established insurer, strong comprehensive options and choice of repairer. Its current policy documents explicitly set out premiums, excesses, discounts and options. [www.allianz.com.au](https://www.allianz.com.au/my-allianz/policy-information/policy-documents.html?utm_source=chatgpt.com) |
+| **NRMA Insurance** | ⭐ **Best established option** | Large, well-known insurer with detailed premium/excess documentation and 24/7 claims support. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/car-insurance-faqs/car-insurance-costs?utm_source=chatgpt.com) |
+| **AAMI** | ⭐ **Good mainstream choice** | Large Suncorp-owned insurer; worth comparing particularly if you want straightforward comprehensive cover. |
+| **QBE** | ⭐ **Worth quoting** | Major Australian insurer and often competitive depending on driver/car/location. |
+| **Youi** | ⭐ **Good for personalised pricing** | Can be competitive for some driver profiles, although pricing can vary substantially between customers. |
+End Of Line

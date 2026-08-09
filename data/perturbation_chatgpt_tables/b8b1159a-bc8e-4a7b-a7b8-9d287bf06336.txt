@@ -1,0 +1,15 @@
+2,4d3d3049-3508-4fb5-b86f-bfaf018e13db,08080126-1126-0626-0000-d0b6858abb70,b8b1159a-bc8e-4a7b-a7b8-9d287bf06336,2026-08-08T12:52:58.117480+10:00
+Least reliable home insurance for older properties in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | My view |
+|---|---:|---|
+| **RAC** (WA) | **71%** above average/excellent | ⭐ Strong option |
+| **NRMA** | **69%** | ⭐ Strong option |
+| **Suncorp** | **66%** | ⭐ Good option |
+| **RACV** (Vic) | **67%** | ⭐ Good option |
+| **Youi** | **65%** | 👍 Worth quoting |
+| **AAMI** | **57%** | 🟡 Middle of pack |
+| **Budget Direct** | **49%** | 🔴 I'd investigate carefully |
+| **GIO** | **50%** | 🔴 I'd investigate carefully |
+| **Allianz** | **52%** | 🔴 Not my first choice for this requirement |
+End Of Line

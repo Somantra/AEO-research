@@ -1,0 +1,12 @@
+2,1209608d-2363-4c0f-a4fd-5893577e17dc,08080122-1126-0626-0000-96891fe6a744,73a23e9f-1a55-4e94-b644-5fce0b414557,2026-08-08T12:43:06.158634+10:00
+Cheapest comprehensive motorcycle insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Sample annual premium | Approx. monthly* |
+|---|---:|---:|
+| **NRMA** | **$765** | **$63.77** |
+| Budget Direct | $1,062 | $88.52 |
+| Mi-Bike | $1,114 | $92.85 |
+| National Motorcycle Insurance | $1,479 | $123.28 |
+| QBE | $1,732 | $144.35 |
+| AAMI | $2,113 | $176.09 |
+End Of Line

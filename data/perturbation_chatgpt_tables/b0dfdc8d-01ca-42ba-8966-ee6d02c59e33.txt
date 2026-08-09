@@ -1,0 +1,10 @@
+1,590fcd52-6986-484b-8f85-0023656b72f3,08080135-1126-0626-0000-291ce1c16371,b0dfdc8d-01ca-42ba-8966-ee6d02c59e33,2026-08-08T13:15:26.836783+10:00
+Safest pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer | Pre-existing-condition approach | My take |
+|---|---|---|
+| **[Knose](https://www.knose.com.au/)** | Offers a **free pre-existing-condition assessment upfront**, tells you which exclusions may be reviewable and when | ⭐ **Best for transparency** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Temporary conditions can potentially become covered after **18 months symptom-free**; chronic conditions remain excluded | ⭐ **Best established pathway** |
+| **[RACQ Pet Insurance](https://www.racq.com.au/insurance/pet-insurance)** | Certain temporary conditions may be reviewed after **18 months symptom-free** | Good option if eligible |
+| **[Bupa Pet Insurance](https://www.bupa.com.au/pet-insurance)** | Has a formal pre-existing-condition review process for certain temporary conditions | Worth comparing |
+End Of Line

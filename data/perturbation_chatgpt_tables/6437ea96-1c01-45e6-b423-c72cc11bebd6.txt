@@ -1,0 +1,11 @@
+2,6128d3d2-119b-470b-8814-556780777ac8,08080126-1126-0626-0000-e6072824e919,6437ea96-1c01-45e6-b423-c72cc11bebd6,2026-08-08T12:53:03.033002+10:00
+Easiest home insurance for older properties in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it may suit older homes | Claims reputation notes |
+|---|---|---|
+| NRMA Insurance | Large NSW/ACT presence, broad home insurance experience | Rated strongly for ease of claims in recent customer satisfaction awards. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| AAMI | Often has straightforward online quoting and claims | Recognised among insurers with positive claims experiences in customer surveys. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| Suncorp | Strong disaster-response capability in many regions | Has a large claims operation, useful for storm/flood events. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| Youi | Known for more detailed customer profiling, which can help unusual properties | Customer experiences are mixed but many rate its service highly. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| RACV / RACQ / RAA | Strong state-based member insurers | State insurers often score well for customer experience and claims handling. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

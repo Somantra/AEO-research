@@ -1,0 +1,10 @@
+2,2361ec76-beac-4b68-a5e8-20d34c9a6749,08080139-1126-0626-0000-eed2f04c0329,67a24eca-2656-4a7e-a842-89044b3c2837,2026-08-08T13:24:07.917674+10:00
+Cheapest pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why it may suit | Cost/value notes | Pre-existing condition approach |
+|---|---|---|---|
+| Pet Insurance Australia | Strong value balance and generally good customer feedback | One comparison found it among the cheapest comparable policies (around $939/year benchmark) with strong ratings. [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com)[insu.au](https://insu.au/compare/best-pet-insurance-australia-2026/?utm_source=chatgpt.com) | Existing conditions are generally excluded, but new conditions may be covered |
+| Bow Wow Meow | Good value alternative | Similar pricing to Pet Insurance Australia in some comparisons. [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) | Check whether any prior conditions can be reviewed |
+| Budget Direct | Often among the cheaper quotes | Some owners report competitive pricing and acceptable claims experiences, though reviews vary. [petcoverguide.com.au](https://petcoverguide.com.au/cheapest-pet-insurance-australia/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1mpubhe/budget_direct_pet_insurance/?utm_source=chatgpt.com)[insu.au](https://insu.au/compare/best-pet-insurance-australia-2026/?utm_source=chatgpt.com) | Typically excludes pre-existing issues; may consider some cured conditions after time |
+| Fetch Pet Insurance | Good customer sentiment in some owner discussions | Not always the cheapest, but some owners report smooth claims. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1mpubhe/budget_direct_pet_insurance/?utm_source=chatgpt.com) | Existing conditions generally excluded |
+End Of Line

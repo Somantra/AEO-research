@@ -1,0 +1,11 @@
+2,f57510af-d416-446a-b5ec-975e3aca35bb,08080140-1126-0626-0000-31c57b64f3ef,48105f41-5f1c-4457-b833-c0c8a0f904d9,2026-08-08T13:25:13.559808+10:00
+Worst pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Policy | CHOICE rating | Why it's poor value |
+|---|---:|---|
+| **Petcover Economy** | **25%** | No lifetime cover; chronic/recurring conditions can become excluded after 12 months; benefits reduce as the pet ages |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only, just **$5,000/year**, doesn't cover illness or cruciate ligament injuries |
+| **Real Insurance Classic** | **53%** | Only **60% reimbursement**, $12,000 annual limit but just **$2,000 per condition** |
+| **Guardian Bronze** | **53%** | Same underlying weaknesses as Real Insurance Classic |
+| **Australian Seniors Basic Cover** | **53%** | Same underlying weaknesses as the above policies |
+End Of Line

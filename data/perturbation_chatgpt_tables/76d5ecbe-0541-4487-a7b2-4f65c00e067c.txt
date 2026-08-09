@@ -1,0 +1,12 @@
+2,0bc22ac1-0ee9-4c75-9aab-9199d7216e63,08080118-1126-0626-0000-8b0e052201ca,76d5ecbe-0541-4487-a7b2-4f65c00e067c,2026-08-08T12:33:01.025149+10:00
+Best car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | Why consider it for an EV | Monthly payment option |
+|---|---|---|
+| AAMI | Strong mainstream comprehensive cover; often competitive depending on driver profile | Usually available |
+| Budget Direct | Often among the lower-cost options; comprehensive EV cover available | Available on eligible policies [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/best-car-insurance/?utm_source=chatgpt.com) |
+| Youi | Customised pricing based on your circumstances; good customer-service reputation | Available [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) |
+| ROLLiN' Insurance | Designed around monthly payments; EV-specific items such as batteries, charging cables and adapters are covered according to its policy details | Monthly model [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/best-car-insurance/?utm_source=chatgpt.com) |
+| NRMA Insurance | Large insurer with growing EV experience | Monthly payment options may be available depending on policy [www.news.com.au](https://www.news.com.au/technology/motoring/rising-petrol-uncertainty-accelerates-ev-uptake-across-australia-with-record-insurance-demand-growth/news-story/1d748e003f21aef84c27982434042582?utm_source=chatgpt.com) |
+| Shannons | Worth checking for some EVs, especially enthusiast or newer models | Payment options vary |
+End Of Line

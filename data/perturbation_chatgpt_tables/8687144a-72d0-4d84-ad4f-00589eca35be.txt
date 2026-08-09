@@ -1,0 +1,9 @@
+1,478bf3a4-c483-413f-b159-d53af489b746,08080117-1126-0626-0000-67295fd0e6f2,8687144a-72d0-4d84-ad4f-00589eca35be,2026-08-08T12:29:11.414300+10:00
+Safest car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | Why I’d consider it for an EV | Key EV protection |
+|---|---|---|
+| **Allianz** | **Best EV-specific coverage** | Battery damage, battery fires/thermal runaway, charging cables, home wall chargers, EV-certified repairers, new-EV replacement |
+| **RACV** | Strong option, particularly in Victoria | EVs covered under its standard comprehensive policies; good option to quote alongside Allianz |
+| **Other major insurers** | Worth comparing because premiums vary enormously | Check battery, charger and repair provisions carefully |
+End Of Line

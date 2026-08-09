@@ -1,0 +1,10 @@
+1,27cab1da-f925-4d93-93dc-fc4fba6cb2e9,08080122-1126-0626-0000-0ce462c63a58,66f6089e-9186-413a-b08c-1f84051dc585,2026-08-08T12:42:28.384250+10:00
+Least reliable motorcycle insurance providers in Australia
+Tables found: 1
+| Provider | Common complaints/concerns reported | Things to check |
+|---|---|---|
+| Swann Insurance | Some riders report long claim delays, difficult claim experiences, or dissatisfaction after changes to availability/policies. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1rzn9t2/what_insurance_do_you_use_for_you_and_your_bike/?utm_source=chatgpt.com) | Claim turnaround times, repairer choice, agreed value terms |
+| QBE Insurance | Some motorcycle claim disputes have involved theft and policy exclusions; individual outcomes depend on wording. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=3eefa0cc-a31d-f111-8342-6045bde6951a&utm_source=chatgpt.com) | Theft exclusions, permitted riders, valuation method |
+| AAMI | Mixed rider feedback; some praise pricing while others criticise claims processes. Online reviews are not a reliable measure alone. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1tmgdd3/insurance_company_suggestion_for_motorcycle/?utm_source=chatgpt.com) | Excess amounts, repair guarantees, parts availability |
+| Budget Direct | Like many large insurers, it has attracted complaints about claim decisions in some motor insurance cases. [www.dailytelegraph.com.au](https://www.dailytelegraph.com.au/news/national/insurer-forced-to-pay-out-for-stolen-car-after-unattended-vehicle-claim-rejected/news-story/ef1b8b0385ae4fea53a8ee64c4131dbb?utm_source=chatgpt.com) | Whether exclusions and definitions match your riding habits |
+End Of Line

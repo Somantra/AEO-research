@@ -1,0 +1,11 @@
+2,c4163add-0752-425a-8c1e-56e9f5fece86,08080118-1126-0626-0000-7dc7b2bb277b,019a9f44-383a-434b-b418-4102ae0c010c,2026-08-08T12:33:08.501294+10:00
+Worst car insurance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | EV suitability | My take |
+|---|---|---|---|
+| **RAC WA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Best choice in WA** |
+| **Youi** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐⭐ | Excellent EV-specific offering |
+| **NRMA** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐½ | Strong alternative |
+| **RACQ** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Excellent in QLD |
+| **Budget Direct** | ⭐⭐ | ⭐⭐⭐⭐ | Cheap, but I'd avoid if claims speed matters |
+End Of Line

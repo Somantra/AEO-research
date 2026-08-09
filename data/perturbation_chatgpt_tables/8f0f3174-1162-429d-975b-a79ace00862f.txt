@@ -1,0 +1,12 @@
+2,1e12c420-a9d9-4d22-974e-c9b7d2978b47,08080142-1126-0626-0000-5f70468cd755,8f0f3174-1162-429d-975b-a79ace00862f,2026-08-08T13:28:50.748203+10:00
+Easiest pet insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Ease of claiming | What makes it easy | Main downside |
+|---|---|---|---|
+| **Fetch** | ⭐⭐⭐⭐⭐ | App-based claims; FetchPay can let the vet submit the claim and calculates your contribution in real time | Smaller/ newer provider |
+| **PetSure-backed brands** | ⭐⭐⭐⭐⭐ | GapOnly can let you pay only the gap at participating vets; eClaims can be lodged by your vet | Many different brands have different policy terms |
+| **Knose** | ⭐⭐⭐⭐⭐ | Very simple paperless online claim; upload invoice/photo and submit | Need to compare its policy terms carefully |
+| **Trupanion** | ⭐⭐⭐⭐⭐ | Can pay participating vets directly; 90% cover and no annual payout limits/sub-limits | Often not the cheapest premium |
+| **Budget Direct** | ⭐⭐⭐⭐ | Straightforward online claims portal and claim tracking | You generally pay the vet first and get reimbursed |
+| **RACQ** | ⭐⭐⭐⭐ | Online/phone claims and ability to save an incomplete claim | More conventional claims process |
+End Of Line

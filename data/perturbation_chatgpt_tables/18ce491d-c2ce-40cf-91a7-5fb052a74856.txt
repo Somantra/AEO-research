@@ -1,0 +1,11 @@
+1,e2c8e626-128c-46be-b8db-09ce5ab503b8,08080135-1126-0626-0000-fab742aa4613,18ce491d-c2ce-40cf-91a7-5fb052a74856,2026-08-08T13:14:11.313104+10:00
+Best pet insurance for multiple pets in Australia
+Tables found: 1
+| Provider | Best for | Why consider it for multiple pets |
+|---|---|---|
+| Pet Insurance Australia | Comprehensive cover | Often considered a strong full-cover option; compare limits and exclusions carefully. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| Petsy | Digital experience & newer policies | Frequently mentioned by Australian pet owners looking for simpler claims and modern policy management. [www.reddit.com](https://www.reddit.com/r/Pets/comments/1naezj1/best_pet_insurance_australia_recommendations/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AustralianPets/comments/1udya5r/emergency_only_pet_insurance/?utm_source=chatgpt.com) |
+| Bow Wow Meow | Dogs and cats needing broad cover options | A long-established option with flexible cover choices; worth comparing for households with several pets. [www.reddit.com](https://www.reddit.com/r/ragdolls/comments/1uy03ic/pet_insurance_in_australia_recommendations/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Multi-pet discount seekers | Some comparison tables list multi-pet discounts (for example, 10% on certain covers), but check the underlying insurer, exclusions and pricing carefully. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Higher benefit limits | Offers options with high annual benefit limits and is worth comparing if you have multiple high-value breeds or older pets. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+End Of Line

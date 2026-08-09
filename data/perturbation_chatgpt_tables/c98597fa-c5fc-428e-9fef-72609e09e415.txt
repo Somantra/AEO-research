@@ -1,0 +1,11 @@
+2,205a9bd6-c02e-4934-9b76-c76be96602ea,08080142-1126-0626-0000-a6c703c0d485,c98597fa-c5fc-428e-9fef-72609e09e415,2026-08-08T13:28:39.561186+10:00
+Worst pet insurance providers in Australia with instant online quotes
+Tables found: 1
+| Policy | CHOICE rating | Why I’d be cautious |
+|---|---:|---|
+| **Petcover Economy** | **25%** | No lifetime cover; illness/injury is generally only covered for 12 months. $7,000 annual limit. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/products/money/insurance/pet/petcover-economy?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/products/money/insurance/pet/australian-seniors-basic-cover?utm_source=chatgpt.com) |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only — **no illness cover** — with only a $5,000 annual benefit. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Australian Seniors Basic Cover** | **53%** | Only 60% reimbursement, $12,000 annual limit and $2,000 per-condition cap. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/products/money/insurance/pet/australian-seniors-basic-cover?utm_source=chatgpt.com) |
+| **Guardian Bronze** | **53%** | Among CHOICE's lowest-rated policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Real Insurance Classic** | **53%** | Limited injury cover, 60% reimbursement and $2,000-per-condition limit. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/products/money/insurance/pet/australian-seniors-basic-cover?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,12 @@
+2,85c77f9f-8dae-4306-ac89-3bffcd8c660e,08080139-1126-0626-0000-8fede4a91b47,5d06eee6-9bd6-42a8-9262-35e9d27ca57a,2026-08-08T13:23:24.862573+10:00
+Best pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Multi-pet benefit | Online quote |
+|---|---|---|---|
+| Fetch Pet Insurance | Comprehensive cover | 5% multi-pet discount (conditions apply) | Yes [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Petcover | Multi-pet households looking for discounts | Listed multi-pet discounts (often around 5%) | Yes [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Existing Medibank customers | Multi-pet discounts may apply | Yes [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Brand trust / animal-focused organisation | 10% multi-pet discount listed on comparison data | Yes [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Bow Wow Meow | Dogs and cats with flexible cover options | 10% multi-pet discount listed on comparison data | Yes [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Kogan Pet Insurance | Value-focused cover | 10% multi-pet discount listed on comparison data | Yes [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

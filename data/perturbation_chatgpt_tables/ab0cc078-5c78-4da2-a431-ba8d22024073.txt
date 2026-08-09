@@ -1,0 +1,10 @@
+2,61aa9b4e-4cfb-4dd8-bb9e-eaa0aaca02a3,08080141-1126-0626-0000-bf671b9e9278,ab0cc078-5c78-4da2-a431-ba8d22024073,2026-08-08T13:26:31.856185+10:00
+Premium pet insurance for large dog breeds in Australia with monthly payments
+Tables found: 1
+| Provider | Premium-level cover | Large annual limit | Monthly payment | Why consider it |
+|---|---|---:|---|---|
+| **Trupanion** | ⭐⭐⭐⭐⭐ | **Unlimited** | Yes | Strongest option for very expensive/chronic conditions; 90% cover and no payout/sub-limits |
+| **Pet Insurance Australia – Select & Protect** | ⭐⭐⭐⭐⭐ | **$35,000** | Yes | High annual limit, up to 90% reimbursement, no condition/treatment sub-limits |
+| **Fetch** | ⭐⭐⭐⭐⭐ | **$30,000** | **Yes — monthly plan** | Up to 100% reimbursement, no sub-limits, particularly attractive for large breeds |
+| **Petsy** | ⭐⭐⭐⭐½ | **$25,000** (up to $30k for eligible young pets) | Yes | No sub-limits and flexible excess; often competitive pricing |
+End Of Line

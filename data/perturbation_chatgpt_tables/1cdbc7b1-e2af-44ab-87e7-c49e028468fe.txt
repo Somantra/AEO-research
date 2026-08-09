@@ -1,0 +1,13 @@
+2,da35d2f8-9ad0-4694-ad85-2981c82b5309,08080137-1126-0626-0000-d9519a006588,1cdbc7b1-e2af-44ab-87e7-c49e028468fe,2026-08-08T13:19:16.420263+10:00
+Least reliable domestic travel insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Reliability signal | My take |
+|---|---|---|
+| **AIG Travel Insurance – Domestic** | 🔴 **Very concerning** | I would avoid unless there is a compelling reason to use it |
+| **Cover-More** | 🟠 Mixed | Large, established provider, but customer-service/claims complaints are a concern |
+| **Allianz** | 🟠 Mixed | Established and financially substantial, but customer satisfaction isn't especially strong |
+| **Tick** | 🟢 Good | Generally strong customer feedback and awards |
+| **InsureandGo** | 🟢 Good | Won Finder's **2026 Best Domestic Travel Insurance** |
+| **RAA** | 🟢 Very good | Strong customer satisfaction/recommendation results |
+| **World2Cover** | 🟢 Very good | Particularly strong claims experience |
+End Of Line

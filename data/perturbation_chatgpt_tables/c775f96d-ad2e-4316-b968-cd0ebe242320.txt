@@ -1,0 +1,11 @@
+2,2a4bba1a-5563-4a88-a00f-981fa40af49e,08080129-1126-0626-0000-a8756aecc87a,c775f96d-ad2e-4316-b968-cd0ebe242320,2026-08-08T13:00:34.128778+10:00
+Safest roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | EV-specific safety | Out-of-charge help | Online purchase/quote | My take |
+|---|---|---|---|---|
+| **RACV Total Care** | High-voltage-trained patrols | Tow to charger or up to 200 km to destination | Yes | **Best overall for EVs** |
+| **RACQ** | High-voltage-aware patrols | Tow to accessible charger/destination | Yes | **Excellent, especially QLD** |
+| **NRMA** | EV support | Mobile EV charger or tow to charger | Yes | **Best NSW/ACT option** |
+| **RAA** | EV-trained patrols | Tow to nearest charger | Yes | **Excellent in SA** |
+| **RAC WA** | EV coverage | Tow to nearest EV charger | Yes | **Best WA option** |
+End Of Line

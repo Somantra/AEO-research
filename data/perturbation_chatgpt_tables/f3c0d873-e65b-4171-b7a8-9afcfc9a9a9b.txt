@@ -1,0 +1,12 @@
+2,dee3f654-58db-41e2-847e-420b14dc001e,08080141-1126-0626-0000-b241d38cad9e,f3c0d873-e65b-4171-b7a8-9afcfc9a9a9b,2026-08-08T13:28:07.072973+10:00
+Most trusted accident-only pet insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Accident-only availability | Customer reviews | My take |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | ⚠️ Existing/renewing customers only | **4.5/5** on ProductReview | **Best match if you can access it** |
+| **RSPCA Pet Insurance** | Check current quote | Review history is mixed because the product changed in 2026 | Worth investigating, but verify the *new* policy |
+| **Petcover** | Has had accident-focused products | **3.0/5** from 1,229 reviews | **I wouldn't choose it based on reviews** |
+| **Petsy** | ❌ No longer offers accident-only | **4.9/5** on ProductReview | Excellent insurer, but you'd need accident + illness |
+| **Knose** | ❌ No accident-only policy | **4.8/5** on ProductReview | Excellent alternative if you can accept illness cover |
+| **Bow Wow Meow** | Primarily accident + illness options | **4.5/5** from 3,237 reviews | Strong customer-feedback option |
+End Of Line

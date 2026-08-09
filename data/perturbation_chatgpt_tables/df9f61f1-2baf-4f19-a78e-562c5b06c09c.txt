@@ -1,0 +1,11 @@
+2,8ca2f8fb-726f-4cfa-8afc-2e533ce51fe2,08080131-1126-0626-0000-9cca1a01160f,df9f61f1-2baf-4f19-a78e-562c5b06c09c,2026-08-08T13:03:50.141024+10:00
+Most popular roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited to | Commercial-vehicle strength | Coverage | My take |
+|---|---|---|---|---|
+| **Truck Assist / NTI** | Trucks, transport & logistics fleets | ⭐⭐⭐⭐⭐ | Australia-wide | **Strongest specialist option** |
+| **RAC BusinessWise** | Vans, light commercial fleets, WA businesses | ⭐⭐⭐⭐ | WA + interstate via affiliates | Excellent for light commercial fleets |
+| **RACV Business** | Delivery, courier, taxi/rideshare fleets | ⭐⭐⭐⭐ | Australia-wide | Good for vehicles up to 8t GVM |
+| Manufacturer-backed programs | Brand-specific truck fleets | ⭐⭐⭐⭐⭐ | Australia-wide | Very good if your fleet is one brand |
+| General motoring clubs/insurers | Cars and light commercial vehicles | ⭐⭐–⭐⭐⭐ | Australia-wide | Often less suitable for heavy trucks |
+End Of Line

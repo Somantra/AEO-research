@@ -1,0 +1,11 @@
+2,d6f7e74a-0285-44dc-8694-a93a69ef1db7,08080132-1126-0626-0000-802124de8629,4ec3a1fc-5c6a-4f02-8b1a-a4ea062a831c,2026-08-08T13:06:05.135884+10:00
+Most comprehensive roadside assistance plans in Australia with a fast claims process
+Tables found: 1
+| Plan | Best for | Key strengths | Speed / convenience |
+|---|---|---|---|
+| **RACQ Ultimate Care** | 🥇 Best overall | 200 km attendance, 100 km towing, personal + nominated-vehicle cover, caravan/trailer assistance, travel benefits up to $7,000/year | **35-min average response in QLD**, online/app request + real-time patrol tracking |
+| **RACV Total Care** | 🥈 Best in VIC / Melbourne | Unlimited callouts, 100 km towing, caravan/trailer, EV support, up to $2,400 travel benefits | Usually there **within an hour**; real-time van tracking in metro Melbourne |
+| **RAC Ultimate Plus** | 🥇 Best for WA/remote travel | **200 km metro / 300 km country towing**, caravan/boat/trailer towing, accommodation + hire car | 24/7 attendance in major WA centres; excellent long-distance coverage |
+| **NRMA Ultimate Care** | Best NSW/ACT network | Unlimited callouts Australia-wide, 100 km towing, emergency fuel, keys, battery, tyre assistance | Very large national network; app/service options |
+| **RAA Premium** | Best SA / personal cover | Cover follows **you**, regardless of which car you're driving; unlimited callouts; up to 200 km country towing | 24/7 Australia-wide |
+End Of Line

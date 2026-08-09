@@ -1,0 +1,9 @@
+2,bc4e3686-d6f7-45e1-8601-2ec6387afb65,08080139-1126-0626-0000-1a948d90647f,0455d8c5-ca74-4454-8ad0-84d3eb32d00c,2026-08-08T13:24:12.663709+10:00
+Most affordable pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Instant online quote | Why consider it |
+|---|---|---|---|
+| **[Budget Direct](https://www.budgetdirect.com.au/pet-insurance/)** | Some cured conditions may become eligible after **12 months symptom-free** | ✅ | Often one of the cheaper options; 80% reimbursement |
+| **[Knose](https://www.knose.com.au/)** | May waive restrictions for some fully cured conditions; timeframe varies by condition | ✅ ~60 sec | Flexible excess/annual limit; currently advertising 2 months free |
+| **[Trupanion Australia](https://trupanion.com.au/)** | ❌ Active pre-existing conditions excluded | ✅ ~2 min | Excellent for *new* conditions; 90% cover and no annual payout limit |
+End Of Line

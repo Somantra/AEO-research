@@ -1,0 +1,11 @@
+2,1d98c6a3-54c9-41af-b770-791d9c5c2b07,08080133-1126-0626-0000-5e676cebec8e,98db98ad-2a3d-4f21-8e90-fb351fdbd44f,2026-08-08T13:10:49.368344+10:00
+Least reliable travel insurance for business trips in Australia compared to other providers
+Tables found: 1
+| Provider/brand | Reliability signal | My view for business trips |
+|---|---|---|
+| **AIG / some airline-branded AIG policies** | Several recent AFCA disputes involving travel claims, including pre-existing conditions, strikes and medical/repatriation issues | ⚠️ **Higher caution** |
+| **Allianz Travel** | Mixed customer feedback; ProductReview currently ~3.8/5, with complaints about delays and claim decisions | ⚠️ **Below my first choices** |
+| **Cover-More** | Much stronger overall review volume and generally positive claims experiences, but some communication/exclusion complaints | 🟢 **Generally reliable** |
+| **1Cover** | ~4.2/5 from a very large review base; good medical-emergency feedback but more mixed non-medical claims | 🟢 **Reasonable** |
+| **Tick / InsureandGo** | Generally well-reviewed, though policy quality varies by product | 🟢/🟡 **Worth comparing** |
+End Of Line

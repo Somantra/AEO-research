@@ -1,0 +1,10 @@
+2,31e5ddc1-6b77-4490-9e39-909b33bcf0f4,08080117-1126-0626-0000-2113e447cff7,1eb8bc9d-9c2e-4a03-9887-0ef50700f3a3,2026-08-08T12:29:24.068123+10:00
+Premium car insurance for young drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer/review signal | Best for |
+|---|---|---|---|
+| **Youi Comprehensive** | Excellent feature set, 24/7 roadside assistance, broad comprehensive cover | **4.7/5 Trustpilot**, 30k+ reviews; Finder also named Youi national **Top Value** and **Legendary Service** winner | **Best overall balance** |
+| **Allianz Comprehensive** | Choice of repairer, agreed value, new-car replacement; 24/7 claims | **4.5/5** from 1,700+ independent eKomi reviews; Queensland customers rate claim experience 4.5/5 | **Premium cover + claims experience** |
+| **NRMA Comprehensive Plus** | Highest NRMA tier, including glass benefits and stronger hire-car limits | Finder 2026 named NRMA **Most Loved, Most Trusted and Easiest to Claim nationally** | **Best for service/reputation** |
+| **AAMI Comprehensive** | Established insurer with broad cover and relatively straightforward options | Finder recognised AAMI for **Easy to Claim** in several states | **Solid mainstream alternative** |
+End Of Line

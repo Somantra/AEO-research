@@ -1,0 +1,11 @@
+2,21a77f6a-2e6d-42c9-b1c4-d99559c280e2,08080122-1126-0626-0000-968dd5ef4e0c,71d9e91b-dfd4-4152-8deb-d278bbbf9779,2026-08-08T12:43:00.579883+10:00
+Premium motorcycle insurance for commuters in Australia compared to other providers
+Tables found: 1
+| Provider | Commuter suitability | Standout features | Main drawback |
+|---|---|---|---|
+| **QBE** | ⭐⭐⭐⭐⭐ | Comprehensive cover, agreed or market value, up to $4,000 motorcycle apparel, up to $30m liability, emergency transport/accommodation | No roadside assistance option; no choice of repairer |
+| **Youi** | ⭐⭐⭐⭐⭐ | Strong overall cover, motorcycle gear and roadside assistance included, good service reputation | You need to call for a quote; no choice of repairer |
+| **NRMA** | ⭐⭐⭐⭐½ | Broad comprehensive cover, emergency repairs, new-for-new replacement on qualifying newer bikes, up to $20m liability | Gear/roadside features may require extras or aren't included |
+| **Budget Direct** | ⭐⭐⭐⭐ | Often competitive pricing, flexible comprehensive cover | Check the exact PDS carefully for commuter-specific benefits |
+| **National Motorcycle Insurance** | ⭐⭐⭐⭐ | Motorcycle-focused insurer and strong feature set | Pricing can vary considerably by rider/bike |
+End Of Line

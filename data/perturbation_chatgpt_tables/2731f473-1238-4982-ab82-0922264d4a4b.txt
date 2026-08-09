@@ -1,0 +1,12 @@
+2,353cb0d1-4368-4323-8012-b8bc0d47bb2a,08080117-1126-0626-0000-32e0bac00f2f,2731f473-1238-4982-ab82-0922264d4a4b,2026-08-08T12:30:57.140478+10:00
+Worst car insurance for older drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction | Why I'd be cautious |
+|---|---|---|
+| **RACV** | 64% above average/excellent | Particularly relevant in Victoria; satisfaction was well below the national leaders. |
+| **AAMI** | 62% | Strongly established, but customer satisfaction was relatively weak. |
+| **Budget Direct** | 62% | Often competitive on price, but satisfaction lagged the leaders. |
+| **Allianz** | 61% | Lowest score in the CHOICE survey among the insurers listed. |
+| **Suncorp** | 68% | Around average rather than outstanding. |
+| **Apia** | 68% | Specifically marketed toward mature Australians, but its satisfaction score wasn't exceptional. |
+End Of Line

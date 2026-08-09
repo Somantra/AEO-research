@@ -1,0 +1,10 @@
+2,63d8a544-05a4-4c0f-9969-c3c6721006d4,08080138-1126-0626-0000-f5a0756e6493,877c080f-6cfe-4dcf-8515-658a11276913,2026-08-08T13:20:53.775620+10:00
+Best pet insurance for cats in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Why I’d consider it |
+|---|---|---|
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | ⭐ **~10 min with GapOnly** | Best for minimising upfront vet costs; eligible claims can be settled while you're at the vet. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com)[www.knose.com.au](https://www.knose.com.au/?utm_source=chatgpt.com) |
+| **[Petsy](https://petsy.com.au/)** | ⭐ **Usually 5 business days; sometimes same day** | Very strong claims experience, online/vet submission, and direct-to-vet payment option. [petsy.com.au](https://petsy.com.au/faq-support-self-help/?utm_source=chatgpt.com) |
+| **[Knose](https://www.knose.com.au/)** | **Most settled within 5 working days** | No sub-limits, up to 90% reimbursement, and flexible cover. [www.knose.com.au](https://www.knose.com.au/?utm_source=chatgpt.com) |
+| **[Bow Wow Meow](https://bowwow.com.au/)** | **Fast with GapOnly** | Up to $30k annual benefit and up to 90% back; GapOnly can substantially reduce the upfront bill. [bowwow.com.au](https://bowwow.com.au/about-us/?utm_source=chatgpt.com) |
+End Of Line

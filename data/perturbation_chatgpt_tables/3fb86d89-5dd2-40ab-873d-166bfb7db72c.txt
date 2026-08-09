@@ -1,0 +1,11 @@
+2,1dc96dda-78b5-40db-98ae-32b81a60cc14,08080139-1126-0626-0000-d76f7024128d,3fb86d89-5dd2-40ab-873d-166bfb7db72c,2026-08-08T13:24:12.884863+10:00
+Most affordable pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing condition approach | Relative affordability | My take |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | **Best flexibility** — some temporary pre-existing conditions can become eligible after **18 months symptom-free**; chronic conditions remain excluded | $$ | ⭐ **Best choice if your condition may be temporary** |
+| **Budget Direct** | Doesn't cover pre-existing conditions, but a fully cured condition may cease to be excluded after **12 months** symptom/treatment-free, subject to exclusions | $ | ⭐ **Good budget option** |
+| **Knose** | Pre-existing conditions generally excluded; short waiting periods for new illnesses | $$ | Good overall value, but not a solution for an existing chronic condition |
+| **PetSure-backed policies** (various brands) | Pre-existing conditions generally excluded; exact rules vary by product | $–$$ | Worth price-comparing because products can differ substantially |
+| **Trupanion** | Pre-existing conditions excluded | $$$ | Excellent for future unexpected/chronic conditions, **not good for an existing condition** |
+End Of Line

@@ -1,0 +1,11 @@
+1,40de6bf8-3ea3-4fb0-95e8-9b972852237e,08080119-1126-0626-0000-ef9b6e680f37,cb6c426c-2d86-433b-8fd9-a09149960525,2026-08-08T12:34:38.796101+10:00
+Most trusted motorcycle insurance for learner riders in Australia
+Tables found: 1
+| Insurer | Learners covered? | Why I’d consider it |
+|---|---|---|
+| **QBE** | ✅ Yes | Strong learner-specific offering; approved rider-training courses; comprehensive cover available. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com)[www.gio.com.au](https://www.gio.com.au/faqs/ctp-insurance.html?utm_source=chatgpt.com) |
+| **Youi** | ✅ Yes | Explicitly covers learners with a valid licence; Comprehensive, Third Party Fire & Theft and Third Party options. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?product=motorcycle&utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/motorcycle-insurance?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **Budget Direct** | ✅ Yes | Competitive/value-oriented; learners can be listed, but inexperienced-rider excesses can be significant. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/faqs/buying-motorcycle-insurance.html?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/compare-policies.html?utm_source=chatgpt.com) |
+| **AAMI** | Check quote | Comprehensive includes damage, theft/fire and up to $20m third-party property liability; authorised repairs have a lifetime guarantee. [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **RACV** | ✅ Yes | Particularly worth checking in Victoria; comprehensive includes up to $2,000 for damaged riding gear. [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) |
+End Of Line

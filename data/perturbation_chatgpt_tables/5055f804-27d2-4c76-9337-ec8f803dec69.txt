@@ -1,0 +1,11 @@
+2,4607e372-4cfc-48d5-b9c3-60e7319bf3a5,08080125-1126-0626-0000-0565395a7a59,5055f804-27d2-4c76-9337-ec8f803dec69,2026-08-08T12:49:44.600989+10:00
+Least reliable home insurance for renters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Claims convenience | My take |
+|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐½ | 24/7 claims, online tracking | **Best overall for NSW** |
+| **QBE** | ⭐⭐⭐⭐ | 24/7 claims line + dedicated claims officer | **Very good alternative** |
+| **AAMI** | ⭐⭐⭐½ | Online/app claims + dedicated claims manager | Good, but not top-rated |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Excellent claims reputation | Excellent, but mainly relevant if you're in QLD |
+| **Allianz** | ⭐⭐½ | Online claims | **I wouldn't prioritise it if fast claims are your main concern** |
+End Of Line

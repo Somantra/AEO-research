@@ -1,0 +1,13 @@
+2,e010a45e-5bdb-4e4b-a961-9c781ea843b8,08080130-1126-0626-0000-f5d119136b3a,5bd6d936-5bb6-4e60-a102-0191e7e16efa,2026-08-08T13:02:02.373859+10:00
+Cheapest roadside assistance for interstate travel in Australia compared to other providers
+Tables found: 1
+| Provider | Annual price | Interstate cover | Call-outs | Key limitation |
+|---|---:|---|---|---|
+| **RACQ Everyday Lite** | **from $80** | ✅ Australia-wide | Unlimited* | Cheapest, but basic cover |
+| **Budget Direct** | **$89.95** ($76.46 first year online) | ✅ Nationwide | Unlimited* | Towing generally limited to 20 km |
+| **AAMI** | **up to ~$86** | ✅ Australia-wide | Unlimited* | Basic cover |
+| **Suncorp** | **from ~$95** | ✅ Australia-wide | Unlimited* | Basic towing limits |
+| **NRMA Everyday Care** | $137–$139 | ✅ Australia-wide | Unlimited | Better motoring-club network |
+| **RACV Roadside Care** | $138 | ✅ Australia-wide via reciprocal arrangements | Unlimited | 20 km metro towing |
+| **RAC WA Standard** | $128 | ✅ Australia-wide arrangements | Unlimited | Best suited to WA members |
+End Of Line

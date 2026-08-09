@@ -1,0 +1,10 @@
+2,baa01184-0102-4ea9-88bf-7a93be283a34,08080141-1126-0626-0000-a912097148b1,42bad8a6-8eda-454f-b6d5-081af621837c,2026-08-08T13:27:31.076745+10:00
+Cheapest accident-only pet insurance in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. monthly cost | Best for | Notes |
+|---|---:|---|---|
+| PetsOnMe Accident Plan | From around **$15–$20/month** (varies) | Lowest-cost cover | Accident-only cover with a benefit limit; check current quote. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+| PD Insurance Accident Plan | From around **$15–$20/month** (varies) | Budget dog/cat cover | Accident-only option; promotional discounts may apply. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+| Ruff n Tumble | **$40/month** | Simple dog-only accident cover | Flat monthly pricing; covers dogs of any age/breed according to its advertised plan. [ruffntumble.com.au](https://ruffntumble.com.au/?utm_source=chatgpt.com) |
+| 9 Lives Insurance | **$30/month** | Simple cat-only accident cover | Flat monthly pricing for accident cover. [9livesinsurance.com.au](https://9livesinsurance.com.au/?utm_source=chatgpt.com) |
+End Of Line

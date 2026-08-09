@@ -1,0 +1,8 @@
+2,b46dd4db-6383-4584-83b3-9afebc64de3c,08080129-1126-0626-0000-93a72767e160,6cab8c7a-a329-4680-9816-06ca326d7fd5,2026-08-08T13:00:10.708970+10:00
+Worst roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Common complaints reported | Monthly-payment note |
+|---|---|---|
+| Allianz Australia Roadside Assistance | Some customers report long waits, poor communication, and issues getting payment/membership records recognised. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/allianz-roadside-assistance?utm_source=chatgpt.com) | Often sold as an add-on or subscription-style service depending on channel. |
+| NRMA Roadside Assistance | Generally well reviewed, but some reviewers complain about contract rigidity, cancellation difficulties, and pricing disputes. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) | Monthly pricing is available on some plans (for example, comparison sites list plans from around monthly rates). [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

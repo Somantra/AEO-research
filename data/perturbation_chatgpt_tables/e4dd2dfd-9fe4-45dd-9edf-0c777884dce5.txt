@@ -1,0 +1,11 @@
+2,17f47e17-c159-4c24-a510-814edc8db948,08080119-1126-0626-0000-bd5ef2a20911,e4dd2dfd-9fe4-45dd-9edf-0c777884dce5,2026-08-08T12:35:41.011135+10:00
+Premium comprehensive car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Strengths | Potential drawbacks | Best for |
+|---|---|---|---|
+| **Allianz Comprehensive** | Choice of repairer, agreed value, new-car replacement, weather/flood/fire/theft, towing, emergency accommodation | May not be cheapest | **Strong all-round premium cover** |
+| **NRMA Comprehensive** | Established insurer, comprehensive cover, WA-specific offering, online discount | Need to check exact PDS/excess options | **Mainstream comprehensive cover** |
+| **Budget Direct Comprehensive** | Often price-competitive; online discount; broad comprehensive cover | More price-focused than “premium service” positioning | **Value for money** |
+| **AAMI Comprehensive** | Strong mainstream option and extensive claims/repair network | Premium can vary considerably by driver/location | **Good balance of service and cover** |
+| **Youi Comprehensive** | Highly personalised pricing and underwriting | Quote can be expensive for some drivers | **Drivers with a profile Youi prices favourably** |
+End Of Line

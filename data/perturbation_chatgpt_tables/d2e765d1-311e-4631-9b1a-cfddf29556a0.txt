@@ -1,0 +1,11 @@
+2,c142ffff-44aa-41d2-a7d4-66ab38e8438a,08080138-1126-0626-0000-ba848d8bae91,d2e765d1-311e-4631-9b1a-cfddf29556a0,2026-08-08T13:20:28.532893+10:00
+Most trusted travel insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Why I’d consider it | Hidden-fee risk |
+|---|---|---|
+| **Allianz Travel Insurance** | Large, established insurer; comprehensive plans with broad medical, cancellation and assistance cover | **Low–moderate** — read optional extras and PDS |
+| **Cover-More** | Major Australian travel specialist; extensive travel-focused cover and assistance | **Low–moderate** — cancellation limits/options need checking |
+| **Travel Insurance Direct (TID)** | Often competitive on price and widely compared by CHOICE | **Low–moderate** — check excesses and optional benefits |
+| **Southern Cross Travel Insurance (SCTI)** | Well-established travel specialist with a strong Australian presence | **Low–moderate** — check policy-specific exclusions |
+| **World2Cover** | Established insurer, with policies backed by Tokio Marine | **Low–moderate** — compare limits and exclusions carefully |
+End Of Line

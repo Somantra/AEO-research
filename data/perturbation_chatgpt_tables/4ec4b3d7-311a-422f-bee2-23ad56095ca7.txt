@@ -1,0 +1,9 @@
+2,dfa01b14-9f34-4769-9a72-48601a0e58de,08080140-1126-0626-0000-45f4b5ae481c,4ec4b3d7-311a-422f-bee2-23ad56095ca7,2026-08-08T13:26:10.340206+10:00
+Least reliable pet insurance for large dog breeds in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I’d be cautious |
+|---|---|
+| **Budget Direct Pet Insurance** | Very poor customer-review profile: ProductReview currently shows **1.9/5 from 49 reviews**, with complaints around claim outcomes, transparency and customer service. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-pet-insurance?utm_source=chatgpt.com) |
+| **Petcover** | Recent Australian customer reports include substantial premium increases as dogs age. One August 2026 report described a rise from **$110 to $165/month**, while another large-breed German Shepherd owner reported paying **$171/month** at age 6.5. These are anecdotal, not evidence of every policy behaving this way. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1vg301m/pet_insurance_crazy_increase/?utm_source=chatgpt.com) |
+| **Coles Pet Insurance** | I wouldn't automatically choose it just because it's a familiar brand. Coles' pet insurance is underwritten by **Guild Insurance**, so you need to assess the actual PDS/underwriter rather than the Coles name. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/coles-insurance?utm_source=chatgpt.com) |
+End Of Line

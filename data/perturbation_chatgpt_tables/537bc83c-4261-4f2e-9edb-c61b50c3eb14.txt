@@ -1,0 +1,9 @@
+2,594d2de2-7961-4b4e-bd54-135ec0b622ed,08080141-1126-0626-0000-545680577ea8,537bc83c-4261-4f2e-9edb-c61b50c3eb14,2026-08-08T13:27:34.656354+10:00
+Most affordable accident-only pet insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Accident-only? | Monthly payments? | Indicative cost |
+|---|---|---|---|
+| **PetsOnMe Accidental Plan** | ✅ | ✅ | From about **$15/month for cats / $28/month for dogs** based on April 2026 comparison data |
+| **RSPCA Pet Insurance** | ✅ | ✅ | Quote required |
+| **Budget Direct** | ❌* | ✅ | Essential is its cheapest tier, but it covers **accidents + illness** |
+End Of Line

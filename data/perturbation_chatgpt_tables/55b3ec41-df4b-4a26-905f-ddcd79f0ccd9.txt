@@ -1,0 +1,10 @@
+2,11177066-f328-40c6-94c7-b729da09eb83,08080117-1126-0626-0000-ade7a0018615,55b3ec41-df4b-4a26-905f-ddcd79f0ccd9,2026-08-08T12:28:57.310467+10:00
+Least reliable car insurance for young drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I'd be cautious | Online quote? |
+|---|---|---|
+| **Budget Direct** | CHOICE found only **52%** of customers who made a car claim rated the claims experience above average/excellent — the lowest result in its survey. It is also facing ASIC court action over allegedly removed online-purchase discounts, although affected customers have reportedly been compensated. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | **Yes** |
+| **Allianz** | CHOICE's survey put Allianz at **61%** above-average/excellent customer satisfaction, the lowest overall among the insurers surveyed. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) | **Yes** |
+| **AAMI** | Overall customer satisfaction was **62%** in CHOICE's survey. There are also mixed recent customer reports about claims handling. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) | **Yes** |
+| **Youi** | Not actually one I'd label “unreliable”: CHOICE had Youi at **77%** satisfaction, but recent Australian users report frustration with lengthy phone-based quoting and high quotes. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | **Not reliably instant** |
+End Of Line

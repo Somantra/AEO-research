@@ -1,0 +1,10 @@
+2,34b20042-0420-4184-9e5a-9bd3baaeb474,08080126-1126-0626-0000-61d1d9a15382,cc3f03b3-5716-40e8-8e9d-80f25bdd55e3,2026-08-08T12:51:48.843067+10:00
+Most reliable home insurance for new builds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | New-build suitability | My take |
+|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best overall** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Excellent, especially QLD |
+| **Suncorp** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐⭐ | Excellent for a new/high-value home |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐½ | Strong digital claims process |
+End Of Line

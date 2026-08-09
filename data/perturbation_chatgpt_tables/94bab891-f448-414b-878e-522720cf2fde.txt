@@ -1,0 +1,11 @@
+1,d2b18d73-f15e-4008-b226-0df7a205745d,08080125-1126-0626-0000-f389c4fc452b,94bab891-f448-414b-878e-522720cf2fde,2026-08-08T12:49:48.465707+10:00
+Worst home insurance for flood-prone areas in Australia
+Tables found: 1
+| Insurer | Flood-prone property concern |
+|---|---|
+| **Budget Direct** | Flood is **optional**, rather than automatically included. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/flood-insurance.html?utm_source=chatgpt.com) |
+| **Youi** | Can be competitive, but pricing is highly address/risk dependent; don't assume a low quote means broad flood protection. |
+| **AAMI / Suncorp brands** | Can produce very large premiums in high-risk locations, so they're worth comparing rather than assuming they're good value. |
+| **NRMA** | Often worth quoting, but flood pricing can vary dramatically by exact address. |
+| **Allianz** | Actually relatively interesting for flood risk: flood is standard on new Allianz home policies from 14 January 2025, subject to conditions. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-insurance-comparison.html?utm_source=chatgpt.com) |
+End Of Line

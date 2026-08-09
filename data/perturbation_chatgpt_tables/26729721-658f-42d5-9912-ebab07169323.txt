@@ -1,0 +1,10 @@
+2,bba775f8-8070-4a4d-95e0-ff19988764ed,08080126-1126-0626-0000-8a9e6dedbca8,26729721-658f-42d5-9912-ebab07169323,2026-08-08T12:51:05.379013+10:00
+Safest home insurance for landlords in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Watch-outs |
+|---|---|---|
+| **Suncorp Landlord Insurance** | Strong all-round cover: flood, storm, fire, theft, malicious damage, loss of rent and tenant-default cover are available. Legal liability is up to $20m. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/home/landlord.html?utm_source=chatgpt.com) | Some benefits have limits; tenant-default cover has a waiting/unpaid-rent limitation. |
+| **Allianz Landlord Insurance** | Clear landlord-specific product with building/contents options and loss of rent following an insured event. Optional rent-default cover can provide up to 15 weeks' lost rent. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/rent-default.html?utm_source=chatgpt.com) | Rent-default protection is an **additional-cost option**, so don't assume it's included. |
+| **NRMA Landlord Insurance** | Established insurer with dedicated landlord cover and published PDS plus Premium, Excess & Discounts Guide—useful for checking costs before buying. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/landlord-insurance?utm_source=chatgpt.com) | Exact cover and pricing depend heavily on the property and state. |
+| **Youi Landlord Insurance** | Flexible excess and specifically marketed as landlord insurance; it has also received recent landlord-insurance/customer awards. [www.youi.com.au](https://www.youi.com.au/home-insurance/landlord?utm_source=chatgpt.com) | You need to scrutinise the quote/PDS for the particular property rather than relying on the headline features. |
+End Of Line

@@ -1,0 +1,10 @@
+2,13385ad7-9588-42ac-af12-ba9893bf8b5b,08080124-1126-0626-0000-a032d2182d32,d95aae46-01ee-4fef-8d82-1061d62d990d,2026-08-08T12:47:03.950406+10:00
+Premium motorcycle insurance for custom bikes in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Custom-bike suitability | Customer reviews | My take |
+|---|---|---|---|
+| **[Shannons Motorcycle Insurance](https://www.shannons.com.au/motorcycle-insurance.html)** | ⭐⭐⭐⭐⭐ | Mixed | **Best specialist option** |
+| **[Youi Motorcycle Insurance](https://www.youi.com.au/motorcycle-insurance)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Best balance of reviews/service |
+| **QBE Motorcycle Insurance** | ⭐⭐⭐ | ⭐⭐½ | Worth quoting, especially for moderately modified bikes |
+| **NRMA Motorcycle Insurance** | ⭐⭐⭐ | — | Good mainstream alternative |
+End Of Line

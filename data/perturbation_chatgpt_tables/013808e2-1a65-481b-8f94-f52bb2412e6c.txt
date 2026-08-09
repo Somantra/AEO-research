@@ -1,0 +1,9 @@
+2,88dd8f8a-9575-4100-a5ab-5ed15c97d3e2,08080136-1126-0626-0000-534bad425563,013808e2-1a65-481b-8f94-f52bb2412e6c,2026-08-08T13:16:53.649430+10:00
+Worst travel insurance for pre-existing medical conditions in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why some travellers may consider them risky for pre-existing conditions | Customer review reputation |
+|---|---|---|
+| AIG Australia | A recent case involved a disputed claim where the insurer relied on a pre-existing condition exclusion; individual disputes do not prove a general pattern, but it highlights the importance of medical disclosure and wording. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | Large insurer; reviews vary widely by product and claim experience |
+| Allianz Australia | Mainstream insurer with broad policies, but some travellers with complex conditions report that acceptance and exclusions require careful checking. | Generally well-known; customer sentiment depends heavily on claims experience |
+| Qantas Insurance | Convenient for travellers but medical-condition coverage depends on underwriting and policy wording rather than brand reputation. | Often receives strong service-related feedback, but medical claim outcomes are the important test |
+End Of Line

@@ -1,0 +1,9 @@
+2,e79bd485-e91e-4856-9130-75f44bd117a7,08080118-1126-0626-0000-4d2a62aa2464,e5796372-511c-407a-821d-e81aa03d5e29,2026-08-08T12:33:15.769027+10:00
+Most reliable car insurance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it for an EV | Fee/coverage watch-outs |
+|---|---|---|
+| **1. Allianz** | Excellent EV-specific cover: battery, charging cables and owned home wall charger; specifically covers battery thermal runaway; EV-certified repairers; agreed value. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) | Check excess, payment method/instalment costs and optional extras in the quote/PDS. |
+| **2. Youi** | Strong EV roadside assistance, including getting you to the nearest charging station; comprehensive policies include roadside assistance. [www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) | **Not truly fee-free:** roadside terms can involve additional fees, including a possible charging-station fee. Cancellation after cooling-off has a $30 fee. [www.youi.com.au](https://www.youi.com.au/car-insurance/roadside-assistance?src1=233618&utm_source=chatgpt.com) |
+| **3. NRMA Insurance** | Good established option; EVs are accepted under standard policies, portable charging cables are covered, and authorised repairs have a lifetime workmanship guarantee. [www.youi.com.au](https://www.youi.com.au/car-insurance/roadside-assistance?src1=233618&utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) | Wall-mounted home chargers aren't covered by the car policy. Check exactly which EV-related damage is covered in your PDS. |
+End Of Line

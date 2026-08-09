@@ -1,0 +1,11 @@
+2,ebdda64f-99a0-48a4-a2bf-a0957b35bc38,08080138-1126-0626-0000-73ddd483effb,78dfb81c-359d-4a5b-b0cd-97a5347ad8e7,2026-08-08T13:21:25.403669+10:00
+Most popular pet insurance for cats in Australia without hidden fees
+Tables found: 1
+| Insurer | Why it stands out | Annual limit | Excess | Sub-limits |
+|---|---|---:|---:|---|
+| **Knose** | ⭐ Best fit for “no hidden fees” | Up to $25k | $0/$100/$200 | **None** |
+| **Petsy** | ⭐ Strong value & flexible | Up to $25k/$30k for young pets | $0–$500 | **None** |
+| **RSPCA Pet Insurance** | ⭐ Straightforward, backed by RSPCA | Up to $35k | $0–$500 | **None** |
+| **Fetch** | ⭐ Very comprehensive | $30k | Options including $0 | **None** |
+| **Bow Wow Meow** | ⭐ Very established/popular | Up to $30k | $0/$250/$500 depending on plan | **None** |
+End Of Line

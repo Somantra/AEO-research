@@ -1,0 +1,11 @@
+2,3db90a2a-f136-42b2-99a2-28ddb4906d7e,08080119-1126-0626-0000-ca004a9d3c28,1c89f00a-ec98-4e28-8925-a5e372b700f8,2026-08-08T12:36:21.424245+10:00
+Easiest third-party car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Ease / claims | Customer satisfaction | My take |
+|---|---|---:|---|
+| **NRMA** | ⭐⭐⭐⭐⭐ | 72% | **Best overall for simplicity** |
+| **Youi** | ⭐⭐⭐⭐⭐ | 77% | Excellent service, but quote can be expensive |
+| **GIO** | ⭐⭐⭐⭐½ | 75% | Very good balance of service/value |
+| **AAMI** | ⭐⭐⭐⭐ | 62% | Simple, mainstream option |
+| **Budget Direct** | ⭐⭐⭐ | 62% | Often cheap, but I'd prioritise others for claims |
+End Of Line

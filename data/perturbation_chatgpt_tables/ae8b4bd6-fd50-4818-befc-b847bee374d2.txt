@@ -1,0 +1,11 @@
+2,6e8f84f1-b1e1-48e4-8b1a-340abec630fb,08080121-1126-0626-0000-5ac940b2701a,ae8b4bd6-fd50-4818-befc-b847bee374d2,2026-08-08T12:40:53.337839+10:00
+Premium motorcycle insurance for scooters in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Notable features |
+|---|---|---|
+| **QBE** | Best overall balance | Comprehensive cover, agreed/market value, up to **$4,000 motorcycle apparel**, $30m liability, 2-year new-bike replacement [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Price-conscious riders | Specifically offers scooter insurance; 2-year new-scooter replacement, market/agreed value, lifetime repair guarantee, optional choice of repairer [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/scooter-insurance.html?utm_source=chatgpt.com) |
+| **AAMI** | Strong mainstream cover | Covers scooters, comprehensive theft/accidental damage, $20m liability, riding apparel, emergency expenses and lifetime repair guarantee [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance/comprehensive?utm_source=chatgpt.com) |
+| **NRMA** | Competitive pricing | Comprehensive cover includes theft, collision, flood/storm/fire, $20m liability and 2-year new-bike replacement [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) |
+| **Yamaha Insurance** | **Yamaha scooters** | Particularly attractive for new Yamaha owners: up to **3-year replacement**, genuine Yamaha parts, lifetime authorised-repair guarantee and up to $3,000 riding gear [www.yamaha-motor.com.au](https://www.yamaha-motor.com.au/buying/finance-and-insurance/Finance-and-Insurance-Pages/Yamaha-Motor-Insurance/Motorcycle-Road-Content?utm_source=chatgpt.com) |
+End Of Line

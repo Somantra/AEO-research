@@ -1,0 +1,10 @@
+1,b9e65a71-a197-452c-b1bd-c5dde16cbe2c,08080119-1126-0626-0000-6511adeee459,12316267-5988-4fa1-92ac-77a440794159,2026-08-08T12:34:32.779268+10:00
+Safest motorcycle insurance for learner riders in Australia
+Tables found: 1
+| Insurer | Learners covered? | Why I’d consider it |
+|---|---|---|
+| **QBE** | **Yes** | Strong all-round comprehensive cover; up to **$4,000 motorcycle apparel**, up to **$30m liability**, agreed/market value, and new-bike replacement benefits. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | **Yes** | Learner riders are explicitly covered if they hold a valid licence; comprehensive includes **24/7 roadside assistance**, accident/theft/fire cover and up to **$20m liability**. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?product=motorcycle&utm_source=chatgpt.com) |
+| **Shannons** | **Yes, subject to policy conditions** | Motorcycle policies have specific learner-rider provisions; worth quoting if your bike is enthusiast/modified oriented. [www.shannons.com.au](https://www.shannons.com.au/content/dam/suncorp/insurance/shannons/documents/policy-documents/car/Shannons_Motor_Insurance_Product_Disclosure_Statement_Insurance.pdf?utm_source=chatgpt.com) |
+| **NRMA** | Check motorcycle policy/quote | NRMA offers comprehensive motorcycle insurance, but its publicly available learner information is much clearer for **cars** than motorcycles, so I'd confirm the motorcycle policy wording before buying. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/learner-driver-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+1,0ae65a10-8a5d-4232-b7e4-9b46616a72f7,08080136-1126-0626-0000-d6e655aa0833,2c60f1fe-36b5-4fa6-96e2-7bff1f185b82,2026-08-08T13:16:54.049455+10:00
+Worst pet insurance for large dog breeds in Australia
+Tables found: 1
+| Insurer/policy type | Why I'd be cautious for a large dog |
+|---|---|
+| **Petcover lower-tier/Safety Net policies** | Some plans have substantial condition-specific limits. For example, Petcover lists hip dysplasia at up to **$4,000/year**, cancer up to **$5,000**, and skin conditions up to **$500** on certain plans. Its Safety Net Economy product specifically doesn't target cover for hip dysplasia, cruciate, patella luxation, OCD, cancer or skin conditions. [www.petcovergroup.com](https://www.petcovergroup.com/au/dog-insurance/dog-insurance-plans/?utm_source=chatgpt.com) |
+| **Any accident-only policy** | Poor fit if you're worried about the conditions large breeds are predisposed to, because many of the expensive problems are illnesses rather than accidents. |
+| **Policies with short-term/per-condition limits** | A $20k–$30k annual limit can look impressive but be much less useful if hip dysplasia, cruciate disease or cancer has a separate low cap. |
+| **Policies with long orthopedic waiting periods** | Particularly important for large breeds. For example, Petcover lists a **6-month waiting period for cruciate ligament benefits** on relevant plans. [www.petcovergroup.com](https://www.petcovergroup.com/au/dog-insurance/dog-insurance-plans/?utm_source=chatgpt.com) |
+| **Any policy where hip replacement is excluded** | This is a major red flag if you're insuring a Labrador, German Shepherd, Rottweiler, Golden Retriever, Ridgeback, etc. Pet Insurance Australia, for example, says hip replacement is normally excluded under its policies, despite eligible hip-dysplasia treatment otherwise being covered. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+End Of Line

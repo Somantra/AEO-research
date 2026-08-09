@@ -1,0 +1,12 @@
+1,3c690736-4f2a-4f38-9663-32e18f09e075,08080123-1126-0626-0000-dd725c7e738a,a45fa307-fba0-4e60-92f5-f15e000fa880,2026-08-08T12:43:36.262124+10:00
+Most popular home insurance for renters in Australia
+Tables found: 1
+| Insurer | Best for |
+|---|---|
+| **AAMI** | Strong all-round option; dedicated renters contents cover |
+| **NRMA** | Established insurer with broad contents cover |
+| **Budget Direct** | Often competitive on price |
+| **Allianz** | Large insurer with widely available contents policies |
+| **Youi** | Worth quoting if you want personalised pricing |
+| **QBE** | Major Australian insurer with contents options |
+End Of Line

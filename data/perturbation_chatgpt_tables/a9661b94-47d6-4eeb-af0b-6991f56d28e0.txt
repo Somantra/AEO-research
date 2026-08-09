@@ -1,0 +1,12 @@
+2,dccb3607-5df2-446b-82f7-8ed96a68f66d,08080128-1126-0626-0000-7d79dc1dfde1,a9661b94-47d6-4eeb-af0b-6991f56d28e0,2026-08-08T12:58:02.790057+10:00
+Worst home insurance for first-time homeowners in Australia compared to other providers
+Tables found: 1
+| Provider | Potential concern for a first-home buyer | Compared with alternatives |
+|---|---|---|
+| **Budget Direct** | Competitive price, but you need to scrutinise optional cover and exclusions | Often attractive on price; not automatically best on coverage |
+| **Bupa / ahm basic policies** | Basic products can exclude accidental damage | Better suited if you're deliberately buying basic cover |
+| **NRMA standard** | Accidental damage may be optional depending on policy | **NRMA Plus** offers broader cover but costs more |
+| **QBE** | Generally mid-priced rather than cheapest | Stronger coverage features than some budget policies |
+| **Youi** | Usually not the cheapest | Can be attractive if you value broader cover/claims service |
+| **Cheap/basic policies generally** | Biggest risk is discovering an exclusion after something goes wrong | Often worth paying more for appropriate cover |
+End Of Line

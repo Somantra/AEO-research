@@ -1,0 +1,9 @@
+2,137c303d-1b18-4039-8f05-75dda33dd623,08080118-1126-0626-0000-8bc424791746,dcbc2d71-c1fa-41f7-8036-341b1d519e37,2026-08-08T12:32:21.238924+10:00
+Least reliable car insurance for small cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it may be less reliable for claims | Better for |
+|---|---|---|
+| Budget Direct | Lower customer ratings for claims experience in CHOICE’s 2025 survey; only 52% of surveyed claimants rated their claims experience above average or excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | Cheap premiums, older small cars where cost matters most |
+| AAMI | Mid-to-lower claim satisfaction compared with top performers in customer surveys. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Drivers prioritising brand familiarity and price |
+| Allianz Australia | Claim satisfaction has generally been below the strongest performers in some consumer surveys. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | Broad coverage options |
+End Of Line

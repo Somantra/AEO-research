@@ -1,0 +1,12 @@
+2,cd291479-cae6-4aca-8b56-97ff4ffecdb0,08080120-1126-0626-0000-8f2cd8898b5f,b177004b-4de4-49a5-8d28-b095948c60b2,2026-08-08T12:36:58.109974+10:00
+Most affordable car insurance for high-risk drivers in Australia compared to other providers
+Tables found: 1
+| Provider | Why consider it | High-risk caveat |
+|---|---|---|
+| **QBE** | Particularly worth trying if you’ve had a **licence suspension** | Finder’s April 2026 testing found QBE was one of only 2 insurers returning a quote for that profile, at about **$1,893/year** in its example. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+| **Kogan** | Another option for suspended drivers | Same Finder test produced a quote around **$2,005/year**. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Usually one of the cheapest mainstream insurers | Excellent option for ordinary high-premium drivers, but it may not accept more serious risk profiles. It won Finder's **2026 Best Value** and **Best Low Cost** awards. [www.finder.com.au](https://www.finder.com.au/car-insurance?utm_source=chatgpt.com) |
+| **Youi** | Often competitive for drivers who don't fit standard pricing well | Worth quoting individually; it also had the highest customer satisfaction among the nationally listed insurers in CHOICE's survey, at 77%. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) |
+| **AAMI** | Worth getting a quote because pricing can differ dramatically by driver | Don't assume it's cheap or expensive—actual quotes vary substantially by profile. Its 2025 CHOICE car-insurance satisfaction score was 62%. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) |
+| **Qantas / Coles** | Potentially inexpensive mainstream alternatives | Qantas is underwritten by the same insurer as Budget Direct; both can be worth adding to your quote list. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+End Of Line

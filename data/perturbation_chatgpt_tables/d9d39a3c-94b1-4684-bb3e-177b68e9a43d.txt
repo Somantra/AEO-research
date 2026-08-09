@@ -1,0 +1,12 @@
+2,1a88f351-6077-4403-bff8-246437b89b70,08080138-1126-0626-0000-35b4dad19af4,d9d39a3c-94b1-4684-bb3e-177b68e9a43d,2026-08-08T13:21:46.905189+10:00
+Worst pet insurance for dogs in Australia compared to other providers
+Tables found: 1
+| Provider/policy type | Why I’d be cautious | Better alternative |
+|---|---|---|
+| **Petcover lower-tier plans** | Some have only $5k–$10k annual limits, which can be quickly exhausted by major surgery or cancer treatment. | Higher-limit comprehensive policies |
+| **CoverMy Pet Light/Regular** | Very low annual limits ($2k/$4k), making them poor protection against large veterinary bills. | $15k–$30k+ annual cover |
+| **Petcover Catastrophe/Core** | Cheap-looking cover but relatively restrictive limits; not ideal if your purpose is comprehensive protection. | Comprehensive accident + illness |
+| **Real Insurance Classic** | $12k annual maximum but only up to **$2k per condition**, which can be a major weakness for chronic or expensive conditions. | Policies without condition-level caps |
+| **Australian Seniors Basic / similar capped plans** | $12k annual maximum and up to **$2k per condition**. | Higher-limit comprehensive cover |
+| **Coles Essential** | Designed as a lower-level product with limited illness cover rather than the strongest protection. | Coles Ultimate or a stronger comprehensive policy |
+End Of Line

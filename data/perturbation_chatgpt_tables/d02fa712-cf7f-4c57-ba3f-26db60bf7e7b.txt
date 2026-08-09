@@ -1,0 +1,10 @@
+2,a298dcb8-5b62-470f-b065-edc20cb4934b,08080128-1126-0626-0000-80aa449613d1,d02fa712-cf7f-4c57-ba3f-26db60bf7e7b,2026-08-08T12:58:02.374973+10:00
+Worst home insurance for first-time homeowners in Australia with monthly payments
+Tables found: 1
+| Insurer/type | Why first homeowners should be careful |
+|---|---|
+| **Very cheap online-only policies** | The low price can come from narrower cover, exclusions, or higher excesses. |
+| **Budget-focused policies** | Good for some buyers, but check claim limits and inclusions carefully rather than choosing only on price. |
+| **Any policy with expensive monthly instalments** | You may pay significantly more over the year; some insurers add a monthly fee or percentage loading. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/how-to-save-money-on-home-insurance?utm_source=chatgpt.com) |
+| **Policies with unclear flood/storm cover** | Important in many Australian areas because exclusions can be costly. |
+End Of Line

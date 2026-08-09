@@ -1,0 +1,10 @@
+2,91bf3f53-9cae-463e-abc9-a147563145f0,08080138-1126-0626-0000-c1db32017d4f,eccc31d2-e79b-4500-bbab-6f1e7e4b38f3,2026-08-08T13:21:53.434781+10:00
+Least reliable pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Insurer | Published claims speed | My take |
+|---|---|---|
+| **Pet Insurance Australia (PIA)** | 88% within 1 day; 98% within 5 days; GapOnly can settle in ~10 min at participating vets | 🟢 **Excellent for speed** [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | Most approved claims paid within 2 business days; Direct2Vet can give an outcome within minutes | 🟢 **Excellent for speed** [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/faqs/claims/?utm_source=chatgpt.com) |
+| **Budget Direct** | Contacts you within 2–5 business days if more info is required | 🟡 Reasonably fast, but less compelling than PIA/RSPCA [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/claims.html?utm_source=chatgpt.com) |
+| **Coles Pet Insurance** | Usually 5–10 business days once documentation is complete | 🟠 **Not my first choice if speed is crucial** [www.coles.com.au](https://www.coles.com.au/insurance/pet-insurance/make-a-claim?utm_source=chatgpt.com) |
+End Of Line

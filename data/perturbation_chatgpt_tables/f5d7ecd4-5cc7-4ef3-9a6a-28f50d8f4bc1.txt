@@ -1,0 +1,11 @@
+2,36c4402d-75d7-458d-9641-ef78adb9b68b,08080129-1126-0626-0000-c5794719efb1,f5d7ecd4-5cc7-4ef3-9a6a-28f50d8f4bc1,2026-08-08T13:00:18.227954+10:00
+Least reliable roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | EV support | My concern |
+|---|---:|---|---|
+| **NRMA** | From **$9.99/mo** | Yes | Recent Australian forum reports include complaints about response/usefulness, although NRMA has a large network. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RAC WA** | From **$11.30/mo** | Check specific EV entitlements | 24/7 attendance is concentrated in Perth and several WA centres; elsewhere availability is subject to conditions. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/compare?utm_source=chatgpt.com) |
+| **RACV** | From **$12/mo** | **Yes, explicitly** | Actually looks quite good for EVs rather than “least reliable”; EV out-of-charge towing is included. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| **RAA SA** | From **$11.25/mo** | **Yes, trained patrols** | Strong EV offering; not one I'd classify as unreliable. [www.raa.com.au](https://www.raa.com.au/motor/road-service?utm_source=chatgpt.com) |
+| **RACQ** | Annual pricing shown | **Yes, HV-aware patrols** | Also looks strong for EVs; won Canstar's 2025 Queensland customer-satisfaction award. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+End Of Line

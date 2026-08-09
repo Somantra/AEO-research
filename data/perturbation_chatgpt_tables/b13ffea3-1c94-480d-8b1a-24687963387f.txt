@@ -1,0 +1,10 @@
+2,1ba7b662-6d8d-4d51-a916-b6a0fab7f573,08080130-1126-0626-0000-3ed63dc85577,b13ffea3-1c94-480d-8b1a-24687963387f,2026-08-08T13:02:35.839815+10:00
+Easiest roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Option | Best for | Current published price* | Interstate |
+|---|---|---:|---|
+| **[NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance)** | **Best overall for NSW/ACT** | $245/yr Ultimate | Yes |
+| **[RACV Total Care](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html)** | **Long interstate trips** | $318/yr | Yes |
+| **[RACQ Ultimate Care](https://www.racq.com.au/car/roadside-assistance/ultimate-care)** | QLD-based drivers | $310/yr | Yes |
+| **[RAA Premium](https://www.raa.com.au/motor/road-service)** | SA-based drivers | $293/yr | Yes |
+End Of Line

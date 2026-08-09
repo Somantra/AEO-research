@@ -1,0 +1,10 @@
+2,0aac3136-68fe-4ea6-97cb-3cc912f4b8c2,08080140-1126-0626-0000-5484e53eb566,3de28866-7fa3-45ff-8bf9-ef8869d622c1,2026-08-08T13:26:22.101989+10:00
+Safest pet insurance for large dog breeds in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Main catch |
+|---|---|---|
+| **[Trupanion Australia](https://trupanion.com.au/)** | **Best for catastrophic/lifetime costs.** 90% reimbursement, **no annual or lifetime payout limits**, no condition sub-limits, and a per-condition excess you pay once for that condition. They can also pay participating vets directly. [trupanion.com.au](https://trupanion.com.au/pet-insurance/dog-insurance/?utm_source=chatgpt.com) | Premiums can be expensive and may rise over time; pre-existing conditions aren't covered. [trupanion.com.au](https://trupanion.com.au/get-quote/?utm_source=chatgpt.com) |
+| **[Fetch Pet Insurance Australia](https://www.fetchpet.com.au/)** | **Best balance of broad cover + transparency.** Up to $30k/year, no dollar sub-limits, and options including $0 excess/100% cover. Hereditary conditions are covered where not pre-existing. [www.fetchpet.com.au](https://www.fetchpet.com.au/?utm_source=chatgpt.com) | It is a yearly-limit policy, unlike Trupanion's unlimited lifetime approach. |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | **Strong alternative.** Current plans offer up to $35k annual cover, with a zero-excess option, and RSPCA says it doesn't impose sub-limits on covered conditions. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/rspca-member-discount/?utm_source=chatgpt.com) | You'll still need to examine the particular PDS for exclusions, waiting periods and benefit percentage. |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Flexible choices: $15k/$25k/$35k annual limits, 70/80/90% reimbursement and different excesses. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/our-pet-insurance-cover-options/?utm_source=chatgpt.com) | More moving parts means more opportunity for exclusions, limits and fees to differ by product. |
+End Of Line

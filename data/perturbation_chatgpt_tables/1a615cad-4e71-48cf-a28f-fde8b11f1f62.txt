@@ -1,0 +1,12 @@
+2,9631101a-a115-4080-83c8-fd9731e8cc74,08080140-1126-0626-0000-859d42d60810,1a615cad-4e71-48cf-a28f-fde8b11f1f62,2026-08-08T13:24:38.246973+10:00
+Safest pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing condition approach | Symptom-free review | Chronic pre-existing condition | My view |
+|---|---|---|---|---|
+| **Petcover** | Temporary exclusions can potentially be removed | **Yes — period depends on condition; can be 3–24 months** | Permanently excluded | ⭐ **Best flexibility** |
+| **Pet Insurance Australia** | Temporary conditions can become eligible again | **18 months** | Permanently excluded | ⭐ **Very strong** |
+| **Budget Direct** | Curable conditions may become covered | **12 months** | Generally excluded | 👍 Good |
+| **RACQ** | Curable conditions may become covered | **18 months** | Generally excluded | 👍 Good |
+| **Fetch** | Pre-existing conditions excluded | No comparable broad review stated | Excluded | ⚠️ Less attractive if your pet already has a condition |
+| Many other insurers | Usually exclude pre-existing conditions | Varies | Usually excluded | Depends heavily on PDS |
+End Of Line

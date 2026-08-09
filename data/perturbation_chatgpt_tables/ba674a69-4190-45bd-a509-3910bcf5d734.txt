@@ -1,0 +1,10 @@
+2,3f43d616-0f72-4739-a2c6-21872848bd4b,08080121-1126-0626-0000-0f098d0fc116,ba674a69-4190-45bd-a509-3910bcf5d734,2026-08-08T12:39:21.538486+10:00
+Least reliable motorcycle insurance for learner riders in Australia with monthly payments
+Tables found: 1
+| Insurer | Potential concerns for learner riders | Notes |
+|---|---|---|
+| Swann Insurance | Mixed claim experiences; check exclusions carefully | Some riders like them because they specialise in motorcycles, but reviews include complaints about cancellations and communication. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/swann-comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Can be cheap, but check motorcycle-specific benefits | Monthly payments are available, but cheaper premiums may come with trade-offs in cover or claims options. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/budget-direct-motorcycle-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| Youi | Learner/sport-bike quotes can be extremely high | Some learner riders report very expensive quotes, especially younger riders on performance-oriented bikes. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1vbjwgb/insurance_quotes/?utm_source=chatgpt.com) |
+| AAMI | Experiences vary; compare excess and exclusions | Some riders report poor value for certain learner profiles, though outcomes vary. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com) |
+End Of Line

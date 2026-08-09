@@ -1,0 +1,13 @@
+2,a136c020-f94e-4a50-99ca-4b56aeae678d,08080128-1126-0626-0000-563c016313d1,0454706c-a274-4966-bee3-51508388cb7b,2026-08-08T12:57:47.929422+10:00
+Cheapest home insurance for first-time homeowners in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Why consider it |
+|---|---|---|
+| **[Budget Direct](https://www.budgetdirect.com.au/home-contents-insurance.html)** | 🟢 Often very cheap | Currently offers **15% off building-only** or **30% off combined home & contents** for new online policies in year 1. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/combined.html?utm_source=chatgpt.com) |
+| **[Allianz](https://www.allianz.com.au/home-insurance.html)** | 🟢 Often competitive | CHOICE found it among the cheaper policies in several states; up to **10% off** when combining building + contents. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **[AAMI](https://www.aami.com.au/home-insurance.html)** | 🟢/🟡 Competitive | Particularly worth quoting in Queensland; CHOICE identified AAMI as the cheapest product in South Queensland in its April 2026 data. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **[QBE](https://www.qbe.com/au)** | 🟢/🟡 | Strong option to quote in Queensland, Victoria and NT; QBE was the cheapest in North Queensland in CHOICE's comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **[Westpac Home Insurance](https://www.westpac.com.au/personal-banking/insurance/home-insurance/)** | 🟢/🟡 | CHOICE found Westpac among the cheapest in NSW, ACT, Victoria and NT. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **[NRMA](https://www.nrma.com.au/home-insurance)** | 🟡 | Worth quoting, but price varies considerably by property. |
+| **[Youi](https://www.youi.com.au/home-insurance)** | 🟡/🔴 | Can be competitive for particular properties, but isn't consistently among the cheapest. |
+End Of Line

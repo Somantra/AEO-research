@@ -1,0 +1,11 @@
+2,2da72f28-3870-4e6e-be1c-0b2b795ed22f,08080119-1126-0626-0000-ac2a50b17fda,f116876f-7bba-4889-8c0e-a9c0a147aea4,2026-08-08T12:35:57.046643+10:00
+Most affordable third-party car insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why check it | Online quote |
+|---|---|---|
+| **Bingle** | Strong low-cost focus; operates online-only and offers Third Party cover | urlGet a Bingle quoteturn0search3 |
+| **Budget Direct** | Currently offering **15% off the first year** for new Third Party policies bought online | urlGet a Budget Direct quoteturn1search14 |
+| **AAMI** | Third Party Property Damage with **$20m property liability** and $20 first-year online discount | urlGet an AAMI quoteturn1search4 |
+| **Allianz** | Third Party Property Damage, up to **$20m** cover; quote and purchase online | urlGet an Allianz quoteturn1search1 |
+| **Youi** | Third Party Property Only; also offers limited protection if an uninsured driver damages your car | urlGet a Youi quoteturn1search2 |
+End Of Line

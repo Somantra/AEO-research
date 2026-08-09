@@ -1,0 +1,15 @@
+2,9051ebec-3caa-4e62-a56d-b216a0bae737,08080141-1126-0626-0000-e42af5b3aed7,3ff2727b-c1f3-4eea-9a49-e1c1410d4ffe,2026-08-08T13:27:17.218070+10:00
+Most popular pet insurance for exotic pets in Australia with monthly payments
+Tables found: 1
+| Feature | What you get |
+|---|---|
+| **Monthly payments** | ✅ Yes — monthly instalments are available |
+| **Reptiles** | ✅ Bearded dragons, geckos, skinks, goannas & more |
+| **Birds/parrots** | ✅ Parrots, cockatoos, macaws, African greys & more |
+| **Small mammals** | ✅ Rabbits, guinea pigs, ferrets, rats, mice, sugar gliders & more |
+| **Vet-fee cover** | Up to **$6,000** for birds/reptiles/turtles; up to **$4,000** for small mammals |
+| **Plans** | Value, Plus and Premier (availability varies by species) |
+| **Illness & injury** | ✅ |
+| **Third-party liability** | Up to **$1 million** |
+| **Monthly cost** | Depends on species, age and cover level; you need a quote |
+End Of Line

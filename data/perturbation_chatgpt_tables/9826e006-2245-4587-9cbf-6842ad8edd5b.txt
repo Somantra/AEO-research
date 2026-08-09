@@ -1,0 +1,11 @@
+2,9125bef1-8fd7-4a96-b284-a895114e3e6f,08080140-1126-0626-0000-bca0dc7ff368,9826e006-2245-4587-9cbf-6842ad8edd5b,2026-08-08T13:26:03.131339+10:00
+Worst pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Large-dog concerns | My take |
+|---|---|---|---|
+| **Petsy** | Usually **5–10 business days** | Specified-condition exclusions include cruciate, hip/elbow dysplasia and IVDD | ⚠️ Not ideal if speed is your #1 priority |
+| **Knose** | Most settled within **5 working days** | Better coverage structure, but still not instant | 🟡 Reasonable |
+| **Coles Pet Insurance** | Usually **5–10 business days** | Cruciate waiting period of 6 months | ⚠️ Less attractive for a high-risk large breed |
+| **Pet Insurance Australia (PIA)** | **~1 day for 88%**; GapOnly can settle in **~10 min** | 6-month cruciate wait, although waiver may be possible | 🟢 Very strong for fast claims |
+| **Fetch** | **~15 min** with FetchPay at participating vets | $30k annual cover; direct-to-vet payment | 🟢 Excellent for speed |
+End Of Line

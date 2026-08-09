@@ -1,0 +1,11 @@
+2,d9210507-238d-4826-9f38-fb7361a7d747,08080120-1126-0626-0000-0a9f0f14f975,98163cc1-3b57-4699-9d36-527fbe351e14,2026-08-08T12:38:07.048815+10:00
+Worst car insurance providers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience rated above avg/excellent | Overall customer rating | My take |
+|---|---:|---:|---|
+| **Budget Direct** | **52%** | 62% | ⚠️ Biggest red flag for claims satisfaction |
+| **AAMI** | 64% | 62% | ⚠️ Below average overall |
+| **RACV** | 66% | 64% | ⚠️ Middling claims experience |
+| **Allianz** | 69% | **61%** | ⚠️ Lowest overall customer score |
+| **APIA** | 70% | 68% | 🟡 Average-ish |
+End Of Line

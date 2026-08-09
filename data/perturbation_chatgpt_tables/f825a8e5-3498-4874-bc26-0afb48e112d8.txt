@@ -1,0 +1,10 @@
+2,73572b7c-109d-4cc1-bf2c-5c2a008e76f2,08080139-1126-0626-0000-8623005180c6,f825a8e5-3498-4874-bc26-0afb48e112d8,2026-08-08T13:24:12.516325+10:00
+Most affordable pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Provider | Pre-existing conditions | Claims speed | My take |
+|---|---|---|---|
+| **Petsy** | Generally excluded; offers an upfront pre-existing-condition assessment | Usually **5–10 business days**, sometimes faster | ⭐ **Best balance** |
+| **Fetch** | Excluded, but checks medical history upfront | **~15 min** through FetchPay at participating vets | ⭐ **Best for instant claims** |
+| **GapOnly policies** | Chronic pre-existing conditions generally excluded | About **5 min at participating vets** | ⭐ **Best for minimising upfront payment** |
+| **Knose** | Pre-existing conditions excluded | Most claims settled within **5 working days** | ⭐ **Good fast-claim alternative** |
+End Of Line

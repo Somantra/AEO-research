@@ -1,0 +1,11 @@
+2,54bc385a-bc0f-4d91-8f1d-b317e97c9beb,08080132-1126-0626-0000-46d2720a856e,a9b4705b-8873-460c-95ce-6ff32120aa8b,2026-08-08T13:08:02.913788+10:00
+Most popular roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly price | Best for |
+|---|---:|---|
+| **RACV** | **$12–$27/month** | Victoria / Melbourne |
+| **RAC** | **$11.30–$36.21/month** | Western Australia |
+| **NRMA** | From about **$27.49/month** for Ultimate | NSW / ACT |
+| **RAA** | **$11.25–$24.49/month** | South Australia |
+| **RACQ** | Monthly options available | Queensland |
+End Of Line

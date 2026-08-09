@@ -1,0 +1,11 @@
+2,3a39c1fd-b0a6-4ab9-be14-23383c2e543a,08080130-1126-0626-0000-266d027fb916,1e7f63a1-9d19-4817-a829-7e7781d0a1a6,2026-08-08T13:01:02.081690+10:00
+Cheapest roadside assistance for motorcycles in Australia compared to other providers
+Tables found: 1
+| Provider | Approx. annual cost | Motorcycle-specific? | Key inclusions | Best for |
+|---|---:|---|---|---|
+| Motorcycle Assist Australia (MCAA) | From **$59/year** (Standard) | ✅ Yes | 24/7 cover, motorcycle recovery, 2 call-outs, towing limits vary by plan | **Cheapest dedicated motorcycle option** [mymcaa.com.au](https://mymcaa.com.au/home/?utm_source=chatgpt.com) |
+| Rider Support Australia | Around **$120/year** for premium-style cover | ✅ Yes | Motorcycle-focused assistance | Riders wanting specialist cover [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1v4amh2/motorcycle_roadside_assistance/?utm_source=chatgpt.com) |
+| NRMA | Around **$137/year** for Everyday Care (varies) | ⚠️ General vehicle cover | Large network, unlimited call-outs, towing benefits | Reliability/network, especially NSW [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| Budget Direct | About **$90/year** (often less with promotions) | ⚠️ General vehicle cover | 24/7 roadside assistance, towing and basic breakdown help | Cheapest mainstream provider [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia.html?utm_source=chatgpt.com) |
+| State motoring clubs (RACV, RACQ, RAC, RAA etc.) | Roughly $100–$150+ basic plans | ⚠️ Usually vehicle-based | Strong local networks and extras | Riders wanting club benefits [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com)[mymcaa.com.au](https://mymcaa.com.au/home/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,24ac8e5e-e032-48aa-bd0b-ad70a495065b,08080120-1126-0626-0000-c292aa0a8c3d,d9a22859-c40d-4c0f-90bb-f32f0a7a0b24,2026-08-08T12:36:52.665088+10:00
+Cheapest car insurance for high-risk drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I'd quote them | Customer feedback |
+|---|---|---|
+| **AAMI** | Strong value recognition in 2026; Canstar named it an Outstanding Value winner | Generally worth including in a high-risk quote comparison |
+| **Budget Direct** | Often very price-competitive and currently offering a new-policy discount | **3.6/5** from ~9,500 ProductReview reviews; good price feedback, but claims complaints are a recurring issue [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-car-insurance?utm_source=chatgpt.com) |
+| **Youi** | Particularly worth trying when standard online insurers won't give a competitive quote; strong service reputation | **3.9/5** from ~8,350 reviews; highest customer rating among insurers highlighted in Forbes' 2026 comparison [www.forbes.com](https://www.forbes.com/advisor/au/car-insurance/best-comprehensive-car-insurance-providers/?utm_source=chatgpt.com) |
+| **RAC/RACQ/RACT** | Particularly interesting for younger drivers | CHOICE's January 2026 comparison found these among the cheapest comprehensive options for under-25s, varying by state [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/young-driver-car-insurance?utm_source=chatgpt.com) |
+| **NRMA** | Worth obtaining a quote, especially if you have multiple policies | Current ProductReview rating is only **1.6/5**, so I wouldn't prioritise it if customer service is important [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-car-insurance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/nrma-car-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,15 @@
+2,fe544ff5-fcb5-4727-ba6b-f3568da24efc,08080142-1126-0626-0000-959305826c2c,0b18f75f-193a-4113-bafd-cae64d3dce08,2026-08-08T13:29:00.552902+10:00
+Most popular pet insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payments | Typical cover | Notable point |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | ✅ | Accident & illness | Australian specialist pet insurer |
+| **Petsy** | ✅ | Accident & illness | High annual limits; customisable |
+| **Petcover** | ✅ | Accident & illness | 9 levels of cover; up to $20k vet fees |
+| **Medibank Pet Insurance** | ✅ | Accident & illness | Up to $30k annual limit on Pet Max |
+| **RSPCA Pet Insurance** | ✅ | Accident & illness | Up to $35k annual limit on some cover |
+| **Budget Direct** | ✅ | Accident & illness | Often competitive on price |
+| **Fetch** | ✅ | Accident & illness | Specialist pet insurer |
+| **Bow Wow Meow** | ✅ | Accident & illness | Well-established Australian pet insurer |
+| **Coles Pet Insurance** | ✅ | Accident & illness | Can be worth comparing for price |
+End Of Line

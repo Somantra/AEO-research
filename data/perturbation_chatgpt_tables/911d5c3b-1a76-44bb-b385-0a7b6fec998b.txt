@@ -1,0 +1,10 @@
+2,85f1a252-1a0d-4b17-b229-f3e32a6b895d,08080141-1126-0626-0000-08929c993aa7,911d5c3b-1a76-44bb-b385-0a7b6fec998b,2026-08-08T13:28:23.968673+10:00
+Most comprehensive accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Policy | Pet | Annual limit | Reimbursement | Excess | Premium structure | Overall |
+|---|---|---:|---:|---:|---|---|
+| **[Ruff ’n’ Tumble](https://ruffntumble.com.au/)** | Dogs | **Unlimited** | **100% after excess** | $500 per accident | **$40/month flat** | 🥇 **Best accident-only dog cover** |
+| **[9 Lives](https://9livesinsurance.com.au/)** | Cats | **Unlimited** | **100% after excess** | $250 per accident | **$30/month flat** | 🥇 **Best accident-only cat cover** |
+| **[PetsOnMe](https://www.petsonme.com.au/) Accidental Plan | Dogs/cats | $5,000 | Up to 80% | Choice of excess | Quote-based | 🥈 Good conventional option |
+| **[PD Insurance](https://www.pd.com.au/) Accident Plan** | Dogs/cats | $5,000 | 80% | $100/$200/$300 | Quote-based | 🥈 Good budget option |
+End Of Line

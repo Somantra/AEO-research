@@ -1,0 +1,11 @@
+2,03c4ed27-7537-4ef7-a93a-e84206c23ca9,08080124-1126-0626-0000-bbefee55310f,d428703a-7836-44f5-bc26-2813d531206d,2026-08-08T12:46:40.994508+10:00
+Least reliable motorcycle insurance for custom bikes in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Custom-bike suitability | Customer-review signal | My take |
+|---|---|---|---|
+| **Shannons** | ⭐⭐⭐⭐⭐ | Mixed overall, but strong enthusiast focus | **Best fit for heavily customised bikes** |
+| **Youi** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ overall | **Best customer-service signal**, but confirm every modification |
+| **QBE** | ⭐⭐⭐⭐ | ⭐⭐⭐ mixed | Good policy flexibility, but reviews are less impressive |
+| **Budget Direct** | ⭐⭐⭐ | ⭐⭐⭐⭐ overall | Good value, but several important customisation exclusions |
+| **National Motorcycle Insurance** | ⭐⭐⭐⭐ | Less review data | Worth quoting, particularly for agreed value |
+End Of Line

@@ -1,0 +1,10 @@
+2,1a3794ad-1916-423a-bcc0-6140086c66c8,08080130-1126-0626-0000-2989722ab7d2,dd6d9fa2-c920-4168-828c-4d97c693dd97,2026-08-08T13:02:31.486619+10:00
+Easiest roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment | Australia-wide? | Towing / long-distance benefits | My take |
+|---|---:|---|---|---|
+| **RACV Total Care** | **$27/month** | ✅ Yes | **100 km towing** | ⭐ Best for interstate travel |
+| **RACV Extra Care** | $19.58/month | ✅ | 60 km towing | Good cheaper option |
+| **RACV Roadside Care** | $12/month | Basic interstate reciprocal cover | 20 km metro / nearest RACV centre regionally | Cheapest, but less suitable for long trips |
+| **NRMA** | Plans from monthly subscription pricing | ✅ Reciprocal national coverage | Depends on package/state | Good alternative |
+End Of Line

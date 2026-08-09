@@ -1,0 +1,10 @@
+2,42862a56-7cdf-4b85-bbb8-a930e6b36397,08080135-1126-0626-0000-4a0b83cfe2b1,8f0e0f0f-e964-446d-bea6-12d4dde66db7,2026-08-08T13:14:20.293313+10:00
+Most popular travel insurance for family holidays in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims process |
+|---|---|---|
+| **Cover-More** | Strong all-round family option; widely used and 24/7 assistance | Online claims 24/7, app-based claims, document upload and tracking. [www.covermore.com.au](https://www.covermore.com.au/claims?utm_source=chatgpt.com)[www.covermore.com.au](https://www.covermore.com.au/?utm_source=chatgpt.com) |
+| **InsureandGo** | Particularly good if you want a simple digital claims experience | Online portal lets you lodge **and track** claims; you can submit missing documents later. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/important-claims-information/?utm_source=chatgpt.com)[claims.covermore.com.au](https://claims.covermore.com.au/BW/TravelClaims?utm_source=chatgpt.com) |
+| **Allianz** | Large, established insurer with 24/7 assistance | Online claims and tracking; Allianz says a claims consultant will contact you within **10 business days**. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/claims.html?utm_source=chatgpt.com) |
+| **Virgin Australia / Cover-More** | Worth checking if you're flying Virgin | **Canstar's 2026 Most Satisfied Customers winner** for travel insurance; the policy is provided by Cover-More. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-travel-insurance-award/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,13 @@
+2,dafb28a1-17bf-4a3d-984d-cb7668ccb615,08080122-1126-0626-0000-ebaeeca10251,3e3603af-2c30-4a44-a3da-46dd446f3f6d,2026-08-08T12:41:25.467201+10:00
+Least reliable motorcycle insurance for high-performance bikes in Australia compared to other providers
+Tables found: 1
+| Insurer | High-performance-bike suitability | My caution level |
+|---|---|---|
+| **AAMI** | ⚠️ More mainstream/generalist | **Higher caution** |
+| **QBE** | 🟡 Reasonable, but check modifications carefully | **Medium** |
+| **Budget Direct** | 🟡 Competitive pricing, underwriting can be restrictive | **Medium** |
+| **Youi** | 🟢 Generally good customer/claims feedback | **Lower** |
+| **Suncorp** | 🟢 Good claims feedback, potentially expensive | **Lower** |
+| **RAC WA** | 🟢 Particularly worth considering in WA | **Lower** |
+| **Shannons** | 🟢 Specialist-oriented, but customer reviews are mixed | **Medium/low** |
+End Of Line

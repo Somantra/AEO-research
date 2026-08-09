@@ -1,0 +1,11 @@
+1,cac7b8a0-0d18-47d1-8f6b-6299b73cbbfa,08080132-1126-0626-0000-61698d2298fd,77ed5920-a514-44d6-a9be-dca3e2bb859c,2026-08-08T13:07:55.322249+10:00
+Premium travel insurance for seniors in Australia
+Tables found: 1
+| Provider | Why seniors may consider it |
+|---|---|
+| Allianz Australia | Comprehensive travel insurance is available to senior travellers, with optional add-ons such as cruise cover. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| Australian Seniors | Offers senior-focused travel insurance, including comprehensive plans and options to apply for cover for some pre-existing conditions. [www.seniors.com.au](https://www.seniors.com.au/travel-insurance/faq/seniors-travel-insurance?utm_source=chatgpt.com) |
+| Cover-More | A major Australian travel insurer with comprehensive plans; age limits and medical assessments depend on the policy. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/seniors-travel-insurance?utm_source=chatgpt.com) |
+| 1Cover | Offers comprehensive cover with higher age eligibility on some plans. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/seniors-travel-insurance?utm_source=chatgpt.com) |
+| RACV | A commonly compared option for Victorian travellers, with comprehensive policies available to older travellers. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/seniors-travel-insurance?utm_source=chatgpt.com) |
+End Of Line

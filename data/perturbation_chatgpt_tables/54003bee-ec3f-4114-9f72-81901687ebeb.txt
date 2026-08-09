@@ -1,0 +1,10 @@
+1,2be3ec75-5578-448a-ab82-24bb0458bfad,08080118-1126-0626-0000-d0e307cf4eeb,54003bee-ec3f-4114-9f72-81901687ebeb,2026-08-08T12:32:40.589394+10:00
+Least reliable car insurance for high-risk drivers in Australia
+Tables found: 1
+| Policy | CHOICE Expert Rating | Main concern |
+|---|---:|---|
+| **Suncorp Comprehensive Advantages** | 50% | Very expensive relative to cover |
+| **Bupa Comprehensive** | 50% | No choice of repairer; high young-driver excesses |
+| **AHM Comprehensive** | 51% | Same underlying Huddle/Hollard policy; high excesses |
+| **Huddle Comprehensive** | 53% | Limited repairer choice and comparatively weak benefits |
+End Of Line

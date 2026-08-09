@@ -1,0 +1,16 @@
+1,e0b22c34-145b-44d1-b375-6b166949cfef,08080126-1126-0626-0000-dd15c8172208,0d55a1eb-83ce-48fe-92c3-c94047dc6c98,2026-08-08T12:51:12.798043+10:00
+Premium home insurance for first-time homeowners in Australia
+Tables found: 1
+| Feature | Premium cover target |
+|---|---|
+| **Building cover** | Full rebuild/replacement cost, not the property's market value |
+| **Contents** | Replacement/new-for-old cover |
+| **Flood** | Included if relevant to your property |
+| **Storm/fire/bushfire** | Strong cover with sensible exclusions |
+| **Temporary accommodation** | Generous limit and duration |
+| **Liability** | At least a substantial standard limit |
+| **Underinsurance protection** | Preferably a safety margin or total-replacement arrangement |
+| **Excess** | Affordable enough that you could comfortably claim |
+| **Valuables** | Specific cover for jewellery, electronics, bikes, etc. |
+| **Alternative accommodation** | Important if the house becomes uninhabitable |
+End Of Line

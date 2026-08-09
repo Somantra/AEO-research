@@ -1,0 +1,10 @@
+2,5fe88db1-4431-4fb2-80e4-6518fbbc3502,08080118-1126-0626-0000-68e5b8db2408,a12209dd-0796-42f2-a281-184b08d60533,2026-08-08T12:33:11.376439+10:00
+Worst car insurance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Insurer / option | Why I’d be cautious for an EV | Online quote |
+|---|---|---|
+| **NRMA** | Standard Comprehensive excludes some useful extras; for example, hire car and new-vehicle replacement aren't included on the basic policy. | urlGet NRMA EV quoteturn1search0 |
+| **Allianz Essentials** | Cheaper entry-level option but fewer benefits than full Comprehensive, including allocated rather than choice of repairer. | urlGet Allianz quoteturn1search1 |
+| **Any insurer that won't quote your exact EV** | Particularly relevant for newer brands/models. Owners report some new EVs simply aren't yet in insurers' systems. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1v63owl/insurance_for_geely_ex2/?utm_source=chatgpt.com) | Varies |
+| **Very expensive novated-lease insurance** | EV owners report quotes around $3,000+ in some cases, although individual circumstances are critical. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1s02gsl/polestar_4_comprehensive_insurance_is_3000year/?utm_source=chatgpt.com) | Usually |
+End Of Line

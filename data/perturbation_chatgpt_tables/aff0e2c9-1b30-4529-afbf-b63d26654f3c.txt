@@ -1,0 +1,10 @@
+2,951bae37-fb3a-4f75-ac10-5541660217d8,08080130-1126-0626-0000-ff7783dca8fb,aff0e2c9-1b30-4529-afbf-b63d26654f3c,2026-08-08T13:01:09.718558+10:00
+Best roadside assistance for motorcycles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment | Motorcycle cover | Towing | Best for |
+|---|---:|---|---|---|
+| **NRMA** | **$9.99–$21.99/mo** | ✅ | 25–100 km depending on plan | ⭐ Best overall |
+| **RACV** | **$12–$27/mo** | ✅ Bike Assist | 20–100 km | ⭐ Best in Victoria |
+| **RACQ** | Annual pricing shown | ✅ | 20–50+ km depending on plan | Best in Queensland |
+| **Rider Support Australia** | Annual only | 🏍️ Motorcycle-specific | Up to 50 km Essential; more on Premium | Best motorcycle specialist |
+End Of Line

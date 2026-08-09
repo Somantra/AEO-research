@@ -1,0 +1,12 @@
+2,6ae08c0a-f02b-4920-b13e-3cf50cac1fde,08080123-1126-0626-0000-4c6e3558ed2b,664482a8-455c-4474-b03f-a493fa807c19,2026-08-08T12:44:34.059854+10:00
+Least reliable third-party motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Reliability signal | My take |
+|---|---|---|
+| **Swann** | ⚠️ Weakest signal | **Most caution** |
+| **Budget Direct** | ⚠️ Mixed | Cheap/value-focused, but claims satisfaction is a concern |
+| **QBE** | 🟢 Good | Stronger customer-satisfaction evidence |
+| **AAMI** | 🟢 Good | Strong claims/service reputation |
+| **GIO** | 🟢 Very good | Particularly strong for ease of claiming |
+| **Shannons** | 🟢 Excellent | Best overall satisfaction signal |
+End Of Line

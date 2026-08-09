@@ -1,0 +1,11 @@
+2,f5922855-c7ce-4328-9d5b-833beb9a4868,08080132-1126-0626-0000-2029d2b8324c,fefc7a8f-e9a0-468a-9e5f-ff2181c72102,2026-08-08T13:07:41.433726+10:00
+Least reliable roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid/EV capability | Reliability signal | My take |
+|---|---|---|---|
+| **NRMA** | Explicit hybrid/EV support; national reciprocal network | Strong overall network; mixed anecdotal reports | **Good choice**, especially NSW |
+| **RACV** | Supports EV/hybrid motorists through its roadside network | 2026 Canstar state winner in Victoria | **Very good in VIC** |
+| **RACQ** | Explicitly covers battery EVs, plug-in hybrids **and hybrids** | Claims ~35-min average response in QLD | **Very good in QLD** |
+| **Allianz roadside** | Available through various insurance/roadside arrangements | Won 2026 Canstar NSW satisfaction award | **Worth considering** |
+| **Insurance-bundled roadside generally** | Depends heavily on contractor/network | Anecdotal reports are more variable | **Check terms carefully** |
+End Of Line

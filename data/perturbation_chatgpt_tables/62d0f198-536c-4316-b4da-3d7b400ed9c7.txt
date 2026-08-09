@@ -1,0 +1,11 @@
+2,c989980d-6b6e-4dcf-811f-4eff32814b7a,08080129-1126-0626-0000-3430ccfc2c9b,62d0f198-536c-4316-b4da-3d7b400ed9c7,2026-08-08T12:59:06.948747+10:00
+Worst home insurance providers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why some customers complain | Claims speed notes |
+|---|---|---|
+| Budget Direct | Competitive pricing, but some customers report frustration with claim complexity, assessors, or repair negotiations | Can be fast for straightforward claims; complex repairs may take longer |
+| Youi | Strong marketing and personalised service, but customer experiences can be inconsistent | Some claims are handled quickly; others report delays or back-and-forth |
+| Allianz Australia | Large insurer with mixed feedback, especially during high-volume events | Has systems for quick digital claims, but major losses can take time |
+| QBE Insurance | Some customers report slow communication during complex claims | Large claims can involve multiple assessment stages |
+| GIO | Mixed reviews depending on claim type and state | Some surveys rate it well for ease of claiming, but experiences vary |
+End Of Line

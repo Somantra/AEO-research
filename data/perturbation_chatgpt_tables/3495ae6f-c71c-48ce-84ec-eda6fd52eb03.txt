@@ -1,0 +1,11 @@
+2,634c0a96-91f7-4ee2-915f-034246282f35,08080142-1126-0626-0000-655e7ae73eab,3495ae6f-c71c-48ce-84ec-eda6fd52eb03,2026-08-08T13:28:46.098668+10:00
+Easiest pet insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | ProductReview rating | Ease of claims | My take |
+|---|---:|---|---|
+| **Petsy** | ⭐ **4.9/5** | ⭐⭐⭐⭐⭐ | **Best overall for ease** |
+| **Knose** | ⭐ **4.8/5** | ⭐⭐⭐⭐⭐ | Excellent claims experience |
+| **Fetch Pet** | ⭐ **4.8/5** | ⭐⭐⭐⭐⭐ | Excellent digital/app experience |
+| **Bow Wow Meow** | ⭐ **4.5/5** | ⭐⭐⭐⭐⭐ | Best for very easy vet-side claims |
+| **Pet Insurance Australia (PIA)** | ⭐ **4.5/5** | ⭐⭐⭐⭐½ | Strong track record and lots of reviews |
+End Of Line

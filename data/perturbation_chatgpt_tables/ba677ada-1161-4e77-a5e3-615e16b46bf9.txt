@@ -1,0 +1,11 @@
+2,04af4979-87b1-40cd-aab8-645701b7ed60,08080121-1126-0626-0000-58586d3ef75a,ba677ada-1161-4e77-a5e3-615e16b46bf9,2026-08-08T12:39:06.885069+10:00
+Best motorcycle insurance for learner riders in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Learner cover | Key strengths | Main drawback |
+|---|---|---|---|---|
+| **NRMA** | 💰 **Best value candidate** | Yes | Often competitive pricing; comprehensive cover; up to $20m liability; new-for-new on eligible bikes | Gear cover may need an add-on |
+| **QBE** | ⭐ **Best overall balance** | Yes | Agreed/market value; up to $30m liability; up to $4,000 motorcycle apparel; strong cover | Learner/inexperienced-rider excess can be substantial |
+| **Youi** | 🏆 **Best features/service** | Yes | Gear included with comprehensive; roadside assistance; flexible cover | Can be expensive for young/inexperienced riders |
+| **Shannons** | 🏍️ **Motorcycle enthusiast** | Yes | Motorcycle-focused insurer; learner riders automatically covered under its policy conditions | Pricing can vary considerably |
+| **Budget Direct** | 💵 **Cheap-quote contender** | Yes | Online discounts; market/agreed value options | Significant additional learner/young/inexperienced excesses |
+End Of Line

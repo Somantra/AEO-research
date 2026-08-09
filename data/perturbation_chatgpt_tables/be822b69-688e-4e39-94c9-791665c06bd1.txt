@@ -1,0 +1,10 @@
+2,d1125cf6-ebc4-49b6-a028-d51f01185566,08080136-1126-0626-0000-7ab594471e80,be822b69-688e-4e39-94c9-791665c06bd1,2026-08-08T13:16:30.491883+10:00
+Premium travel insurance for seniors in Australia without hidden fees
+Tables found: 1
+| Insurer | Why consider it | Potential fee/exclusion issue |
+|---|---|---|
+| **[AllClear Travel](https://www.allcleartravel.com.au/seniors-travel-insurance)** | **Best specialist option for older travellers.** No upper age limit, unlimited emergency medical cover available, and cover for 1,300+ pre-existing conditions. [www.allcleartravel.com.au](https://www.allcleartravel.com.au/seniors-travel-insurance?utm_source=chatgpt.com) | Excess still applies; pre-existing conditions must be declared and accepted. |
+| **[Australian Seniors Travel Insurance](https://www.seniors.com.au/travel-insurance)** | Good mainstream senior-focused option with comprehensive overseas medical, cancellation, luggage and liability cover. [www.seniors.com.au](https://www.seniors.com.au/travel-insurance?utm_source=chatgpt.com) | Some extras—such as cruise/adventure cover and certain medical conditions—can require an additional premium. [www.seniors.com.au](https://www.seniors.com.au/travel-insurance?utm_source=chatgpt.com) |
+| **[Travel Insurance Direct](https://www.travelinsurancedirect.com.au/)** | **Strong premium/comprehensive choice.** Its top-tier The Works policy was rated among Australia's leading comprehensive policies in 2026, with unlimited medical cover. [www.forbes.com](https://www.forbes.com/advisor/au/travel-insurance/best-comprehensive-travel-insurance/?utm_source=chatgpt.com) | Check age eligibility, excess and medical-condition terms for your particular quote. |
+| **[Bupa Travel Insurance](https://www.bupatravelinsurance.com.au/)** | Another highly rated comprehensive option worth pricing against the above. [www.forbes.com](https://www.forbes.com/advisor/au/travel-insurance/best-comprehensive-travel-insurance/?utm_source=chatgpt.com) | Check optional benefits and medical-condition requirements before buying. |
+End Of Line

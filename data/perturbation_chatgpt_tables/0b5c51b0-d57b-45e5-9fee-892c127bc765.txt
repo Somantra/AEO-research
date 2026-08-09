@@ -1,0 +1,9 @@
+2,585be441-c92b-48ea-aad0-fa8723a54df2,08080135-1126-0626-0000-9f2766ac8cfa,0b5c51b0-d57b-45e5-9fee-892c127bc765,2026-08-08T13:14:58.183416+10:00
+Least reliable travel insurance for adventure sports in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why travellers may be cautious | Adventure-sport concern |
+|---|---|---|
+| AIG Australia (including some white-label travel policies) | There have been public disputes involving declined travel claims and delays; one recent case involved a serious injury claim dispute after travel insurance purchased through Jetstar. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | Check medical exclusions and pre-existing condition wording carefully. |
+| Freely Travel Insurance | Some reviewers report quick settlements, while others report slow processes and repeated document requests. [www.productreview.com.au](https://www.productreview.com.au/listings/freely?utm_source=chatgpt.com) | Confirm your exact sport is listed as covered, not just “adventure travel”. |
+| Australia Post Insurance travel insurance | Reviews are mixed, including complaints about slow claim responses. [www.productreview.com.au](https://www.productreview.com.au/listings/australia-post-travel-insurance?utm_source=chatgpt.com) | Check whether higher-risk activities require an add-on. |
+End Of Line

@@ -1,0 +1,11 @@
+1,98acd95d-bafa-4e2a-bb1f-42bbabc6ff9c,08080127-1126-0626-0000-eb4e18924a8c,9bcc9b51-f950-493a-9824-c300d13e7efa,2026-08-08T12:55:34.073052+10:00
+Most comprehensive roadside assistance for commercial vehicles in Australia
+Tables found: 1
+| Provider | Best for | Coverage | Heavy vehicles | Fleet/program capability |
+|---|---|---|---|---|
+| **ISS First Response** | ⭐ **Most comprehensive national fleet solution** | Australia-wide, including regional/remote | Yes | Excellent |
+| **NTI Truck Assist** | ⭐ **Truck-specific breakdown support** | Australia-wide | Yes | Excellent |
+| **Nationwide Group** | ⭐ **Heavy recovery/towing** | Major eastern states + WA | Yes, including B-doubles/heavy trucks | Excellent |
+| **TFAS** | Fleet + mobile mechanical support | Australia-wide | Yes | Excellent |
+| **Isuzu Care / NTI Truck Assist** | Isuzu truck fleets | Australia-wide | Yes | Excellent, but primarily Isuzu |
+End Of Line

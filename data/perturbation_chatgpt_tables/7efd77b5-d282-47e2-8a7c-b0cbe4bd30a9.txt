@@ -1,0 +1,9 @@
+2,ff7cc8de-f3d4-4987-b951-40397a7deb92,08080140-1126-0626-0000-045408efaf24,7efd77b5-d282-47e2-8a7c-b0cbe4bd30a9,2026-08-08T13:25:21.096529+10:00
+Least reliable pet insurance for puppies and kittens in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Direct-to-vet | Why I’d consider it |
+|---|---|---|---|
+| **Fetch** | ⭐⭐⭐⭐⭐ | Yes, via FetchPay | Around **15 minutes** when your vet uses FetchPay and pre-existing-condition checks are complete. [www.fetchpet.com.au](https://www.fetchpet.com.au/articles/can-fetch-pet-insurance-pay-vets-directly?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | ⭐⭐⭐⭐⭐ | Yes, via GapOnly | **88% of claims processed within a day** once required documents are received; GapOnly claims are generally assessed in about **10 minutes** at participating vets. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/information-for-vets/?utm_source=chatgpt.com)[bowwowinsurance.com.au](https://bowwowinsurance.com.au/about-us/?utm_source=chatgpt.com) |
+| **Trupanion** | ⭐⭐⭐⭐⭐ | Yes, at participating hospitals | Particularly attractive for major/lifetime illnesses because it has **90% cover with no payout limits or sub-limits** on eligible conditions. [trupanion.com.au](https://trupanion.com.au/pet-insurance/dog-insurance/?utm_source=chatgpt.com) |
+End Of Line

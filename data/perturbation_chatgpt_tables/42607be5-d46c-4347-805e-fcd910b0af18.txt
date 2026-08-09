@@ -1,0 +1,11 @@
+2,f226ce86-a4a3-47d7-90cd-6dc448e9e6e5,08080120-1126-0626-0000-3a134efa7f05,42607be5-d46c-4347-805e-fcd910b0af18,2026-08-08T12:36:27.610308+10:00
+Safest third-party car insurance in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Watch-out |
+|---|---|---|
+| **NRMA** | Strong all-round option; up to **$20m** liability and up to **$5,000** for damage to your car caused by an uninsured driver. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/third-party-property-damage-car-insurance?utm_source=chatgpt.com) | Check cancellation/payment fees in the PDS |
+| **AAMI** | Very clear TPPD structure; $20m liability and $5,000 uninsured-driver cover. Its current PDS explicitly sets out limits and conditions. [www.aami.com.au](https://www.aami.com.au/car-insurance/third-party-property?utm_source=chatgpt.com) | First-year discounts can make the renewal price less attractive |
+| **GIO** | $20m liability, $5,000 uninsured-driver protection and 24/7 claims support. [www.gio.com.au](https://www.gio.com.au/car-insurance/third-party.html?va-get-docs=true&utm_source=chatgpt.com) | Compare the actual quote and PDS against AAMI/NRMA |
+| **Budget Direct** | Often competitive on price; $20m liability and $5,000 uninsured-driver cover. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/third-party-car-insurance.html?utm_source=chatgpt.com) | CHOICE's 2026 review found comparatively weak car-claims satisfaction: 52% rated their claims experience above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **Youi** | Worth quoting if claims experience is your priority; CHOICE reported 73% of Youi car claimants rated claims above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) | Price varies substantially by driver/car |
+End Of Line

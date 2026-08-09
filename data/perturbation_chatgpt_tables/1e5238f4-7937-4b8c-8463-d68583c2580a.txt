@@ -1,0 +1,12 @@
+2,d95f7ec7-9633-4a11-9a5e-8f1f2f47c0a1,08080139-1126-0626-0000-1059930d28c5,1e5238f4-7937-4b8c-8463-d68583c2580a,2026-08-08T13:22:21.990912+10:00
+Most comprehensive pet insurance for dogs in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Key strengths | Potential drawbacks |
+|---|---|---|---|
+| Fetch Pet Insurance | **Most comprehensive overall** | Strong feature set; frequently rated highly for comprehensive cover | Premiums can be higher |
+| Medibank Pet Max | **High limits + strong mainstream option** | Up to $30,000 annual benefit, up to 90% eligible vet bill reimbursement, optional extras such as specialised therapies/dental-related benefits depending on cover | Entry age limits and exclusions need checking | [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/compare/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | **High maximum cover** | Options up to $35,000 annual cover and up to 90% reimbursement on eligible bills | Compare policy wording carefully; brand association does not necessarily mean the policy is the most generous | [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/dog-insurance/?utm_source=chatgpt.com) |
+| Bow Wow Meow | **Good value comprehensive cover** | Popular standalone pet insurer; strong accident/illness options | Check annual limits, exclusions and renewal pricing |
+| Petsy | **Customisation** | Flexible cover options and optional extras | May cost more depending on selections | [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| Knose | **Modern digital experience** | Flexible plans and newer-style customer experience | Less long-term claims history than some established providers |
+End Of Line

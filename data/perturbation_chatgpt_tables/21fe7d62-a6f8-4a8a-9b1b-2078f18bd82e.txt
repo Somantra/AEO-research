@@ -1,0 +1,11 @@
+2,a5870b3b-517d-45ac-a9b2-996941e651c6,08080132-1126-0626-0000-939dc9debf0e,21fe7d62-a6f8-4a8a-9b1b-2078f18bd82e,2026-08-08T13:07:41.434792+10:00
+Least reliable roadside assistance for hybrid cars in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Customer review signal | Hybrid suitability |
+|---|---|---|---|
+| NRMA Roadside Assistance | NSW drivers and broad coverage | Generally very strong customer feedback; ProductReview shows a high volume of positive reviews (4.5/5 from 1,900+ reviews at time of checking). [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) | Very good — large patrol network and experience with modern vehicles |
+| RACV Roadside Assistance | Victoria drivers | Many positive reports for helpful technicians, though experiences vary. [www.productreview.com.au](https://www.productreview.com.au/listings/racv-roadside-assistance?utm_source=chatgpt.com) | Very good — suitable for Toyota/Lexus hybrids and other modern hybrids |
+| RAC Roadside Assistance | WA drivers | Often scores highly in customer comparisons. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) | Good — especially where regional coverage matters |
+| RACQ Roadside Assistance | Queensland drivers | Mixed reviews compared with some competitors; ProductReview data shows a lower satisfaction level than NRMA. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) | Good, but check regional response expectations |
+| 24/7 Roadservices Australia | Lower-cost alternative | Reported strong review scores in comparisons. [www.news.com.au](https://www.news.com.au/technology/motoring/car-advice/roadside-assistance-ev-nightmare-as-prices-crash/news-story/b62dd244c63c842b56c24d1c649fd5cd?utm_source=chatgpt.com) | Worth considering, but confirm hybrid-specific capability |
+End Of Line

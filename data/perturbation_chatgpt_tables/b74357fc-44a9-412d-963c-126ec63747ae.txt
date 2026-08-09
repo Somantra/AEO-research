@@ -1,0 +1,10 @@
+2,6e743ff3-9e2a-40e9-abb4-b31f50c2148f,08080131-1126-0626-0000-d1092105291f,b74357fc-44a9-412d-963c-126ec63747ae,2026-08-08T13:03:47.755678+10:00
+Most trusted roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Vehicle limit | Fee transparency |
+|---|---|---:|---|
+| **RACV Business Roadside** | ⭐ Best overall in Victoria | Up to **8t GVM** | **Excellent** |
+| **RACQ Business Roadside** | Queensland businesses | Up to **4.5t** standard | Very good |
+| **RAA Business Road Service** | SA / larger fleets | Depends on plan | Very good |
+| **RACQ Fleet Care** | 21+ vehicle QLD fleets | Up to **6t** | Good, but extras apply |
+End Of Line

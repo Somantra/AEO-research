@@ -1,0 +1,14 @@
+2,96e30397-2885-4f6e-aa23-ed9d61babab5,08080131-1126-0626-0000-d69e63742886,4aa3d9cf-c4dc-4948-8c9a-6c93765566e5,2026-08-08T13:05:14.365372+10:00
+Most affordable roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider / plan | Annual price | Call-outs | Towing | Best for |
+|---|---:|---|---|---|
+| **Budget Direct Roadside Assistance** | **$89.95** | Unlimited* | 20 km from breakdown / 50 km round trip from contractor depot | Cheapest nationwide option |
+| **RACQ Everyday Lite** | **$80** | Limited/basic | Basic cover | Cheapest if you're in QLD |
+| **NRMA Everyday Care** | **$112 annual promo / $137 RRP** | Unlimited | 25 km metro | NSW/ACT |
+| **RAA Standard** | **$135** | 4/year | 10 km metro / 40 km country | SA |
+| **RACV Roadside Care** | **$138** | Unlimited | 20 km metro | Victoria |
+| **AANT Standard** | **$139** | 8/year | 8 km metro / 32 km regional | NT |
+| **RACQ Everyday** | **$109** | Unlimited | Basic | QLD |
+| **RACQ Everyday Plus** | **$179** | Unlimited | Better regional cover | QLD / longer trips |
+End Of Line

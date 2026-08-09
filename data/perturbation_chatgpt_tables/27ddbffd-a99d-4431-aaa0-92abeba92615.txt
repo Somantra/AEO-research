@@ -1,0 +1,10 @@
+2,830e4f8e-4e79-43ca-99b7-54ba7f8f875e,08080132-1126-0626-0000-248d0f67a651,27ddbffd-a99d-4431-aaa0-92abeba92615,2026-08-08T13:07:37.491267+10:00
+Most reliable roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Why it stands out |
+|---|---|---|
+| RACQ | Queensland hybrid owners | Large local patrol network, 24/7 assistance, and hybrid/EV roadside capability including high-voltage-aware patrols. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com)[www.racq.com.au](https://www.racq.com.au/car/roadside-assistance?utm_source=chatgpt.com) |
+| NRMA | Nationwide travellers, especially NSW | Long-established provider with broad coverage and multiple plan levels. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RACV | Victoria drivers | Strong reputation as a state motoring club and commonly recommended alongside other state clubs. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+| RAA / RAC | SA/WA drivers | Good choice if you live in those states and want local club support. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+End Of Line

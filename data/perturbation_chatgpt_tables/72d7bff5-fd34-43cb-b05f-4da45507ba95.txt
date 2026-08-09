@@ -1,0 +1,13 @@
+2,38f573da-9803-443a-a195-c62f802e9048,08080131-1126-0626-0000-2ea54cde2787,72d7bff5-fd34-43cb-b05f-4da45507ba95,2026-08-08T13:04:47.214100+10:00
+Most trusted roadside assistance for older cars in Australia without hidden fees
+Tables found: 1
+| Feature | Importance |
+|---|---|
+| No vehicle-age exclusion | ⭐⭐⭐⭐⭐ |
+| Unlimited/ generous callouts | ⭐⭐⭐⭐⭐ |
+| Clear towing allowance | ⭐⭐⭐⭐⭐ |
+| No surprise attendance fees | ⭐⭐⭐⭐⭐ |
+| Battery/flat tyre assistance | ⭐⭐⭐⭐ |
+| Interstate coverage | ⭐⭐⭐⭐ |
+| Accommodation/car-hire after major breakdown | ⭐⭐⭐ |
+End Of Line

@@ -1,0 +1,10 @@
+2,297c003d-43a3-4efc-b31c-50cb55e43b59,08080128-1126-0626-0000-6be2c512a3d0,f71202cf-8d5e-4c66-a262-010655352957,2026-08-08T12:56:35.644980+10:00
+Premium home insurance for high-value items in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited to | High-value items | Worldwide/portable cover | Overall |
+|---|---|---|---|---|
+| **Chubb Masterpiece** | High-net-worth households | **Excellent** — jewellery, fine art, wine, collections, antiques | **Excellent** | ⭐⭐⭐⭐⭐ |
+| **QBE Home** | High-value contents but not necessarily HNW | Good, via specified contents | Good, with Portable Contents | ⭐⭐⭐⭐ |
+| **Allianz Home** | Mainstream premium/value option | Good, but more structured limits | Good, with Portable Contents | ⭐⭐⭐⭐ |
+| Other mainstream insurers | Ordinary/high-ish contents values | Usually adequate with specified items | Varies | ⭐⭐⭐ |
+End Of Line

@@ -1,0 +1,11 @@
+2,08391112-b490-496b-bbb0-4257d889db95,08080138-1126-0626-0000-e20795926729,a911cf7a-e79a-4779-b80d-e24ad19a485e,2026-08-08T13:21:29.680571+10:00
+Most comprehensive pet insurance for cats in Australia with monthly payments
+Tables found: 1
+| Insurer | Maximum annual cover | Reimbursement | Sub-limits | Monthly payments | My take |
+|---|---:|---:|---|---|---|
+| **Trupanion** | **Unlimited** | Up to 90% | **None** | Yes | 🥇 Best for maximum protection |
+| **Fetch** | $30,000 | Up to **100%** | **None** | Yes | 🥈 Best comprehensive all-rounder |
+| **RSPCA PetFlex** | **$35,000** | Up to 90% | None | Yes | 🥉 Excellent high-limit option |
+| **Petsy** | $25,000 | Up to 90% | **None** | **Yes** | Excellent flexibility/value |
+| **Medibank Pet Max** | $30,000 | Up to 90% | Several major conditions have no sub-limit | **Yes** | Great if you want GapOnly |
+End Of Line

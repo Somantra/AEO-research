@@ -1,0 +1,10 @@
+2,6fb38e18-8350-4638-a862-e4dfc4d6f93e,08080140-1126-0626-0000-d9784d1a3152,03521e74-0dfe-4913-9fd1-34c8c22b790d,2026-08-08T13:24:51.937554+10:00
+Premium pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Online quote | Why consider it |
+|---|---|---|---|
+| **Petsy** | ❌ Generally excluded, but offers a **free pre-existing-condition assessment** shortly after joining | ✅ | Best for getting clarity on exactly what will be excluded |
+| **Everyday Pet Insurance** | ⚠️ Some temporary conditions may become eligible; chronic conditions remain excluded | ✅ | Explicit pre-existing-condition review process |
+| **Pet Insurance Australia** | ❌ Generally excluded, but some exclusions may be reviewed/lifted depending on the condition | ✅ | Established insurer with potentially useful exclusion-review process |
+| **Fetch** | ❌ Excluded | ✅ ~2-minute quote | High annual limits, up to $30,000 |
+End Of Line

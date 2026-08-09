@@ -1,0 +1,11 @@
+2,2ea5574f-e083-4e0d-a34a-a489de7802d8,08080131-1126-0626-0000-90c359b94010,66fd1ba5-2661-47bf-a88a-c1dbed1ae13f,2026-08-08T13:05:31.024305+10:00
+Most reliable roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider | Good starting option | Key strength | Fee/“gotcha” to know |
+|---|---|---|---|
+| **RACV (VIC)** | Roadside Care — **$138/year** | Excellent Victoria coverage; 20 km towing; nationwide assistance | Monthly payment has a disclosed **$6/year admin fee**; 24-hour waiting period for new/changed cover [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| **NRMA (NSW/ACT)** | Everyday Care — **$112/year** | Strong nationwide network; 25 km metro towing | Check optional add-ons and towing limits; annual price is clearly displayed [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACQ (QLD)** | Everyday/Ultimate depending on driving | Very strong Queensland network; real-time patrol tracking | **48-hour waiting period**; immediate assistance attracts a surcharge [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/ultimate-care?utm_source=chatgpt.com) |
+| **RAC (WA)** | Standard — **$128/year** | Strong WA network; unlimited call-outs | Monthly direct debit includes a disclosed **6% admin fee** [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.dsPlease&utm_source=chatgpt.com) |
+| **RAA (SA)** | Standard — **$135/year** | Large SA patrol network | **48-hour restrictions/fees** for new memberships and pre-existing breakdowns [www.raa.com.au](https://www.raa.com.au/motor/road-service?utm_source=chatgpt.com) |
+End Of Line

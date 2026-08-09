@@ -1,0 +1,10 @@
+2,d6bf3e4d-7465-4dcd-bc81-8554ad7c7e55,08080139-1126-0626-0000-9777c826bf30,67a54f4c-276f-424a-8cc1-449ad64b5992,2026-08-08T13:23:08.376279+10:00
+Premium pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Older-pet entry | Cover strength | Claims speed |
+|---|---|---|---|
+| **Fetch** | Under 10 at purchase | Up to **$30k/year**, 80/90/100% reimbursement, no condition sub-limits | **Excellent** — FetchPay can give a claim outcome in about **15 minutes** and pay the vet directly |
+| **Trupanion** | Under **14** | **90%**, no annual payout limits, lifetime per-condition excess | **Excellent** — GapOnly/direct vet payment can settle at the clinic |
+| **RSPCA Pet Insurance** | New PetFlex policies under **9** | Up to **$35k/year** on current comparison listings, up to 90% | **Very good** — 99.43% of claims were processed within 5 days in its published 2023–24 statistics |
+| **Pet Insurance Australia** | Comprehensive/Major Medical under **9** | Strong comprehensive options | Good, but less compelling if *speed* is your overriding criterion |
+End Of Line

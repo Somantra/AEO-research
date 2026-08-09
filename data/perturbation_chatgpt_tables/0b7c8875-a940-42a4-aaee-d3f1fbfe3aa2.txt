@@ -1,0 +1,10 @@
+2,1842c6c4-e9eb-4200-aca1-ed6afc1c2904,08080118-1126-0626-0000-1e450319f59d,0b7c8875-a940-42a4-aaee-d3f1fbfe3aa2,2026-08-08T12:32:16.420693+10:00
+Least reliable car insurance for small cars in Australia with monthly payments
+Tables found: 1
+| Insurer | Common complaints reported by customers | Monthly payment suitability |
+|---|---|---|
+| Budget Direct | Cheap premiums but some complaints about claim experiences and service | Often attractive for low-cost monthly budgets |
+| AAMI | Mixed reviews; some customers report slow claim communication | Monthly instalments available |
+| RACV Insurance | Some customers report claim delays or disputes | Monthly payments available |
+| Youi | Pricing can vary heavily depending on driver profile | Monthly payment option available |
+End Of Line

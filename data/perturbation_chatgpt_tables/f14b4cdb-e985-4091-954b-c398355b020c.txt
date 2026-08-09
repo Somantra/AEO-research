@@ -1,0 +1,10 @@
+2,0a3db828-fcd2-47f7-a035-6c61986c52ca,08080132-1126-0626-0000-0d1b9ae894a1,f14b4cdb-e985-4091-954b-c398355b020c,2026-08-08T13:08:10.286173+10:00
+Premium roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Premium option | Approx. price | Key cover | Fee transparency |
+|---|---|---:|---|---|
+| **NRMA** | Ultimate Care | **$245/year** when paid annually | Unlimited call-outs, towing up to 100 km | ⭐⭐⭐⭐ |
+| **RACV** | Total Care | **$318/year** | Unlimited call-outs, 100 km towing, extensive travel benefits | ⭐⭐⭐⭐⭐ |
+| **RAA** | Premium | **$293/year** | Unlimited call-outs, up to 200 km country attendance | ⭐⭐⭐⭐ |
+| **Toyota** | Roadside Assist Plus | From **$139/year** | Unlimited call-outs, towing, taxi/rideshare, accommodation | ⭐⭐⭐⭐⭐ if it's a Toyota hybrid |
+End Of Line

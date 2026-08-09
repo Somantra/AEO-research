@@ -1,0 +1,10 @@
+2,4038e5fc-296f-4973-bf53-c420094708c2,08080138-1126-0626-0000-de78fd8d64be,d3f9a62b-f067-4345-8add-13b4d10cb990,2026-08-08T13:21:46.686803+10:00
+Worst pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Why it stands out |
+|---|---|---|
+| **Fetch** | ⭐ Around **15 min** with FetchPay | Vet submits claim during the visit; Fetch assesses it in real time and pays the vet directly. [www.fetchpet.com.au](https://www.fetchpet.com.au/articles/what-is-fetchpay?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | ⭐ **88% within 1 day** | GapOnly can assess eligible claims at the vet, usually in ~10 minutes. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/gaponly-pet-insurance/?utm_source=chatgpt.com) |
+| **Trupanion** | ⭐ **Minutes** with participating hospitals | Direct-to-vet payments through GapOnly; no need to wait for reimbursement in eligible cases. [trupanion.com.au](https://trupanion.com.au/veterinarians/partner-with-trupanion/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | ⭐ Typically **5 business days** | Online/eClaim process; GapOnly can be faster. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+End Of Line

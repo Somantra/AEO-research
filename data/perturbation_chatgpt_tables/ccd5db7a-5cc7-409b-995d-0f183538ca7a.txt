@@ -1,0 +1,13 @@
+0,4edb9500-cece-4b17-a1cc-f7a68d2aec32,08080117-1126-0626-0000-d3a8d4d2dd86,ccd5db7a-5cc7-409b-995d-0f183538ca7a,2026-08-08T12:30:36.914503+10:00
+standalone roadside assistance cover in Australia
+Tables found: 1
+| Provider | Approx. annual price* | Notable feature |
+|---|---:|---|
+| **NRMA** | ~$112–$245 | Unlimited callouts; nationwide reciprocal coverage |
+| **Budget Direct** | ~$90 | Unlimited callouts; relatively cheap |
+| **RACV** | Varies | Strong option in Victoria; interstate reciprocal assistance |
+| **RACQ** | ~$227–$310 for higher tiers | Strong Queensland coverage; higher towing options |
+| **RAA** | ~$135–$293 | South Australia |
+| **RAC** | Varies | Western Australia |
+| **RACT** | Varies | Tasmania |
+End Of Line

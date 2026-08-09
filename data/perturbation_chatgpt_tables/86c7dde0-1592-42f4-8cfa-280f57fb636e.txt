@@ -1,0 +1,11 @@
+2,3bca3859-9426-4f39-8b1a-cefb0149d39d,08080140-1126-0626-0000-681b3478b70c,86c7dde0-1592-42f4-8cfa-280f57fb636e,2026-08-08T13:24:35.008991+10:00
+Easiest pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing condition approach | My take |
+|---|---|---|
+| **PetSure-administered policies** | Temporary conditions can have the exclusion automatically removed after **18 consecutive months symptom-free**; chronic conditions remain excluded. [petsure.com.au](https://petsure.com.au/policytoolhub/?utm_source=chatgpt.com)[petsure.com.au](https://petsure.com.au/faqs/?utm_source=chatgpt.com) | **Best overall flexibility** |
+| **Bow Wow Meow** | Same **18-month** temporary-condition pathway; chronic conditions remain excluded. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/pre-existing-conditions-changes/?utm_source=chatgpt.com) | **Very good** |
+| **Real Insurance** | Temporary pre-existing conditions can be reviewed after **18 months**; chronic conditions remain excluded. [www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/questions-answers?utm_source=chatgpt.com) | **Good** |
+| **Fetch Pet Insurance** | Does **not cover pre-existing conditions**, including related/bilateral conditions. [www.fetchpet.com.au](https://www.fetchpet.com.au/cat-insurance?utm_source=chatgpt.com) | **Less attractive if your pet already has an issue** |
+| **Trupanion** | Pre-existing conditions are excluded; they explicitly recommend discussing the individual pet's history with them. [trupanion.com.au](https://trupanion.com.au/pet-insurance/pre-existing-conditions/?utm_source=chatgpt.com) | **Not my first choice for an existing condition** |
+End Of Line

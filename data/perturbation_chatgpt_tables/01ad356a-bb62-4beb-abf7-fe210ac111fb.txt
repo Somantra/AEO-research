@@ -1,0 +1,10 @@
+2,4c460023-fa07-400e-889d-17ca157c820e,08080118-1126-0626-0000-d9c55194e097,01ad356a-bb62-4beb-abf7-fe210ac111fb,2026-08-08T12:33:17.930431+10:00
+Least reliable car insurance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | EV-specific positives |
+|---|---|---|
+| **RACQ** | ⭐ **85%** positive | Particularly strong in QLD |
+| **NRMA** | ⭐ **78%** positive | Online tracking + lifetime authorised-repair guarantee |
+| **Youi** | ⭐ **73%** positive | EV roadside assistance includes transport to a charger |
+| **Budget Direct** | ⚠️ **52%** positive | Cheap/value-focused, but weakest claims result |
+End Of Line

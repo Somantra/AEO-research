@@ -1,0 +1,12 @@
+2,0b4d1a3a-48ec-4352-b6d3-53da6a3d7ccb,08080126-1126-0626-0000-9e72925f6853,e23e591d-a196-4d35-a8d2-c94fccb911ca,2026-08-08T12:52:44.590875+10:00
+Best home insurance for older properties in Australia compared to other providers
+Tables found: 1
+| Provider | Older-home suitability | Main strength | Watch-outs |
+|---|---|---|---|
+| **Apia** | ⭐⭐⭐⭐⭐ | Particularly worth considering for older owners and established homes | Check property-age/heritage acceptance and premium |
+| **Allianz** | ⭐⭐⭐⭐½ | Strong overall cover and claims infrastructure | May be expensive for some older/high-risk properties |
+| **AAMI** | ⭐⭐⭐⭐ | Good mainstream alternative; often worth quoting | Pricing can vary dramatically by address |
+| **NRMA** | ⭐⭐⭐⭐ | Strong claims/customer experience | NSW-focused brand; pricing varies by risk |
+| **RACV/RAC/RACQ** | ⭐⭐⭐⭐ | Particularly worth checking in their home states | Availability and pricing depend on state |
+| **Budget Direct** | ⭐⭐⭐½ | Often competitive on price | **Heritage-listed homes are not eligible**, which is important for very old properties |
+End Of Line

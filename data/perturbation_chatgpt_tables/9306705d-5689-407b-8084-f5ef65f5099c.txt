@@ -1,0 +1,10 @@
+2,3ad1573d-0392-42e7-a973-3e2bc5efacb4,08080131-1126-0626-0000-c198a03a63c3,9306705d-5689-407b-8084-f5ef65f5099c,2026-08-08T13:05:00.461778+10:00
+Premium roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Premium option | Older cars | Towing / travel benefits | My take |
+|---|---|---|---|---|
+| **[RACQ](https://www.racq.com.au/)** | Ultra Care / Ultimate Care | **Very good** — RACQ explicitly says its roadside assistance can cover cars regardless of age | Up to **60 km towing** with Ultra Care, plus substantial travel entitlements | ⭐ **Best overall if you're in QLD** |
+| **[NRMA](https://www.nrma.com.au/)** | Roadside Assistance | Generally strong for older vehicles | **Unlimited callouts**, towing and other breakdown assistance | ⭐ Excellent national option |
+| **[RACV](https://www.racv.com.au/)** | Total Care | Strong option, particularly for older/reliable-but-ageing cars | **100 km towing**, plus up to $2,400 accommodation/car-hire/taxi benefits | ⭐ Excellent if VIC-based |
+| **[Youi](https://www.youi.com.au/)** | Roadside Assist with Comprehensive insurance | Potentially attractive for older vehicles | Towing, fuel, batteries, keys, bogged vehicles, taxi etc. | Good if you already want insurance |
+End Of Line

@@ -1,0 +1,10 @@
+2,c11f0af6-20af-4d54-8990-18bfa03f60c0,08080120-1126-0626-0000-35d71bed6e69,f97c29d5-cbd7-4ead-8dcd-fe8a2ba3c306,2026-08-08T12:38:18.626337+10:00
+Least reliable car insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer sentiment | Reliability concern |
+|---|---|---|
+| **Budget Direct** | 62% of CHOICE survey customers rated their car-insurance experience above average/excellent | **Biggest red flag:** only **52%** of customers who had made a claim rated the claims experience above average/excellent—the lowest in CHOICE's 2025 survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **AAMI** | 62% rated their car-insurance experience above average/excellent | Decent overall satisfaction, but its score is toward the bottom of CHOICE's surveyed major insurers, suggesting the experience isn't as consistently strong as the brand reputation might imply. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **Allianz** | 61% rated their car-insurance experience above average/excellent | Similar story: reasonable customer sentiment, but it sits near the bottom of the CHOICE comparison rather than among the stronger performers. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **Suncorp** | 68% rated their car-insurance experience above average/excellent | Better customer rating than the three above, but there are recent reports of substantial premium increases and complaints about claims/communication. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+End Of Line

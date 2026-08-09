@@ -1,0 +1,10 @@
+2,e2cb9c30-067e-4183-b1c6-d640a8fff03e,08080140-1126-0626-0000-a87d49687fef,8da326ed-9f01-45df-a48a-c2d93b2820fd,2026-08-08T13:25:56.322767+10:00
+Best pet insurance for large dog breeds in Australia with monthly payments
+Tables found: 1
+| Insurer | Annual cover | Reimbursement | Large-dog appeal | Monthly payments |
+|---|---:|---:|---|---|
+| **Pet Insurance Australia** | **$15k / $25k / $35k** | **70/80/90%** | ⭐⭐⭐⭐⭐ | **Yes** |
+| **RSPCA Pet Insurance – PetFlex** | **Up to $35k** | **Up to 90%** | ⭐⭐⭐⭐⭐ | **Yes** |
+| **Medibank Pet Max** | **Up to $30k** | **Up to 90%** | ⭐⭐⭐⭐½ | Yes |
+| **Petsy** | **Up to $25k** | **Up to 90%** | ⭐⭐⭐⭐ | Yes |
+End Of Line

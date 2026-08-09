@@ -1,0 +1,12 @@
+2,23ee7a19-6015-49e2-acc2-0317232954fa,08080138-1126-0626-0000-2bd1f8751566,9f2a5091-63a0-4c86-985e-4357f0a153e9,2026-08-08T13:21:43.859346+10:00
+Best pet insurance for dogs in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Key cover | Online quote |
+|---|---|---|---|
+| **Medibank Pet Max** | ⭐ Best overall/features | Up to **$30k/year**, up to **90% back**, no sub-limits for cruciate, tick paralysis, hip surgery or consultations | urlGet a Medibank quoteturn1search1 |
+| **Bow Wow Meow** | ⭐ Best value | Up to **$30k/year**, up to **90% back** | [Get a Bow Wow Meow quote](https://bowwow.com.au/) |
+| **Budget Direct** | 💰 Cheapest | 3 levels of cover; online purchase currently offers **15% off first year** | urlGet a Budget Direct quoteturn0search3 |
+| **Petcover** | 🛡️ Broad cover | Finder's pick for **no sub-limits** | [Get a Petcover quote](https://www.petcovergroup.com/au/) |
+| **Fetch** | 🏥 Comprehensive cover | Strong overall coverage according to Finder | [Get a Fetch quote](https://www.fetchpet.com.au/) |
+| **RSPCA Pet Insurance** | 🐾 Animal-welfare focus | New policies offer annual limits up to **$35k**, with no tricky sub-limits | urlGet an RSPCA quoteturn0search1 |
+End Of Line

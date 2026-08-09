@@ -1,0 +1,9 @@
+2,924b82ea-1277-4d8a-ad72-7d3b40cd762c,08080140-1126-0626-0000-94aff6b125bf,e3b3a1ed-6fd1-4476-9746-35b1e3149b88,2026-08-08T13:25:56.058578+10:00
+Most affordable pet insurance for large dog breeds in Australia without hidden fees
+Tables found: 1
+| Insurer | Why it stands out | Main catch |
+|---|---|---|
+| **[Petsy Pet Insurance](https://petsy.com.au/)** | **Best overall value for a large dog**: annual excess rather than per-claim/per-condition, no condition-specific sub-limits, up to $30k annual cover | Premium depends heavily on breed/age/location |
+| **[Budget Direct Pet Insurance](https://www.budgetdirect.com.au/pet-insurance.html)** | **Best budget option to quote first**; Essential has $12k annual limit and 80% reimbursement | Important sub-limits, particularly for orthopaedic/cruciate problems |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | Excellent for large breeds because it has **no condition-specific sub-limits** and covers up to $30k/year | Its premium and coverage can change monthly |
+End Of Line

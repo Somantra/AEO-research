@@ -1,0 +1,9 @@
+2,5a514c98-5d07-4ea0-a94e-ebaa8bf2d0cd,08080139-1126-0626-0000-487fa628766e,07d00be5-7d55-480e-8b09-605ca21e7335,2026-08-08T13:22:54.336330+10:00
+Safest pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Insurer | New-pet age limit | Monthly payments | Why I’d consider it |
+|---|---:|---|---|
+| **Knose** | Before 9th birthday | Yes | Strong senior-pet option; once insured, **no upper age limit for renewals**. 70/80/90% reimbursement choices and no sub-limits/hidden costs advertised. [www.knose.com.au](https://www.knose.com.au/faqs-and-resources/?utm_source=chatgpt.com)[www.knose.com.au](https://www.knose.com.au/pet-insurance-cover/?nab=1&utm_source=chatgpt.com) |
+| **Pet Insurance Australia – Select & Protect** | Before 9th birthday | **Yes** | Up to $35,000 annual benefit, up to 90% reimbursement, and monthly/fortnightly/annual payment options. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia – Pet Essentials** | Before 12th birthday | **Yes** | Potentially the better route if your pet is **9–11 years old**, but coverage is considerably more restricted and reimbursement drops to 65% from age 8. [petinsuranceaustralia.com.au](https://petinsuranceaustralia.com.au/2mthnew/?utm_source=chatgpt.com)[petinsuranceaustralia.com.au](https://petinsuranceaustralia.com.au/wp-content/uploads/forms/Target_Market_Determination-Pet_Essentials_Cover_14Dec2023.pdf?utm_source=chatgpt.com) |
+End Of Line

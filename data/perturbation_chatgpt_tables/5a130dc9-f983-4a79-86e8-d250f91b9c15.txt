@@ -1,0 +1,12 @@
+2,b00ebac4-054e-4d17-94f7-518cc8528bad,08080129-1126-0626-0000-93981f709b46,5a130dc9-f983-4a79-86e8-d250f91b9c15,2026-08-08T12:59:35.278167+10:00
+Most trusted home insurance providers in Australia with monthly payments
+Tables found: 1
+| Insurer | Monthly payments | Trust/customer satisfaction | My take |
+|---|---|---|---|
+| **RACQ** | Yes | **91%** rated above average/excellent in CHOICE survey | ⭐ Strongest option in QLD |
+| **Youi** | Yes* | **67%** | ⭐ Strong customer service/value |
+| **Suncorp** | Yes | **65%** | ⭐ Good established option |
+| **NRMA** | Yes | **61%** | ⭐ Very large, established insurer |
+| **AAMI** | Yes | **60%** | ⭐ Worth getting a quote |
+| **Allianz** | Yes | **55%** | Good alternative |
+End Of Line

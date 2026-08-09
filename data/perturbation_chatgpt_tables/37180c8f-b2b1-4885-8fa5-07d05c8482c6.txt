@@ -1,0 +1,14 @@
+1,de407017-c672-4417-a995-f1f3885e3e4c,08080118-1126-0626-0000-ea420c118614,37180c8f-b2b1-4885-8fa5-07d05c8482c6,2026-08-08T12:33:46.159310+10:00
+Most trusted car insurance providers in Australia
+Tables found: 1
+| Insurer | Best for | My take |
+|---|---|---|
+| **NRMA Insurance** | Strong all-rounder | ⭐⭐⭐⭐⭐ |
+| **Youi** | Customer service | ⭐⭐⭐⭐⭐ |
+| **AAMI** | Value + broad availability | ⭐⭐⭐⭐½ |
+| **RACV** | Victorian drivers | ⭐⭐⭐⭐½ |
+| **GIO** | Comprehensive cover | ⭐⭐⭐⭐½ |
+| **QBE** | Established insurer | ⭐⭐⭐⭐ |
+| **Allianz** | Comprehensive/premium cover | ⭐⭐⭐⭐ |
+| **Budget Direct** | Price-conscious drivers | ⭐⭐⭐⭐ |
+End Of Line

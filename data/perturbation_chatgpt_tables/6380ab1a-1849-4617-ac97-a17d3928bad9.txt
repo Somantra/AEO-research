@@ -1,0 +1,10 @@
+1,6f8fa968-fe51-4ba6-b7c2-e648a775cb88,08080127-1126-0626-0000-85be69d18e11,6380ab1a-1849-4617-ac97-a17d3928bad9,2026-08-08T12:55:54.282678+10:00
+Worst roadside assistance for older cars in Australia
+Tables found: 1
+| Provider type | Why older-car owners may dislike it |
+|---|---|
+| **Cheap insurance add-on roadside cover** | Often has shorter towing distances, fewer included services, and relies on local contractors. [www.finder.com.au](https://www.finder.com.au/car-insurance/aami-roadside-assistance?utm_source=chatgpt.com) |
+| **Basic roadside tiers from major clubs** | May be fine for flat batteries and tyres, but can be frustrating if an older car needs repeated towing or a specialist mechanic. |
+| **Providers with strict battery policies** | Older cars often need batteries, terminals, alternators, or electrical diagnosis; some customers report disputes around battery supply/installation. [au.trustpilot.com](https://au.trustpilot.com/review/mynrma.com.au?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| **Low-cost online-only services** | May look attractive on price but can have less predictable regional coverage. |
+End Of Line

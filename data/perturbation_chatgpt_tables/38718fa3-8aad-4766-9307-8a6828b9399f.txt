@@ -1,0 +1,11 @@
+2,3d485cd1-3f69-434b-bc8c-c0a70f2e48a8,08080126-1126-0626-0000-072b51f5be2e,38718fa3-8aad-4766-9307-8a6828b9399f,2026-08-08T12:53:17.964171+10:00
+Most trusted home insurance for older properties in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote | Older-home suitability |
+|---|---|---|---|
+| **[AAMI](https://www.aami.com.au/home-insurance)** | Strong all-rounder; Canstar 5-star awards; online discounts; optional Complete Replacement Cover | ✅ | **Excellent** |
+| **[Allianz](https://www.allianz.com.au/home-insurance.html)** | Very established insurer, 24/7 claims, strong recent awards, online quotes | ✅ | **Excellent** |
+| **[NRMA Insurance](https://www.nrma.com.au/home-insurance)** | Roy Morgan's Most Trusted Insurance Brand 2022–2025; straightforward online quotes | ✅ | **Very good** |
+| **[RACV](https://www.racv.com.au/insurance/home-insurance.html)** | Particularly worth checking for Victorian properties; strong local presence | ✅ | **Very good** |
+| **[Youi](https://www.youi.com.au/home-insurance)** | Highly personalised underwriting and strong customer-satisfaction awards | ⚠️ | **Good**, but quote process may involve a call |
+End Of Line

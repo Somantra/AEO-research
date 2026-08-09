@@ -1,0 +1,11 @@
+2,3aff3818-6ec3-416c-ab84-f97689400968,08080122-1126-0626-0000-6c647a5f6bb8,5e67d604-92b3-44d0-bcab-915598feea14,2026-08-08T12:41:58.910608+10:00
+Most comprehensive motorcycle insurance for high-performance bikes in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Key strengths | Main concern |
+|---|---|---|---|
+| **Shannons** | **Modified/enthusiast/high-value bikes** | Agreed value, listed modifications included in agreed value, choice of repairer, riding gear up to $3,000 | Motorsport/track cover is very restricted for new policies |
+| **QBE** | **Best all-round comprehensive cover** | Agreed **or** market value, $4,000 riding apparel, $30m liability, 2-year new-bike replacement, approved training-course cover | Track days/racing explicitly excluded |
+| **NRMA** | Strong mainstream alternative | Comprehensive cover, automatic cover for certain modifications/accessories, lifetime authorised-repair workmanship guarantee | Less enthusiast-oriented than Shannons |
+| **AAMI** | Good mainstream/value option | Covers sport bikes, modifications, $20m liability, riding apparel, 2-year new-bike replacement | $1,000 riding-apparel limit; Amount Covered needs careful management |
+| **Youi** | Broad standard comprehensive cover | Theft/fire/storm/flood, roadside assistance included, riding gear and several useful extras | Less compelling for a heavily modified/high-value enthusiast bike |
+End Of Line

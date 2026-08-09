@@ -1,0 +1,11 @@
+2,29168de1-6192-43b8-93a8-8e616528344a,08080132-1126-0626-0000-a4e96a9ecb0c,028b5f37-301a-44ce-b909-bf04ed95e6f7,2026-08-08T13:08:26.571581+10:00
+Best standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly | Best for | Key strength |
+|---|---:|---|---|
+| **NRMA Ultimate Care** | **$21.99** | Best overall | 100 km towing, broad national network |
+| **RAA Premium** | **$24.49** | Best coverage/value | Personal cover, Australia-wide, 200 km country attendance |
+| **RACV Total Care** | **$27** | Best in Victoria | 100 km towing, strong long-distance benefits |
+| **RACT Ultimate** | **$22** | Best in Tasmania | Personal cover, very comprehensive |
+| **NRMA Everyday Care** | **$9.99** | Cheapest solid option | 25 km metro towing |
+End Of Line

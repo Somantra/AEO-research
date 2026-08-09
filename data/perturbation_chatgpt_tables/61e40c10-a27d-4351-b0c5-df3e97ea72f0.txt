@@ -1,0 +1,9 @@
+2,a9008da6-dc09-478e-b373-f44eade4a525,08080129-1126-0626-0000-1998aa41a7cf,61e40c10-a27d-4351-b0c5-df3e97ea72f0,2026-08-08T12:59:44.440969+10:00
+Premium home insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider type | Examples | Best suited for | Advantages | Potential drawbacks |
+|---|---|---|---|---|
+| **High-net-worth specialists** | Chubb, private-client brokers, specialist high-value policies | Luxury homes, collections, prestige properties | More tailored cover, higher limits, specialist claims handling, better suited to unusual risks | Higher premiums; often broker-based |
+| **Large comprehensive insurers** | QBE Insurance Group, Allianz Australia, AAMI, NRMA Insurance | Most owner-occupiers | Strong financial backing, broad networks, competitive pricing | Less personalised for very high-value homes |
+| **Value-focused insurers** | Budget Direct, Youi and others | Cost-conscious buyers | Lower premiums, online convenience | May have fewer premium features or lower sub-limits |
+End Of Line

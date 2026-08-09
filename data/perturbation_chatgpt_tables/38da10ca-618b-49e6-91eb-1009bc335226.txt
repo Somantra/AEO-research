@@ -1,0 +1,10 @@
+2,ef5c6f87-a49c-45d3-a0d9-75d3256726fe,08080141-1126-0626-0000-4e1204a7e6ab,38da10ca-618b-49e6-91eb-1009bc335226,2026-08-08T13:27:53.172900+10:00
+Least reliable accident-only pet insurance in Australia with a fast claims process
+Tables found: 1
+| Provider | Accident-only availability | Claims speed | My take |
+|---|---|---|---|
+| **Pet Insurance Australia** | **Limited/legacy only** | **Excellent** — 88% within 1 day; 98% within 5 days; GapOnly can settle in ~10 min | ⭐ Best claims process, but the accident-only product is **not generally available to new customers** |
+| **Medibank** | Accident & emergency options | **Very good**, including GapOnly | ⭐ Worth checking if you specifically want emergency/accident protection |
+| **Bow Wow Meow** | Primarily accident & illness | **Excellent** — GapOnly around 10 min at participating vets | ⭐ Strong choice if you're willing to accept illness cover |
+| **Knose** | Primarily accident & illness | Most claims settled within **5 working days** | ⭐ Good alternative, but not pure accident-only |
+End Of Line

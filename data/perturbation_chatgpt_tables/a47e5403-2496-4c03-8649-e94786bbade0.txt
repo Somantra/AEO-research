@@ -1,0 +1,10 @@
+2,ce56d948-698b-4576-b7cb-4df5ad6cdea7,08080119-1126-0626-0000-87409f06e8d2,a47e5403-2496-4c03-8649-e94786bbade0,2026-08-08T12:34:10.358300+10:00
+Worst car insurance for used cars in Australia compared to other providers
+Tables found: 1
+| Provider / policy | 2026 assessment | Why I'd be cautious |
+|---|---|---|
+| **Suncorp Comprehensive Advantages** | **CHOICE 50%** | Very expensive relative to its cover; CHOICE says it produced the most expensive quote over 40% of the time. |
+| **Bupa Comprehensive** | **CHOICE 50%** | Middling cover for the price, no choice of repairer, high young-driver excesses. |
+| **AHM Comprehensive** | **CHOICE 51%** | Similar weaknesses to Bupa/Huddle; relatively poor value. |
+| **Huddle Comprehensive** | **CHOICE 53%** | Same underlying policy as Bupa/AHM, with relatively limited features. |
+End Of Line

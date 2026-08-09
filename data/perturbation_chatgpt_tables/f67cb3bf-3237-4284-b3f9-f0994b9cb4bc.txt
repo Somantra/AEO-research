@@ -1,0 +1,12 @@
+2,88e258aa-90cb-4a42-9f01-f53273317944,08080132-1126-0626-0000-36fba973126b,f67cb3bf-3237-4284-b3f9-f0994b9cb4bc,2026-08-08T13:06:00.820063+10:00
+Premium roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider | Premium option | Approx. annual price | Key strength |
+|---|---|---:|---|
+| **RACV (Victoria)** | Total Care | **$318** for 1–2 vehicles | Excellent all-rounder; 100 km towing, strong away-from-home benefits |
+| **RACQ (Queensland)** | Ultimate Care | **$310** | Cover follows you into eligible vehicles; up to 100 km towing |
+| **RAC WA** | Ultimate | **$330** | Strong WA network; unlimited callouts |
+| **RAC WA** | Ultimate Plus | **$410** | Highest RAC WA tier; aimed at long-distance/country drivers |
+| **RACQ** | Ultra Care | **$227** | Cheaper premium option; 60 km towing |
+| **NRMA** | Premium tiers | Varies | Particularly strong NSW/ACT network and Australia-wide assistance |
+End Of Line

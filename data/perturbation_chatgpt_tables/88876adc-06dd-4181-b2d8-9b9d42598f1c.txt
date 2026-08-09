@@ -1,0 +1,15 @@
+2,accec261-d12b-47cb-b75d-8b6c98e6e520,08080134-1126-0626-0000-3715ad42c04a,88876adc-06dd-4181-b2d8-9b9d42598f1c,2026-08-08T13:11:20.151265+10:00
+Most comprehensive travel insurance for business trips in Australia compared to other providers
+Tables found: 1
+| Provider / policy | Best for | Business-specific cover | Medical | Frequent travel | Overall |
+|---|---|---|---|---|---|
+| **urlCover-More Comprehensive+turn3search0** | Individual business traveller wanting maximum benefits | **Excellent** — $7,500 business equipment, $1,500 equipment hire, $15k alternative staff, $2k business money, $250k K&R | Unlimited | Yes | 🥇 **Best all-round individual** |
+| **urlCover-More Businessturn3search1** | Frequent business traveller | Dedicated business policy | Strong | **30/60/90-day trip options** | 🥇 **Best frequent business traveller** |
+| **urlQBE Corporate Travelturn0search1** | SMEs/corporations | **Very strong** — replacement staff, recruitment, K&R, business/leisure | **Unlimited** | Corporate annual | 🥇 **Best corporate specialist** |
+| **urlCover-More Corporateturn1search72** | Companies with multiple employees travelling | **Exceptional** | Unlimited on Ultimate/Ultimate Plus | Annual corporate | 🥇 **Best high-end corporate package** |
+| **urlTravel Insurance Direct Annual Multi-Tripturn2search4** | Frequent traveller wanting value | Business trips covered, but less specialised | Unlimited | Unlimited trips, **35 days/trip** | 🥈 Value choice |
+| **urlAllianz Multi-Tripturn1search2** | Established mainstream insurer | Less business-specific | Strong | 15/30/45 days | 🥈 Good mainstream choice |
+| **url1Cover Frequent Travellerturn1search5** | Value/frequent traveller | Covers business travel | Strong | 21/45 days | 🥈 Good value |
+| **urlSouthern Cross Travel Insuranceturn2search0** | Short business trips + strong general travel cover | Business trips recognised | Strong | Depends on policy | Good alternative |
+| **urlWorld2Coverturn2search2** | Leisure/frequent traveller | **Not suitable for business/corporate travel** | Strong | Up to 60 days | ❌ Not for this use |
+End Of Line

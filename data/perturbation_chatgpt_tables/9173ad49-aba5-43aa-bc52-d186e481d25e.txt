@@ -1,0 +1,10 @@
+2,abb1653f-e7bd-4eb7-8e8c-7e82873b8cf7,08080132-1126-0626-0000-3a54ec97a556,9173ad49-aba5-43aa-bc52-d186e481d25e,2026-08-08T13:06:19.354040+10:00
+Best roadside assistance for rural areas in Australia with monthly payments
+Tables found: 1
+| Provider | Plan worth considering | Monthly | Rural/regional towing | Best for |
+|---|---|---:|---|---|
+| **RACV** | **Total Care** | $27 | **100 km** | ⭐ Best overall for long rural trips |
+| **RACV** | Extra Care | $19.58 | **60 km** | Best value for regional Victoria |
+| **NRMA** | Ultimate Care | $21.99 | **100 km** | Great option in NSW/ACT |
+| **RACV** | Roadside Care | $12 | Regional towing to nearest attending service centre | Budget option |
+End Of Line

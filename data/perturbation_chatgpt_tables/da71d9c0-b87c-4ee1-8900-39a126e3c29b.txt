@@ -1,0 +1,11 @@
+2,6226c685-2d2c-455e-b41c-22a999f7e83c,08080127-1126-0626-0000-28319c3e0f5c,da71d9c0-b87c-4ee1-8900-39a126e3c29b,2026-08-08T12:55:54.668082+10:00
+Worst home insurance for high-value items in Australia compared to other providers
+Tables found: 1
+| Provider | High-value items | My view |
+|---|---|---|
+| **NRMA** | Default valuable-content limit is **$2,500 total per category** for jewellery/watches, art and collections; higher cover requires the optional Valuable Contents benefit | 🔴 **Weakest starting position** |
+| **Suncorp** | Very flexible, with jewellery/watches ranging from **$2k per item/$4k total** on Classic to **$10k/$40k** on Classic Advantages; individual specification available | 🟢 Very good |
+| **AAMI** | Can specify particularly valuable items for their full insured value through **Contents with Flexible Limits** | 🟢 Very good |
+| **QBE** | Allows specified contents above standard limits and specified portable contents; can nominate individual items | 🟢 Very good |
+| **Others** | Depends heavily on the PDS and whether valuables can be individually specified | 🟡 Varies |
+End Of Line

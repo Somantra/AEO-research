@@ -1,0 +1,10 @@
+2,e3fbdecb-6e74-478b-ba3f-1054095e876c,08080131-1126-0626-0000-78f6d356d5a7,7bb5bceb-3cad-49f6-91da-3e1d8b972398,2026-08-08T13:04:36.651414+10:00
+Easiest roadside assistance for older cars in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Customer-review signal |
+|---|---|---|
+| **NRMA Roadside Assistance** | **Best all-rounder in NSW** | 4.6/5 from 4,200+ local reviews; ProductReview 4.5/5 from 1,900+ reviews [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| **RAC (WA)** | **Best-reviewed overall** if you're in WA | 4.8/5 from 1,200+ ProductReview reviews, with 94% positive vs 6% negative [www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?utm_source=chatgpt.com) |
+| **RACV (VIC)** | Strong Victorian option | Won Canstar's 2026 customer-satisfaction award in Victoria [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-roadside-assistance/?utm_source=chatgpt.com) |
+| **RACQ (QLD)** | Strong Queensland coverage | Won Canstar's 2026 customer-satisfaction award in Queensland, although its independent review score is more mixed at 3.2/5 [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-roadside-assistance/?utm_source=chatgpt.com) |
+End Of Line

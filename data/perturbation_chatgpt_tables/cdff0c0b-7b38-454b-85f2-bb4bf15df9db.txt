@@ -1,0 +1,11 @@
+2,4017a16f-5d1b-4eb4-b10b-fa2c1ea8d669,08080131-1126-0626-0000-bbfc6cbe2c3a,cdff0c0b-7b38-454b-85f2-bb4bf15df9db,2026-08-08T13:05:03.033345+10:00
+Most comprehensive roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Older-car suitability | Key strength |
+|---|---|---|---|
+| **[RACV Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance.html)** | **Victoria / Melbourne** | ⭐⭐⭐⭐⭐ | Unlimited callouts, broad assistance, app tracking |
+| **[NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance)** | Frequent interstate travel | ⭐⭐⭐⭐⭐ | Unlimited 24/7 callouts Australia-wide |
+| **[RAA Road Service](https://www.raa.com.au/motor/road-service)** | SA / very comprehensive benefits | ⭐⭐⭐⭐⭐ | Excellent higher-tier towing and away-from-home benefits |
+| **[Shannons](https://www.shannons.com.au/)** | Classic/enthusiast older cars | ⭐⭐⭐⭐⭐ | Particularly well suited to older enthusiast vehicles |
+| **[AAMI Roadside Assist](https://www.aami.com.au/car-insurance/comprehensive/roadside-assist)** | Roadside + insurance together | ⭐⭐⭐⭐ | Simple app-based claims and roadside process |
+End Of Line

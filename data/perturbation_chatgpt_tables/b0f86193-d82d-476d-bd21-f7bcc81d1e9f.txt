@@ -1,0 +1,11 @@
+2,f04d9f7f-1549-40ca-adc5-6167814c5a0b,08080130-1126-0626-0000-e097d436201e,b0f86193-d82d-476d-bd21-f7bcc81d1e9f,2026-08-08T13:03:18.989974+10:00
+Worst roadside assistance for commercial vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Commercial vehicles | Online/instant quote | Coverage |
+|---|---|---|---|
+| **Nationwide Group** | Heavy trucks, garbage trucks, refrigerated trucks, crane trucks, etc. | Online quote | VIC, NSW, ACT, QLD, WA |
+| **Truck Assist** | Trucks, trailers, mobile plant, equipment | Free quote | Australia-wide |
+| **NeedATyre** | Trucks, trailers, vans | **Instant quote + online payment** | 24/7 nationwide |
+| **Marshall Batteries** | Trucks & light commercial vehicles | Instant service quote | Australia |
+| **Road Side Rescue** | Commercial vehicles | Instant quote request | Primarily Victoria |
+End Of Line

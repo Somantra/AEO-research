@@ -1,0 +1,11 @@
+2,e564ab7a-7c5f-4d49-86d5-15a4a3cf2e43,08080125-1126-0626-0000-f5275f9a578e,eebd9d86-5311-489f-84f3-68c5f32e2d74,2026-08-08T12:49:34.170370+10:00
+Worst home insurance for renters in Australia compared to other providers
+Tables found: 1
+| Provider/policy | Why I’d be cautious | Compared with others |
+|---|---|---|
+| **AAMI Fire & Theft Contents** | Fixed maximum of only **$25,000**, rather than choosing a sum insured | Poorer if you own more than $25k of belongings |
+| **Budget Direct / some white-label versions** | Cover can be relatively basic and pricing varies substantially between brands | Worth comparing against equivalent policies |
+| **ING Contents** | Essentially a Budget Direct white-label policy | Don't assume the ING brand means better cover |
+| **NAB / Kogan / other Allianz white-label policies** | Some have essentially the same underlying Allianz cover but different prices | Compare the actual premium, not just the brand |
+| **Policies without accidental-damage cover** | Can leave you exposed to accidental breakage or damage | Less comprehensive than policies including it |
+End Of Line

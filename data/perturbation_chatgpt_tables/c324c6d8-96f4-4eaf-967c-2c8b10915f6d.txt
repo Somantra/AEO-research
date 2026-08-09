@@ -1,0 +1,12 @@
+2,521c6a79-b163-440e-ab4a-39ada7876077,08080119-1126-0626-0000-a4d298ee850c,c324c6d8-96f4-4eaf-967c-2c8b10915f6d,2026-08-08T12:35:41.232410+10:00
+Premium comprehensive car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction* | Why I’d consider it |
+|---|---:|---|
+| **Youi** | **77%** | Excellent overall customer satisfaction; strong features |
+| **NRMA Insurance** | **72%** | Strong claims satisfaction and particularly worth considering in NSW |
+| **GIO** | **75%** | Very good customer satisfaction and claims experience |
+| **RACV** | 64% | Broad cover, but mainly relevant to Victoria |
+| **Suncorp** | 68% | Good claims/customer experience |
+| **Everyday Insurance** | 71% | Good satisfaction and strong value proposition |
+End Of Line

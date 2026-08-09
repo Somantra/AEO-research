@@ -1,0 +1,11 @@
+1,3041d7ca-c9b8-4a70-b268-b9e84d1b7a5f,08080130-1126-0626-0000-20d13a7126aa,1b05d0ab-aa17-47c7-9817-0af3740af2b1,2026-08-08T13:01:15.922691+10:00
+Most affordable standalone roadside assistance cover in Australia
+Tables found: 1
+| Provider | Current price | Key catch |
+|---|---:|---|
+| **24/7 Roadservices Australia** | **from $69/yr** | Cheapest, but the $69 plan has limited call-outs/benefits |
+| **Budget Direct** | **$76.46 first year** | 15% online discount; then $89.95/yr |
+| **RACQ** | **$80/yr** | Everyday Lite; vehicle-based, and no towing |
+| **Allianz** | **from $99/yr** | 50 km towing; 48-hour waiting period |
+| **NRMA** | **$112/yr** | Everyday Care; 25 km metro towing |
+End Of Line

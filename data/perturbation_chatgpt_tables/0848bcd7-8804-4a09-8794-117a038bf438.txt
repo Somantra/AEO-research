@@ -1,0 +1,11 @@
+2,76c15ee3-497a-4679-bb3a-fd8766764ea4,08080126-1126-0626-0000-6b8fa476a7b8,0848bcd7-8804-4a09-8794-117a038bf438,2026-08-08T12:52:48.691444+10:00
+Worst home insurance for older properties in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Older-home considerations | My take |
+|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐⭐ | Good all-round option; building age is factored into pricing | **Best overall starting point** |
+| **AAMI** | ⭐⭐⭐⭐½ | Strong option, including optional Complete Replacement Cover | **Excellent for older homes** |
+| **RACV** | ⭐⭐⭐⭐½ | Particularly worth considering in Victoria | **Very good VIC choice** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Strong claims reputation, especially QLD | **Best if you're in QLD** |
+| **APIA** | ⭐⭐⭐⭐ | Specifically aimed at mature/older customers | **Worth quoting for an older home** |
+End Of Line

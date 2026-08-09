@@ -1,0 +1,16 @@
+2,3fd0a1df-2c43-4746-9b98-f9f25dfb1d52,08080118-1126-0626-0000-cb913d13cee5,e04a1c64-5908-47ab-a729-2d4626422ab2,2026-08-08T12:32:40.787669+10:00
+Most popular car insurance for small cars in Australia compared to other providers
+Tables found: 1
+| Insurer | Typical position | Good for |
+|---|---|---|
+| **NRMA** | ⭐ Strong all-rounder | Claims/service, broad coverage |
+| **AAMI** | ⭐ Very popular | Mainstream comprehensive cover |
+| **RACQ** | ⭐ Excellent in QLD | Queensland drivers |
+| **Youi** | ⭐ Strong customer satisfaction | Drivers wanting personalised pricing |
+| **Budget Direct** | 💰 Often price-competitive | Lower premiums/value |
+| **GIO** | ⭐ Good mainstream option | Comprehensive cover |
+| **RACV** | ⭐ Strong in Victoria | Victorian drivers |
+| **Allianz** | ⭐ Large national insurer | Broad coverage |
+| **Woolworths/Everyday** | 💰 Worth getting a quote | Price-conscious drivers |
+| **Rollin** | 💰 Newer/digital-focused | Drivers comfortable with app/telematics |
+End Of Line

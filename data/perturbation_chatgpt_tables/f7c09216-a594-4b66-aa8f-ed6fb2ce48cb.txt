@@ -1,0 +1,11 @@
+2,218cd252-b880-4154-baaf-5d57e96cb561,08080136-1126-0626-0000-346326d20007,f7c09216-a594-4b66-aa8f-ed6fb2ce48cb,2026-08-08T13:16:59.057600+10:00
+Worst travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Red flag | Why it can be a problem |
+|---|---|
+| “Automatic cover” lists that don’t include your condition | Your illness may be excluded unless separately approved |
+| Medical assessment fees | You may pay extra just to apply for cover |
+| Very broad pre-existing condition definitions | Old diagnoses, medications, or investigations may trigger exclusions |
+| Low headline premium | The cheaper policy may exclude your main medical risk |
+| High excess or condition-specific limits | You may face unexpected out-of-pocket costs |
+End Of Line

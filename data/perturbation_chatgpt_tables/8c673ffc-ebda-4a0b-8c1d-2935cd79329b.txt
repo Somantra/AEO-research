@@ -1,0 +1,12 @@
+2,9a02905a-66fc-453c-bdb5-693864e8656c,08080119-1126-0626-0000-5ee02df54ec3,8c673ffc-ebda-4a0b-8c1d-2935cd79329b,2026-08-08T12:35:53.743381+10:00
+Cheapest third-party car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Example annual premium | My take |
+|---|---:|---|
+| **Budget Direct** | **$426.66** | ⭐ Cheapest among these |
+| **Bingle** | **$430.82** | ⭐ Very competitive |
+| **NRMA** | $644.13 | More expensive |
+| **AAMI** | $668.78 | More expensive |
+| **Allianz** | $728.99 | More expensive |
+| **QBE** | $1,074.68 | Expensive in this comparison |
+End Of Line

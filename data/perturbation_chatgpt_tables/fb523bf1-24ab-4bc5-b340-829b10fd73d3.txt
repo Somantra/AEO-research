@@ -1,0 +1,11 @@
+1,3fe2dedf-6190-449c-b760-befb06fe334d,08080127-1126-0626-0000-45e9dabc18ab,fb523bf1-24ab-4bc5-b340-829b10fd73d3,2026-08-08T12:54:27.142934+10:00
+Safest roadside assistance for interstate travel in Australia
+Tables found: 1
+| Your situation | I'd choose |
+|---|---|
+| Mostly Melbourne/city driving | Roadside Care |
+| Regular interstate trips | **Extra Care** |
+| Long-distance/remote travel | **Total Care** |
+| Caravan/trailer | **Total Care** |
+| EV + interstate travel | **Total Care** |
+End Of Line

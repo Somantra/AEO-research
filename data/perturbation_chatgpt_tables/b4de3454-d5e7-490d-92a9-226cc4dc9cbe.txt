@@ -1,0 +1,12 @@
+2,faa97aea-d0f2-478b-ac09-cd6fc19ac695,08080121-1126-0626-0000-7e33a1baf419,b4de3454-d5e7-490d-92a9-226cc4dc9cbe,2026-08-08T12:39:09.418855+10:00
+Worst motorcycle insurance for learner riders in Australia with monthly payments
+Tables found: 1
+| Insurer | Example learner quote reported | Approx. monthly |
+|---|---:|---:|
+| **AAMI** | $900/month | **$900** |
+| **RACV** | $690/month | **$690** |
+| **Youi** | $750/month | **$750** |
+| **Swann** | $800/month | **$800** |
+| **Shannons** | $205/month | **$205** |
+| **QBE** | $140/month | **$140** |
+End Of Line

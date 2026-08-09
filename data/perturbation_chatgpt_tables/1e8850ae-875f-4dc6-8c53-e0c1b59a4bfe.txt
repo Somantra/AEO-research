@@ -1,0 +1,11 @@
+2,c447fdbe-8951-43e8-b6d6-c63dbeaf2724,08080123-1126-0626-0000-e70897414e71,1e8850ae-875f-4dc6-8c53-e0c1b59a4bfe,2026-08-08T12:45:51.096685+10:00
+Most trusted motorcycle insurance for older riders in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited to | Strengths | Possible drawbacks |
+|---|---|---|---|
+| National Motorcycle Insurance | Experienced riders, touring riders, valuable bikes | Motorcycle-focused insurer; strong feature set including options such as choice of repairer and riding gear cover | May not always be the cheapest |
+| QBE Insurance | Riders wanting good value comprehensive cover | Often competitive pricing; agreed or market value options; good feature balance | Check excesses and claim service carefully | 
+| Youi | Riders who value personalised service | Known for detailed quote process and tailoring cover; often competitive for some rider profiles | Phone-based quoting may not suit everyone; repairer choice may be limited | 
+| NRMA Insurance | Riders wanting a large established insurer | Strong brand recognition, broad customer base, competitive quotes for some profiles | Motorcycle-specific features may vary by policy |
+| RACV | Victorian riders wanting bundled insurance | Good option if you already use RACV products; comprehensive options | Value depends heavily on bike and rider profile |
+End Of Line

@@ -1,0 +1,12 @@
+2,38f33b6b-e364-4481-9ea5-9cf588feee47,08080138-1126-0626-0000-3999f02c4993,700eb99f-f048-4537-becc-a4f8baaf8fc8,2026-08-08T13:20:47.111803+10:00
+Cheapest pet insurance for cats in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Typical cover | My take |
+|---|---|---|---|
+| **Budget Direct** | 🟢 Usually cheapest | 80% reimbursement, up to $12k/$15k/$25k | **Best for lowest premium** |
+| **Pet Insurance Australia** | 🟢 Competitive | 70–90%, up to $35k | Excellent cheap/value alternative |
+| **Bow Wow Meow** | 🟡 Mid-range | Up to 90% depending on policy | Strong option, especially for pedigree cats |
+| **Knose** | 🟡 Mid-range | Up to $25k, flexible | Good coverage/value balance |
+| **Petsy** | 🟠 Usually pricier | Up to 90%, $25k | Strong coverage but not normally cheapest |
+| **RSPCA/PetSure brands** | 🟠 Often pricier | Varies considerably | Worth quoting, but don't assume cheapest |
+End Of Line

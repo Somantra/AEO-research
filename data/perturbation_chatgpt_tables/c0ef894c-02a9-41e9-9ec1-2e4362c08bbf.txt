@@ -1,0 +1,10 @@
+2,88ef9ae3-4519-4e53-918c-b496a4a4a247,08080130-1126-0626-0000-c34722be07ed,c0ef894c-02a9-41e9-9ec1-2e4362c08bbf,2026-08-08T13:03:11.637826+10:00
+Most affordable roadside assistance for commercial vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Business price | Vehicle limit | Online purchase/quote | Best for |
+|---|---:|---:|---|---|
+| **RACV Business Roadside Care** | **$125/vehicle/year** | Up to **8t GVM** | Yes | Best low-cost broad cover |
+| **RACQ Roadside for Business** | **$121/vehicle/year** | Up to **4.5t** (limited services to 6t) | Yes | Cheapest standard business plan |
+| **RAC WA BusinessWise Assist** | **$124/vehicle/year** | Business vehicles | Yes | WA businesses |
+| **RACV Fee-for-Service** | **$37/vehicle/year + call-out fees** | Up to **8t GVM** | Yes | Potentially cheapest for very low breakdown frequency |
+End Of Line

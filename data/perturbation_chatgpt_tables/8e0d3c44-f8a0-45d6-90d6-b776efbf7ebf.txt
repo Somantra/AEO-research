@@ -1,0 +1,11 @@
+2,374b0d91-a044-4ecb-9260-9a03fad5685c,08080132-1126-0626-0000-5aa18eb37d7f,8e0d3c44-f8a0-45d6-90d6-b776efbf7ebf,2026-08-08T13:07:51.575973+10:00
+Safest roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid/EV capability | Towing/charging support | My take |
+|---|---|---|---|
+| **RACV** | ⭐⭐⭐⭐⭐ High-voltage-trained patrols | Strong; out-of-charge towing to charger or up to 200 km to preferred destination on Total Care | **Best overall** |
+| **RACQ** | ⭐⭐⭐⭐⭐ High-voltage-aware patrols; explicitly covers hybrids & PHEVs | Towing to accessible charger/destination, depending on cover | **Excellent, especially QLD** |
+| **RAA** | ⭐⭐⭐⭐⭐ Patrols trained for EVs, including hybrids | Towing benefit can take EV to nearest charger | **Excellent, especially SA** |
+| **NRMA** | ⭐⭐⭐⭐ Explicit hybrid/PHEV coverage; mobile EV charger or towing in SA | Very strong network; national reciprocal assistance | **Excellent, especially NSW/ACT/SA** |
+| **RAC WA** | ⭐⭐⭐⭐ EV roadside support and charging | Tows EV to nearest charger | **Strong in WA** |
+End Of Line

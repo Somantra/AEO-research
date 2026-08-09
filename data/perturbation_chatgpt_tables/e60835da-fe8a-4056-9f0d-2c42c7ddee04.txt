@@ -1,0 +1,10 @@
+2,db62a3c3-9271-42fa-8837-70727c8d041e,08080138-1126-0626-0000-068c61a94137,e60835da-fe8a-4056-9f0d-2c42c7ddee04,2026-08-08T13:20:56.374617+10:00
+Worst pet insurance for cats in Australia with monthly payments
+Tables found: 1
+| Policy/insurer | Why it may be poor value |
+|---|---|
+| Petcover Economy | Low CHOICE rating; lacks lifetime cover and has significant limitations. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| PetsOnMe Accident Plan | Ranked among lower-scoring policies in CHOICE’s comparison due to limited cover. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance Classic | Lower-rated compared with stronger comprehensive options; check limits and exclusions carefully. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Some “cheap” accident-only or basic plans | Monthly premiums can look attractive but may leave large vet bills unpaid because illness, dental, chronic conditions, or ongoing treatment may not be covered. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/pet-insurance/cat-insurance/?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

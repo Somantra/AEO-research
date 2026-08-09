@@ -1,0 +1,12 @@
+2,22d9bb58-f72b-48ce-9eea-3e53d9f4a05d,08080139-1126-0626-0000-06ba84343bf0,caba0434-9f67-4c4d-a299-1a9754ca1522,2026-08-08T13:23:50.619614+10:00
+Most trusted pet insurance for multiple pets in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Strengths | Watch-outs |
+|---|---|---|---|
+| Pet Insurance Australia | Comprehensive cover | Long-established specialist pet insurer; broad accident/illness options | Compare annual limits and exclusions carefully |
+| Bow Wow Meow | Multi-pet households | Often competitive for families with several pets; multi-pet discounts available | Premiums can vary significantly by breed and age |
+| Medibank | People wanting a large established insurer | Recognisable brand, multiple cover tiers | Check who underwrites the policy and claim conditions |
+| RSPCA Pet Insurance | Brand trust/animal welfare association | Familiar name and options for different budgets | Brand association does not always mean the policy is the best value |
+| Fetch Pet Insurance | Alternative specialist option | Competitive plans and multi-pet options | Compare exclusions and waiting periods |
+| Petcover | Comparing value plans | Offers several tiers and multi-pet discounts | Lower-cost tiers may have more limitations |
+End Of Line

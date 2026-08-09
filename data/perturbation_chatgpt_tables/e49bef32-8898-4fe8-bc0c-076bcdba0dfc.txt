@@ -1,0 +1,11 @@
+2,fe76bbf5-596f-48b8-8750-a86ac565e538,08080137-1126-0626-0000-d8de671f2d26,e49bef32-8898-4fe8-bc0c-076bcdba0dfc,2026-08-08T13:19:52.559483+10:00
+Cheapest travel insurance providers in Australia with a fast claims process
+Tables found: 1
+| Provider | Claims speed | My take |
+|---|---|---|
+| **[1Cover](https://www.1cover.com.au/)** | Up to **10 business days** once all documents are received | ⭐ **Best value/claims balance** |
+| **[Fast Cover](https://fastcover.com.au/)** | Generally **10 business days** | ⭐ **Good budget option** |
+| **[InsureandGo](https://www.insureandgo.com.au/)** | Outcome within **10 business days**, then payment generally **5–10 business days** | ⭐ **Good for online claims** |
+| **[Southern Cross Travel Insurance](https://www.scti.com.au/)** | Claims assigned within **10 working days**; payments up to **3 business days** after approval | ⭐ **Strong claims reputation** |
+| **[Cover-More](https://www.covermore.com.au/)** | Response within **10 working days** | Good, but often not the cheapest |
+End Of Line

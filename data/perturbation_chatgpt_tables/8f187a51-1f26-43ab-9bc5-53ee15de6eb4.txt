@@ -1,0 +1,10 @@
+1,26c7c89d-1c47-4e93-88cb-b373f3b17899,08080129-1126-0626-0000-263b36c5dc72,8f187a51-1f26-43ab-9bc5-53ee15de6eb4,2026-08-08T13:00:26.256268+10:00
+Cheapest roadside assistance for hybrid cars in Australia
+Tables found: 1
+| Provider | Approx. annual price | Hybrid suitability |
+|---|---:|---|
+| **Budget Direct** | **$76.46 first year online** / $89.95 standard | ✅ Yes |
+| **NRMA** | From **$112/year** | ✅ Yes |
+| **RACV (Victoria)** | From **$138/year** | ✅ Yes |
+| Allianz | Quote-based | ✅ Yes |
+End Of Line

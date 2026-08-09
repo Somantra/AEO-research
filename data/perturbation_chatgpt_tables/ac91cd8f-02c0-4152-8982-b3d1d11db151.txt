@@ -1,0 +1,10 @@
+2,5f608a48-e0ea-4380-bf29-6dd56eefcf75,08080135-1126-0626-0000-613299364793,ac91cd8f-02c0-4152-8982-b3d1d11db151,2026-08-08T13:15:24.242149+10:00
+Premium travel insurance for adventure sports in Australia with monthly payments
+Tables found: 1
+| Insurer | Adventure sports | Monthly payment option | My take |
+|---|---|---|---|
+| **Fast Cover** | ✅ Optional Adventure Pack | ✅ BNPL/installments | **Best fit for monthly cash flow** |
+| **1Cover** | ✅ Adventure & Sports Pack | ⚠️ Not a standard monthly premium plan; payment options may vary | Strong adventure-sports option |
+| **Allianz** | ✅ Adventure Pack | ⚠️ Monthly payment isn't clearly offered for travel policies | Strong insurer, excellent assistance |
+| **World Nomads** | ✅ Extensive adventure coverage | ⚠️ Generally upfront rather than monthly | Good for more adventurous trips |
+End Of Line

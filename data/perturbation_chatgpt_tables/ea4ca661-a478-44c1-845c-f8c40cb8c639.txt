@@ -1,0 +1,13 @@
+0,fe2ed223-99ad-463b-80d2-46cf5ce399d0,08080118-1126-0626-0000-4bacf5fe673d,ea4ca661-a478-44c1-845c-f8c40cb8c639,2026-08-08T12:31:59.633443+10:00
+pet insurance for large dog breeds in Australia
+Tables found: 1
+| Feature | Why it matters |
+|---|---|
+| **Accident + illness cover** | Accident-only policies usually won’t help with many breed-related conditions |
+| **High annual limit** (e.g., $15k–$30k+) | Major surgeries and specialist care can be costly |
+| **80–90% reimbursement** | Reduces out-of-pocket costs |
+| **Hip and elbow dysplasia cover** | Important for breeds like German Shepherds, Labradors, Golden Retrievers, Rottweilers, Great Danes and Bernese Mountain Dogs |
+| **Cruciate ligament cover** | Common and expensive in larger dogs |
+| **No restrictive sub-limits** | Some policies cap certain conditions separately |
+| **Lifetime renewal** | Helps maintain cover as your dog ages |
+End Of Line

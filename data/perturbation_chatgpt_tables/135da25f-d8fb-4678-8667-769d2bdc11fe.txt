@@ -1,0 +1,10 @@
+2,1e2c76c6-9385-4bff-8c6a-2c1ef3b9430f,08080122-1126-0626-0000-b91e06421541,135da25f-d8fb-4678-8667-769d2bdc11fe,2026-08-08T12:43:15.504989+10:00
+Most affordable comprehensive motorcycle insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why check it | Online quote |
+|---|---|---|
+| **Budget Direct** | Often very competitive on price; comprehensive includes theft, crash, fire, weather damage and up to $20m liability. Currently advertises **15% off the first year when buying online** (T&Cs apply). [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) | urlGet a Budget Direct motorcycle quoteturn0search4 |
+| **QBE** | Finder currently describes its comprehensive motorcycle policy as **budget-friendly**, making it one I'd definitely price against Budget Direct. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) | urlCompare/get a QBE quote via Finderturn0search3 |
+| **NRMA** | Comprehensive cover includes theft, crash, fire, flood, storm and vandalism, plus up to $20m liability. **Up to 10% online discount** on the first year's premium. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) | urlNRMA motorcycle quoteturn1search0 |
+| **Youi** | Worth quoting because pricing varies substantially by rider/bike; comprehensive includes theft and accidental damage, with roadside assistance available. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/comprehensive?utm_source=chatgpt.com) | urlYoui motorcycle quoteturn0search2 |
+End Of Line

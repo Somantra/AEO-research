@@ -1,0 +1,13 @@
+2,5a6bea89-80fb-454a-8768-9f9a5e112f17,08080130-1126-0626-0000-cb05ec5a14df,fe28c081-3ae5-413e-a599-77c83a61fb36,2026-08-08T13:03:21.562207+10:00
+Worst roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Service | Published price |
+|---|---:|
+| Annual subscription | **$37/vehicle** |
+| Metro call-out | **$125** |
+| Metro tow, first 20 km | **$175** |
+| Metro service + tow | **$300** |
+| Regional call-out | **$140** |
+| Regional service + tow | **$315** |
+| Interstate service | **$140** |
+End Of Line

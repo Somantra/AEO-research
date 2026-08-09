@@ -1,0 +1,10 @@
+2,05a96226-9348-4a38-af2c-41c00d48c646,08080139-1126-0626-0000-3c58c4bb2cba,f29630be-e8f5-4db3-acb0-ee5b8d6305a0,2026-08-08T13:24:09.077613+10:00
+Most affordable pet insurance for pre-existing conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing conditions | Monthly payments | Why consider it |
+|---|---|---|---|
+| **Budget Direct** | Generally excluded, but a fully cured condition may become eligible after **12 months symptom/treatment-free** | **Yes** | One of the options I'd quote first for low cost |
+| **Fetch** | Excluded | **Yes — plans are monthly** | Up to $30k annual cover; useful if you want strong new-condition cover |
+| **Knose** | Excluded, but some **curable** conditions can become eligible after a symptom-free period | Check quote/payment options | No sub-limits on eligible vet bills |
+| **Trupanion** | Excluded | Quote required | 90% cover and no annual payout limit, but not necessarily the cheapest |
+End Of Line

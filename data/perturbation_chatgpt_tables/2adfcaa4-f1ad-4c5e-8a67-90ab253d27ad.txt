@@ -1,0 +1,11 @@
+1,27d27822-85a1-4c7d-b7db-147b8875e885,08080121-1126-0626-0000-f7088360788f,2adfcaa4-f1ad-4c5e-8a67-90ab253d27ad,2026-08-08T12:39:06.448813+10:00
+Most popular third-party motorcycle insurance in Australia
+Tables found: 1
+| Insurer | Third-party option | Liability cover |
+|---|---|---:|
+| **QBE** | Third Party Only | Up to $30m |
+| **Youi** | Third Party Property Only | Up to $20m |
+| **Budget Direct** | Third Party Property Only | Up to $20m |
+| **GIO** | Third Party Property Damage | Up to $20m |
+| **NRMA** | Motorcycle insurance options | Varies |
+End Of Line

@@ -1,0 +1,11 @@
+2,005a3441-1abb-4e1a-aba4-c0990e023e72,08080122-1126-0626-0000-debdc920737b,b64507c2-c011-48f6-bdfb-4382ac676ec1,2026-08-08T12:41:55.596590+10:00
+Premium motorcycle insurance for high-performance bikes in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | High-performance bike | Modifications | Agreed value | Gear |
+|---|---|---|---|---|---|
+| **Shannons** | Enthusiast/performance bikes | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ | Up to $3,000 total |
+| **QBE** | Strong all-round comprehensive value | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | Up to $4,000 |
+| **National Motorcycle Insurance** | Motorcycle-focused cover | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Policy dependent | Policy dependent |
+| **NRMA** | Mainstream comprehensive | ⭐⭐⭐ | ⭐⭐⭐ | Available | Standard benefits |
+| **AAMI** | Competitive mainstream pricing | ⭐⭐⭐ | ⭐⭐⭐ | Amount covered | Up to $1,000 |
+End Of Line

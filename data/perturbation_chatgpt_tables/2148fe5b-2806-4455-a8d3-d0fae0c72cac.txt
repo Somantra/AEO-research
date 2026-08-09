@@ -1,0 +1,13 @@
+2,f6d3f48e-ddab-419b-a383-27133c37f0a5,08080141-1126-0626-0000-37dee2504549,2148fe5b-2806-4455-a8d3-d0fae0c72cac,2026-08-08T13:27:05.402616+10:00
+Easiest pet insurance for exotic pets in Australia with monthly payments
+Tables found: 1
+| Your pet | Recommendation |
+|---|---|
+| 🐰 Rabbit | **Petcover** |
+| 🦜 Bird/parrot | **Petcover** |
+| 🦎 Bearded dragon/gecko | **Petcover** |
+| 🐍 Snake | **Petcover** |
+| 🐹 Guinea pig | **Petcover** |
+| 🐀 Rat/mouse | **Petcover** |
+| 🦦 Ferret | **Petcover** |
+End Of Line

@@ -1,0 +1,10 @@
+1,b03e3b05-5b4d-4d8c-a6a1-60c5a3941f60,08080134-1126-0626-0000-2191d34bd49e,32874843-4622-4ee5-81c7-245c65da9982,2026-08-08T13:12:33.843660+10:00
+Best pet insurance for dogs in Australia
+Tables found: 1
+| Insurer | Best for | Key strengths |
+|---|---|---|
+| **Knose** | ⭐ Best overall for many dogs | Up to $25k/year, no sub-limits, flexible excess/cover, 80% reimbursement options, 24/7 vet nurse hotline |
+| **Petsy** | ⭐ Best alternative / value | Up to $30k/year, no sub-limits, annual excess, direct-to-vet payments, 5% multi-pet discount |
+| **Trupanion** | 🏆 Best for very expensive/chronic conditions | 90% cover, **no annual payout limit**, no sub-limits, lifetime per-condition coverage, direct vet payments |
+| **RSPCA Pet Insurance** | Good high-limit option | Up to $35k/year, up to 90% reimbursement, no sub-limits |
+End Of Line

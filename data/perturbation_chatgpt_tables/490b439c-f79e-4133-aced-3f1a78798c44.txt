@@ -1,0 +1,11 @@
+2,58517c69-ceff-4cab-aff3-dfbf5f116780,08080132-1126-0626-0000-dd783d5be21f,490b439c-f79e-4133-aced-3f1a78798c44,2026-08-08T13:06:08.130529+10:00
+Cheapest roadside assistance for rural areas in Australia with monthly payments
+Tables found: 1
+| Provider | Basic price | Approx. monthly equivalent | Rural suitability |
+|---|---:|---:|---|
+| **RACQ Everyday Lite** | $80/year | **$6.67/mo** | ⚠️ No towing |
+| **RACQ Everyday** | $109/year | **$9.08/mo** | ✅ 20 km towing |
+| **RACQ Everyday Plus** | $179/year | **$14.92/mo** | ✅ 50 km towing |
+| **RACQ Ultra Care** | $227/year | **$18.92/mo** | ✅ 60 km towing |
+| **RACQ Ultimate Care** | $310/year | **$25.83/mo** | ⭐ 100 km towing |
+End Of Line

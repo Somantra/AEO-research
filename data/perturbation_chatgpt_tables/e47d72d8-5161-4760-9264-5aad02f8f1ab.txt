@@ -1,0 +1,11 @@
+2,49ea7e75-fe3c-49a0-99c2-6be796b5d5c9,08080123-1126-0626-0000-fcf201830959,e47d72d8-5161-4760-9264-5aad02f8f1ab,2026-08-08T12:44:15.191988+10:00
+Best third-party motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Third-party liability | Own-bike cover | Notable extra | My take |
+|---|---:|---|---|---|
+| **QBE** | **Up to $30m** | No | Strong overall motorcycle offering; learner riders accepted | 🥇 **Best overall** |
+| **Youi** | Up to $20m | No | Flexible excess; counselling; optional Fire & Theft | 🥈 **Best features/flexibility** |
+| **NRMA** | Up to $20m | No | **$5,000 uninsured-driver damage**; lifetime repair guarantee | 🥉 **Best value extras** |
+| **AAMI** | Up to $20m | No | **$5,000 uninsured-driver damage**; Fire & Theft optional | **Good mainstream option** |
+| **Budget Direct** | Up to $20m | No | $5,000 uninsured-driver benefit; competitive pricing | **Worth quoting for price** |
+End Of Line

@@ -1,0 +1,11 @@
+2,2262a824-a6fa-4ab4-b8f8-3ccfdaae3074,08080140-1126-0626-0000-31fe4193ef57,c42a74e1-de99-41f1-af85-5f0735ff9f30,2026-08-08T13:25:00.107145+10:00
+Cheapest pet insurance for puppies and kittens in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews | Price/value | Why I'd consider it |
+|---|---:|---|---|
+| **Bow Wow Meow** | ⭐ 4.5/5, 3,237 reviews | **Very good** | Best overall balance of price, coverage and reviews |
+| **Petsy** | ⭐ 4.9/5, 323 reviews | **Very good** | Excellent reviews and strong coverage; particularly interesting for kittens |
+| **Knose** | ⭐ 4.8/5, 747 reviews | **Good** | Excellent customer service/claims reputation, but premiums can rise with age |
+| **Pet Insurance Australia** | ⭐ 4.5/5, 2,259 reviews | Good | Large review base and strong claims reputation |
+| **Budget Direct** | ⭐ 1.9/5, 49 reviews | **Cheapest contender** | Finder currently identifies it as Australia's cheapest, but customer feedback is a major concern |
+End Of Line

@@ -1,0 +1,11 @@
+2,0ccf1658-286d-4855-a15e-9dd08e9ca7e9,08080129-1126-0626-0000-9e168f77ff4f,dead28b1-6a09-4f96-8bee-8c7f421e97b1,2026-08-08T12:59:58.638274+10:00
+Most affordable roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Cheapest monthly equivalent | EV suitability | Key limitation |
+|---|---:|---|---|
+| **Budget Direct** | **$6.37/mo equivalent** | Good | **Annual membership only**, not monthly instalments |
+| **RACV Roadside Care** | **$12/mo** | **Excellent** | Victoria-focused; EV assistance included |
+| **RAA Standard** | **$11.25/mo** | Good | SA-based, although assistance is Australia-wide |
+| **AANT Standard** | **~$11.58/mo** | Good | NT-focused |
+| **RACV Extra Care** | **$19.58/mo** | **Excellent** | More towing/benefits |
+End Of Line

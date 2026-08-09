@@ -1,0 +1,11 @@
+1,5b14c951-a002-4153-aaa0-abde921166e2,08080135-1126-0626-0000-dcb25f7ea3af,535c0aa6-09c1-47c1-b990-95b50a8f3bd0,2026-08-08T13:15:34.171292+10:00
+Most popular pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer | Pre-existing condition approach |
+|---|---|
+| **Medibank** | Can review a pre-existing condition after **18 months without signs/symptoms**, with vet records/certification. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | Similar **18-month symptom-free review** for temporary conditions. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| **RACQ** | Allows a waiver/review where a temporary condition has been symptom-free for **at least 18 months**. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| **Bupa** | Has a formal pre-existing-condition exclusion review process, generally requiring **18 months symptom-free**. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| **Budget Direct** | Temporary conditions can potentially become covered after **12 months symptom-free**, according to CHOICE. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

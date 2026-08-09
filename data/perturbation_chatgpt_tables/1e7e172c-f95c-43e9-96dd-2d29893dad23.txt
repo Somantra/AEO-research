@@ -1,0 +1,11 @@
+1,dbe86623-6f56-43a6-8a9e-f9d3561e060e,08080134-1126-0626-0000-09708793e8e3,1e7e172c-f95c-43e9-96dd-2d29893dad23,2026-08-08T13:12:23.111496+10:00
+Cheapest pet insurance for dogs in Australia
+Tables found: 1
+| Insurer | Why consider it | Cover |
+|---|---|---|
+| **Budget Direct** | 🥇 Cheapest according to Finder | Plus: accident & illness; up to $15k/year on Comprehensive |
+| **Cover-More / CoverMy** | Low-cost basic option | Up to $8k/year, up to 85% back |
+| **Pet Insurance Australia** | Broad range of policies | Multiple cover levels |
+| **Bow Wow Meow** | Good value if you want higher cover | Up to $30k/year, up to 90% back |
+| **Petcover** | Competitive pricing | Up to $10k/year on Vital |
+End Of Line

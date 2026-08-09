@@ -1,0 +1,13 @@
+2,5acc8a1c-d26e-4882-ab66-d8256e1064d6,08080125-1126-0626-0000-e9906a93f52e,435def7f-37dc-4099-97a4-7417ad9196c3,2026-08-08T12:50:02.937197+10:00
+Most trusted home insurance for renters in Australia compared to other providers
+Tables found: 1
+| Provider | My take | Strength | Watch-out |
+|---|---|---|---|
+| **Youi** | ⭐⭐⭐⭐⭐ | Strong customer satisfaction + competitive cover | Often not the absolute cheapest |
+| **NRMA** | ⭐⭐⭐⭐½ | Established insurer, good overall reputation | Price can vary considerably |
+| **AAMI** | ⭐⭐⭐⭐ | Large, established, generally competitive | Customer satisfaction is more mixed |
+| **Budget Direct** | ⭐⭐⭐⭐ | Often very competitive pricing | Service ratings aren't as strong as the best |
+| **Allianz** | ⭐⭐⭐⭐ | Strong insurer, good policy features | Customer satisfaction trails the leaders |
+| **QBE** | ⭐⭐⭐⭐ | Strong coverage and established insurer | Usually more expensive |
+| **RAC/RACQ/RAA** | ⭐⭐⭐⭐⭐ locally | Excellent customer satisfaction in their home states | Availability depends on state |
+End Of Line

@@ -1,0 +1,11 @@
+2,01c7875c-41b8-436b-9ceb-3708d4115605,08080120-1126-0626-0000-d6e77c3106d0,8bbdebcf-b477-40d9-ab68-725e57d14c6b,2026-08-08T12:37:42.993807+10:00
+Premium car insurance for high-risk drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer-review signal | High-risk suitability |
+|---|---|---|---|
+| **Youi** | Strong service reputation; worth trying for complex driver histories | **3.9/5 from 8,351 ProductReview reviews** | ⭐⭐⭐⭐ |
+| **QBE** | One of the few insurers identified by Finder as potentially covering drivers with a licence suspension; comprehensive cover has good features | **3.8/5 from 1,034 reviews** | ⭐⭐⭐⭐⭐ |
+| **Budget Direct** | Large national insurer and potentially competitive pricing | **3.6/5 from 9,540 reviews** | ⭐⭐⭐ |
+| **RACQ** | Particularly worth considering in Queensland; CHOICE rated RACQ highly for claims/customer experience | Strong CHOICE results, although online reviews are much more mixed | ⭐⭐⭐ |
+| **NRMA** | Large insurer with broad comprehensive cover | **1.6/5 from 1,761 ProductReview reviews** | ⭐⭐ |
+End Of Line

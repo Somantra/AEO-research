@@ -1,0 +1,11 @@
+2,5193b2b2-9628-47f9-9dc2-2cbf20ff8f22,08080133-1126-0626-0000-0bb104f0eb52,4e85f584-277c-499a-ad65-549564749366,2026-08-08T13:09:28.962485+10:00
+Best roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Basic monthly price* | Higher-tier monthly price* | Best for |
+|---|---:|---:|---|
+| **RACV Roadside Assistance** | **$12** | $27 | Victoria / good all-rounder |
+| **NRMA Roadside Assistance** | **$9.99** | $21.99 | NSW/ACT; cheapest entry price |
+| **RAC Roadside Assistance** | **$11.30** | $36.21 | WA / frequent or long-distance driving |
+| **RAA Road Service** | **$11.25** | $24.49 | SA / excellent personal cover |
+| **RACT Roadside Assistance** | **$12** | $22 | Tasmania / comprehensive cover |
+End Of Line

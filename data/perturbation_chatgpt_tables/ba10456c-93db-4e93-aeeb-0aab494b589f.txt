@@ -1,0 +1,11 @@
+2,bf60c8ed-8f9e-431f-ace7-aaaa339750d7,08080126-1126-0626-0000-3880f386eb9e,ba10456c-93db-4e93-aeeb-0aab494b589f,2026-08-08T12:52:06.718362+10:00
+Safest home insurance for new builds in Australia compared to other providers
+Tables found: 1
+| Provider | New-build suitability | Key strength | Main concern |
+|---|---|---|---|
+| **Allianz** | ⭐⭐⭐⭐⭐ | Strong disaster cover + optional rebuild safety net | Check exact PDS exclusions |
+| **QBE** | ⭐⭐⭐⭐⭐ | 30% buildings sum-insured safeguard + up to 2 yrs temporary accommodation | Defects/faulty workmanship excluded |
+| **Suncorp** | ⭐⭐⭐⭐½ | Strong Queensland/weather focus + resilience benefits | Structural/design/workmanship exclusions |
+| **Youi** | ⭐⭐⭐⭐½ | Strong repair/rebuild service features | Need to check the particular policy/PDS |
+| **AAMI** | ⭐⭐⭐⭐ | Broad mainstream cover | Defective workmanship/design exclusions |
+End Of Line

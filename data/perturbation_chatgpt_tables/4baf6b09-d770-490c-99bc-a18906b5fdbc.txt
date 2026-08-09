@@ -1,0 +1,9 @@
+2,536b8c81-9df7-4c2f-b5f5-caf8c797d499,08080139-1126-0626-0000-66a27fd172fc,4baf6b09-d770-490c-99bc-a18906b5fdbc,2026-08-08T13:23:47.392394+10:00
+Most trusted pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer | Multi-pet discount | Monthly payments | Standout |
+|---|---:|---|---|
+| **RSPCA Pet Insurance** | **10%** on each additional pet | **Yes** | Direct-to-vet claims + strong all-round option |
+| **Bow Wow Meow** | **10%** on 2nd & subsequent pets | Quote/payment options available | Excellent multi-pet offering + GapOnly |
+| **Petsy** | **5%** on each additional pet | **Yes** | Very flexible cover, no sub-limits on inclusions |
+End Of Line

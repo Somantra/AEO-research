@@ -1,0 +1,9 @@
+1,2063296a-835f-4d5c-962d-9898e497fdb0,08080134-1126-0626-0000-aff4e7b565c5,c0f52ac8-124b-454d-9574-e0e787b0f721,2026-08-08T13:12:44.240624+10:00
+Least reliable pet insurance for dogs in Australia
+Tables found: 1
+| Provider/policy | Why it may be considered less attractive |
+|---|---|
+| PetsOnMe | Ranked among the lowest-rated pet insurance policies in a CHOICE comparison, based on factors including coverage and out-of-pocket costs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Pet Insurance | Also ranked among the lower-rated policies in CHOICE’s comparison. Some customers report dissatisfaction around premium increases and claim value, though individual experiences vary. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Petcover | Ranked among lower-rated policies by CHOICE; some consumers also discuss significant premium increases. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

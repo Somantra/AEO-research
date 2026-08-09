@@ -1,0 +1,11 @@
+1,d9c3ab06-8431-40d3-b049-fc1d1c358d17,08080120-1126-0626-0000-c608198c1b29,9fedecd3-f1ef-42de-9624-8312793bdcc9,2026-08-08T12:36:48.029626+10:00
+Premium motorcycle insurance for high-performance bikes in Australia
+Tables found: 1
+| Insurer | Why consider it |
+|---|---|
+| **[Shannons Motorcycle Insurance](https://www.shannons.com.au/motorcycle-insurance.html)** | Strong enthusiast-oriented option. Comprehensive cover includes **agreed value**, with listed modifications/accessories included in that value, plus riding-gear cover up to $3,000 total. [www.shannons.com.au](https://www.shannons.com.au/motorcycle-insurance.html?GetDocs=True&utm_source=chatgpt.com) |
+| **[RACV Motorcycle Insurance](https://www.racv.com.au/insurance/motorcycle-insurance.html)** | Particularly worth quoting in Victoria. Comprehensive cover includes agreed or market value, choice of repairer, modifications/accessories, theft/fire/storm cover and up to $2,000 for protective gear. [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **[GIO Motorcycle Insurance](https://www.gio.com.au/motorcycle-insurance.html)** | Comprehensive option covering accidental damage, theft, fire, vandalism and uninsured-driver damage, with $20m legal liability. [www.gio.com.au](https://www.gio.com.au/motorcycle-insurance.html?va-get-docs=true&utm_source=chatgpt.com) |
+| **[AAMI Motorcycle Insurance](https://www.aami.com.au/motorcycle-insurance.html)** | Comprehensive cover is available for sport bikes and includes theft, accidental damage, $20m liability and riding apparel cover up to $1,000. [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance/comprehensive?utm_source=chatgpt.com) |
+| **QBE** | Worth including in a quote comparison; current comparison data lists QBE comprehensive motorcycle insurance with agreed or market-value options. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

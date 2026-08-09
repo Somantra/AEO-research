@@ -1,0 +1,11 @@
+2,1a8e936b-bebe-4f04-b947-e794855eda12,08080120-1126-0626-0000-4c487fe39a9d,77c96ee7-0972-422d-911d-901e0571913e,2026-08-08T12:37:39.526712+10:00
+Most popular car insurance for high-risk drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer reviews* | High-risk suitability |
+|---|---|---:|---|
+| **Youi** | Strong reputation for personalised service; often worth quoting for non-standard drivers | **3.9/5, 8,351 reviews** | ⭐⭐⭐⭐ |
+| **QBE** | One of the few insurers identified by Finder as potentially covering drivers with a licence suspension | **3.8/5** | ⭐⭐⭐⭐⭐ |
+| **Budget Direct** | Very competitive pricing; Finder's high-risk testing returned quotes after an at-fault accident | **3.6/5, 9,540 reviews** | ⭐⭐⭐⭐⭐ |
+| **Australian Seniors** | Excellent customer-review score, particularly for drivers 50+ | **4.8/5, 4,900 reviews** | ⭐⭐⭐ |
+| **AAMI** | Large mainstream insurer and worth getting a quote from | Reviews are mixed | ⭐⭐⭐ |
+End Of Line

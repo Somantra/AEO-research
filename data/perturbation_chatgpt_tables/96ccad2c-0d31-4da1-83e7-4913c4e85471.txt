@@ -1,0 +1,11 @@
+2,ce1ed194-894c-4522-8168-0b3d6f0359e4,08080131-1126-0626-0000-48201a582b0a,96ccad2c-0d31-4da1-83e7-4913c4e85471,2026-08-08T13:05:21.077976+10:00
+Best roadside assistance plans in Australia with strong customer reviews
+Tables found: 1
+| Provider | Current review signal | Best for | Example higher-tier plan |
+|---|---|---|---|
+| **RAC** | ⭐ **4.8/5 from 1,221 reviews** | Best overall reviews + strong long-distance cover | Ultimate: ~$350/yr |
+| **NRMA** | ⭐ **4.5/5 from 1,913 reviews** | Best large national option | Multiple membership levels |
+| **RAA** | Strong regional reputation | Excellent choice for SA drivers | Premium: $293/yr |
+| **RACQ** | 3.2/5 from 405 reviews | QLD coverage/network | Ultra Care: $227/yr |
+| **RACV** | 2.6/5 from 185 reviews | Victoria-specific network | Total Care: ~$337/yr |
+End Of Line

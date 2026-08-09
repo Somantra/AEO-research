@@ -1,0 +1,10 @@
+2,bcf895ee-8d58-47c1-8248-0d6f0fa9f6c7,08080131-1126-0626-0000-17a21988f298,008aa650-58d8-40e0-b763-88eec62b50c8,2026-08-08T13:04:08.870642+10:00
+Cheapest roadside assistance for older cars in Australia without hidden fees
+Tables found: 1
+| Provider | Approx. basic price | Older car | Hidden-fee concern | My take |
+|---|---:|---|---|---|
+| **24/7 Roadservices** | **from $79/yr** | Appears suitable | Says **no joining fee** | 🥇 Cheapest to investigate |
+| **RACQ Everyday Lite** | **from $80/yr** | Vehicle eligibility applies | Check terms | 🥈 Cheapest major motoring club, QLD |
+| **RAC WA Standard** | **$128/yr annual price** | Good option | Monthly payment has 6% admin fee | 🥇 Best major-club choice in WA |
+| NRMA / RACV / RAA etc. | Generally ~$100+ | Varies | Depends on plan | Worth comparing locally |
+End Of Line

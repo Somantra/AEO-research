@@ -1,0 +1,10 @@
+0,7537e419-b2f3-409b-a777-0b06fd297b51,08080116-1126-0626-0000-66e177848cdb,a60a1eb3-f465-45b4-b5fc-9f4339dfb369,2026-08-08T12:28:20.110260+10:00
+car insurance for used cars in Australia
+Tables found: 1
+| Cover | What it generally covers | Best for |
+|---|---|---|
+| **Comprehensive** | Damage to your car, damage to other vehicles/property, theft, fire, and some weather damage (depending on policy) | Newer or higher-value used cars |
+| **Third Party Property** | Damage you cause to someone else’s car/property | Older, low-value cars where you can afford to replace your own car |
+| **Third Party Fire & Theft** | Third party damage plus your car if stolen or damaged by fire | Older cars with some remaining value |
+| **CTP (Compulsory Third Party)** | Injury compensation for people hurt in an accident | Mandatory with registration; does not cover vehicle damage |
+End Of Line

@@ -1,0 +1,11 @@
+2,e5ee8982-e617-4d52-8714-3728bfaeecec,08080121-1126-0626-0000-b51a48473d5d,eb912d23-4858-4cb8-9805-b4a3cc317ad2,2026-08-08T12:40:51.810305+10:00
+Premium motorcycle insurance for scooters in Australia with monthly payments
+Tables found: 1
+| Insurer | Comprehensive | Monthly payments | Notable features |
+|---|---|---|---|
+| **Budget Direct** | Yes | **Yes** | Agreed or market value, choice of repairer option |
+| **RACV** | Yes | **Yes** | Theft, fire, collision, vandalism; up to $2,000 protective-gear cover |
+| **ING** | Yes | **Yes** | New-for-old on eligible new motorcycles; monthly or yearly |
+| **QBE** | Yes | Yes/quote-dependent | Agreed or market value; competitive value option |
+| **National Motorcycle Insurance** | Yes | Quote-dependent | Specialist motorcycle insurer; strong gear/personal-effects cover |
+End Of Line

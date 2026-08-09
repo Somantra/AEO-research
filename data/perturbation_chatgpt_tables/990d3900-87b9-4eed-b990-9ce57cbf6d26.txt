@@ -1,0 +1,11 @@
+2,f8ee42f2-da6c-49cd-9c6d-73c316e46dea,08080140-1126-0626-0000-f59cd99f36f1,990d3900-87b9-4eed-b990-9ce57cbf6d26,2026-08-08T13:25:29.515429+10:00
+Safest pet insurance for puppies and kittens in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews* | Why I’d consider it | Main caution |
+|---|---:|---|---|
+| **Petsy** | **4.9/5** | Excellent customer sentiment; no sub-limits; 80%/90% reimbursement; up to $30k for young pets; particularly attractive for puppies/kittens | Compare premium carefully as the pet ages |
+| **Knose** | **4.8/5** | Excellent reviews, **no sub-limits**, up to $25k, up to 90% back, annual rather than per-claim excess, 24/7 vet advice | Doesn't cover routine/preventative care; breed-specific exclusions need checking |
+| **Bow Wow Meow** | **4.5/5** | Long-established option, strong customer feedback and GapOnly availability | Policy features vary, so scrutinise sub-limits/exclusions |
+| **Pet Insurance Australia** | **4.5/5** | Up to $35k annual limit, 70/80/90% reimbursement and GapOnly at participating vets | Reviews are good but not quite as strong as Petsy/Knose |
+| **RSPCA Pet Insurance** | — | New 2026 product has up to $35k and no sub-limits; policies support RSPCA animal-welfare work | It changed substantially on 1 April 2026, so older reviews aren't necessarily representative |
+End Of Line

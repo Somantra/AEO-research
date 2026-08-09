@@ -1,0 +1,10 @@
+2,ea4b2ed6-f56e-4140-aedc-4b647625e97d,08080125-1126-0626-0000-79382cd53fc0,6140930d-4f13-4a01-8e81-fa6e9240b0c5,2026-08-08T12:50:48.538214+10:00
+Least reliable home insurance for landlords in Australia with monthly payments
+Tables found: 1
+| Insurer | Current customer-review signal | My take |
+|---|---|---|
+| **AAMI Landlord Insurance** | **1.3/5** from 90 ProductReview reviews; 93% negative | 🚩 **High caution** |
+| **Terri Scheer** | **1.6/5** from 247 reviews; 85% negative | 🚩 **High caution**, despite specialising in landlord insurance |
+| **Allianz Landlord Insurance** | **1.9/5** from 98 reviews | ⚠️ **Caution** |
+| **Budget Direct Landlord Insurance** | **3.7/5** from 197 reviews | ⚠️ Better overall reviews, but numerous complaints specifically concern tenant damage/loss of rent |
+End Of Line

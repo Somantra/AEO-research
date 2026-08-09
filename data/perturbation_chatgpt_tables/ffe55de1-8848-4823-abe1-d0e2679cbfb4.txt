@@ -1,0 +1,10 @@
+2,ab4e2d17-2124-42bd-9aae-b3b41e7b3fed,08080141-1126-0626-0000-12f187d6dd80,ffe55de1-8848-4823-abe1-d0e2679cbfb4,2026-08-08T13:27:38.665929+10:00
+Most affordable accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Provider / policy type | Approx. monthly cost* | Best for | Notes |
+|---|---:|---|---|
+| PetsOnMe Accident Plan | From about **$15–$30+** | Lowest-cost accident cover | Listed as an accident-only option with up to $5,000 annual benefit and 80% reimbursement in comparisons. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance accident cover | Around **$18–$32/month** (typical estimates) | Recognised brand, simple cover | Pricing varies significantly by pet profile. [petguides.au](https://petguides.au/tools/pet-insurance-comparison/?utm_source=chatgpt.com) |
+| PetSure-backed policies | Around **$20–$35/month** (typical estimates) | Comparing multiple brands | PetSure provides underwriting/administration services for several Australian pet insurance products. [petguides.au](https://petguides.au/tools/pet-insurance-comparison/?utm_source=chatgpt.com) |
+| Budget accident-only policies generally | About **$15/month for cats and $28/month for dogs** (averages) | Cheapest protection against emergencies | Finder’s examples show accident-only is roughly half the price of accident-and-illness policies. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+End Of Line

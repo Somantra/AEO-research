@@ -1,0 +1,10 @@
+2,62179f2e-6d8c-4ce7-a52d-81ba6b3a0491,08080132-1126-0626-0000-f2821c55c145,eee96cf9-75f9-49f1-8e72-4b5ef02dc33e,2026-08-08T13:06:35.653908+10:00
+Least reliable roadside assistance for rural areas in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer reviews | Rural suitability | My take |
+|---|---:|---|---|
+| **RAC (WA)** | ⭐ 4.8/5, 1,221 reviews | **Excellent** | 🥇 Best overall if you're in WA |
+| **NRMA** | ⭐ 4.5/5, 1,913 reviews | Very good | 🥈 Strong NSW/regional option |
+| **RACV** | Strong reputation | **Excellent in regional Victoria** | 🥉 Particularly good for Vic |
+| **RACQ** | ⭐ 3.2/5, 405 reviews | Good network | Less convincing based on reviews |
+End Of Line

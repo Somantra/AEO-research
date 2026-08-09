@@ -1,0 +1,9 @@
+2,e571c34a-9e67-4c53-94e7-17d145a91df2,08080137-1126-0626-0000-f42cec827e9e,c5a2f07d-b38c-4224-ace4-ab09cd54a5b8,2026-08-08T13:20:06.144800+10:00
+Worst travel insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Current customer rating | Why I’d be cautious |
+|---|---:|---|
+| **World Nomads** | **2.4/5** | The clearest red flag. Reviews are heavily negative around claims, communication and exclusions. [www.productreview.com.au](https://www.productreview.com.au/listings/world-nomads?utm_source=chatgpt.com) |
+| **Allianz Travel Insurance** | **3.8/5** | Large review base (3,100+) and generally decent overall rating, but recurring complaints include claim delays, excesses, cancellations/refunds and communication. [www.productreview.com.au](https://www.productreview.com.au/listings/allianz-travel-insurance?utm_source=chatgpt.com) |
+| **Cover-More** | **3.7/5** | A much stronger overall reputation than World Nomads, but there are still recurring complaints about communication and strict exclusions. [www.productreview.com.au](https://www.productreview.com.au/listings/cover-more?utm_source=chatgpt.com) |
+End Of Line

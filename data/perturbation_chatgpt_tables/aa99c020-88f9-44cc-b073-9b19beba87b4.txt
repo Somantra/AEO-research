@@ -1,0 +1,10 @@
+2,b35a498f-3a4f-4703-8caa-5b873f1430b3,08080126-1126-0626-0000-620dfca95cbb,aa99c020-88f9-44cc-b073-9b19beba87b4,2026-08-08T12:53:11.002287+10:00
+Safest home insurance for older properties in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it for an older home | Watch carefully |
+|---|---|---|
+| **Australian Seniors** | Particularly worth quoting if you're 50+. Two cover levels, selectable excess, emergency accommodation and $20m liability. Current PDS is dated July 2026. [www.seniors.com.au](https://www.seniors.com.au/policy-documents?utm_source=chatgpt.com) | Check the PDS for property-condition requirements and all additional excesses |
+| **Allianz** | Strong option to quote for older/heritage-style homes; clearly publishes excess information and allows monthly payment with no extra cost. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) | Check special conditions for renovations and the exact rebuild basis |
+| **RACV** | Particularly worth checking if the property is in Victoria. Its current January 2026 Premium, Excess and Discounts Guide is publicly available, and excesses are clearly specified. [www.racv.com.au](https://www.racv.com.au/insurance/home-insurance.html?utm_source=chatgpt.com) | Make sure the quote captures the home's actual age, construction and special features |
+| **AAMI** | Worth getting a comparison quote; its Flexi-Premiums system makes the premium/excess trade-off explicit. [www.aami.com.au](https://www.aami.com.au/aami-informed/in-the-home/home-insurance-excess-explained?utm_source=chatgpt.com) | Multiple excess types can apply depending on the claim |
+End Of Line

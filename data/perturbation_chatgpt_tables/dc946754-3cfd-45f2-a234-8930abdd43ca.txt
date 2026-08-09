@@ -1,0 +1,8 @@
+0,647874ae-2673-418c-8ed0-0962006b61b4,08080117-1126-0626-0000-9eeae7c420df,dc946754-3cfd-45f2-a234-8930abdd43ca,2026-08-08T12:28:51.024923+10:00
+third-party motorcycle insurance in Australia
+Tables found: 1
+| Cover | What it covers | Mandatory? |
+|---|---|---|
+| **CTP (Compulsory Third Party)** | Injury/death you cause to other people in an accident | **Yes** |
+| **Third Party Property Damage (TPPD)** | Damage you cause to someone else's car, motorcycle or property | **Usually optional** |
+End Of Line

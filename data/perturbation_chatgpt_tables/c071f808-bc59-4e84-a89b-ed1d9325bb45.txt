@@ -1,0 +1,11 @@
+1,76b6d2c8-a3dd-4587-b5bf-08553553b3de,08080129-1126-0626-0000-0c12d454a9a5,c071f808-bc59-4e84-a89b-ed1d9325bb45,2026-08-08T13:00:40.984938+10:00
+Most reliable roadside assistance for hybrid cars in Australia
+Tables found: 1
+| Provider | Best for | Why it suits hybrids |
+|---|---|---|
+| NRMA | NSW/ACT drivers, interstate travel | Large roadside network, 24/7 assistance, and covers common issues like batteries, tyres, fuel and towing. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACQ | Queensland drivers | Strong regional coverage; higher tiers include longer attendance/towing benefits useful for rural hybrid owners. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/ultra-care?utm_source=chatgpt.com) |
+| RACV | Victoria drivers | Specifically states its roadside assistance covers battery electric and hybrid vehicles at no extra cost. [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com)[www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/ultra-care?utm_source=chatgpt.com) |
+| RAC | WA drivers | Good choice where regional towing distances matter. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+| RAA | SA drivers | Established state-based motoring club option. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,a1bfe0ba-1bab-4d05-8bc6-cf04d4ce08f9,08080132-1126-0626-0000-def23568661a,a1cb07a8-194c-4d26-935a-5063ba37df80,2026-08-08T13:07:48.704722+10:00
+Safest roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly price* | Hybrid/EV support | Towing | My take |
+|---|---:|---|---|---|
+| **RACV Total Care** | **$27** | ✅ Hybrid + EV, no extra cost | **100 km** | 🥇 Best overall |
+| **RACV Extra Care** | $19.58 | ✅ Hybrid + EV | 60 km | Best value |
+| **RACV Roadside Care** | $12 | ✅ Hybrid + EV | 20 km metro | Cheapest good option |
+| **RAA Premium** | $24.49 | ✅ Hybrids + BEVs | Up to 50 km metro / 200 km country | Excellent, especially SA |
+End Of Line

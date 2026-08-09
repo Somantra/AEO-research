@@ -1,0 +1,9 @@
+2,0f741dab-7e6b-4b7c-a9f5-4ced445893fa,08080126-1126-0626-0000-6d64fc13add5,46e97c03-864f-4689-8631-e3bacadbb8e4,2026-08-08T12:52:23.643277+10:00
+Premium home insurance for new builds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Claims |
+|---|---|---|
+| **QBE** | Strong new-build fit: up to **30% Buildings Sum Insured Safeguard** if eligible, up to **2 years temporary accommodation**, emergency repairs and repairer workmanship guarantee | **24/7 claims**, online lodgement and a dedicated claims officer [www.qbe.com](https://www.qbe.com/au/claims/home?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/home-insurance/building-insurance?utm_source=chatgpt.com) |
+| **Allianz** | Comprehensive building cover, including storm, flood, fire, bushfire, escape of liquid and accidental glass breakage; strong claims-service offering | **24/7 claims support** and says it paid over $1.5bn in home claims in 2025 [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/building.html?utm_source=chatgpt.com) |
+| **AAMI** | Worth quoting as a price/coverage benchmark, particularly if you want a mainstream Suncorp-group insurer | Claims can be lodged digitally; compare the current PDS carefully for new-build requirements |
+End Of Line

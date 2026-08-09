@@ -1,0 +1,10 @@
+2,e4036c3c-4602-4c8b-b3a5-29b21e95fdc8,08080138-1126-0626-0000-aba8ab75091d,0096638c-5019-4653-9e66-85de99ecb282,2026-08-08T13:20:43.351176+10:00
+Cheapest pet insurance for cats in Australia with monthly payments
+Tables found: 1
+| Insurer | Approx. price / month | Cover | Monthly payments |
+|---|---:|---|---|
+| **Pet Insurance Australia** | **~$78/month*** | $15k cover, 80% reimbursement | Yes |
+| **Bow Wow Meow** | **~$79/month*** | $20k cover, 80% reimbursement | Check quote |
+| **Budget Direct** | Quote required | $12k–$25k annual limit, 80% reimbursement | **Yes** |
+| **Cover-More / CoverMy** | Quote required | Up to $8k annual limit, up to 85% | Check quote |
+End Of Line

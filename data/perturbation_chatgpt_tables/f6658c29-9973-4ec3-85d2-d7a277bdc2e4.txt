@@ -1,0 +1,19 @@
+2,5c992821-96f3-4493-ac78-fc5bf1467cf4,08080141-1126-0626-0000-64bd0f10581e,f6658c29-9973-4ec3-85d2-d7a277bdc2e4,2026-08-08T13:27:24.996680+10:00
+Premium pet insurance for exotic pets in Australia compared to other providers
+Tables found: 1
+| Feature | **Petcover Premier Exotic** | Typical dog/cat insurers (Bow Wow Meow, Petsy, Knose, etc.) |
+|---|---|---|
+| Reptiles | ✅ Yes | ❌ Generally no |
+| Birds/parrots | ✅ Yes | ❌ Generally no |
+| Rabbits / small mammals | ❌ Premier; Plus/Value available | ❌ Generally no |
+| Vet-fee limit | **Up to $6,000** | Often $10k–$30k+, but for cats/dogs |
+| Illness | ✅ | Usually ✅ for eligible dogs/cats |
+| Accidental injury | ✅ No waiting period | Usually ✅ |
+| Illness waiting period | **21 days** | Varies |
+| Third-party liability | **Up to $1 million** | Usually not comparable for exotic pets |
+| Specialist/referral treatment | ✅ | Depends on policy |
+| MRI/CT | ✅ Subject to co-payment/limits | Depends on policy |
+| Alternative treatments | **Up to $500** | Varies |
+| Lost/stolen pet advertising/reward | **$500** | Varies |
+| Lifetime/age availability | Birds/reptiles: no upper age limit; turtles to 50 | Generally species/age dependent |
+End Of Line

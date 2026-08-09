@@ -1,0 +1,10 @@
+2,6421936b-5e46-4053-b787-e7316ebf57e8,08080138-1126-0626-0000-109584df9f49,6b54bc14-d5d3-4f55-b002-b2c38b5c21e3,2026-08-08T13:21:03.868932+10:00
+Most reliable pet insurance for cats in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Main catch |
+|---|---|---|
+| **Petsy** | **Best for transparency.** Annual excess rather than per-claim/per-condition, no condition sub-limits, 80% or 90% reimbursement, and up to $25k/$30k annual cover depending on eligibility. | Dental, behavioural and alternative therapies require optional extras. [petsy.com.au](https://petsy.com.au/cat-insurance/?utm_source=chatgpt.com) |
+| **Knose** | **Excellent alternative.** No sub-limits or hidden costs advertised, annual excess, Australian-based customer care, up to $25k annual limit. [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) | Optional benefits such as dental illness cost extra; check the PDS exclusions carefully. |
+| **Medibank Pet Insurance** | **Best if you value established infrastructure/direct claiming.** Pet Max offers up to $30k/year and 90% reimbursement, with GapOnly available at participating vets. [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/cat/?utm_source=chatgpt.com) | Premiums and terms can change at renewal, and policy limits/exclusions still apply. [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/cat/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | Strong feature set: up to $30k, 90% reimbursement, annual excess, no sub-limits per condition and GapOnly. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/cats/cat-breeds/domestic-cat-pet-insurance/?utm_source=chatgpt.com) | Illness waiting period is 30 days, longer than Petsy/Knose's 14 days. |
+End Of Line

@@ -1,0 +1,13 @@
+1,274ff50e-5fe0-4b50-812c-f075144a6e01,08080130-1126-0626-0000-36605326a2cb,6f668de0-e2a3-45cc-a73e-c44b05e90602,2026-08-08T13:02:43.074774+10:00
+Most popular roadside assistance providers in Australia
+Tables found: 1
+| Provider | Main state/territory | Notes |
+|---|---|---|
+| **[NRMA](https://www.nrma.com.au/roadside-assistance)** | NSW & ACT | One of Australia's largest roadside networks; national reciprocal coverage |
+| **[RACV](https://www.racv.com.au/)** | Victoria | Major Victorian provider; interstate reciprocal coverage |
+| **[RACQ](https://www.racq.com.au/)** | Queensland | Major Queensland provider with several roadside plans |
+| **RAA** | South Australia | State motoring club |
+| **RAC** | Western Australia | State motoring club |
+| **RACT** | Tasmania | State motoring club |
+| **AANT** | Northern Territory | State/territory motoring club |
+End Of Line

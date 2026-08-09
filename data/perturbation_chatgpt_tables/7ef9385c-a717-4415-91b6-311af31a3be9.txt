@@ -1,0 +1,10 @@
+1,73acb54c-5a1a-409e-ad1a-5ca34b2c0d3b,08080128-1126-0626-0000-5fcfd343ab02,7ef9385c-a717-4415-91b6-311af31a3be9,2026-08-08T12:56:46.187145+10:00
+Worst roadside assistance plans in Australia
+Tables found: 1
+| Plan/type | Why I’d be cautious |
+|---|---|
+| **Allianz Basic** | Relatively limited towing and a **48-hour waiting period**. During that period, even towing isn't provided; needing a technician can cost an extra $100. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+| **RACV Roadside Care** | Good basic cover, but **only 20 km metro towing**. That's not much if your car breaks down on the other side of Melbourne. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| **NRMA Everyday Care** | The entry-level plan has only **25 km metro towing**. NRMA itself can be good, but this tier is relatively restrictive compared with its higher plans. [www.finder.com.au](https://www.finder.com.au/car-insurance/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| **Cheap insurer add-ons with 20–25 km towing** | Often fine for a cheap urban safety net, but poor value if you regularly travel interstate, regionally, or simply want the car taken to your preferred mechanic. |
+End Of Line

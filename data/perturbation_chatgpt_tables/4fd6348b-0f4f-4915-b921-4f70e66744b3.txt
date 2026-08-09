@@ -1,0 +1,9 @@
+2,23970ee3-3210-48d5-a3f7-64e4bfd87178,08080136-1126-0626-0000-8d412d7debb8,4fd6348b-0f4f-4915-b921-4f70e66744b3,2026-08-08T13:17:09.275231+10:00
+Easiest travel insurance for pre-existing medical conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims convenience | My take |
+|---|---|---|---|
+| **[Cover-More](https://www.covermore.com.au/)** | 30+ conditions can be automatically covered if criteria are met; other conditions can go through an online health assessment | 24/7 emergency assistance; established claims support | **Best overall for simplicity** |
+| **[InsureandGo Australia](https://www.insureandgo.com.au/)** | Considers all pre-existing conditions through a medical questionnaire | Online claims; says it aims to respond within **10 business days** after receiving documentation | **Best if claims speed is your priority** |
+| **[Allianz Australia](https://www.allianz.com.au/)** | Medical assessment available for eligible pre-existing conditions on Comprehensive cover | 24/7 Australian-based case managers and online claims | **Good established option** |
+End Of Line

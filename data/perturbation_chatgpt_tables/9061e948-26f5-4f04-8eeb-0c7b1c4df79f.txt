@@ -1,0 +1,10 @@
+2,14af5895-56a4-4daf-9478-6f789f4256b4,08080130-1126-0626-0000-30861ed692ef,9061e948-26f5-4f04-8eeb-0c7b1c4df79f,2026-08-08T13:01:23.226908+10:00
+Most reliable roadside assistance for motorcycles in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Current price | Towing / key limitation |
+|---|---|---:|---|
+| **Rider Support Australia (RSA)** | 🏆 Best motorcycle-specific option nationwide | **$119.95/yr Premium** | Motorcycle-focused; unlimited call-outs. Included towing depends on plan; excess distance is quoted before you approve it. [www.ridersupportaustralia.com.au](https://www.ridersupportaustralia.com.au/?utm_source=chatgpt.com) |
+| **RAC WA** | 🏆 Best if you're mainly in WA | **$135.68/yr Standard** | 25 km metro / 80 km country free towing on Standard; Australia-wide assistance. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/standard?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?utm_source=chatgpt.com) |
+| **RACQ** | Best Queensland option | **$109/yr Everyday** | Covers motorcycles; 20 km towing on Everyday. Larger roadside fleet and stated average 35-min response. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/motorcycle?utm_source=chatgpt.com) |
+| **RSA Essential** | Cheapest motorcycle-specific cover | **$69.95/yr** | 4 call-outs/year; 30 km metro / 50 km country towing. [www.ridersupportaustralia.com.au](https://www.ridersupportaustralia.com.au/Essential?utm_source=chatgpt.com) |
+End Of Line

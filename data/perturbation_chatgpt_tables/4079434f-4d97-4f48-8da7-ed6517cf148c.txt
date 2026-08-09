@@ -1,0 +1,10 @@
+2,6cc4cb2d-57fe-4fca-880b-7d518fd194df,08080141-1126-0626-0000-f6cdd888757e,4079434f-4d97-4f48-8da7-ed6517cf148c,2026-08-08T13:26:44.729684+10:00
+Most affordable pet insurance for exotic pets in Australia without hidden fees
+Tables found: 1
+| Pet type | Petcover advertised starting price | Cheapest cover level to investigate |
+|---|---:|---|
+| 🐦 Birds | **from $21/month** | Value |
+| 🐢 Turtles/tortoises | **from $23/month** | Value |
+| 🦎 Reptiles | **from $26/month** | Value |
+| 🐰 Rabbits/small mammals | **from $31/month** | Value |
+End Of Line

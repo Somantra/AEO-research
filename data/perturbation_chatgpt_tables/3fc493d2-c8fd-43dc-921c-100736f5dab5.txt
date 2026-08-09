@@ -1,0 +1,17 @@
+2,bb257792-5a8d-4371-bf57-765a06896b9c,08080141-1126-0626-0000-1e85fe56fd8a,3fc493d2-c8fd-43dc-921c-100736f5dab5,2026-08-08T13:27:05.951181+10:00
+Easiest pet insurance for exotic pets in Australia with a fast claims process
+Tables found: 1
+| What matters | Petcover |
+|---|---|
+| Exotic pets | ✅ Yes |
+| Rabbits | ✅ |
+| Birds | ✅ |
+| Reptiles | ✅ |
+| Turtles/tortoises | ✅ |
+| Accident waiting period | **None** |
+| Illness waiting period | **21 days** |
+| Vet-fee cover | Up to **$6,000** |
+| Claims | Online claim process |
+| Specialist/referral vets | ✅ |
+| Third-party liability | Up to **$1 million** |
+End Of Line

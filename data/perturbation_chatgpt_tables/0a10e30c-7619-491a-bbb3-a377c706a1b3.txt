@@ -1,0 +1,13 @@
+1,3d615da7-120b-468c-91f3-11bb9f82afd5,08080136-1126-0626-0000-b8d9c36fcf80,0a10e30c-7619-491a-bbb3-a377c706a1b3,2026-08-08T13:18:21.196924+10:00
+Premium pet insurance for exotic pets in Australia
+Tables found: 1
+| Pet | Maximum advertised vet cover |
+|---|---:|
+| 🦜 Parrots/birds | $6,000 |
+| 🦎 Bearded dragons, geckos, skinks etc. | $6,000 |
+| 🐢 Turtles | $6,000 |
+| 🐰 Rabbits | $4,000 |
+| 🐹 Guinea pigs | $4,000 |
+| 🐀 Rats/mice | $4,000 |
+| 🦦 Ferrets | $4,000 |
+End Of Line

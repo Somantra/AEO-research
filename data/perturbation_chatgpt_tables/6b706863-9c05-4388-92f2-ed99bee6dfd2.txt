@@ -1,0 +1,11 @@
+2,11da4a01-12cd-4039-994c-abbf7cfce68b,08080118-1126-0626-0000-415b651678de,6b706863-9c05-4388-92f2-ed99bee6dfd2,2026-08-08T12:33:53.032687+10:00
+Cheapest car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Price potential | Claims experience | Why consider it |
+|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Excellent claims/customer satisfaction in QLD |
+| **Youi** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Strong claims satisfaction; online claims + app |
+| **Woolworths Everyday** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Strong value ratings |
+| **GIO** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good balance of price and claims |
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | ⭐⭐ | Often cheap, but claims satisfaction is notably weaker |
+End Of Line

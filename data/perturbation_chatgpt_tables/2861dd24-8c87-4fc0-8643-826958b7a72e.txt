@@ -1,0 +1,10 @@
+2,8bcb06d3-1725-4c1b-a0f7-58c8fe7f9d71,08080140-1126-0626-0000-ba5f4074802c,2861dd24-8c87-4fc0-8643-826958b7a72e,2026-08-08T13:24:23.537964+10:00
+Most reliable pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Pre-existing-condition approach | Customer reviews | My take |
+|---|---|---:|---|
+| **Knose** | Temporary conditions may become coverable; assessment available before the first claim | **4.8/5, 747 reviews** | ⭐ **Best overall if your condition may be temporary** |
+| **Pet Insurance Australia (PIA)** | Temporary conditions can potentially be covered after the required symptom-free period | **4.5/5** | ⭐ **Best for long-term customer experience** |
+| **Medibank** | Allows review; temporary conditions can be reconsidered after **18 months symptom-free** | **4.2/5, 75 reviews** | Good if your condition has genuinely resolved |
+| **Bow Wow Meow** | Strong overall product/claims reputation, but pre-existing conditions remain a major exclusion | **4.5/5, 3,237 reviews** | ⭐ **Best customer-review track record, but not my first choice for an existing condition** |
+End Of Line

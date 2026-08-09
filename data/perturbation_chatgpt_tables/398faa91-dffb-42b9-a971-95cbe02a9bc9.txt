@@ -1,0 +1,11 @@
+2,0334fbe9-e3df-4aef-a9a4-52e5b441737f,08080141-1126-0626-0000-08afc1c5fd69,398faa91-dffb-42b9-a971-95cbe02a9bc9,2026-08-08T13:28:14.819475+10:00
+Most popular accident-only pet insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Accident-only option | Online quote | Good for |
+|---|---|---|---|
+| [PetsOnMe](https://www.petsonme.com.au/) | Yes | Yes | Simple accident cover; lower-cost option |
+| [PD Insurance](https://www.pd.com.au/pet-insurance) | Yes | Yes | Budget-focused cover |
+| [Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/) | Accident/emergency-style cover options | Yes | People who prefer a major Australian brand |
+| [Petcover Australia](https://www.petcover.com.au/) | Accident cover options | Yes | Broad pet insurance specialist |
+| [iSelect Pet Insurance comparison](https://www.iselect.com.au/pet-insurance/accident-only/) | Compares available policies | Yes | Comparing multiple insurers quickly |
+End Of Line

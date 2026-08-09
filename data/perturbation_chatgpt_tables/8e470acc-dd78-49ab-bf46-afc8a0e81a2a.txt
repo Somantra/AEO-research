@@ -1,0 +1,12 @@
+2,08695323-69b5-4f9b-acc3-2ec37dd3b519,08080142-1126-0626-0000-5129de7797a1,8e470acc-dd78-49ab-bf46-afc8a0e81a2a,2026-08-08T13:28:33.030043+10:00
+Best pet insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Cover highlights | Main trade-off |
+|---|---|---|---|
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | **Best overall coverage/value contender** | Up to **$35k/year**, up to **90% back**, no sub-limits, optional dental/behavioural/supportive therapies | New product launched in 2026, so compare the new PDS carefully |
+| **[Knose](https://www.knose.com.au/)** | **Best flexible policy** | Up to **$25k**, 70/80/90%, no standard treatment sub-limits, optional dental/behavioural/specialised therapies | $25k ceiling is lower than RSPCA/Pet Insurance Australia |
+| **[Petsy](https://petsy.com.au/)** | **Best for simple, high-percentage cover** | 80/90% reimbursement, up to $25k normally, no sub-limits; optional extras | New policies generally must start before age 9 |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | **Best customisation** | $15k/$25k/$35k, 70/80/90%, $0–$600 excess, no sub-limits; GapOnly available | Routine/dental-type extras can require add-ons |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | **Best for GapOnly + established brand** | Up to $30k, 90%, GapOnly, 24/7 vet support; 5% multi-pet discount | Some benefits depend on plan; excess is per condition/per policy period |
+| **[Trupanion Australia](https://trupanion.com.au/pet-insurance/)** | **Best for very expensive/chronic conditions** | **No annual payout limit or sub-limits**, 90%, direct vet payment at partner hospitals | Usually a more expensive structure; less customisable |
+End Of Line

@@ -1,0 +1,11 @@
+2,858116d2-cc6b-4911-a546-c396958d36bf,08080131-1126-0626-0000-41ff8f600fde,dd1fd4ec-6a73-408e-aed6-db95122d9f3c,2026-08-08T13:05:27.859061+10:00
+Most reliable roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Strongest point | My take |
+|---|---:|---|---|
+| **[NRMA](https://www.nrma.com.au/roadside-assistance)** | From **$9.99/mo** | Excellent NSW coverage + Australia-wide assistance | ⭐ **Best for NSW** |
+| **[RACV](https://www.racv.com.au/cars-transport/roadside-assistance.html)** | From **$12/mo** | Very comprehensive higher tiers | ⭐ **Best premium option** |
+| **[RAA](https://www.raa.com.au/motor/road-service)** | From **$11.25/mo** | Personal cover + Australia-wide | ⭐ **Excellent overall** |
+| **[RAC WA](https://rac.com.au/car-motoring/roadside-assistance)** | From **$11.30/mo** | Strong WA network and national assistance | ⭐ Best for WA |
+| **RACQ** | Monthly available on eligible plans | Strong Queensland network | ⭐ Best for QLD |
+End Of Line

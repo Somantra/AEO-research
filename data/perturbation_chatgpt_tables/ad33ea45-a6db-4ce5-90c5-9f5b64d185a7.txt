@@ -1,0 +1,9 @@
+1,8a198491-b262-4741-9553-812cdcdf0daf,08080123-1126-0626-0000-cfb3e17afc0b,ad33ea45-a6db-4ce5-90c5-9f5b64d185a7,2026-08-08T12:45:47.814427+10:00
+Most comprehensive home insurance for new builds in Australia
+Tables found: 1
+| Insurer / policy type | Why it may suit a new build | Watch-outs |
+|---|---|---|
+| AAMI Complete Replacement Cover | Strong option if you want protection against underestimating rebuild costs because the policy is designed around the assessed cost to repair/rebuild rather than a fixed building sum insured. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/home-and-contents-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/aami-complete-replacement-cover-home?utm_source=chatgpt.com) | Check eligibility, exclusions, and how upgrades/material matching are handled. |
+| QBE Insurance Home | Offers a building safety net option (reported by CHOICE as 30% underinsurance safety net) and broad standard insured events. [www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/qbe-home?utm_source=chatgpt.com) | Accidental damage may be an optional extra. [www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/qbe-home?utm_source=chatgpt.com) |
+| Allianz Home & Contents | Established insurer with options including accidental damage and building safety-net features depending on policy selection. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/accidental-damage.html?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/allianz-home-and-contents?utm_source=chatgpt.com) | Compare the exact Product Disclosure Statement (PDS), as options vary. |
+End Of Line

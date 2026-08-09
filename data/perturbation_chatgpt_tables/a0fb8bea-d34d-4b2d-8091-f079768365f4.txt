@@ -1,0 +1,9 @@
+2,0ac8b46e-27b2-4bbd-b645-84be7cf9fd8d,08080139-1126-0626-0000-713d3f0f62be,a0fb8bea-d34d-4b2d-8091-f079768365f4,2026-08-08T13:23:25.609244+10:00
+Best pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Insurer | Multi-pet discount | Cover highlights | My take |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10%** off 2nd+ pets | Up to $30k/year, up to 90%, zero sub-limits on Nose-to-Tail, GapOnly | 🥇 **Best overall for multiple pets** |
+| **Knose** | **5%** off each additional pet | Up to $25k, up to 90%, no sub-limits or hidden costs | 🥈 **Best for fee transparency** |
+| **Medibank** | **5%** off 2nd+ pets | Up to $30k/year, up to 90%, GapOnly | 🥉 **Best mainstream option** |
+End Of Line

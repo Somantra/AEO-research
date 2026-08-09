@@ -1,0 +1,13 @@
+1,affe0a53-0389-4d76-a708-61eb0ed71f28,08080118-1126-0626-0000-ee2e88882d59,d4825aed-f207-4738-94a2-7fd9631d3044,2026-08-08T12:33:57.214301+10:00
+Premium car insurance providers in Australia
+Tables found: 1
+| Provider | Best suited for | Premium features to look for |
+|---|---|---|
+| Shannons | Enthusiasts, prestige cars, modified cars, classics | Agreed value, enthusiast-focused service, specialist vehicle knowledge |
+| Allianz Australia | Luxury vehicles and mainstream prestige cars | Comprehensive cover, repair networks, broad insurer backing |
+| NRMA Insurance | Higher-value everyday vehicles and premium comprehensive policies | Comprehensive options, large repair network, established claims infrastructure |
+| QBE Insurance Australia | Higher-value vehicles and tailored insurance needs | Flexible underwriting, comprehensive cover options |
+| AAMI | Drivers wanting strong mainstream comprehensive cover | Comprehensive policies with optional extras |
+| Youi | Drivers wanting personalised pricing | Customer-focused underwriting model |
+| RAA | South Australian drivers seeking higher-tier cover | Premium comprehensive options and member services |
+End Of Line

@@ -1,0 +1,10 @@
+1,91f30cd8-3342-4c36-a40a-d1ace89fc55c,08080127-1126-0626-0000-fb20e71f6acb,388f210f-e909-4a62-836d-8b552ed684d2,2026-08-08T12:54:50.196736+10:00
+Most affordable roadside assistance for commercial vehicles in Australia
+Tables found: 1
+| Provider | Approx. cost | Best for | Notes |
+|---|---:|---|---|
+| FleetCard Australia Roadside Assistance | From **$4.99–$6.99/month per vehicle** | Small fleets, work vans | Very low monthly cost; includes battery jumpstart, towing, keys locked in, fuel, tyre help and workshop referral. Available to FleetCard members. [www.fleetcard.com.au](https://www.fleetcard.com.au/road-assistance/?utm_source=chatgpt.com) |
+| RACQ Business Roadside | From **$121/year per vehicle** | Single business vehicles in QLD | Business cover with vehicle-specific assistance and optional higher tiers. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/business?utm_source=chatgpt.com) |
+| RACV Business Roadside Fee for Service | From **$37/year subscription** plus incident fees | Low-use commercial vehicles | Designed for businesses that prefer paying less upfront and paying when they use the service; covers vehicles up to 8 tonnes GVM. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business/fee-for-service.html?utm_source=chatgpt.com) |
+| Roadside Support Australia | Around **$119/year** (plan shown) | Owner-operators wanting nationwide cover | Includes towing limits, battery help, flat tyre service and fuel assistance. [roadsidesupport.com.au](https://roadsidesupport.com.au/plans-%26-pricing?utm_source=chatgpt.com) |
+End Of Line

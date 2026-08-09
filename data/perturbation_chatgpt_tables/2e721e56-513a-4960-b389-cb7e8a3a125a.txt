@@ -1,0 +1,10 @@
+2,96565275-b7f3-44f6-9ff3-706c11a8f7d8,08080130-1126-0626-0000-61c1424323ed,2e721e56-513a-4960-b389-cb7e8a3a125a,2026-08-08T13:03:11.544013+10:00
+Most affordable roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Starting cost | Commercial vehicles | Response / claims-style process | Best for |
+|---|---:|---|---|---|
+| **RACV Business Fee-for-Service** | **$37/vehicle/year** + callout | Up to 8t GVM | Usually arrives within 1 hour; monthly invoicing | **Lowest ongoing cost if breakdowns are infrequent** |
+| **RACV Business Roadside Care** | **$125/vehicle/year** | Up to 8t GVM | Usually within 1 hour; unlimited calls subject to fair use | **Best cheap unlimited option** |
+| **RACV Business Extra Care** | $210/vehicle/year | Up to 8t GVM | Usually within 1 hour; 60km towing | Fleets travelling further |
+| **Allianz Roadside Assistance** | From **$99/year** | Check vehicle eligibility | 24/7 nationwide; mobile mechanics | Good nationwide alternative |
+End Of Line

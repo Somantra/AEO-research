@@ -1,0 +1,10 @@
+2,65d1cd13-5298-45a9-abbc-b3db338e49be,08080130-1126-0626-0000-a95663acb4c7,9fa2e2a9-b289-4ebe-9d9e-69fb9cdd84c5,2026-08-08T13:01:37.435533+10:00
+Most trusted roadside assistance for motorcycles in Australia with monthly payments
+Tables found: 1
+| Provider | Motorcycle cover | Monthly payment | My take |
+|---|---|---|---|
+| **NRMA** | ✅ Yes | **From $9.99/month** | ⭐ **Best overall** |
+| **RACQ** | ✅ Yes | Monthly availability varies | ⭐ Best if you're in QLD |
+| **RACV** | Motorcycle eligibility should be checked | **From $12/month** | ⭐ Best if you're in VIC |
+| **RAA** | ✅ Cover applies to vehicles | **From $11.25/month** | ⭐ Good SA option |
+End Of Line

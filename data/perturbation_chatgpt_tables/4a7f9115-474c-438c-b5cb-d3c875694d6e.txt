@@ -1,0 +1,10 @@
+2,35a1c0f0-9ceb-474a-a8e9-c0a4cbea070f,08080117-1126-0626-0000-030041cc7f69,4a7f9115-474c-438c-b5cb-d3c875694d6e,2026-08-08T12:30:57.386346+10:00
+Worst car insurance for older drivers in Australia compared to other providers
+Tables found: 1
+| Provider / policy | CHOICE Expert Rating | Main issue |
+|---|---:|---|
+| **Suncorp Comprehensive Advantages** | **50%** | Extremely expensive relative to the cover |
+| **Bupa Comprehensive** | **50%** | Middling cover + poor price |
+| **AHM Comprehensive** | **51%** | Similar white-label policy, poor value |
+| **Huddle Comprehensive** | **53%** | Same underlying policy, only middling cover |
+End Of Line

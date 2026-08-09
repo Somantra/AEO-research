@@ -1,0 +1,11 @@
+2,78782764-bc38-41f3-99ea-215e93b68750,08080136-1126-0626-0000-a716be05dc2d,fade6764-001c-48a0-afa5-b922d71081f4,2026-08-08T13:17:28.769294+10:00
+Most popular travel insurance for pre-existing medical conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing conditions | Assessment option | Notable point |
+|---|---|---|---|
+| **Cover-More** | Many conditions automatically covered | Yes | **Strong all-round option**; broad automatic-cover list |
+| **Medibank** | Many conditions automatically covered | Yes | Good mainstream alternative |
+| **Allianz** | More restrictive depending on plan | Yes on eligible plans | Basic plan doesn't cover pre-existing conditions |
+| **SCTI** | Generally requires assessment for conditions outside its automatic list | Yes | Strong medical cover; **36-month** look-back period |
+| **NRMA** | Many conditions automatically covered | Yes | Worth pricing against Cover-More/Medibank |
+End Of Line

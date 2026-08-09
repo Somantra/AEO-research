@@ -1,0 +1,14 @@
+2,ac2629e2-02b6-4c0f-adbe-2d22d98dc770,08080142-1126-0626-0000-20d6acd119e1,9b6a083e-6a84-4aa0-9d0e-79b468fac558,2026-08-08T13:29:08.080551+10:00
+Most comprehensive pet insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Max annual cover | Reimbursement | Sub-limits | Dental | Monthly payments | My take |
+|---|---:|---:|---|---|---|---|
+| **Fetch** | $30,000 | Up to 100% | **None** | ✅ Included | Check quote | ⭐ **Most comprehensive overall** |
+| **Trupanion** | **Unlimited** | Customisable | **None** | ⚠️ Policy-dependent | Check quote | ⭐ Best for very large/chronic claims |
+| **Petsy** | $30,000 | Customisable | **None** | Optional | Check quote | ⭐ Excellent comprehensive/value option |
+| **Pet Insurance Australia** | $35,000 | Customisable | Low/none depending option | Optional | ✅ Yes | ⭐ Excellent high-limit option |
+| **Knose** | $25,000 | Up to 90% | **None** | Optional | Check quote | ⭐ Excellent flexibility |
+| **Bow Wow Meow** | $30,000 | Up to 90% | **None** | Optional Booster | Check quote | ⭐ Strong all-rounder |
+| **RSPCA Pet Insurance** | $35,000 | Up to 90% | Varies by cover | Varies | ✅ Yes | Strong mainstream option |
+| **Petinsurance.com.au** | $30,000 | 80% | Several | Optional | Check quote | Good, but less comprehensive |
+End Of Line

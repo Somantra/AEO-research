@@ -1,0 +1,11 @@
+2,e0b57efb-1f87-4cb3-a3ad-7bc045acd11c,08080121-1126-0626-0000-e85b56549707,5effd8a5-4b03-4dcc-8bd2-383f92400326,2026-08-08T12:40:06.701507+10:00
+Best motorcycle insurance for scooters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims convenience |
+|---|---|---|
+| **QBE** | Strong motorcycle-specific cover; comprehensive includes theft, accidental damage, gear up to $4,000 and up to $30m liability | **24/7 claims**, online or phone, dedicated claims officer [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | Very good digital/phone experience; comprehensive includes roadside assistance and hire car after a not-at-fault accident | **Online claims 24/7**; says calls average around 30 seconds to answer [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **RACV** | Particularly worth checking if you're in Victoria; comprehensive has choice of repairer, theft cover and gear cover | **24/7 claims** through app or claims team [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **NRMA** | Strong claims infrastructure and scooter-specific claims process | **24/7 claims**, online tracking, photo/document uploads and repairer booking [www.nrma.com.au](https://www.nrma.com.au/claims/motorcycle-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Simple digital claims process and motorcycle-specific comprehensive insurance | **24/7 online claims**, photo/document upload and claim tracking [www.aami.com.au](https://www.aami.com.au/claim/motorcycle?utm_source=chatgpt.com) |
+End Of Line

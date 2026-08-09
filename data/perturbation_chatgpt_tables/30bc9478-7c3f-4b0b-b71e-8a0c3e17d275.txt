@@ -1,0 +1,10 @@
+2,cc83fbae-c9e4-4f34-bd6c-57059c619e91,08080139-1126-0626-0000-068623251888,30bc9478-7c3f-4b0b-b71e-8a0c3e17d275,2026-08-08T13:23:25.098941+10:00
+Worst pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer / policy type | Why it may be a poor fit for multi-pet households |
+|---|---|
+| Petcover Australia | Has appeared among lower-rated policies in CHOICE comparisons; some owners report dissatisfaction with value and policy outcomes. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance pet insurance | Ranked among lower-performing policies in CHOICE’s analysis; may not suit owners wanting strong comprehensive cover. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| PetsOnMe | Also appeared among lower-rated policies in CHOICE’s comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Very cheap “accident only” or low-limit policies | Can look attractive monthly, but may leave large gaps for illnesses, surgery, chronic conditions, and ongoing treatment. [moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

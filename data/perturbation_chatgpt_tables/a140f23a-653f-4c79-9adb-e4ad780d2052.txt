@@ -1,0 +1,10 @@
+2,f06e5149-b900-43f7-acdb-06734d276a47,08080140-1126-0626-0000-f787ad0c9026,a140f23a-653f-4c79-9adb-e4ad780d2052,2026-08-08T13:24:20.630088+10:00
+Worst pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Overall customer rating* | Pre-existing conditions | My take |
+|---|---:|---|---|
+| **Fetch** | ⭐ 4.8/5 (562 reviews) | Generally excluded; some **curable** conditions can become eligible after a symptom-free period | ⚠️ **Best example of the mismatch** |
+| **Knose** | ⭐ 4.8/5 (747 reviews) | Generally excluded | ⚠️ Excellent reviews, but existing conditions remain a major limitation |
+| **Petsy** | ⭐ 4.9/5 | Generally excluded, although temporary conditions may qualify for an exclusion to be lifted | ⚠️ Very strong reviews, poor fit for an existing chronic condition |
+| **PetSure-backed policies** | ⭐ 2.0/5 (59 reviews) for PetSure itself | Generally strict around pre-existing conditions | ❌ Poor reviews *and* potentially difficult claims experience |
+End Of Line

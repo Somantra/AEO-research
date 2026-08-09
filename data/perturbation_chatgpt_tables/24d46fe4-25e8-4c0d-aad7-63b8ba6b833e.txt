@@ -1,0 +1,10 @@
+2,0aff69bb-498f-447f-806d-6cbba04450ae,08080129-1126-0626-0000-63deb1b7e747,24d46fe4-25e8-4c0d-aad7-63b8ba6b833e,2026-08-08T13:00:25.959544+10:00
+Least reliable roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider type | Why EV owners may find it unreliable |
+|---|---|
+| **Cheap nationwide third-party roadside plans** | Often rely heavily on subcontractors; EV-specific knowledge and equipment can vary. |
+| **Small local towing-only services** | May tow an EV but may not know safe EV handling procedures, high-voltage isolation requirements, or correct recovery points. |
+| **Some manufacturer roadside programs** | A call centre may outsource assistance, meaning the person answering may have limited knowledge of the vehicle. |
+| **Providers without EV-specific coverage wording** | Risk of delays if they need a specialist tow vehicle or flatbed. |
+End Of Line

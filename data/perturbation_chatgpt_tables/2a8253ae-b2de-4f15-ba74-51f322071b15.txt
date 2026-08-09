@@ -1,0 +1,10 @@
+2,e03468ef-3eba-4c03-827b-6dda4d924a72,08080118-1126-0626-0000-40a52a5417f2,2a8253ae-b2de-4f15-ba74-51f322071b15,2026-08-08T12:33:31.446179+10:00
+Most trusted car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | EV-specific strengths | Monthly payments | My take |
+|---|---|---|---|
+| **Allianz** | Battery damage, battery fires/thermal runaway, charging cables & wall chargers, EV-certified repairers, new-EV replacement | ✅ Yes | **Best overall EV-focused cover** |
+| **RACV** | EV-qualified repair network, charging cables/adaptors, agreed-value option, strong Victorian roadside support | ✅ Yes | **Best for Victoria** |
+| **NRMA** | EV-specific insurance, authorised repair workmanship guarantee, established insurer | ✅ Usually | **Strong alternative** |
+| **AAMI** | Comprehensive cover and flexible monthly instalments | ✅ Yes | **Worth comparing for price** |
+End Of Line

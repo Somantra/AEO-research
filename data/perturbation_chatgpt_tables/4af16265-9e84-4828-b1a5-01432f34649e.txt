@@ -1,0 +1,10 @@
+1,78b863ba-101d-4dc8-8b4c-0d4267cc8653,08080117-1126-0626-0000-6ded6cc161f0,4af16265-9e84-4828-b1a5-01432f34649e,2026-08-08T12:28:57.399827+10:00
+Most reliable car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | Best for | EV features to look for |
+|---|---|---|
+| Allianz Australia | Overall EV-focused cover | Battery damage cover, EV battery fire/thermal runaway cover, charging cable and wall charger cover, EV-certified repairers, agreed value options. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) |
+| NRMA Insurance | Drivers wanting a large Australian insurer | Broad repair network and established claims infrastructure (check current EV-specific inclusions in the PDS). [www.mozo.com.au](https://www.mozo.com.au/insurance/car-insurance/guides/ev-car-insurance/?utm_source=chatgpt.com) |
+| Youi | Customer service reputation | Often rated strongly for service; compare EV inclusions and pricing for your exact model. [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Value-focused buyers | Frequently competitive on price; verify EV battery and charging equipment coverage before buying. [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) |
+End Of Line

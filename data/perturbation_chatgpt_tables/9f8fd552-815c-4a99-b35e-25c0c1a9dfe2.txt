@@ -1,0 +1,13 @@
+2,1215f66d-fdbd-48e3-ba15-28c217a69e55,08080129-1126-0626-0000-bfa86c6bc51b,9f8fd552-815c-4a99-b35e-25c0c1a9dfe2,2026-08-08T12:59:37.764436+10:00
+Most popular home insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer-review signal | Best suited to |
+|---|---|---|
+| **NRMA Insurance** | ⭐ Strong — #1 Most Loved & Most Trusted in NSW | NSW homeowners |
+| **RACQ** | ⭐ Excellent — #1 Most Loved in QLD | Queensland |
+| **Youi** | ⭐ Excellent — strong service/claims results nationally | Customer service & claims |
+| **AAMI** | ⭐ Good — particularly strong in QLD | Broad national option |
+| **RAC / RAA / RACV** | ⭐ Very strong in their respective states | WA / SA / VIC |
+| **Suncorp** | ⭐ Good | Queensland & broader market |
+| **Allianz** | ⭐ Mixed — strong value in NSW, weaker overall satisfaction | Price/value shoppers |
+End Of Line

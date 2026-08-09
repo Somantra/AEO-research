@@ -1,0 +1,11 @@
+2,25d7d231-d46c-4f8f-952b-66e4a5d61ecf,08080130-1126-0626-0000-c3658f849707,cc7673f5-873e-4fc3-8d6c-60b2f59a0ba3,2026-08-08T13:02:28.620953+10:00
+Least reliable roadside assistance for interstate travel in Australia with strong customer reviews
+Tables found: 1
+| Provider | Review signal | Interstate suitability | My take |
+|---|---:|---|---|
+| **NRMA** | ⭐ 4.5/5, 1,913 reviews | Excellent | **Best overall choice** |
+| **RAC (WA)** | ⭐ 4.8/5, 1,221 reviews | Excellent | Excellent reviews, especially if WA is involved |
+| **RAA (SA)** | Strong reputation | Excellent | **Very good for long-distance/country travel** |
+| **RACQ (QLD)** | ⭐ 3.2/5, 405 reviews | Good | Good network, but reviews are much more mixed |
+| **RACV (VIC)** | ⭐ 2.6/5, 185 reviews | Good | Interstate coverage is available, but review signal is concerning |
+End Of Line

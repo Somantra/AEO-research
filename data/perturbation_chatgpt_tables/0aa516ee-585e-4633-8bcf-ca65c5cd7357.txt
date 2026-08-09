@@ -1,0 +1,13 @@
+2,abd2273d-34a2-4dc4-8cc3-af5c5da480f7,08080132-1126-0626-0000-05676a0b6092,0aa516ee-585e-4633-8bcf-ca65c5cd7357,2026-08-08T13:07:27.975379+10:00
+Best roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid/EV support | Best for | Value |
+|---|---|---|---|
+| **RACV** | ⭐⭐⭐⭐⭐ | Victoria + Australia-wide travel | Excellent |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Queensland + long-distance travel | Excellent |
+| **NRMA** | ⭐⭐⭐⭐½ | NSW/Sydney + Australia-wide travel | Very good |
+| **RAA** | ⭐⭐⭐⭐½ | South Australia | Very good |
+| **RAC WA** | ⭐⭐⭐⭐½ | Western Australia | Very good |
+| **Allianz** | ⭐⭐⭐⭐ | Simple nationwide cover | Good |
+| Insurance add-ons generally | ⭐⭐⭐ | Cheapest/basic protection | Variable |
+End Of Line

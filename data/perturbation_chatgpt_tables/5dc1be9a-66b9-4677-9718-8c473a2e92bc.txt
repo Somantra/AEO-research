@@ -1,0 +1,11 @@
+2,19d0a306-b852-4d21-b952-3721b87746e2,08080123-1126-0626-0000-79864de4b63b,5dc1be9a-66b9-4677-9718-8c473a2e92bc,2026-08-08T12:44:40.537171+10:00
+Safest third-party motorcycle insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer-review signal | Third-party motorcycle cover | My take |
+|---|---|---|---|
+| **Youi** | ⭐ **4.0/5** from 100+ motorcycle reviews | Yes | **Best overall for service** |
+| **Suncorp** | ⭐ ~3.8/5 motorcycle reviews | Yes | Strong alternative |
+| **Budget Direct** | ⭐ ~4.1/5 motorcycle reviews | Yes | Worth quoting for price/value |
+| **QBE** | ⭐ **2.9/5** from 80+ reviews | Yes | Competitive pricing, weaker review signal |
+| **NRMA/AAMI/GIO** | Varies substantially | Yes, depending on state/product | Get quotes, but compare PDS carefully |
+End Of Line

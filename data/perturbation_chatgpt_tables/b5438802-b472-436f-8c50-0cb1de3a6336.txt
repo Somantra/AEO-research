@@ -1,0 +1,12 @@
+2,b7d70187-1633-439d-a13d-05638cfa9d71,08080118-1126-0626-0000-7a80b16abcd2,b5438802-b472-436f-8c50-0cb1de3a6336,2026-08-08T12:33:08.050107+10:00
+Best car insurance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Insurer | Best for | EV features to look for |
+|---|---|---|
+| [Youi](https://www.youi.com.au/) | EV owners wanting EV-focused cover and service | Comprehensive cover, EV roadside assistance options (including help getting to a charger in eligible situations) [www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) |
+| [Budget Direct](https://www.budgetdirect.com.au/) | Competitive online pricing | Fast online quote process, comprehensive cover options; often competitive on price comparisons [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) |
+| [AAMI](https://www.aami.com.au/) | Large mainstream insurer | Check EV repair arrangements, agreed value and replacement options |
+| [NRMA Insurance](https://www.nrma.com.au/) | NSW drivers and established claims network | EV availability, repair network and roadside options |
+| [Allianz Australia](https://www.allianz.com.au/) | Broad national insurer | Compare EV battery, charging equipment and repair inclusions |
+| [RACV Insurance](https://www.racv.com.au/) | Victoria-based drivers | Compare EV-specific benefits and member pricing |
+End Of Line

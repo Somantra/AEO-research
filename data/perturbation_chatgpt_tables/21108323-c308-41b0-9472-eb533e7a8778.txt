@@ -1,0 +1,13 @@
+2,a0f8f48f-d301-4267-9c0b-82eb42d18e46,08080125-1126-0626-0000-80d78c2520d2,21108323-c308-41b0-9472-eb533e7a8778,2026-08-08T12:50:40.781204+10:00
+Worst home insurance for landlords in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Landlord-specific cover | My take |
+|---|---|---|---|
+| **Budget Direct** | Yes | Yes | ⭐ Good for price shopping; tenant default/malicious damage are optional |
+| **AAMI** | Yes | Yes | ⭐ Solid mainstream option; Tenant Protection is optional |
+| **NRMA** | Yes | Yes | ⭐ Strong standard cover; online discount available |
+| **QBE** | Yes, in minutes | Yes | ⭐ Particularly comprehensive landlord features |
+| **Allianz** | Yes | Yes | ⭐ Worth getting a quote, especially for comparison |
+| **Youi** | Yes | Yes | ⭐ Flexible, but pricing is highly property-specific |
+| **Real Insurance** | Yes, “in minutes” | Yes | ⚠️ Important: **Rent Default & Legal Expenses is currently suspended for new customers** |
+End Of Line

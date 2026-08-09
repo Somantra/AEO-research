@@ -1,0 +1,10 @@
+2,efbee5f4-e212-43d3-9379-89a55b0db09c,08080127-1126-0626-0000-a7a38ca81bb9,885aeffe-4ae4-4f41-a8fb-cc0882dea3c6,2026-08-08T12:54:50.551884+10:00
+Worst home and contents insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience concerns reported by customers |
+|---|---|
+| Qantas Insurance | Ranked near the bottom in CHOICE’s customer survey, with a high proportion of customers rating overall experience average or below. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| CGU Insurance | Also scored poorly for customer experience compared with many competitors. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| Budget Direct | Claims experience ratings were among the lower group in the CHOICE survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| Allianz Australia | Customer claims ratings were weaker than the top performers in the survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

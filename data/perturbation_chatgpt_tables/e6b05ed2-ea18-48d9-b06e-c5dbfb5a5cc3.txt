@@ -1,0 +1,12 @@
+1,0e3b2ce4-1637-4688-80cd-6815c411755c,08080118-1126-0626-0000-2b6fc27c3cb5,e6b05ed2-ea18-48d9-b06e-c5dbfb5a5cc3,2026-08-08T12:32:54.801824+10:00
+Most trusted car insurance for high-risk drivers in Australia
+Tables found: 1
+| Insurer | Why consider it | Customer satisfaction* |
+|---|---|---:|
+| **NRMA Insurance** | Strong established insurer; broad range of car cover | **72%** |
+| **GIO** | Often worth getting a quote when mainstream insurers are expensive | **75%** |
+| **Youi** | Particularly worth trying for drivers whose risk profile doesn't fit standard pricing | **77%** |
+| **Suncorp** | Established insurer with solid claims satisfaction | **68%** |
+| **AAMI** | Large mainstream insurer; worth comparing | **62%** |
+| **Allianz** | Another major insurer to test against the above | **61%** |
+End Of Line

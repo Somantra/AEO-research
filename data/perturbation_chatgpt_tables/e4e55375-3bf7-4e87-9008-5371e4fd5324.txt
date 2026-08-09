@@ -1,0 +1,12 @@
+2,79eab772-8acf-483b-a649-0078212849ca,08080119-1126-0626-0000-208c95c49082,e4e55375-3bf7-4e87-9008-5371e4fd5324,2026-08-08T12:35:10.538477+10:00
+Worst comprehensive car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction | Claims experience | My take |
+|---|---:|---:|---|
+| **RAA** | **91%** | **84%** | ⭐ Best overall, but SA only |
+| **RACQ** | **85%** | **85%** | ⭐ Excellent, QLD only |
+| **Youi** | **77%** | **73%** | ⭐ Best national option for customer satisfaction |
+| **RAC** | **77%** | **80%** | ⭐ Excellent, WA only |
+| **NRMA** | **72%** | **78%** | ⭐ Strong choice, particularly NSW |
+| **GIO** | **75%** | **76%** | Good mainstream alternative |
+End Of Line

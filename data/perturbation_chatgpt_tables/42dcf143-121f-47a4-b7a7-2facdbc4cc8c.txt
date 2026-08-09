@@ -1,0 +1,12 @@
+2,ee74356d-2a60-4bd8-8a84-d6bf95aaf2ad,08080132-1126-0626-0000-3778864a6b3e,42dcf143-121f-47a4-b7a7-2facdbc4cc8c,2026-08-08T13:07:57.920838+10:00
+Most trusted roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid/EV capability | Australia-wide help | Best for |
+|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | Yes | Strongest dedicated EV/hybrid roadside offering |
+| **RACV** | ⭐⭐⭐⭐⭐ | Yes | Excellent all-round option, especially long-distance |
+| **NRMA** | ⭐⭐⭐⭐⭐ | Yes | Best choice for NSW/ACT |
+| **RAA** | ⭐⭐⭐⭐⭐ | Yes | Excellent EV/hybrid expertise in SA |
+| **RAC WA** | ⭐⭐⭐⭐½ | Yes | Strong WA option |
+| **Other state motoring clubs** | ⭐⭐⭐⭐ | Generally via reciprocal arrangements | Best local option in their home state |
+End Of Line

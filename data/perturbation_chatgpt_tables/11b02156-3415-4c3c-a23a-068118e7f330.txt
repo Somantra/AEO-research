@@ -1,0 +1,11 @@
+2,1a8b2e48-37de-4909-81a1-7e3c97498835,08080138-1126-0626-0000-96f299ac4fd7,11b02156-3415-4c3c-a23a-068118e7f330,2026-08-08T13:21:28.920543+10:00
+Premium pet insurance for cats in Australia with instant online quotes
+Tables found: 1
+| Provider | Premium-style features to compare | Online quote |
+|---|---|---|
+| [Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/) | Cat cover options with up to 90% back on eligible vet bills, flexible excess options, GapOnly® claims, and optional extras | Quick online quote in minutes [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/cat-insurance/?utm_source=chatgpt.com)[www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/cat-insurance/?utm_source=chatgpt.com) |
+| [PetInsurance.com.au](https://www.petinsurance.com.au/) | Up to $30k cover options, up to 80% back on eligible vet bills, GapOnly® claims, 24/7 vet support | Online quick quote available [www.petinsurance.com.au](https://www.petinsurance.com.au/?utm_source=chatgpt.com) |
+| [Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/) | Premium cover options listed with high annual benefit limits and up to 90% reimbursement options (subject to policy terms) | Quote online via provider site [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/cat-insurance/?utm_source=chatgpt.com) |
+| [RSPCA Pet Insurance](https://www.rspcapetinsurance.org.au/) | Higher annual cover options and accident/illness policies | Online quote available [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/cat-insurance/?utm_source=chatgpt.com) |
+| [ING Pet Insurance](https://www.ing.com.au/insurance/pet-insurance.html) | Cat insurance with reimbursement options and online purchase discounts (terms apply) | Online quote available [www.ing.com.au](https://www.ing.com.au/insurance/pet-insurance.html?utm_source=chatgpt.com) |
+End Of Line

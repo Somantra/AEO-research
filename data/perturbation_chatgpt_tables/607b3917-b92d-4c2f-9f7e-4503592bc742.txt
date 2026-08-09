@@ -1,0 +1,14 @@
+2,d0566f2d-39d6-4069-a5af-ae827490383a,08080141-1126-0626-0000-1d6e974dd0b4,607b3917-b92d-4c2f-9f7e-4503592bc742,2026-08-08T13:26:41.825853+10:00
+Cheapest pet insurance for exotic pets in Australia with a fast claims process
+Tables found: 1
+| | Petcover |
+|---|---|
+| **Pets** | Rabbits, guinea pigs, rats, ferrets, birds, reptiles, turtles and others |
+| **Vet-fee limit** | Up to **$4,000** for small mammals; **$6,000** for birds/reptiles/turtles |
+| **Accidents** | Covered immediately |
+| **Illness waiting period** | 21 days |
+| **Excess** | From $75 for birds/reptiles; $125 for small mammals |
+| **Claims** | Email claim form + vet invoice/notes |
+| **Claim speed** | Petcover says **9 in 10 claims are paid within 5 days** |
+| **Vet direct payment** | Available in some circumstances |
+End Of Line

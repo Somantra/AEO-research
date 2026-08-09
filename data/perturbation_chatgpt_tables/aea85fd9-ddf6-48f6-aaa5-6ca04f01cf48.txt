@@ -1,0 +1,11 @@
+2,1b2ff87f-07f6-4b2b-8104-329879ae6d18,08080131-1126-0626-0000-886021d8dacb,aea85fd9-ddf6-48f6-aaa5-6ca04f01cf48,2026-08-08T13:04:01.616028+10:00
+Most comprehensive roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited to | Heavy-vehicle capability | Network / reach | Business continuity | Overall |
+|---|---|---|---|---|---|
+| **Truck Assist / NTI** | Trucks, transport operators, large fleets | **Excellent** | **Australia-wide** | **Excellent** | 🥇 **Best overall** |
+| **RAC BusinessWise** | Mixed commercial fleets, especially WA | Good | Australia-wide via affiliates | **Excellent** on Absolute | 🥈 |
+| **RACV Business Roadside** | Commercial fleets up to 8t GVM | Moderate | Australia-wide via clubs | Good | 🥉 |
+| **NRMA** | Light commercial vehicles / mixed fleets | Moderate | Australia-wide | Moderate | Strong for light vehicles |
+| Other state motoring clubs | Light commercial / mixed fleets | Usually limited by vehicle dimensions/GVM | National reciprocal coverage | Varies | Good alternatives |
+End Of Line

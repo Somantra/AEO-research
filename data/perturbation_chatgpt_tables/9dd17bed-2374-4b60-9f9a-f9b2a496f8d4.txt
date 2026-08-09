@@ -1,0 +1,12 @@
+2,86d94414-f4e9-4694-a1ca-349b9f127c2b,08080140-1126-0626-0000-46f48c721b04,9dd17bed-2374-4b60-9f9a-f9b2a496f8d4,2026-08-08T13:25:40.160306+10:00
+Most popular pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Provider | Annual limit | Reimbursement | Sub-limits | Young-pet advantage | Standout |
+|---|---:|---:|---|---|---|
+| **Petsy** | Up to $30k | Customisable | **None** | **20% bonus if started 6w–6m** | Excellent for young pets |
+| **Fetch** | $30k | Up to 100% | **None** | Yes | Broad coverage |
+| **Pet Insurance Australia** | Up to $35k | 70/80/90% | **None** | Young-pet entry | High maximum cover |
+| **Knose** | Up to $25k | 70/80/90% | **None** | Entry from 6 weeks | Strong overall policy |
+| **Medibank Pet Max** | Up to $30k | Up to 90% | Policy-dependent | — | **GapOnly** + large insurer |
+| **RSPCA PetFlex** | Up to $35k | Up to 90% | No sub-limits advertised | — | Strong mainstream option |
+End Of Line

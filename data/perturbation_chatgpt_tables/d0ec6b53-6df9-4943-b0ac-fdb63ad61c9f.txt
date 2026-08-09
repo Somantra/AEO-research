@@ -1,0 +1,10 @@
+2,eedabd63-2711-4049-a2c6-981ecfe5fbed,08080120-1126-0626-0000-cd7e793971f6,d0ec6b53-6df9-4943-b0ac-fdb63ad61c9f,2026-08-08T12:37:04.888021+10:00
+Best car insurance for high-risk drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I'd consider it | Customer-review signal | Best for |
+|---|---|---|---|
+| **Youi** | Strong service reputation and often willing to price individual risk rather than using a simple profile | **3.9/5 from 8,351 ProductReview reviews** | **Best overall for higher-risk drivers** |
+| **AAMI** | Large mainstream insurer with broad availability and established claims infrastructure | Reviews are mixed, but recent customers report very good claims support | Drivers wanting a major insurer |
+| **Budget Direct** | Often very competitive on price and has historically performed strongly in comparison ratings | **3.6/5 from 9,540 ProductReview reviews** | High-risk drivers primarily chasing price |
+| **ROLLiN'** | Particularly interesting for younger/P-plater drivers; offers telematics-based insurance | Strong niche option for young drivers | **Young/high-risk drivers willing to use telematics** |
+End Of Line

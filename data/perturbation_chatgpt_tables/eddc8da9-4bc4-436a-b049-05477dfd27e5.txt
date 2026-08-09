@@ -1,0 +1,10 @@
+2,6185c995-e67f-45a5-98d4-3972099a7ade,08080135-1126-0626-0000-585dc13cffdc,eddc8da9-4bc4-436a-b049-05477dfd27e5,2026-08-08T13:13:56.181833+10:00
+Least reliable travel insurance for family holidays in Australia compared to other providers
+Tables found: 1
+| Provider / brand | Why some travellers have been cautious | What to check carefully |
+|---|---|---|
+| AIG (including some white-label travel policies) | Some high-profile disputes have involved rejected claims, especially around medical conditions and exclusions. A recent case involving a Jetstar-linked AIG policy highlighted a dispute over a pre-existing condition assessment. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | Medical exclusions, pre-existing condition rules, emergency assistance process |
+| InsureandGo | Has appeared in comparison markets for years, but as with many budget-focused insurers, travellers often focus on reading exclusions rather than price alone. | Claim limits, excess amounts, cancellation cover |
+| Budget Direct | A lower-cost option can mean narrower cover depending on the policy level chosen. | Whether the cheaper policy actually covers your family’s activities and destinations |
+| Airline-sold travel insurance (various underwriters) | Convenience can hide who the actual insurer is and what the full policy terms are. | The underwriting insurer, not just the airline brand |
+End Of Line

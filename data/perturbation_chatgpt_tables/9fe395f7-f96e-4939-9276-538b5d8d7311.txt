@@ -1,0 +1,12 @@
+2,a4a72b6c-4fe2-40f7-9188-3152468ea023,08080132-1126-0626-0000-cfd73a607c2b,9fe395f7-f96e-4939-9276-538b5d8d7311,2026-08-08T13:07:15.302123+10:00
+Cheapest roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Approx. annual cost | Coverage notes | Best for |
+|---|---:|---|---|
+| Budget Direct Roadside Assistance | **~$90/year** | Unlimited call-outs, basic towing/help | Cheapest standalone option [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| NRMA Everyday Care | **~$112–$137/year** | Unlimited call-outs, metro towing up to 25 km | Good balance of price and network [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RAC Western Australia Standard | **~$128–$136/year** | Unlimited call-outs, WA-focused network | Best if you are in WA [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?mode=new&product=ultimateplus&utm_source=chatgpt.com) |
+| Royal Automobile Club of Victoria Basic cover | ~similar range | Strong Victorian network | VIC drivers |
+| RACQ basic plans | Usually higher than budget providers | Large Queensland network | QLD drivers |
+| RAA Standard | Around mid-range | State-based coverage | SA drivers |
+End Of Line

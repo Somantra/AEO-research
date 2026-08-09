@@ -1,0 +1,13 @@
+2,93f647f0-0850-41f7-ab01-4d442fca338c,08080141-1126-0626-0000-fd824895e057,5aefb28d-5655-468b-8842-cd3c554ee96b,2026-08-08T13:26:49.229226+10:00
+Best pet insurance for exotic pets in Australia compared to other providers
+Tables found: 1
+| Provider | Exotic pets? | Max vet cover | My take |
+|---|---|---:|---|
+| **Petcover Exotic** | **Yes** | **$6,000** birds/reptiles/turtles; **$4,000** small mammals | 🥇 Best/most obvious choice |
+| Bow Wow Meow | No — cats & dogs | Up to $30k for cats/dogs | ❌ Not suitable |
+| Knose | No — cats & dogs | Up to $25k | ❌ Not suitable |
+| Pet Insurance Australia | Dogs & cats | Varies by policy | ❌ Not suitable |
+| Petsy | Dogs & cats | Varies | ❌ Not suitable |
+| RSPCA Pet Insurance | Dogs & cats | Varies | ❌ Not suitable |
+| Medibank | Dogs & cats | Varies | ❌ Not suitable |
+End Of Line

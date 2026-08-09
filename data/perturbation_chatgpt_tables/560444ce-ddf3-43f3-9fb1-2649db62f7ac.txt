@@ -1,0 +1,11 @@
+1,53d7bd14-8890-48a4-b83c-e95b80d7c5e4,08080129-1126-0626-0000-ee62f9faf2ec,560444ce-ddf3-43f3-9fb1-2649db62f7ac,2026-08-08T12:59:29.085773+10:00
+Premium car insurance for P-plate drivers in Australia
+Tables found: 1
+| Insurer | Why I’d consider it for a P-plater |
+|---|---|
+| **[RAC WA](https://rac.com.au/car-motoring/car-insurance/comprehensive)** | Particularly worth checking in WA; comprehensive cover includes accidental damage, theft, fire, storm and flood, with optional hire-car cover. [rac.com.au](https://rac.com.au/car-motoring/car-insurance/comprehensive?utm_source=chatgpt.com) |
+| **[NRMA Insurance](https://www.nrma.com.au/car-insurance/p-plater-insurance)** | Explicitly caters for P-platers and offers Comprehensive, Comprehensive Basics and Comprehensive Plus. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/p-plater-insurance?utm_source=chatgpt.com) |
+| **[Youi](https://www.youi.com.au/car-insurance/car-insurance-for-drivers-under-25)** | Good option to quote if you want feature-rich comprehensive cover; Youi's comprehensive policy includes 24/7 roadside assistance for eligible young drivers. [www.youi.com.au](https://www.youi.com.au/car-insurance/car-insurance-for-drivers-under-25?utm_source=chatgpt.com) |
+| **[AAMI](https://www.aami.com.au/car-insurance/comprehensive-car-insurance)** | Comprehensive cover plus flexible excess options that can reduce the premium. Young-driver/age excesses need to be factored in. [www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/car-insurance-for-p-platers?utm_source=chatgpt.com) |
+| **[Budget Direct](https://www.budgetdirect.com.au/car-insurance.html)** | Worth getting a quote as a price benchmark, although the cheapest quote isn't necessarily the best P-plater cover. |
+End Of Line

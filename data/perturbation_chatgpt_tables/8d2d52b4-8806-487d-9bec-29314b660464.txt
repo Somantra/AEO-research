@@ -1,0 +1,11 @@
+2,d2a2b64f-d3ae-4d48-9aca-b27a680e8388,08080131-1126-0626-0000-f599b62c9edc,8d2d52b4-8806-487d-9bec-29314b660464,2026-08-08T13:03:43.388037+10:00
+Most trusted roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Why consider it |
+|---|---|---|
+| NRMA Roadside Assistance | National fleets, vans, light commercial vehicles | Large roadside network and 24/7 assistance availability.  |
+| RACV Roadside Assistance | Victorian businesses | RACV Business Roadside Assistance supports business vehicles and states patrol attendance is typically within an hour; it covers vehicles up to 8 tonnes GVM. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business.html?utm_source=chatgpt.com) |
+| RAC Roadside Assistance | Western Australia fleets | Well-established state-based roadside provider with 24/7 assistance.  |
+| Truck Assist | Truck Insurance & Roadside Assistance | Trucks and transport operators | More specialised toward trucking and commercial operators, including heavy vehicle needs.  |
+| Truck Assist | Truck operators around Melbourne | Dedicated truck-focused roadside support.  |
+End Of Line

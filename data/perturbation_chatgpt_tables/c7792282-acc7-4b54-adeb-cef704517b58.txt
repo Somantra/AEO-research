@@ -1,0 +1,12 @@
+2,e6dafe2b-6623-4cdb-afad-1a47abdb02d2,08080123-1126-0626-0000-3535a8e86009,c7792282-acc7-4b54-adeb-cef704517b58,2026-08-08T12:45:36.256677+10:00
+Least reliable motorcycle insurance for older riders in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Motorcycle reviews | What stands out |
+|---|---:|---|
+| **Budget Direct** | **4.1/5 (63)** | Strongest combination of review score, value and a specific positive review from an older rider. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | **4.0/5 (106)** | Best-established review sample; particularly strong customer-service and claims feedback. [www.productreview.com.au](https://www.productreview.com.au/listings/youi-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Suncorp** | **3.8/5 (2)** | Good individual claims experiences, but far too few motorcycle reviews to put much weight on the score. [www.productreview.com.au](https://www.productreview.com.au/listings/suncorp-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Shannons** | **2.7/5 (25)** | Good customer-service sub-score (4.3), but overall motorcycle rating is much weaker. [www.productreview.com.au](https://www.productreview.com.au/listings/shannons-bike-insurance?utm_source=chatgpt.com) |
+| **QBE** | **2.9/5 (86)** | Reasonable number of reviews, but customer service and transparency scores are relatively weak. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-motorcycle-insurance?utm_source=chatgpt.com) |
+| **AAMI** | **2.9/5 (4)** | Too few reviews to draw a reliable conclusion. [www.productreview.com.au](https://www.productreview.com.au/listings/aami-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

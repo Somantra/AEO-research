@@ -1,0 +1,10 @@
+2,e0b6a43f-0713-4aad-839b-360511af53c0,08080131-1126-0626-0000-230e95760a9a,e6f74dc6-405a-4e3d-85e8-228e9a4c3d8f,2026-08-08T13:05:16.503073+10:00
+Best roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly price | Best for | Key point |
+|---|---:|---|---|
+| **RACV** | From **$12/mo** | Best overall in Victoria | 20–100 km towing depending on tier; monthly payment available |
+| **RAA** | From **$11.25/mo** | Cheapest entry price | Personal cover, so you’re covered in different cars |
+| **NRMA** | Monthly plans available | NSW/ACT | Strong nationwide roadside network |
+| **RACQ** | Monthly payment options | Queensland | Good higher-tier options for frequent/long-distance drivers |
+End Of Line

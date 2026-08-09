@@ -1,0 +1,9 @@
+2,5bc50214-e4e9-4e14-918b-1209023ea10a,08080138-1126-0626-0000-2a9038526c67,f39ecbb4-b8a9-4c2f-ac78-d9380877a170,2026-08-08T13:21:53.822912+10:00
+Least reliable pet insurance for dogs in Australia with monthly payments
+Tables found: 1
+| Insurer | Current customer rating | Why I’d be cautious |
+|---|---:|---|
+| **Coles Pet Insurance** | **2.1/5** | Very high proportion of negative reviews; complaints about denied claims and narrow illness coverage. [www.productreview.com.au](https://www.productreview.com.au/listings/coles-pet-insurance?utm_source=chatgpt.com) |
+| **Budget Direct Pet Insurance** | **1.9/5** | Complaints about claim denials, pre-existing/recurring-condition decisions and claims delays. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-pet-insurance?utm_source=chatgpt.com)[insu.au](https://insu.au/compare/best-pet-insurance-australia-2026/?utm_source=chatgpt.com) |
+| **Petcover** | **3.0/5** | Much more mixed than the better-rated providers; recurring complaints about premiums and claim experiences. [www.productreview.com.au](https://www.productreview.com.au/listings/petcover?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,150aeb06-b285-4e1d-acea-56f309758d88,08080137-1126-0626-0000-247fde499536,8d4f1881-082b-4b8f-ad19-54d42ad0be5d,2026-08-08T13:19:06.169455+10:00
+Worst domestic travel insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Why I'd be cautious | Online quote |
+|---|---|---|
+| **InsureandGo – Bare Essentials** | Low cancellation limit ($2,000) and relatively stripped-back benefits; several useful features only appear at higher tiers. [insureandgo.com.au](https://insureandgo.com.au/travel-insurance/domestic-travel-insurance/?utm_source=chatgpt.com)[www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/domestic-travel-insurance/?utm_source=chatgpt.com) | **Yes** |
+| **Allianz – Domestic** | Not necessarily “bad”, but you need to check the specific cancellation, delay, luggage and rental-car sub-limits/exclusions rather than assuming comprehensive protection. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/domestic.html?utm_source=chatgpt.com) | **Yes** |
+| **Any policy with a high excess** | Can make a cheap premium rather pointless for smaller claims. | Usually |
+| **Any policy excluding your particular activity** | Especially important for skiing, cruises, adventure activities and some sporting activities. | Usually |
+End Of Line

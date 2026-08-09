@@ -1,0 +1,9 @@
+2,d3affc3e-20f4-4749-9800-6776d851352b,08080131-1126-0626-0000-c65653c6ac31,3bd5c6db-5762-41e0-bfd3-4fd254848b7a,2026-08-08T13:03:35.891808+10:00
+Easiest roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Published price | Why I’d consider it |
+|---|---|---:|---|
+| **Truck Assist** | Trucks / transport operators | Plans cover up to **$1,000–$1,500 per callout** | 24/7 Australia-wide, specialist truck providers, towing/recovery, tyres, batteries, fuel, hydraulic hoses and more. [www.truckassist.com.au](https://www.truckassist.com.au/roadside-assistance/roadside-assistance?utm_source=chatgpt.com) |
+| **RAC BusinessWise Assist** | Small commercial vehicles / fleets | **$124/vehicle/year** | Very straightforward business pricing; 24/7 assistance, metro towing up to 25 km and country towing up to 80 km round trip, including trailer. [rac.com.au](https://rac.com.au/car-motoring/businesswise/roadside-assistance/assist?utm_source=chatgpt.com) |
+| **RAC BusinessWise Absolute** | Commercial vehicles doing longer trips | **$232/vehicle/year** | 24/7, Australia-wide, towing up to 100 km metro / 200 km country round trip, plus business-continuity assistance. [rac.com.au](https://rac.com.au/car-motoring/businesswise/roadside-assistance/absolute?utm_source=chatgpt.com) |
+End Of Line

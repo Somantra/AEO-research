@@ -1,0 +1,10 @@
+2,4c9fed7e-acc8-47d1-abfe-3912761e8f67,08080123-1126-0626-0000-798363df0f74,74056b1e-76d6-42d9-9f5e-3ee0a0a6f9b5,2026-08-08T12:44:12.144797+10:00
+Most affordable third-party motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Third-party option | Price indication | Comments |
+|---|---|---:|---|
+| **Budget Direct** | Property Only | **From ~$147/yr** in Finder's sample | Strong candidate for cheapest; $20m liability; up to $5k uninsured-driver damage |
+| **QBE** | Third party | Quote required | Often competitive; broad motorcycle cover range |
+| **Youi** | Property Only | Quote required | $20m liability; also offers Fire & Theft |
+| **Other major insurers** | Varies | Quote required | Can beat the above depending on rider/bike |
+End Of Line

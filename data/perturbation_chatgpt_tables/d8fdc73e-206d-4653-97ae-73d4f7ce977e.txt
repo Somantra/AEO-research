@@ -1,0 +1,9 @@
+2,3445f856-d0a8-4b57-b759-ce3556737f85,08080138-1126-0626-0000-f60bb475ccb7,d8fdc73e-206d-4653-97ae-73d4f7ce977e,2026-08-08T13:22:06.377524+10:00
+Safest pet insurance for dogs in Australia without hidden fees
+Tables found: 1
+| Provider | Why I’d consider it | Main catch |
+|---|---|---|
+| **Knose** | **Best for fee transparency.** Advertises no sub-limits or hidden costs, with 70/80/90% reimbursement and $0/$100/$200 annual excess options. [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com)[www.knose.com.au](https://www.knose.com.au/vets/?utm_source=chatgpt.com) | Maximum annual limit is $25,000; premiums can still rise with age/inflation. |
+| **Pet Insurance Australia – Select & Protect** | **Best for high maximum cover.** Up to $35,000 annual limit, 90% reimbursement and $0 excess available; no sub-limits on eligible conditions/treatments. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/dog-insurance/?utm_source=chatgpt.com) | Monthly/fortnightly payments currently attract a **$2 collection fee**. Premiums can increase annually. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | Worth considering for straightforward policy presentation; its current offering says **no sub-limits for certain conditions** and publishes its PDS openly. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/?utm_source=chatgpt.com) | You still need to check the specific PetFlex/PetShield PDS for exclusions, excess and limits. |
+End Of Line

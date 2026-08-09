@@ -1,0 +1,10 @@
+2,b526c3ed-9ead-49be-b138-5e0f3d17a99b,08080132-1126-0626-0000-ffd4e420f341,b13cdbb2-577c-4437-a8a8-85674f27e0d0,2026-08-08T13:07:20.060900+10:00
+Most affordable roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Approx. cost | Best for | Fast-process advantages |
+|---|---:|---|---|
+| NRMA Roadside Assistance | From about $112/year paid annually for basic cover | NSW/ACT drivers wanting low entry cost | 24/7 callouts, app support, large patrol network [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RAC WA Roadside Assistance | From about $135.68/year | WA drivers (especially Perth) | Large WA network; 24/7 attendance in many metro areas [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?gclsrc=aw.dsPlease&utm_source=chatgpt.com) |
+| RACV Roadside Care | About $138/year | Victoria drivers | App requests, tracking in some areas, typical arrival around an hour [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| AAMI roadside add-on | Often cheaper than standalone membership (varies) | People already insured with AAMI | One policy/account for claims and roadside; check exact inclusions |
+End Of Line

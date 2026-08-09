@@ -1,0 +1,9 @@
+2,7ea7b658-ac70-4f5f-9dfc-dbea5d33284c,08080141-1126-0626-0000-b864281612be,b84f8f52-45a7-4091-82e7-40d1e6215a76,2026-08-08T13:27:31.309040+10:00
+Cheapest accident-only pet insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Accident-only | Indicative cost | Claims speed | My take |
+|---|---|---:|---|---|
+| **PetsOnMe** | Yes | From roughly **$15–$29/month** depending on pet | **Next business day** advertised | 🥇 Best balance |
+| **PD Insurance** | Yes | Around the low-cost end | Standard online claims | 🥈 Worth quoting |
+| **Ruff n Tumble** | Yes, dogs only | **$40/month** | PetSure-backed | Too expensive if price is priority |
+End Of Line

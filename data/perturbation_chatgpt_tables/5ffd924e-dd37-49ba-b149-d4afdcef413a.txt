@@ -1,0 +1,11 @@
+2,9b2cf90b-aacb-464a-8102-86368dc93787,08080139-1126-0626-0000-134914fecb89,5ffd924e-dd37-49ba-b149-d4afdcef413a,2026-08-08T13:22:40.149905+10:00
+Worst pet insurance for older pets in Australia without hidden fees
+Tables found: 1
+| Avoid / be cautious with | Why it can be poor value for seniors |
+|---|---|
+| **Accident-only policies marketed as “cheap”** | They may not help with the illnesses older pets commonly develop (cancer, arthritis, kidney disease, diabetes). |
+| **Policies with low annual limits** | A single specialist procedure can consume the benefit quickly. |
+| **Policies with many sub-limits** | You may discover a condition has a smaller payout cap than expected. |
+| **Plans that reduce benefits as your pet ages** | Some policies become less useful exactly when claims are more likely. CHOICE has warned about policies with age-related reductions and extensive exclusions. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Switching insurers late in life** | Existing issues can become “pre-existing conditions” and be excluded by the new insurer. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

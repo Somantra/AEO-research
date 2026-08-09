@@ -1,0 +1,10 @@
+2,9a2eea93-5327-48e2-92ad-18276ca50f98,08080139-1126-0626-0000-bd10c6a25daa,f64de381-2056-42f2-b8de-a1c451667da1,2026-08-08T13:22:33.969002+10:00
+Best pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Why it may suit older pets | Claims convenience |
+|---|---|---|---|
+| Medibank Pet Insurance | High cover limits | Offers high reimbursement options and is listed among senior-pet comparisons; check age eligibility for your pet. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) | Offers GapOnly® at participating vets (conditions apply), which can reduce upfront costs. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Broad cover | Some plans offer high annual limits and up to 90% reimbursement options. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) | Generally a good option to investigate if you value straightforward claims support. |
+| Petcover | Older pet entry options | Appears in senior pet comparisons with options for older animals, depending on eligibility. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) | Check current claims turnaround and digital claim options before buying. |
+| Fetch Pet Insurance | Comprehensive cover | Ranked highly in some Australian comparisons for broad cover features. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) | Offers direct-to-vet payment features on eligible claims, helping reduce cash-flow pressure. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

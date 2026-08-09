@@ -1,0 +1,12 @@
+2,d75715a4-a5fb-4def-a1af-34e24328ad2b,08080137-1126-0626-0000-0f5eb7b6b0fb,f015bd4c-edc0-47b3-8924-185f9f204739,2026-08-08T13:19:50.008479+10:00
+Most comprehensive domestic travel insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Best comprehensive option | Key domestic strengths | Online quote |
+|---|---|---|---|
+| **Cover-More** | **Domestic Comprehensive+** | Up to **$15k luggage**, **$25k additional expenses**, **$10k rental-car excess**, $2.5k personal-vehicle excess | urlGet a Cover-More quoteturn1search5 |
+| **1Cover** | Domestic / Comprehensive | Strong value, rental-car excess included, annual domestic option | urlGet a 1Cover quoteturn1search3 |
+| **Allianz** | Domestic Travel Insurance | Cancellation, luggage, personal liability and rental-car excess; optional Snow/Cruise/Adventure packs | urlGet an Allianz quoteturn0search1 |
+| **RACV** | Domestic Plan | Up to **$7.5k luggage**, **$25k emergency expenses**, **$5k rental-car excess**, optional ski cover | urlGet an RACV quoteturn0search6 |
+| **SCTI** | Domestic | Established specialist travel insurer with online quoting | urlGet an SCTI quoteturn1search9 |
+| **Travel Insurance Direct** | Domestic | Online quote, sports/activity cover, travel delay and adjustable excess/rental-car cover | urlGet a TID quoteturn1search10 |
+End Of Line

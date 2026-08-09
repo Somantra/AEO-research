@@ -1,0 +1,13 @@
+2,8386f74e-b36a-4544-84fb-479d0a3bc625,08080127-1126-0626-0000-104ddfcedd1f,0c5dc90e-0b00-4e9f-9c7e-f0f1e737ef30,2026-08-08T12:55:01.678092+10:00
+Least reliable home and contents insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Rated above average/excellent | My take |
+|---|---:|---|
+| **Qantas Insurance** | **42%** | ⚠️ Lowest overall |
+| **CGU** | **48%** | ⚠️ Poor |
+| **CBA** | **51%** | ⚠️ Poor |
+| **Allianz** | **55%** | ⚠️ Below average |
+| **GIO** | **55%** | ⚠️ Below average |
+| **Everyday/Woolworths** | **57%** | ⚠️ Around/below average |
+| **Budget Direct** | **58%** | ⚠️ Average overall, but weak claims |
+End Of Line

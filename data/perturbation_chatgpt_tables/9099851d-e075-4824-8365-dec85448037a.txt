@@ -1,0 +1,10 @@
+2,f835c039-b5ad-4855-8028-ccf519db8064,08080130-1126-0626-0000-3bee79fdcf08,9099851d-e075-4824-8365-dec85448037a,2026-08-08T13:01:09.721242+10:00
+Most affordable roadside assistance for motorcycles in Australia with instant online quotes
+Tables found: 1
+| Provider | Price | Motorcycle cover | Towing | Instant assistance? |
+|---|---:|---|---|---|
+| **National Motorcycle Alliance** | **$60/yr** | Yes | 25 km metro / 50 km country | ❌ No — can take up to 10 business days |
+| **Rider Support Australia – Essential** | **$69.95/yr** | Yes | 30 km metro / 50 km country | ⚠️ Immediate option costs extra |
+| **National Roadservice Australia** | **$88/yr** | Yes | Depends on plan | ✅ Online purchase |
+| **Rider Support Australia – Premium** | **$119.95/yr** | Yes | 50 km metro / 100 km country | ✅ Emergency option +$100 |
+End Of Line

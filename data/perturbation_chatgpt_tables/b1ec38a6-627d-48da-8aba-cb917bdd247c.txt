@@ -1,0 +1,10 @@
+2,afc4e6b7-f89a-4f95-85d1-04c52eb8ba76,08080141-1126-0626-0000-faf4f58f74e1,b1ec38a6-627d-48da-8aba-cb917bdd247c,2026-08-08T13:26:41.729076+10:00
+Cheapest pet insurance for exotic pets in Australia compared to other providers
+Tables found: 1
+| Provider | Exotic pets in Australia? | Typical cost | Verdict |
+|---|---|---:|---|
+| **Pet Insurance Australia** | ❌ Dogs/cats | Quote required | Not suitable for exotics |
+| **Fetch** | ❌ Dogs/cats | Quote required | Not suitable for exotics |
+| **Other mainstream Australian insurers** | Generally ❌ | — | Mostly dogs/cats |
+| **Self-insurance/savings fund** | ✅ Any legal pet | You choose | Often the practical alternative |
+End Of Line

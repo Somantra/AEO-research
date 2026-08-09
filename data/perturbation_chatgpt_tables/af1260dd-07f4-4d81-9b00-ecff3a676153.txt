@@ -1,0 +1,11 @@
+2,ccf5cd64-2365-49d9-b1bc-2ec1686ce846,08080126-1126-0626-0000-0a1d15036b5a,af1260dd-07f4-4d81-9b00-ecff3a676153,2026-08-08T12:52:33.078610+10:00
+Cheapest home insurance for older properties in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it for older homes | Customer feedback indicator |
+|---|---|---|
+| Youi | Often competitive because it prices based on detailed risk questions; worth quoting for unusual/older properties | CHOICE’s 2025 survey found 67% of Youi home customers rated their experience above average or excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) |
+| Budget Direct | Frequently among lower-cost quotes; useful as a benchmark price | CHOICE found 58% of Budget Direct home customers rated their experience above average or excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| RACQ Insurance | Strong satisfaction in Queensland; may suit older homes in QLD | CHOICE’s survey rated RACQ highly for home insurance satisfaction, though availability is state-specific. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) |
+| AAMI | Worth comparing because pricing can vary significantly by location and risk profile | Customer satisfaction was lower than some smaller/state-based insurers in the CHOICE survey, but it remains a major provider. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) |
+| NRMA Insurance | Common option for NSW properties, including older suburban homes | Often worth quoting because large insurers can price risks differently. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) |
+End Of Line

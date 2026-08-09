@@ -1,0 +1,12 @@
+2,5e85b95d-34a0-4703-beb4-6e81ed4b749f,08080122-1126-0626-0000-573ab0405144,99e07083-71bf-4933-8273-5901112c1151,2026-08-08T12:42:16.188581+10:00
+Worst motorcycle insurance for commuters in Australia with monthly payments
+Tables found: 1
+| Insurer | Annual quote | Approx. monthly* |
+|---|---:|---:|
+| **AAMI** | $2,113 | **$176/mo** |
+| **QBE** | $1,732 | **$144/mo** |
+| **National Motorcycle Insurance** | $1,479 | **$123/mo** |
+| **Mi-bike** | $1,114 | **$93/mo** |
+| **Budget Direct** | $1,062 | **$89/mo** |
+| **NRMA** | $765 | **$64/mo** |
+End Of Line

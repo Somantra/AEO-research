@@ -1,0 +1,10 @@
+2,5dd2bcc0-377e-4c02-a39e-0222975cae7f,08080128-1126-0626-0000-5ba906b5227f,669b59de-2c90-46ba-b8d4-933fb8a1b391,2026-08-08T12:56:10.229976+10:00
+Easiest home insurance for high-value items in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | High-value items | Claims/ease |
+|---|---|---|---|
+| **NRMA Insurance** | **Best overall for easy claims** | Valuable contents, jewellery, watches, portable contents | ⭐⭐⭐⭐⭐ |
+| **RAA** | **Excellent choice in SA** | Specified valuable items, including jewellery/watches; worldwide option | ⭐⭐⭐⭐⭐ |
+| **Allianz** | Very good for individually specified valuables | Listed valuable contents + portable contents | ⭐⭐⭐⭐½ |
+| **AAMI** | Straightforward online claims and flexible specified-item cover | Jewellery, watches, art and other specified contents | ⭐⭐⭐⭐ |
+End Of Line

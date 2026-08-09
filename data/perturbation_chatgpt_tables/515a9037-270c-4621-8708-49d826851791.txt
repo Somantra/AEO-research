@@ -1,0 +1,11 @@
+2,0f1bbf38-ff69-4757-86e9-3435f2af21b2,08080125-1126-0626-0000-cce1d439c2c8,515a9037-270c-4621-8708-49d826851791,2026-08-08T12:50:35.845738+10:00
+Worst home insurance for landlords in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims/ease signal | My take |
+|---|---|---|
+| **NRMA** | 🟢 #1 easiest to claim in 2026 | **Best starting point** |
+| **AAMI** | 🟢 Easy to claim | Strong mainstream option |
+| **Allianz** | 🟢 Easy to claim | Worth comparing |
+| **Terri Scheer** | 🟡 Specialist landlord insurer | Worth considering for landlord-specific risks |
+| **Budget Direct** | 🟠 Mixed anecdotal reports | I'd scrutinise the PDS and claims exclusions carefully |
+End Of Line

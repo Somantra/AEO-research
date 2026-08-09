@@ -1,0 +1,9 @@
+2,5e67496c-d901-4c90-a635-0652333c959c,08080141-1126-0626-0000-c8d2b8e05496,4cd09537-4bd4-4e22-ae7f-86206f009e9e,2026-08-08T13:27:52.707258+10:00
+Least reliable accident-only pet insurance in Australia with monthly payments
+Tables found: 1
+| Provider/policy | Why to be cautious |
+|---|---|
+| PetsOnMe Accident Plan | Ranked among lower-rated pet insurance policies in CHOICE’s comparison, based on analysis of coverage and out-of-pocket costs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance pet insurance | Has attracted some negative consumer discussion around premium increases and value concerns (individual experiences vary). [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/18kxja5/getting_ripped_off_by_real_pet_insurance_any/?utm_source=chatgpt.com) |
+| Very cheap accident-only policies generally | The low monthly cost often comes with tighter limits, exclusions, lower annual benefits, or lower reimbursement percentages. Accident-only cover is usually much cheaper because illnesses are excluded. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+1,c2987ea3-ac2a-4d1e-b1f7-00168fa39d11,08080134-1126-0626-0000-dfe755db9076,c5ba0eab-225a-4275-9c44-6fb064b453bf,2026-08-08T13:11:30.525523+10:00
+Cheapest pet insurance for cats in Australia
+Tables found: 1
+| Insurer | Indicative price | Why consider it |
+|---|---:|---|
+| **Pet Insurance Australia** | ~$78/month | Cheapest like-for-like quote found in a May 2026 comparison |
+| **Bow Wow Meow** | ~$79/month | Similar price, higher annual limit in the comparison |
+| **Budget Direct** | Often very competitive | Finder currently ranks it as the **cheapest insurer** |
+| **Cover-More / CoverMy** | Budget option | Up to $8,000 annual accident & illness cover |
+End Of Line

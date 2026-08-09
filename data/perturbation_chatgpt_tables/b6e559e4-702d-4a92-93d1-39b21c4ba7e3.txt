@@ -1,0 +1,11 @@
+1,64daf420-0793-420d-9ba4-3402095efd20,08080127-1126-0626-0000-4fb3ef430679,b6e559e4-702d-4a92-93d1-39b21c4ba7e3,2026-08-08T12:53:31.777070+10:00
+Easiest roadside assistance for motorcycles in Australia
+Tables found: 1
+| Situation | My pick |
+|---|---|
+| Mainly motorcycle, want bike-focused service | **MCAA / RSA** |
+| Motorcycle + car | **State motoring club** |
+| Long-distance touring | **Motorcycle-specific plan with 100 km+ towing** |
+| Cheapest/easiest for occasional local riding | State club basic cover |
+| Adelaide/SA rider | **Compare RAA/NRMA against MCAA/RSA** |
+End Of Line

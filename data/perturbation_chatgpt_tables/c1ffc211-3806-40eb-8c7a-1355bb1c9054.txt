@@ -1,0 +1,9 @@
+2,9db56b72-4b7d-4086-a331-c8448dd232a8,08080135-1126-0626-0000-9feb6579daa8,c1ffc211-3806-40eb-8c7a-1355bb1c9054,2026-08-08T13:14:52.228362+10:00
+Worst travel insurance for adventure sports in Australia with instant online quotes
+Tables found: 1
+| Insurer | Adventure-sports concern | Online quote |
+|---|---|---|
+| **1Cover** | Many activities require the **Adventure & Sports Pack**; mountaineering, quad/ATV/dirt bikes, racing and various high-risk activities are excluded. [www.1cover.com.au](https://www.1cover.com.au/faqs/what-is-covered/activities-excluded/?utm_source=chatgpt.com)[www.1cover.com.au](https://www.1cover.com.au/ssg/policy-wording/20260304?utm_source=chatgpt.com) | Yes |
+| **Allianz** | Adventure Pack is an optional extra, and it excludes professional competition and has specific exclusions around motorcycles, mopeds, scooters and quad bikes. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) | Yes |
+| **Basic/standard policies generally** | CHOICE warns that simply seeing an activity listed isn't enough—the PDS definitions can exclude crucial parts of an activity, such as abseiling while canyoning. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/buying-guides/insurance?utm_source=chatgpt.com) | Usually |
+End Of Line

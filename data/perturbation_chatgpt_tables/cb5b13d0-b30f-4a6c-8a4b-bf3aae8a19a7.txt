@@ -1,0 +1,11 @@
+2,fca94495-e69d-41f1-8f1c-2f1a5b0c1970,08080126-1126-0626-0000-699ff8c3847f,cb5b13d0-b30f-4a6c-8a4b-bf3aae8a19a7,2026-08-08T12:52:34.944050+10:00
+Cheapest home insurance for older properties in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why try it | Online quote |
+|---|---|---|
+| **Budget Direct** | Often very price-competitive; currently advertising **30% off first year** for combined home + contents bought online | urlGet a Budget Direct quoteturn0search3 |
+| **AAMI** | Online quotes; **$50 off** combined home + contents or $25 off building-only for new online policies | urlGet an AAMI quoteturn0search4 |
+| **NRMA** | Online building, contents and combined quotes; up to **10% online discount** on eligible policies | urlGet an NRMA quoteturn0search5 |
+| **Allianz** | Online quotes and up to **10% discount** for combining building + contents | urlGet an Allianz quoteturn0search1 |
+| **Youi** | Finder's 2026 pick for value, although the actual premium can vary substantially by property | [Get a Youi quote](https://www.youi.com.au/) |
+End Of Line

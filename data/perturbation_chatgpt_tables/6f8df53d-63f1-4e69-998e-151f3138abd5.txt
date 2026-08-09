@@ -1,0 +1,11 @@
+2,4a58444c-7f53-46aa-831b-9ca2237ba370,08080118-1126-0626-0000-cd30cbc8c717,6f8df53d-63f1-4e69-998e-151f3138abd5,2026-08-08T12:33:37.155811+10:00
+Most trusted car insurance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why EV owners consider them | Online quote |
+|---|---|---|
+| [NRMA Insurance](https://www.nrma.com.au/car-insurance/ev-insurance) | Strong EV-specific information, comprehensive cover options, authorised repair guarantees, and online quotes. NRMA states it covers standard-spec EVs, hybrids and plug-in hybrids. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com) | Available online [www.nrma.com.au](https://www.nrma.com.au/car-insurance?utm_source=chatgpt.com) |
+| [RACV Insurance](https://www.racv.com.au/insurance/car-insurance.html) | Popular in Victoria; offers EV-related benefits such as cover for charging cables/adaptors and access to EV-qualified repair networks on eligible policies. [www.racv.com.au](https://www.racv.com.au/insurance/car-insurance/complete-care.html?utm_source=chatgpt.com) | Available online [www.racv.com.au](https://www.racv.com.au/insurance/car-insurance/complete-care.html?utm_source=chatgpt.com) |
+| [AAMI Car Insurance](https://www.aami.com.au/car-insurance.html) | Often included in EV quote comparisons because pricing can be competitive for some drivers; premiums vary significantly by person and vehicle. [www.reddit.com](https://www.reddit.com/r/EVAustralia/comments/1li8wac?utm_source=chatgpt.com) | Available online |
+| [Budget Direct Car Insurance](https://www.budgetdirect.com.au/car-insurance.html) | Known for quick online quote journeys and often worth comparing for price. | Available online |
+| [Youi Car Insurance](https://www.youi.com.au/car-insurance) | Uses a more personalised quote approach; can suit some drivers depending on circumstances. | Available online |
+End Of Line

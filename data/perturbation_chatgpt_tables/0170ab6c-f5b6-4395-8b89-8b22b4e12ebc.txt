@@ -1,0 +1,11 @@
+2,20825403-54bb-4748-99f1-37541c1f647e,08080117-1126-0626-0000-4d8afbaed73d,0170ab6c-f5b6-4395-8b89-8b22b4e12ebc,2026-08-08T12:30:24.162171+10:00
+Most popular car insurance for P-plate drivers in Australia without hidden fees
+Tables found: 1
+| Insurer | Why consider it | P-plate / “hidden cost” watch-outs |
+|---|---|---|
+| **RAC** | Strong WA option; **#1 in CHOICE's 2026 young-driver price ranking** | Young/inexperienced-driver excesses can apply. Basic excess can be $400–$2,000. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/young-driver-car-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Large, established insurer and commonly worth getting a quote from | Under-25 age excess can be **in addition to** your standard and selected excesses. [www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/car-insurance-for-p-platers?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/tips-for-young-drivers-car-buying-guide?utm_source=chatgpt.com) |
+| **NRMA Insurance** | P-platers can be covered even when not specifically listed | Unlisted under-25 drivers can attract a higher additional excess, so listing yourself can matter. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/p-plater-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Often competitive on price and very transparent about its excess structure | Current additional excesses include **$600 under 21**, **$500 aged 21–24**, plus **$500 if you haven't held a full licence for 2 years**. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/learner-driver-insurance.html?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-policy-options.html?utm_source=chatgpt.com) |
+| **Youi** | Strong features and worth comparing, particularly in WA | Young drivers can have additional driver-specific excesses; quote individually. [www.youi.com.au](https://www.youi.com.au/car-insurance/wa?utm_source=chatgpt.com) |
+End Of Line

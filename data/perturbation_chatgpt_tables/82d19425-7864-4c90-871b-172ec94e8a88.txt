@@ -1,0 +1,11 @@
+2,ae586834-3d74-4eeb-aac2-824a5fe494b0,08080118-1126-0626-0000-d7cd7ca6a726,82d19425-7864-4c90-871b-172ec94e8a88,2026-08-08T12:32:48.499799+10:00
+Most comprehensive car insurance for small cars in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Best for | Customer review/service signal | Considerations |
+|---|---|---|---|
+| Youi | Personalised service and drivers wanting tailored pricing | CHOICE’s 2025 survey found 77% of surveyed Youi car customers rated their experience above average or excellent; claim experience was also rated strongly among surveyed claimants. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) | Often not the cheapest; quotes depend heavily on driver profile |
+| RACQ | Strong customer satisfaction (especially Queensland drivers) | CHOICE reported 85% of surveyed RACQ car insurance customers rated their experience above average or excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) | Mainly relevant if you’re in Queensland |
+| NRMA Insurance | Large established insurer and broad repair network | Survey results showed NRMA customers generally rated their car insurance experience positively compared with many major brands. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) | Premiums can be higher |
+| AAMI | Mainstream comprehensive cover with competitive online pricing | Often competitive for everyday cars, but customer satisfaction scores vary. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) | Compare policy wording carefully |
+| Budget Direct | Value-focused premiums | CHOICE’s survey found 62% of surveyed Budget Direct car customers rated their experience above average or excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | Check excesses, repairer choice, and claim conditions |
+End Of Line

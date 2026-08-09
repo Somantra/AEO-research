@@ -1,0 +1,11 @@
+2,b0f05639-31ae-433a-8e0e-075652fecf96,08080131-1126-0626-0000-ee7b4434fbaf,4ada6ef2-d091-4ca7-b981-76044088f038,2026-08-08T13:05:50.840383+10:00
+Most trusted roadside assistance plans in Australia with strong customer reviews
+Tables found: 1
+| Provider | Review signal | Best for |
+|---|---|---|
+| **RAC (WA)** | ⭐ **4.8/5 from 1,221 reviews** | **Best overall, especially WA** |
+| **NRMA (NSW/ACT & broader coverage)** | ⭐ **4.5/5 from 1,913 reviews** | Large network and established service |
+| **RACQ (QLD)** | ⭐ 3.2/5 from 405 reviews | Queensland-specific coverage |
+| **RACV (VIC)** | Established state motoring club | Victoria |
+| **RAA (SA)** | Strong customer satisfaction in CHOICE survey | South Australia |
+End Of Line

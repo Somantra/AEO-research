@@ -1,0 +1,10 @@
+2,dfc55e4f-7f21-41ec-8d0f-1166c9ba6ec9,08080139-1126-0626-0000-bf18f021ca15,d25e5f61-b937-4a07-a7da-ba898a201dd1,2026-08-08T13:22:54.326810+10:00
+Safest pet insurance for older pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Older-pet suitability | Customer reviews | My take |
+|---|---|---:|---|
+| **Australian Seniors Pet Insurance** | ⭐⭐⭐⭐⭐ | **4.7/5, 427 reviews** | **Best starting point for genuinely senior pets** |
+| **Real Insurance** | ⭐⭐⭐⭐ | **4.4/5, 413 reviews** | Strong balance of cover + established claims history |
+| **Guardian Pet Insurance** | ⭐⭐⭐⭐ | **4.2/5, 38 reviews** | Good claims feedback, but smaller review sample |
+| **Petcover** | ⭐⭐⭐ | **3.0/5, 1,229 reviews** | Broad availability for older pets, but review history concerns me |
+End Of Line

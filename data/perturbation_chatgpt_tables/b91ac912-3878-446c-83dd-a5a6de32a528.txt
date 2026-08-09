@@ -1,0 +1,11 @@
+2,32f66280-f103-4428-8e85-75d471364f32,08080139-1126-0626-0000-db197d0d3edd,b91ac912-3878-446c-83dd-a5a6de32a528,2026-08-08T13:23:17.876652+10:00
+Cheapest pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Insurer | Multi-pet discount | Why it stands out | Hidden-fee concern |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10% off 2nd+ pets** | Strong multi-pet discount; flexible cover | Check the PDS for your exact plan |
+| **RSPCA Pet Insurance** | **10% off 2nd+ pets** | Discount lasts for the life of eligible policies | Good transparency around payment options |
+| **Pet Insurance Australia** | **5% / 10% / 15%** for 2nd/3rd/4th+ pets | Best discount if you have 4+ pets | Check plan-specific terms |
+| **Knose** | **5% off** | Discount lasts for life | **Has a policy fee up to $2.50/month** |
+| **Budget Direct** | No multi-pet discount found | Often very competitive on base premium | Worth quoting because the underlying premium may still win |
+End Of Line

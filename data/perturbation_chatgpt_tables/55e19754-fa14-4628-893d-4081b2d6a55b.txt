@@ -1,0 +1,11 @@
+2,1daea43b-ca1e-4d06-8712-2e512d0543d3,08080119-1126-0626-0000-1ec18e0dd350,55e19754-fa14-4628-893d-4081b2d6a55b,2026-08-08T12:34:48.131296+10:00
+Most comprehensive car insurance for used cars in Australia with monthly payments
+Tables found: 1
+| Insurer | Comprehensive | Monthly payments | Why consider it |
+|---|---|---|---|
+| **Allianz** | Yes | **No extra cost** | Strong all-round cover; choice of repairer and towing |
+| **Budget Direct Gold** | Yes | **Yes** | Strong value/features; agreed or market value |
+| **ROLLiN' Comprehensive** | Yes | **Monthly only** | No age-based excess; strong value option |
+| **Coles Comprehensive** | Yes | **Yes** | Guaranteed authorised repairs; monthly/fortnightly options |
+| **Youi Comprehensive** | Yes | **Yes** | Worth quoting because pricing can vary significantly by driver |
+End Of Line

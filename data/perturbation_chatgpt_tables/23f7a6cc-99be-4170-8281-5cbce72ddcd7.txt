@@ -1,0 +1,11 @@
+2,63bce407-e81c-44c0-82b0-e2cb48cf8cfb,08080130-1126-0626-0000-360c8bcfb710,23f7a6cc-99be-4170-8281-5cbce72ddcd7,2026-08-08T13:03:04.278074+10:00
+Cheapest roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Option | Cost | Monthly payment? | Commercial vehicle? |
+|---|---:|---|---|
+| **RACV Business Roadside Care** | **$125/year** | ❌ Annual | ✅ |
+| RACV Business Extra Care | $210/year | ❌ Annual | ✅ |
+| RACV Business Total Care | $290/year | ❌ Annual | ✅ |
+| RACV Business Fee-for-Service | **$37/year + call-out fees** | Monthly invoicing | ✅ Certain industries |
+| RACV personal Roadside Care | $12/month | ✅ | ⚠️ Vehicle eligibility matters |
+End Of Line

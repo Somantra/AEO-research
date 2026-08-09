@@ -1,0 +1,11 @@
+2,b5a9289d-a812-4e93-8000-fdaaa459f8e3,08080142-1126-0626-0000-6a5dbb606ada,aab2b8a8-c804-400b-9f0d-d7183f39d5e1,2026-08-08T13:28:53.880949+10:00
+Most trusted pet insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payments | Why consider it | My take |
+|---|---|---|---|
+| **Petsy** | ✅ Yes | Australian-based support, lifelong accident & illness cover, no sub-limits on inclusions, monthly direct debit/credit card | ⭐ **Best overall** |
+| **RSPCA Pet Insurance** | ✅ Yes | Up to $35k annual cover, up to 90% reimbursement, customisable cover; supports RSPCA animal welfare | ⭐ **Best for high cover** |
+| **Medibank Pet Insurance | ✅ Yes | $10k/$25k/$30k annual limits, up to 90% back, GapOnly available, monthly or fortnightly | ⭐ **Best established brand** |
+| **Pet Insurance Australia** | ✅ Yes | Monthly/fortnightly/annual payments, flexible excess and reimbursement options, GapOnly | ⭐ **Good specialist option** |
+| **Bow Wow Meow** | ✅ Yes | Long-established specialist, comprehensive accident & illness cover, GapOnly | ⭐ **Worth quoting** |
+End Of Line

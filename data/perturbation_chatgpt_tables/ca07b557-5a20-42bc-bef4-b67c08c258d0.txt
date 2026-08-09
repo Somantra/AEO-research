@@ -1,0 +1,10 @@
+2,c85290ec-bc59-4e2f-9557-4088d65f65d5,08080132-1126-0626-0000-0838d021be9b,ca07b557-5a20-42bc-bef4-b67c08c258d0,2026-08-08T13:07:44.565587+10:00
+Least reliable roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Hybrid covered? | EV/hybrid specialist support | Fee transparency | My take |
+|---|---|---|---|---|
+| **RACQ** | Yes | High-voltage-aware patrols; specifically covers HEV/PHEV/EV | **Very good** | ⭐ Best documented hybrid coverage |
+| **RAC WA** | Yes | EV charging/towing support; strong WA network | Good | ⭐ Best choice in WA |
+| **RACV** | Yes | Hybrid/EV roadside support | Good | Strong Victoria option |
+| **NRMA** | Yes | Hybrid/EV coverage included | Good | Strong NSW/ACT option |
+End Of Line

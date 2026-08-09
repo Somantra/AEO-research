@@ -1,0 +1,13 @@
+2,c59c52d1-403a-4474-be07-538f63023daf,08080132-1126-0626-0000-e655c7495161,5642f420-4278-4bb8-8ded-9c100d5125b1,2026-08-08T13:06:05.497270+10:00
+Most comprehensive roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider / top plan | Approx. annual price | Towing / attendance | Long-distance benefits | Multiple vehicles / person | Best for |
+|---|---:|---|---|---|---|
+| **RACQ Ultimate Care** | **$310** | Attend up to **200 km**; tow up to **100 km** | Accommodation **$2,400/incident**, hire car up to 12 days | **Person + vehicle** | ⭐ Best overall |
+| **RACV Total Care** | **$318** | **100 km** towing; unlimited call-outs | Up to **$2,400/incident** | Up to 5 vehicles, 6 drivers | ⭐ Best Victoria / families |
+| **RAC Ultimate Plus (WA)** | **$410** | Up to **300 km** in country areas | Accommodation/car hire up to **$1,260** | **Person + vehicle** | ⭐ Best for WA/remote travel |
+| **RAA Premium (SA)** | **$200** | Up to **100 km** | Strong travel benefits | Individual-based | ⭐ Best value in SA |
+| **NRMA Roadside** | Varies by level | Unlimited call-outs, Australia-wide | Depends on membership level | Strong national network | ⭐ NSW/ACT |
+| **Allianz Platinum** | From **$139** | Up to **100 km** | More limited than motoring clubs | Vehicle/membership based | Budget insurer option |
+| **AAMI Roadside Assist** | Add-on to insurance | Unlimited call-outs | More basic | Any driver of covered vehicle | Convenient if already with AAMI |
+End Of Line

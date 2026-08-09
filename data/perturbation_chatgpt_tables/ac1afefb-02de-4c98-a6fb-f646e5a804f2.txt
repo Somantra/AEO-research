@@ -1,0 +1,10 @@
+2,9193b96d-e58c-4b6b-9dea-f68851c338fe,08080139-1126-0626-0000-083931344c93,ac1afefb-02de-4c98-a6fb-f646e5a804f2,2026-08-08T13:24:01.061529+10:00
+Premium pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Insurer | Multi-pet discount | Premium-level strengths | My take |
+|---|---:|---|---|
+| **[Petsy](https://petsy.com.au/)** | **5% per additional pet, lifetime** | No sub-limits; annual excess options including $0; customisable cover; direct-to-vet payments | ⭐ **Best for transparent, premium cover** |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | **10% on 2nd+ pets, for life** | Nose-to-Tail cover, GapOnly, 24/7 vet support | ⭐ **Best multi-pet discount** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | 5% / 10% / 15% for 2nd/3rd/4th+ pets | Flexible cover and add-ons; established Australian provider | Good for 3–4+ pets |
+| **[Knose](https://www.knose.com.au/)** | 5% lifetime | Customisable policies and lifetime multi-pet discount | Good alternative |
+End Of Line

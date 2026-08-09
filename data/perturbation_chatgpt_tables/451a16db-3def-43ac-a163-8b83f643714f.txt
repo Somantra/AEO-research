@@ -1,0 +1,11 @@
+2,406818fa-f1da-4e47-b6af-a132f56f7c54,08080129-1126-0626-0000-c4fa6e35c2d2,451a16db-3def-43ac-a163-8b83f643714f,2026-08-08T13:00:21.128140+10:00
+Least reliable roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV support | Out-of-charge solution | EV-specific capability | My assessment |
+|---|---|---|---|---|
+| **RACV (VIC)** | Yes | Tow to accessible charger; higher plans allow up to 200 km | High-voltage-trained patrols | **Strongest published EV offering** |
+| **RACQ (QLD)** | Yes | Tow to charger/destination | EV entitlements across plans | **Very strong** |
+| **RAA (SA)** | Yes | Tow to nearest charger/home | EV-trained patrols | **Very strong** |
+| **RAC (WA)** | Yes | Tow to nearest EV charger | Has trialled mobile EV charging | **Very strong, particularly WA** |
+| **NRMA (NSW/ACT)** | Yes, but less prominent EV-specific information publicly available | Generally towing-based | Less clearly documented publicly | **Harder to rate / potentially less compelling for EVs** |
+End Of Line

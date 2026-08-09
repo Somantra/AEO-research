@@ -1,0 +1,10 @@
+2,b7ed2de8-1ba3-418f-954b-54c7669492b3,08080118-1126-0626-0000-11c4a4ebf11a,e857cd07-8571-47a4-b945-1d4243efce74,2026-08-08T12:33:04.137082+10:00
+Best car insurance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Insurer | Why EV owners consider it | Watch for |
+|---|---|---|
+| Allianz Australia | EV-focused cover including battery damage, thermal runaway (battery fire), charging cables/wall chargers, EV-certified repairers, agreed value options, and new EV replacement for eligible vehicles. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) | Check exclusions and conditions around charging equipment and battery events. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) |
+| NRMA Insurance | Large Australian insurer with EV policies available and broad repair networks. [www.news.com.au](https://www.news.com.au/technology/motoring/rising-petrol-uncertainty-accelerates-ev-uptake-across-australia-with-record-insurance-demand-growth/news-story/1d748e003f21aef84c27982434042582?utm_source=chatgpt.com) | Confirm EV-specific benefits, excess amounts, and replacement terms before buying. |
+| Youi | Often competitive for drivers whose profile fits its pricing model; available in EV comparisons. [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) | Quotes can vary significantly by location, driver history, and vehicle. |
+| Budget Direct | Frequently appears as a value-focused comprehensive option in Australian comparisons. [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) | Check whether the cheaper premium removes useful EV features. |
+End Of Line

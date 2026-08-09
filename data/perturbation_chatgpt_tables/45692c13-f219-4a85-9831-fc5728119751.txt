@@ -1,0 +1,15 @@
+2,95724ba0-d9e0-45f6-b59a-4317eb783ef7,08080119-1126-0626-0000-e6d7a5fab986,45692c13-f219-4a85-9831-fc5728119751,2026-08-08T12:34:12.978884+10:00
+Most reliable car insurance for used cars in Australia compared to other providers
+Tables found: 1
+| Insurer | Reliability / claims | Value | My take |
+|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐½ | ⭐⭐⭐ | **Best all-rounder** |
+| **Youi** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐ | Excellent service, often competitive |
+| **GIO** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Strong claims reputation + good value |
+| **RACQ / RAA / RAC** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Excellent where available |
+| **RACV** | ⭐⭐⭐½ | ⭐⭐⭐ | Good Victorian option, but not the strongest satisfaction score |
+| **AAMI** | ⭐⭐⭐ | ⭐⭐⭐ | Large, established, but claims satisfaction trails leaders |
+| **Allianz** | ⭐⭐⭐ | ⭐⭐⭐ | Good insurer, but customer satisfaction isn't outstanding |
+| **Budget Direct** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Often cheap, but weaker claims satisfaction |
+| **Shannons** | ⭐⭐⭐⭐ | ⭐⭐⭐ | Particularly interesting for enthusiast/classic cars |
+End Of Line

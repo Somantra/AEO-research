@@ -1,0 +1,11 @@
+2,082146e0-3ae6-41ce-9bea-ed8e102b448f,08080129-1126-0626-0000-36a94bcecc55,d8c1b466-1d4c-4d64-89fc-76ff08c4f77b,2026-08-08T12:59:59.076886+10:00
+Most affordable roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Approx. annual cost | EV support | Speed / convenience | My take |
+|---|---:|---|---|---|
+| **Budget Direct** | **$76.46 first year online** | General breakdown assistance; EV-specific out-of-charge support should be checked for your vehicle | **GPS tracking**, online request, 24/7 | 🥇 **Best budget pick** |
+| **RACQ** | **$109/year** | **Explicit EV cover**, towing to charger/destination, high-voltage-aware patrols | **~35-min average response** in QLD + live tracking | 🥇 **Best for EV-specific service** |
+| **RACV** | $138/year | **Explicit EV support**, including out-of-charge towing | Typically **within an hour**; app tracking in metro Melbourne | 🥇 **Best if you're in Victoria** |
+| **NRMA** | From ~$112/year | EV support; strong national reciprocal network | 24/7, large network | **Best NSW/ACT option** |
+| **Allianz** | From $139/year | Explicit EV out-of-charge assistance | 24/7 Australia-wide | Good, but pricier |
+End Of Line

@@ -1,0 +1,10 @@
+2,eceb5a4f-f0fc-43fd-9540-f2ec917cefae,08080119-1126-0626-0000-cc489dd350f0,22463efa-a632-4698-94f8-87cbea914ef5,2026-08-08T12:36:06.917829+10:00
+Worst third-party car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why some customers complain | Customer-review context |
+|---|---|---|
+| Budget Direct | Complaints often focus on claims handling, communication, and policy expectations | CHOICE’s 2025 survey rated Budget Direct below average for overall customer satisfaction and claims experience compared with leading performers. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| Allianz Australia | Some customers report frustration with claim delays or service consistency | CHOICE’s survey placed Allianz below several competitors for customer satisfaction. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| AAMI | Mixed feedback around claim outcomes and price increases | AAMI scored below average in CHOICE’s customer satisfaction survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| Bingle | Low-cost, online-focused model can mean less personalised service | Some Australian drivers mention concerns about service experience, although many choose it because of lower premiums. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1rt7gv8/car_insurance_for_pplater/?utm_source=chatgpt.com) |
+End Of Line

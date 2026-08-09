@@ -1,0 +1,11 @@
+2,79e6723b-e8b1-460c-8393-7c9cf52ce6e3,08080122-1126-0626-0000-225999d7420a,4b57690a-1160-4b8b-9309-0a2b4452fac7,2026-08-08T12:42:33.763992+10:00
+Least reliable motorcycle insurance for commuters in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Reliability signal | My take |
+|---|---|---|---|
+| **Budget Direct** | Yes | ⚠️ Mixed | Convenient and often cheap, but CHOICE’s 2025 survey gave it the **lowest car-claims satisfaction** among the insurers surveyed: 52% rated claims above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| **QBE** | Yes | 👍 Better | Strong motorcycle-specific option; Finder lists online quoting and comprehensive motorcycle cover. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | Yes | 👍 Better | CHOICE found 69% of NRMA car-claimants rated claims above average/excellent; online quoting is available. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/nrma-insurance?utm_source=chatgpt.com) |
+| **Youi** | Yes | 👍 Better | Finder specifically highlights its customer-service reputation and customisable motorcycle cover. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| **National Motorcycle Insurance** | Yes | 👍 Bike-focused | Finder rated it highly for comprehensive motorcycle coverage, including repairer choice and riding-gear cover. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

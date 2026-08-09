@@ -1,0 +1,10 @@
+2,f3d02edc-28e7-4313-9738-6b493a62bd72,08080132-1126-0626-0000-0b2640434767,db690877-c9ed-4fbd-bc92-7441b49220a8,2026-08-08T13:06:12.515137+10:00
+Cheapest roadside assistance for rural areas in Australia without hidden fees
+Tables found: 1
+| Provider | Cheapest relevant plan | Rural cover | Hidden/extra-fee concerns |
+|---|---:|---|---|
+| **RAA (SA)** | **$135/year** Standard | 40 km country attendance + 40 km country towing | **$154 fee** if you buy it and need help within 48 hours; pre-existing breakdowns excluded |
+| **NRMA (NSW/ACT/SA)** | **$112/year** annual Everyday Care* | Reciprocal national coverage | Only 25 km **metro** towing on basic plan; rural benefits depend on reciprocal club |
+| **RACV (Victoria)** | **$138/year** Roadside Care | Regional towing to nearest attending RACV service centre | Monthly payment includes a $6/year admin fee |
+| **RAA Plus (SA)** | **$214/year** | **100 km country attendance + 100 km country towing** | Same 48-hour restrictions |
+End Of Line

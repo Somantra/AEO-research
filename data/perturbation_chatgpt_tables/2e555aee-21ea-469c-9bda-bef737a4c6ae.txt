@@ -1,0 +1,9 @@
+2,7a9ffdd6-3bde-4c75-8f06-3fa10e02d006,08080137-1126-0626-0000-f3d1ab78f582,2e555aee-21ea-469c-9bda-bef737a4c6ae,2026-08-08T13:20:10.050338+10:00
+Worst travel insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Why I’d be cautious | Online quote |
+|---|---|---|
+| **AIG Travel Insurance** | Several recent AFCA disputes involving travel claims, including pre-existing medical conditions, repatriation and trip disruption. There was also a major reported 2026 case involving a traveller stranded in Bali after a spinal-injury claim was rejected. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=3b1e0f3f-733f-f111-88b4-7c1e5262e1fe&utm_source=chatgpt.com) | **Yes** |
+| **Allianz Global Assistance** | Large, established provider, but it has had enough travel-policy/website issues to warrant scrutiny; Allianz itself says it reviewed past travel claims and made adjustments where website statements were unclear. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/website-review-and-travel-remediation.html?utm_source=chatgpt.com) | **Yes** |
+| **NIB Travel Services** | Recent AFCA determination involving a $5,992.50 cancellation claim that was declined. The determination found the insurer was entitled to decline it under the policy, which illustrates why the exclusions need careful reading. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=3ae52563-eb74-f111-ab0f-6045bdc379eb&utm_source=chatgpt.com) | **Yes** |
+End Of Line

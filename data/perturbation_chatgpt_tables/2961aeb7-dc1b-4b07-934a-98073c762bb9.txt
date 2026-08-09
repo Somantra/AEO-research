@@ -1,0 +1,9 @@
+2,d5f166d6-91e7-445b-8554-6409723647f3,08080138-1126-0626-0000-fd281f5377a7,2961aeb7-dc1b-4b07-934a-98073c762bb9,2026-08-08T13:20:56.579455+10:00
+Best pet insurance for cats in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Main catch |
+|---|---|---|
+| **Fetch** | **Best for fee transparency**: $30k annual cover, up to 100% reimbursement, $0 excess option, and **no condition sub-limits**. You pay one excess per condition while the plan remains active. [www.fetchpet.com.au](https://www.fetchpet.com.au/cat-insurance?utm_source=chatgpt.com)[www.fetchpet.com.au](https://www.fetchpet.com.au/target-market-determination?utm_source=chatgpt.com) | Monthly premiums can change, and cover/premium can change each month. [www.fetchpet.com.au](https://www.fetchpet.com.au/cat-insurance?utm_source=chatgpt.com)[www.fetchpet.com.au](https://www.fetchpet.com.au/target-market-determination?utm_source=chatgpt.com) |
+| **PD Insurance** | **Best for straightforward policy management**: no lock-in contract or cancellation fee; excess is applied to the one event rather than every follow-up consultation. [www.pd.com.au](https://www.pd.com.au/kitten-insurance-plans/?utm_source=chatgpt.com) | Annual benefit limits and per-claim limits apply, so you need to check the exact plan. |
+| **Petcover** | Good if you want **lifetime/ongoing cover** and a relatively simple fixed excess. Its Superior cat plan has up to $15k vet-fee cover, $150 excess, and 21-day illness waiting period. [www.petcovergroup.com](https://www.petcovergroup.com/au/cat-insurance/?utm_source=chatgpt.com) | The excess increases for older cats: $150 + 20% from age 8 and +35% from age 10 on the Superior plan. [www.petcovergroup.com](https://www.petcovergroup.com/au/cat-insurance/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,13 @@
+2,c137e929-9e22-486b-93bf-3472666d03fb,08080126-1126-0626-0000-6a28424bc7d9,5322196f-fd5e-439c-bee4-ca62d5e9df35,2026-08-08T12:51:43.831041+10:00
+Worst home insurance for new builds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | New-build suitability | My take |
+|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Best overall** |
+| **RACV** | ⭐⭐⭐⭐⭐ in VIC | ⭐⭐⭐⭐ | **Excellent if you're in Victoria** |
+| **GIO** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Very strong for easy claims** |
+| **Allianz** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good alternative |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good mainstream option |
+| **Suncorp** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good claims handling, but can vary by event/location |
+| **Budget Direct** | ⭐⭐⭐⭐ | ⭐⭐⭐ | Worth quoting for price |
+End Of Line

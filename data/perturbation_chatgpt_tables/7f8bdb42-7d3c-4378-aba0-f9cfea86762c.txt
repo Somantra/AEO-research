@@ -1,0 +1,10 @@
+2,9dc427db-beb3-4e17-a7ff-42edbd9240b8,08080131-1126-0626-0000-3ed4c3374f59,7f8bdb42-7d3c-4378-aba0-f9cfea86762c,2026-08-08T13:05:58.961769+10:00
+Most popular roadside assistance plans in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Example online price* | Key point |
+|---|---|---:|---|
+| **[NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance)** | NSW/ACT, especially Sydney | From **$112/yr** | 3 levels; unlimited 24/7 callouts; Australia-wide emergency coverage |
+| **[RAC Roadside Assistance](https://rac.com.au/car-motoring/roadside-assistance)** | WA | From **$128/yr** | 4 levels; unlimited callouts; Australia-wide breakdown service |
+| **[RAA Road Service](https://www.raa.com.au/motor/road-service)** | South Australia | From **$135/yr** | Personal rather than vehicle-based cover; 24/7 Australia-wide |
+| **[AAMI Roadside Assist](https://www.aami.com.au/car-insurance/comprehensive/roadside-assist)** | People already buying AAMI comprehensive insurance | Quote online | Optional add-on to comprehensive car insurance; unlimited Australia-wide callouts |
+End Of Line

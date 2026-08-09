@@ -1,0 +1,10 @@
+1,c838dbca-d30e-40bf-8fe5-0b02cfb6695e,08080132-1126-0626-0000-87b4d291a391,243dc616-58f8-4b10-b14a-d03ebf967bd8,2026-08-08T13:06:32.375667+10:00
+Best travel insurance for adventure sports in Australia
+Tables found: 1
+| Provider | Best for | Why consider it |
+|---|---|---|
+| Allianz Australia | Broad adventure add-on | Offers an Adventure Pack option on eligible travel plans, useful for travellers adding activities to a normal holiday. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) |
+| Fast Cover | Adventure-focused travellers | Known for travel cover aimed at more active trips; compare activity inclusions carefully. [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/adventure-travel-insurance/?utm_source=chatgpt.com) |
+| nib Travel Insurance | Water sports and mixed activities | Lists coverage for activities such as hiking, surfing and scuba diving (subject to plan conditions). [www.nib.com.au](https://www.nib.com.au/travel-insurance/what-we-cover/activities?utm_source=chatgpt.com) |
+| Southern Cross Travel Insurance | Ski and active holidays | Often considered by Australians travelling for snow and outdoor activities; check specific exclusions and add-ons. [www.news.com.au](https://www.news.com.au/travel/travel-updates/warnings/2k-mistake-aussies-make-overseas/news-story/416e89fada1d48adc564d81151a55610?utm_source=chatgpt.com) |
+End Of Line

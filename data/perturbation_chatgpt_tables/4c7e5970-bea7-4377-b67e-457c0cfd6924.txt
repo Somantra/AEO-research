@@ -1,0 +1,10 @@
+2,778c7999-91c4-46a1-93f0-f01ab5e07801,08080138-1126-0626-0000-a3087dbddcf5,4c7e5970-bea7-4377-b67e-457c0cfd6924,2026-08-08T13:22:14.902188+10:00
+Premium pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Provider | Why it may suit a premium cover buyer | Claims speed features |
+|---|---|---|
+| Pet Insurance Australia | Comprehensive accident and illness policies, with options aimed at high vet-cost events | Offers [GapOnly® claims service](https://www.petinsuranceaustralia.com.au/make-a-claim/) at participating vets, where eligible claims can be settled while you’re still at the clinic; eClaims are typically processed within about five business days. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| Petsy | Popular Australian provider focused on digital policy management and claims | Worth comparing if you want a streamlined online experience.  |
+| Fetch Pet Insurance | Often considered for comprehensive cover, including higher reimbursement options | Some plans support direct-to-vet payment arrangements; check whether your preferred vet participates. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Petsecure | Established Australian pet insurer with comprehensive policy options | Compare claim handling times and exclusions before choosing.  |
+End Of Line

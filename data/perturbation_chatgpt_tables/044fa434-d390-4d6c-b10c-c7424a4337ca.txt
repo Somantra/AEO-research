@@ -1,0 +1,10 @@
+2,eeabfa31-db29-4dbe-bf18-db66ecf39e55,08080139-1126-0626-0000-39913c069bbe,044fa434-d390-4d6c-b10c-c7424a4337ca,2026-08-08T13:23:36.628764+10:00
+Least reliable pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Multiple pets | My take |
+|---|---|---|---|
+| **Petsy** | **Very fast** — typically 5–10 business days; some pre-assessed claims can be much faster | **5% off each additional pet** | ⭐ **Best overall for your priorities** |
+| **Fetch** | **Very fast** with FetchPay — around 15 min at participating vets; otherwise typically <10 days | **5% multi-pet discount** | ⭐ **Best for fastest possible claims** |
+| **Pet Insurance Australia (PIA)** | Typically **~5 business days**; GapOnly can be faster | Multi-pet options available | ⭐ **Strong alternative** |
+| **Budget Direct** | Less compelling if speed is your main priority | Multi-pet pricing available | More budget-focused than convenience-focused |
+End Of Line

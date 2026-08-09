@@ -1,0 +1,10 @@
+2,c3ca1085-644d-45ef-9ec2-cfdb87b9a125,08080121-1126-0626-0000-21ab3e92a835,73a273cb-be0c-4756-a16f-bb7703a2ef37,2026-08-08T12:40:18.200320+10:00
+Premium motorcycle insurance for learner riders in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why it stands out | Review signal | Learner suitability |
+|---|---|---|---|
+| **Youi** | Strong service reputation, 24/7 roadside assistance, repair guarantee, theft/accident/storm/flood cover, riding gear up to $1,000 | **4.0/5** on ProductReview from 106 motorcycle reviews; **4.7/5 Trustpilot** overall [www.productreview.com.au](https://www.productreview.com.au/listings/youi-motorcycle-insurance?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/about-us/youi-insurance-reviews?utm_source=chatgpt.com) | **Excellent** |
+| **QBE** | Comprehensive cover, up to $4,000 riding-apparel cover, $30m liability, new-bike replacement for eligible bikes under 2 years | **3.2/5** from 35 reviews [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-comprehensive-motorcycle-insurance?utm_source=chatgpt.com) | **Excellent** — QBE explicitly confirms learner riders are covered [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | Broad comprehensive cover, lifetime authorised-repair guarantee, new-for-new replacement for eligible bikes, helmet cover | Community feedback is mixed, but some recent riders report good pricing/claims experiences [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1lsug9w/any_experience_with_nrma_bike_insurance/?utm_source=chatgpt.com) | **Very good** |
+| **Shannons** | Enthusiast-focused insurer; comprehensive motorcycle cover and learner riders are specifically addressed in its PDS | **2.7/5** from 25 Bike Insurance reviews, so reviews aren't as strong as Youi [www.productreview.com.au](https://www.productreview.com.au/listings/shannons-bike-insurance?utm_source=chatgpt.com) | **Good**, particularly for enthusiast/classic/custom bikes |
+End Of Line

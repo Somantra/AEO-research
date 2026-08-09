@@ -1,0 +1,11 @@
+2,e69d1e88-35e9-446e-b32f-308e566011d4,08080119-1126-0626-0000-93a74bc000b7,b6caa520-3822-4c61-926b-751108617d82,2026-08-08T12:36:09.546401+10:00
+Most reliable third-party car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer satisfaction* |
+|---|---|---:|
+| **[RAC WA](https://rac.com.au/)** | Excellent reputation in WA, local claims team, and third-party cover includes up to **$5,000 for damage to your car caused by an uninsured at-fault driver** | **77%** |
+| **[Youi](https://www.youi.com.au/)** | Strong national customer results; offers third-party property-only cover and 24/7 claims lodgement | **77%** |
+| **[NRMA Insurance](https://www.nrma.com.au/)** | Large established insurer, third-party property damage available in WA | **72%** |
+| **[GIO](https://www.gio.com.au/)** | Good customer-satisfaction result and established claims operation | **75%** |
+| **[RACQ](https://www.racq.com.au/)** | Excellent customer satisfaction, but primarily relevant if you're in Queensland | **85%** |
+End Of Line

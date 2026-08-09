@@ -1,0 +1,12 @@
+2,d62b3af0-cc6d-474c-9ac2-7068325f67d7,08080132-1126-0626-0000-eb0c0a3b4f40,28f2b9ef-fd49-43f2-90a2-0556133c664b,2026-08-08T13:08:05.467343+10:00
+Most popular roadside assistance for hybrid cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Hybrid/EV support | Online quote | Australia-wide | Best for |
+|---|---|---|---|---|
+| **NRMA** | ✅ Yes | ✅ | ✅ | **Best overall / strong network** |
+| **Budget Direct** | ✅ Battery & electrical faults | ✅ Instant online quote | ✅ | **Cheapest straightforward option** |
+| **Allianz** | ✅ Explicit EV support | ✅ Buy online | ✅ | **EV/hybrid-friendly insurer** |
+| **RACV** | ✅ EV assistance | ✅ Online pricing | 🇦🇺 Reciprocal interstate cover | **Victoria** |
+| **RAA** | ✅ Hybrids explicitly covered | ✅ Online | ✅ | **South Australia** |
+| **RAC WA** | ✅ Electric vehicles covered | ✅ Online pricing | ✅ | **Western Australia** |
+End Of Line

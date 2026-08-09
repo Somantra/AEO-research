@@ -1,0 +1,14 @@
+2,8cbe2ab6-1992-44cc-88ab-f6f16b3d76ed,08080121-1126-0626-0000-56a90fedabcf,aba08dbb-08fd-4eec-bb6e-6f7889e687be,2026-08-08T12:39:24.561783+10:00
+Least reliable motorcycle insurance for learner riders in Australia compared to other providers
+Tables found: 1
+| Provider | Learner suitability | Reliability/claims confidence | Main concern |
+|---|---|---|---|
+| **QBE** | 🟢 Excellent | 🟢 Good | Inexperienced-rider excess can be substantial |
+| **Shannons** | 🟢 Excellent | 🟢 Good | Can be expensive |
+| **NRMA** | 🟢 Good | 🟢 Good | Pricing can vary heavily |
+| **Youi** | 🟢 Good | 🟢 Good | Young/inexperienced riders can receive expensive quotes |
+| **RACV** | 🟢 Good | 🟢 Good | Particularly relevant in Victoria |
+| **AAMI** | 🟡 Depends on quote/PDS | 🟡 Reasonable | Learner pricing can be very high |
+| **Budget Direct** | 🟡 Depends on eligibility | 🟡 Mixed | Less motorcycle-specialist oriented |
+| **Swann** | 🔴 Don't assume it's an option | — | Current availability/status needs checking |
+End Of Line

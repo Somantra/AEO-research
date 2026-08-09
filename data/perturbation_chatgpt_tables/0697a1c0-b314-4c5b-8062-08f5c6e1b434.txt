@@ -1,0 +1,10 @@
+2,a3576e90-78b3-4543-a756-2a4f48fc9fd9,08080129-1126-0626-0000-cf7f14742a92,0697a1c0-b314-4c5b-8062-08f5c6e1b434,2026-08-08T13:00:20.360436+10:00
+Least reliable roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer-review signal | EV capability | My take |
+|---|---|---|---|
+| **RAC Roadside Assistance (WA)** | 4.8/5 on ProductReview, 1,221 reviews [www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/electric-vehicle-products-services?utm_source=chatgpt.com) | Explicitly covers EVs and can tow an out-of-charge EV to the nearest charger [rac.com.au](https://rac.com.au/car-motoring/electric-vehicle-products-services?utm_source=chatgpt.com) | **Best overall if you're in WA** |
+| **NRMA Roadside Assistance (NSW/ACT)** | 4.5/5, 1,913 reviews [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) | Large roadside network; good general EV suitability | **Strong NSW/ACT choice** |
+| **RACV Roadside Assistance (VIC)** | ProductReview is only 2.6/5, but RACV's EV offering is particularly strong | High-voltage-trained patrols; EV out-of-charge towing; Australia-wide assistance [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) | **Best EV-specific features, despite mixed reviews** |
+| **24/7 Roadservices Australia** | 4.9-ish/5 in comparison results; local business result shows 4.8/5 | General roadside/towing rather than the same EV-specialist infrastructure | **Worth considering as an alternative** |
+End Of Line

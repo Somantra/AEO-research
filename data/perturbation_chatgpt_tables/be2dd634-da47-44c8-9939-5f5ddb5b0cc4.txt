@@ -1,0 +1,11 @@
+2,3f4d63c9-a27a-4f2f-a2f0-180538cda14c,08080130-1126-0626-0000-4127e366e98b,be2dd634-da47-44c8-9939-5f5ddb5b0cc4,2026-08-08T13:01:09.924660+10:00
+Best roadside assistance for motorcycles in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Speed / convenience | Motorcycle focus |
+|---|---|---|---|
+| **RACQ** | 🥇 Fastest documented response | **~35-min average in QLD**, 24/7, app with live patrol tracking | Excellent |
+| **Rider Support Australia** | 🥇 Dedicated motorcycle service nationwide | 24/7; ~900 contractors, motorcycle specialists where possible | **Excellent** |
+| **NRMA** | Best large-network option in NSW/ACT | 24/7, large national network | Very good |
+| **Motorcycle Assist Australia (MCAA)** | Motorcycle-specific nationwide cover | 24/7 national service, 2,000-strong service team | **Excellent** |
+| **RACV** | Strong VIC option | Usually within **1 hour** | Good |
+End Of Line

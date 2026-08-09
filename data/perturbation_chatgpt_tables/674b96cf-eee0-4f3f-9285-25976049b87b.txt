@@ -1,0 +1,10 @@
+2,7061e4d7-083d-4b35-9d15-783d9d17e354,08080133-1126-0626-0000-e11cebc3d97a,674b96cf-eee0-4f3f-9285-25976049b87b,2026-08-08T13:09:09.407413+10:00
+Premium standalone roadside assistance cover in Australia with instant online quotes
+Tables found: 1
+| Provider / plan | Indicative price | Notable premium features |
+|---|---:|---|
+| **NRMA Ultimate Care** | From **$27.49/month** | Unlimited call-outs, up to $200 locksmith benefit |
+| **RACQ Ultimate Care** | About **$310/year** | Unlimited call-outs, up to $300 locksmith benefit |
+| **RAA Premium Roadside Assistance** | **$293/year** | Unlimited call-outs, Australia-wide cover |
+| **MyDriveShield 5-Star Roadside** | From **$154/year** | Towing/recovery, battery, tyre, fuel and lockout assistance; online pricing in under 2 minutes |
+End Of Line

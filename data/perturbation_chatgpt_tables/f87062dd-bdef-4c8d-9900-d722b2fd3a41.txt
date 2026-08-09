@@ -1,0 +1,11 @@
+2,a48ebd16-7967-4121-9e17-6d525596b993,08080140-1126-0626-0000-bbcbae9e69c1,f87062dd-bdef-4c8d-9900-d722b2fd3a41,2026-08-08T13:25:43.316909+10:00
+Premium pet insurance for puppies and kittens in Australia without hidden fees
+Tables found: 1
+| Insurer | Why it stands out | Watch-outs |
+|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | Up to **$30k/year**, up to **100% reimbursement**, **no sub-limits**, and dental, physio and behavioural cover included. [www.fetchpet.com.au](https://www.fetchpet.com.au/?utm_source=chatgpt.com) | Check the PDS carefully for exclusions and waiting periods. |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Up to **$30k**, up to **90% back**, and **zero sub-limits**. It also offers GapOnly claiming. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/?utm_source=chatgpt.com) | Optional extras and the chosen excess affect the real cost. |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | **$15k–$35k** annual limits, 70/80/90% reimbursement and $0/$100/$300/$600 excess choices. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/kitten-insurance/?utm_source=chatgpt.com) | There is a **$2 collection fee** for monthly/fortnightly payments; premiums can rise with age, vet inflation and claims experience. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | No sub-limits and upfront pricing; it publishes actual 2026 example quotes, including for a puppy in WA. [www.knose.com.au](https://www.knose.com.au/faqs-and-resources/?utm_source=chatgpt.com) | It does have a **policy fee of up to $5/month**, so it's not literally fee-free. [www.knose.com.au](https://www.knose.com.au/faqs-and-resources/?utm_source=chatgpt.com) |
+| **[Petcover Australia](https://www.petcovergroup.com/au/)** | Lifetime-style “Umbrella for life” cover; puppy cover up to **$20k** and kitten cover up to **$15k** on its highest plans. [www.petcovergroup.com](https://www.petcovergroup.com/au/dog-insurance/puppy-insurance/?utm_source=chatgpt.com) | Some lower-tier plans have condition-specific limits, so compare the Superior plan/PDS rather than just the headline price. |
+End Of Line

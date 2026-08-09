@@ -1,0 +1,10 @@
+1,4f1bdcd9-5b83-48f5-8bba-9ca14c2b7299,08080118-1126-0626-0000-95c0c274f1b8,a15387b3-accf-4c6d-9f2e-9f9142673bfd,2026-08-08T12:31:59.606410+10:00
+Most trusted third-party car insurance in Australia
+Tables found: 1
+| Insurer | Why I'd consider it |
+|---|---|
+| **RAA** | **Best choice if you're in South Australia**. RAA scored **91% customer satisfaction** in CHOICE's latest car-insurance survey—the highest of the insurers surveyed. It offers TPPD and Third Party Fire & Theft. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.raa.com.au](https://www.raa.com.au/motor/car-insurance/third-party-car-insurance?utm_source=chatgpt.com) |
+| **NRMA Insurance** | Strong national option, with **72%** of surveyed customers rating their car-insurance experience above average/excellent. TPPD also covers up to $5,000 for damage to your car caused by an uninsured driver, subject to conditions. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/nrma-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Well-established insurer and offers TPPD with up to **$20 million** cover for damage to other people's property, plus up to $5,000 for damage by an uninsured driver. [www.aami.com.au](https://www.aami.com.au/car-insurance/switch?utm_source=chatgpt.com) |
+| **RACQ / RAC / RACV** | Worth considering if you're in their respective states. Customer satisfaction was particularly strong for RACQ (85%), RAC (77%) and RACV (64%) in CHOICE's survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+End Of Line

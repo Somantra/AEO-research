@@ -1,0 +1,11 @@
+1,33242ba3-03b3-42f5-aac2-36ed9edfa37b,08080136-1126-0626-0000-1c4294f49ee8,c90fba67-6353-41f1-944d-b23967a1cfa3,2026-08-08T13:15:56.228159+10:00
+Best pet insurance for puppies and kittens in Australia
+Tables found: 1
+| Insurer | Best for | Annual limit | Key strength |
+|---|---|---:|---|
+| **Petsy** | 🏆 **Best overall for young pets** | Up to $30k | No sub-limits + young-pet bonus |
+| **RSPCA Pet Insurance** | 🐶🐱 **Best high-limit option** | Up to $35k | No sub-limits, up to 90% |
+| **Pet Insurance Australia** | 💰 **Best flexibility** | Up to $35k | Choose 70/80/90%, excess and limit |
+| **Trupanion** | 🏥 **Best for major/chronic conditions** | No traditional annual limit | Lifetime/per-condition style protection |
+| **Bow Wow Meow** | 🔎 **Worth getting a quote** | Varies by plan | Strong established Australian option |
+End Of Line

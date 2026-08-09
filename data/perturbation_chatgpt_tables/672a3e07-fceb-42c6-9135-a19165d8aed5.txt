@@ -1,0 +1,13 @@
+1,fdf0bb10-78ff-48c9-885a-8844d79fcb98,08080117-1126-0626-0000-30aca2c41495,672a3e07-fceb-42c6-9135-a19165d8aed5,2026-08-08T12:29:20.736968+10:00
+Most popular car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | Why EV owners consider it |
+|---|---|
+| **AAMI** | Often competitive on price; popular with Tesla/EV owners |
+| **Allianz** | Strong EV-specific cover, including battery and charging equipment |
+| **NRMA** | Major insurer with dedicated EV coverage and lifetime repair guarantee |
+| **Youi** | EV-specific policy, with roadside assistance including transport to a charging station |
+| **RACV / RACQ / RAC** | Particularly worth checking if you're in Victoria / Queensland / WA respectively |
+| **Zurich / InsureMyTesla** | Particularly relevant for Tesla owners; specialised Tesla coverage |
+| **Rollin'** | EV-friendly option that can be competitive on premiums |
+End Of Line

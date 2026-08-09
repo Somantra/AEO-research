@@ -1,0 +1,11 @@
+2,a9b6a374-53e1-4976-846f-0bab7a30cb43,08080131-1126-0626-0000-b6d605670feb,41d7907c-0d5e-43da-81a0-2c75377fb1c4,2026-08-08T13:05:07.886632+10:00
+Most comprehensive roadside assistance for older cars in Australia without hidden fees
+Tables found: 1
+| Provider | Best option | Why it stands out | Hidden-fee risk |
+|---|---|---|---|
+| **RACV (Victoria)** | **Total Care** | Unlimited callouts, **100 km towing**, accommodation/car hire/taxis up to $2,400, locksmith up to $350, fuel, minor parts | **Low**, but terms/limits apply |
+| **NRMA (NSW/ACT)** | Higher-level roadside plan | Unlimited 24/7 callouts Australia-wide, battery/tyre/fuel/keys/towing | **Low–moderate**; check towing limits |
+| **RAC (WA)** | **Ultimate Plus** | **200 km metro / 300 km country towing**, recovery, accommodation, hire car, locksmith, fuel | **Low**, with clearly published pricing |
+| **RACQ (QLD)** | **Ultra Care** | Strong comprehensive breakdown benefits | **Low–moderate**; check current limits |
+| **Allianz** | Platinum | Good coverage, but less attractive if your main concern is avoiding extra charges | **Higher** — notably a 48-hour waiting-period issue |
+End Of Line

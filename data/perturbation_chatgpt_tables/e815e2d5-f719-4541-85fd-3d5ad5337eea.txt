@@ -1,0 +1,10 @@
+2,bc25bd7a-abac-4c87-81dc-3a4f252e4fe8,08080130-1126-0626-0000-99a4aa48d594,e815e2d5-f719-4541-85fd-3d5ad5337eea,2026-08-08T13:02:50.028833+10:00
+Most popular roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider | Good interstate option | Current price* | Key towing benefit | My take |
+|---|---|---:|---|---|
+| **NRMA** | **Ultimate Care** | $245/yr | Up to 100 km | ⭐ **Best overall value** |
+| **RACV** | **Total Care** | $318/yr | Up to 100 km | ⭐ Best for Melbourne/Vic + interstate |
+| **RACV** | Extra Care | $229/yr | Up to 60 km | Good cheaper option |
+| **RACT** | Ultimate | $264/yr | Unlimited* | Excellent if starting in Tasmania |
+End Of Line

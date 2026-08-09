@@ -1,0 +1,10 @@
+2,028f80ee-a30f-43a4-83e1-0139e6578e27,08080131-1126-0626-0000-196fe58ceccc,2460a64e-6018-4efa-80a1-f3597ac896ff,2026-08-08T13:03:54.537320+10:00
+Premium roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Commercial cover | Monthly payment | Key point |
+|---|---|---|---|
+| **FleetCard Roadside** | Yes | **$6.99/month per vehicle** (Classic) | 24/7 nationwide; towing, battery, flat tyre, lockout, fuel and workshop referral |
+| **RACQ Business** | Yes, up to 4.5t GVM | Annual pricing | Premium Plus Care for Business is $199/year |
+| **RAA Fleet Road Service** | Yes | Mainly annual fleet pricing | Premium fleet cover, 24/7 Australia-wide |
+| **CVM fleet management** | Commercial fleets | **Monthly bundled payment** | Roadside assistance can be bundled with servicing, tyres, rego and other fleet costs |
+End Of Line

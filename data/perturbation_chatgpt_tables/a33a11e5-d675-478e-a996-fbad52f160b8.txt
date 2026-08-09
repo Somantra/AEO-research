@@ -1,0 +1,13 @@
+2,e5d4cc4a-c134-45a4-877e-ccdcecd96430,08080129-1126-0626-0000-601fabd41bcb,a33a11e5-d675-478e-a996-fbad52f160b8,2026-08-08T13:00:06.564608+10:00
+Best roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV support | Out-of-charge help | Towing | Best for |
+|---|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | Mobile EV chargers + towing | Up to 100 km on Ultimate Care | **QLD / Brisbane & road trips** |
+| **RACV** | ⭐⭐⭐⭐⭐ | Towing + mobile DC charging trial | **Up to 200 km** on Total Care | **VIC / long-distance EV driving** |
+| **RAC WA** | ⭐⭐⭐⭐⭐ | Emergency top-up charging + towing | Plan dependent | **WA** |
+| **RAA** | ⭐⭐⭐⭐½ | Towing to charger | Plan dependent | **SA** |
+| **NRMA** | ⭐⭐⭐⭐ | EV support + charging ecosystem | Up to 100 km | **NSW / ACT** |
+| **Allianz** | ⭐⭐⭐½ | Specifically covers EV out-of-charge | Up to 100 km | **Australia-wide alternative** |
+| Manufacturer roadside | ⭐⭐⭐⭐ | Often very EV-specific | Usually manufacturer terms | **New EV still under warranty** |
+End Of Line

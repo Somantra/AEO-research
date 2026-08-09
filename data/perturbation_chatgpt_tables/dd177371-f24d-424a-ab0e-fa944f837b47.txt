@@ -1,0 +1,10 @@
+2,d13d8649-945d-4c8c-99f8-6c55aaa5b5e7,08080123-1126-0626-0000-d5137deaad71,dd177371-f24d-424a-ab0e-fa944f837b47,2026-08-08T12:45:03.225072+10:00
+Most comprehensive third-party motorcycle insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | TPPD liability | Claims process | Notable advantage |
+|---|---:|---|---|
+| **AAMI** | **$20m** | Phone; online tracking | Very strong overall TPPD package; optional fire/theft and riding-gear cover |
+| **GIO** | **$20m** | **24/7 claims** by phone | Strong claims availability; up to $5k uninsured-driver damage |
+| **NRMA** | Check quote/PDS | **24/7 claim lodgement**, online management | Strong claims infrastructure and particularly worth considering in WA |
+| **QBE** | **$30m** | **24/7 claims**, online or phone | Highest liability limit of these; strong motorcycle-specific benefits |
+End Of Line

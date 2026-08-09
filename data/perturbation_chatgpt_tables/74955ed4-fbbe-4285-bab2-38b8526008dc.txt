@@ -1,0 +1,14 @@
+1,5ae2b5e5-706e-43f3-b62a-4ba77cec22bd,08080124-1126-0626-0000-3a5405d51844,74955ed4-fbbe-4285-bab2-38b8526008dc,2026-08-08T12:47:22.856997+10:00
+Least reliable home insurance for apartments in Australia
+Tables found: 1
+| Insurer | Home satisfaction | Claims experience | My take |
+|---|---:|---:|---|
+| **Qantas Insurance** | **42%** | — | 🔴 Weakest overall satisfaction |
+| **CGU** | **48%** | — | 🔴 Low satisfaction |
+| **CBA/CommBank** | **51%** | 54% | 🔴 Below average |
+| **GIO** | **55%** | 50% | 🟠 Weak claims result |
+| **Allianz** | **55%** | 52% | 🟠 Significant concern |
+| **Everyday/Woolworths** | 57% | 82% | 🟡 Mixed — good claims result but satisfaction lower |
+| **Budget Direct** | 58% | 49% | 🟠 Weak claims experience |
+| **AAMI** | 60% | 57% | 🟡 Around average |
+End Of Line

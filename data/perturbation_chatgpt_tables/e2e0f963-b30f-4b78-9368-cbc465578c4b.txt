@@ -1,0 +1,10 @@
+2,203f557c-7e5b-4bfa-91ff-5259fd87c396,08080129-1126-0626-0000-ff642c717931,e2e0f963-b30f-4b78-9368-cbc465578c4b,2026-08-08T12:59:51.965924+10:00
+Cheapest roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Basic monthly price | EVs covered? | Towing |
+|---|---:|---|---|
+| **NRMA Everyday Care** | **$9.99/month*** | Yes | Up to 25 km metro |
+| **RACV Roadside Care** | **$12/month** | Yes | 20 km |
+| **RACV Extra Care** | $19.58/month | Yes | 60 km |
+| **NRMA Complete Care** | $17.99/month* | Yes | Up to 50 km |
+End Of Line

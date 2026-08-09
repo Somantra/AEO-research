@@ -1,0 +1,9 @@
+2,df2f33fb-ed61-49ca-badd-a5d204a6e997,08080135-1126-0626-0000-e58d2b9916a1,266d3c35-3b7e-4d73-9f05-ed044c42fb5a,2026-08-08T13:15:02.518736+10:00
+Least reliable travel insurance for adventure sports in Australia with instant online quotes
+Tables found: 1
+| Provider | Adventure-sports fit | Instant online quote | Main caution |
+|---|---|---|---|
+| **World Nomads** | ⭐⭐⭐⭐⭐ | Yes | You must select the relevant activities/levels; some require an upgrade |
+| **Cover-More** | ⭐⭐⭐⭐ | Yes | Check the specific activity and policy exclusions |
+| **InsureandGo** | ⭐⭐⭐ | Yes | Adventure activities need particularly careful PDS checking |
+End Of Line

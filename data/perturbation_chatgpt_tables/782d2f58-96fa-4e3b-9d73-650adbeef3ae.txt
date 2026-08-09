@@ -1,0 +1,10 @@
+1,ca04802c-ef77-4ca4-9b21-64f461ebfa5e,08080135-1126-0626-0000-3d3bc7d26a9f,782d2f58-96fa-4e3b-9d73-650adbeef3ae,2026-08-08T13:15:38.162070+10:00
+Premium pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Situation | Likely outcome |
+|---|---|
+| **Chronic condition already diagnosed** (e.g., diabetes, arthritis, kidney disease, ongoing allergies) | Usually excluded permanently |
+| **Old injury/illness that has fully resolved** | Some insurers may review it after a symptom-free period |
+| **Minor temporary issue that was cured** (e.g., some infections) | May become eligible after review, depending on insurer |
+| **New unrelated illness after joining** | Usually covered if policy terms are met |
+End Of Line

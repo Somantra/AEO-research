@@ -1,0 +1,11 @@
+2,6cacf706-40ef-47f5-886b-6182373bd4c2,08080139-1126-0626-0000-2012bfcc2c87,91524f6b-b18f-4292-9ea2-e654b3966eeb,2026-08-08T13:23:29.516152+10:00
+Worst pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Insurer / plan | Multi-pet discount | Why I'd be cautious |
+|---|---:|---|
+| **PIA Select & Protect** | 5% | Lower multi-pet discount and only a mid-range Finder score of 7.8 |
+| **Knose Pet Insurance** | 5% | Good overall product, but the multi-pet saving is relatively small |
+| **Medibank Pet Max** | 5% | Solid coverage, but only 5% off additional pets |
+| **Petcover Superior** | 5% | Strong coverage, but fixed excess on most plans and no pre-approval of claims |
+| **Petsy** | 5% | Multi-pet discount is only 5%; adding another pet later requires contacting them |
+End Of Line

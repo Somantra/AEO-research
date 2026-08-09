@@ -1,0 +1,10 @@
+2,64d36841-e75a-4998-b943-c868066e30b5,08080129-1126-0626-0000-fa6cfe3b75aa,9c7a07b8-0a63-48c7-8ae2-98386299089d,2026-08-08T13:00:03.541958+10:00
+Best roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly price* | EV support | Towing | Best for |
+|---|---:|---|---|---|
+| **NRMA** | From **$9.99/mo** | Yes | 25–100 km depending on tier | **Best value / NSW** |
+| **RACV** | From **$12/mo** | Yes, no extra cost | 20–100 km; EV out-of-charge support | **Best overall EV features** |
+| **RACV Total Care** | **$27/mo** | High-voltage-trained patrols | 100 km; EV charge-out towing up to 200 km to preferred destination | **Best for frequent/long-distance driving** |
+| **RACQ** | Monthly payment available | Yes, all levels | Depends on level | **Best for Queensland** |
+End Of Line

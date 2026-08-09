@@ -1,0 +1,11 @@
+2,f9100c3e-0090-4638-899b-1ebe19602b7a,08080138-1126-0626-0000-128a03467b5e,a22db0e7-9797-4b60-acb5-66af9adc3ee0,2026-08-08T13:21:29.661525+10:00
+Premium pet insurance for cats in Australia without hidden fees
+Tables found: 1
+| Insurer | Why it stands out | Key cover |
+|---|---|---|
+| **[Petsy](https://petsy.com.au/cat-insurance/)** | **Best fit for transparency** | Up to $25k annual limit, 80%/90% reimbursement, $0 excess available, **no sub-limits**, and Petsy explicitly says no hidden costs. [petsy.com.au](https://petsy.com.au/cat-insurance/?utm_source=chatgpt.com) |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/cat-insurance/)** | **Best high-limit option** | Up to $35k/year, 70/80/90% reimbursement, $0–$600 annual excess, and **no sub-limits** on the core product. GapOnly is available at participating vets. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/cat-insurance/?utm_source=chatgpt.com) |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/cat-insurance)** | **Strong premium/comprehensive option** | Up to $30k/year, up to 100% cover, $0 excess option, no sub-limits, with dental, physio and behavioural cover included subject to the PDS. [www.fetchpet.com.au](https://www.fetchpet.com.au/cat-insurance?utm_source=chatgpt.com) |
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | **Another transparent alternative** | Up to $25k annual limit, flexible cover, and the insurer advertises **no sub-limits or hidden costs**. [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/cat/)** | **Good if direct-at-vet claiming matters** | Up to $30k/year and 70/80/90% reimbursement; GapOnly can allow the eligible portion to be handled at participating vets. [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/cat/?utm_source=chatgpt.com) |
+End Of Line

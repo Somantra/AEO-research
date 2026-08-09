@@ -1,0 +1,12 @@
+2,a1cbf095-d1f5-47b1-8ab4-cd74d3fae27e,08080142-1126-0626-0000-4f8fd2f676c6,d66d5295-d29a-415c-afe7-fc28968c57ca,2026-08-08T13:29:10.492007+10:00
+Most comprehensive pet insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer reviews* | Comprehensive cover | Annual limit | Best for |
+|---|---:|---|---:|---|
+| **Petsy** | ⭐ **4.9/5** (323) | 80–90% reimbursement | Up to **$25k** | Best overall combination of cover + reviews |
+| **Knose** | ⭐ **4.8/5** (747) | 70–90% | Up to **$25k** | Excellent service & flexible cover |
+| **Fetch** | ⭐ **4.8/5** (562) | 80–100% | Up to **$30k** | Very broad coverage |
+| **Bow Wow Meow** | ⭐ **4.5/5** (3,237) | 70–90% | Up to **$30k** | Best-established, lots of customer feedback |
+| **Pet Insurance Australia** | ⭐ **4.5/5** (2,259) | 70–90% | Up to **$35k** | High maximum cover & GapOnly |
+| **Trupanion** | ⭐ ~4.5/5 | Comprehensive | Unlimited | Potentially excellent for very large/chronic claims |
+End Of Line

@@ -1,0 +1,15 @@
+2,b6c5817c-1189-46da-a591-c2dccc2ef547,08080125-1126-0626-0000-6588bc9ededf,3f643861-2644-40b9-9f5d-f73ed917844d,2026-08-08T12:49:43.776430+10:00
+Least reliable home insurance for renters in Australia compared to other providers
+Tables found: 1
+| Insurer | Reliability signal | Take |
+|---|---|---|
+| **Allianz** | 🔴 Weakest | **One I'd be cautious about** |
+| **Coles Insurance** | 🟠 Below average | Mixed customer satisfaction |
+| **Budget Direct** | 🟠 Below average | Reasonable price, but not a standout for service |
+| **AAMI** | 🟡 Average | Better than Allianz, but not among the leaders |
+| **NRMA** | 🟢 Good | Stronger claims/customer experience |
+| **GIO** | 🟢 Good | Above-average satisfaction |
+| **Suncorp** | 🟢 Good | Strong customer satisfaction |
+| **Youi** | 🟢 Very good | Consistently above average |
+| **RACV/RAC/RAA/RACQ** | 🟢 Very good | Particularly strong where available |
+End Of Line

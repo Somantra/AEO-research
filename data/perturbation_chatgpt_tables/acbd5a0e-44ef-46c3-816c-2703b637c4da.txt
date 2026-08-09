@@ -1,0 +1,11 @@
+2,f9ad77b3-c5a6-407d-958c-34b770863a06,08080138-1126-0626-0000-1d6528077c24,acbd5a0e-44ef-46c3-816c-2703b637c4da,2026-08-08T13:20:53.632968+10:00
+Best pet insurance for cats in Australia with monthly payments
+Tables found: 1
+| Provider | My take | Annual limit | Reimbursement |
+|---|---|---:|---:|
+| **Medibank Pet Max** | 🥇 Best overall | $30,000 | Up to 90% |
+| **Fetch Pet Insurance** | 🥈 Best comprehensive | $30,000 | Up to 100% |
+| **Bow Wow Meow Nose-to-Tail** | 🥉 Good balance of cover/value | $20,000 | Up to 90% |
+| **RSPCA PetFlex** | Good high-limit alternative | $35,000 | Up to 90% |
+| **Coles Essential** | 💰 Budget option | $15,000 | Up to 100% |
+End Of Line

@@ -1,0 +1,12 @@
+1,107b97f4-6d67-43d2-98d8-93cd0eafbf6c,08080128-1126-0626-0000-2b79baee14fb,0672cc47-561a-4162-b9fa-31158cde8533,2026-08-08T12:56:19.572639+10:00
+Most popular roadside assistance for older cars in Australia
+Tables found: 1
+| Provider | Best for | Older cars? | Approx. annual cost* |
+|---|---|---|---:|
+| **NRMA** | Nationwide coverage / large network | ✅ | From ~$137 |
+| **RAC** | **Western Australia** | ✅ | From $128 |
+| **RACV** | Victoria | ✅ | Varies |
+| **RACQ** | Queensland | ✅ | From ~$100+ |
+| **RAA** | South Australia | ✅ | From ~$135 |
+| **RAC Tasmania** | Tasmania | ✅ | From $144 |
+End Of Line

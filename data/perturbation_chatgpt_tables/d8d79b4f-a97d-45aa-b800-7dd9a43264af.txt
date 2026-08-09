@@ -1,0 +1,10 @@
+2,b39b6a72-3ddb-4f6e-908a-938f13267ae3,08080140-1126-0626-0000-7b6ed0035dc4,d8d79b4f-a97d-45aa-b800-7dd9a43264af,2026-08-08T13:25:42.911316+10:00
+Premium pet insurance for puppies and kittens in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews | High-end cover | Why I’d consider it |
+|---|---|---|---|
+| **Petsy** | ⭐ **4.9/5, 323 reviews** | Up to **$30k** for young pets; 80% or 90% back; no sub-limits | **Best overall for a puppy/kitten** |
+| **Knose** | ⭐ **4.8/5, 747 reviews** | Up to **$25k**; up to 90% back; no sub-limits | Excellent claims/service reputation |
+| **Fetch** | ⭐ **4.8/5, 562 reviews** | Strong comprehensive options | Excellent digital claims experience |
+| **Bow Wow Meow** | ⭐ **4.5/5, 3,237 reviews** | Up to **$30k**; up to 90% back; no sub-limits | **Strongest established customer-satisfaction track record** |
+End Of Line

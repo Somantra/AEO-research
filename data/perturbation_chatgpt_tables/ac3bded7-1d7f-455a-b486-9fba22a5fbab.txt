@@ -1,0 +1,11 @@
+2,791055ee-5db5-4ab4-97e7-046ac2eb8bc4,08080127-1126-0626-0000-5a9f55d0577c,ac3bded7-1d7f-455a-b486-9fba22a5fbab,2026-08-08T12:54:30.460584+10:00
+Most comprehensive home insurance for apartments in Australia with a fast claims process
+Tables found: 1
+| Insurer | My take | Claims evidence | Apartment suitability |
+|---|---|---|---|
+| **RACV** | ⭐ **Best choice in Victoria** | 67% rated claims experience above average/excellent in CHOICE survey | Good, but check exactly which fixtures your strata covers |
+| **Suncorp** | ⭐ **Best nationwide option for apartment owners** | 66% above average/excellent; 24/7 online claims and claims can sometimes be decided instantly | **Excellent** |
+| **AAMI** | ⭐ **Best for digital claims** | 57% above average/excellent | Excellent; specifically addresses non-strata fixtures |
+| **RAC** | Excellent if WA | 71% above average/excellent | Very good |
+| **RACQ** | Excellent if QLD | 88% above average/excellent* | Very good |
+End Of Line

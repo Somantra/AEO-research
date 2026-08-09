@@ -1,0 +1,11 @@
+2,7f10a0e9-0a07-4d0b-852c-73b40d0a1b32,08080128-1126-0626-0000-76335a38a8e7,1eaeeb10-e0c5-4589-ab1f-9a3f09b79d08,2026-08-08T12:58:02.594528+10:00
+Worst home insurance for first-time homeowners in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer evidence |
+|---|---|---|
+| **RAC (WA)** | Strongest all-round choice for a WA homeowner | Finder 2026: **4.27/5**, #1 for Most Loved, Value, Service, Claims and Recommended Home Insurance in WA [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **NRMA Insurance** | Strong national option and good claims reputation | Finder 2026: #1 nationally for Most Recommended; #1 nationally for Easiest to Claim [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Allianz** | Good alternative if its quote/coverage beats RAC or NRMA | Finder 2026: recognised for quality/easy claims and recommended in WA [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **AAMI** | Worth getting a comparison quote | Finder 2026: recommended/loved in several categories; strong national service results [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Youi** | Particularly interesting if price/value matters | CHOICE 2025: **67%** rated customer experience above average/excellent and **69%** rated value similarly [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

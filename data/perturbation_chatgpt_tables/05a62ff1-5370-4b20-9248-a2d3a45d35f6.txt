@@ -1,0 +1,15 @@
+2,951ad885-880c-4acb-88f6-c2cfd610f809,08080137-1126-0626-0000-5fa9ae79890b,05a62ff1-5370-4b20-9248-a2d3a45d35f6,2026-08-08T13:19:52.974601+10:00
+Cheapest travel insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider / type | Typical position on price | Best for |
+|---|---|---|
+| **Tick** | 🟢 Often cheap | Budget-conscious international travellers |
+| **InsureandGo** | 🟢 Often cheap–mid | Cheap comprehensive options |
+| **1Cover** | 🟢 Often cheap–mid | Simple international trips |
+| **Travel Insurance Direct** | 🟢 Competitive | Good balance of price/features |
+| **Southern Cross Travel Insurance** | 🟡 Mid-range | Strong overall value |
+| **World2Cover** | 🟡 Mid-range | Comprehensive cover |
+| **Cover-More** | 🟠 Often more expensive | Broad cover / established provider |
+| **Allianz** | 🟠 Often more expensive | Major insurer / comprehensive options |
+| **World Nomads** | 🟠 Can be expensive | Adventure/longer trips |
+End Of Line

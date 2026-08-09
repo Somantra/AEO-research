@@ -1,0 +1,14 @@
+2,37db3c33-4bc1-4151-b8ec-a942a4c7f3fb,08080126-1126-0626-0000-14b38224e13c,b622d654-7c67-4c78-b619-31bbc0097502,2026-08-08T12:51:19.385959+10:00
+Premium home insurance for landlords in Australia compared to other providers
+Tables found: 1
+| Provider | Position | Landlord-specific cover | My take |
+|---|---|---|---|
+| **QBE** | Mainstream | Building/contents, tenant theft, loss of rent, liability | ⭐ Strong all-rounder |
+| **AAMI** | Mainstream/value | Building/contents + optional tenant protection | ⭐ Good if price is competitive |
+| **Suncorp** | Mainstream | Landlord building/contents and landlord risks | ⭐ Worth quoting |
+| **Allianz** | Mainstream | Building/contents, malicious acts, loss of rent | Good, but check tenant-default provisions carefully |
+| **Terri Scheer** | Specialist landlord | Strong landlord-focused protection | ⭐ Often worth paying more for |
+| **EBM RentCover** | Specialist landlord | Landlord/rent-focused products | ⭐ Strong specialist alternative |
+| **Budget Direct** | Value | Landlord building/contents, optional protections | Good for price comparison |
+| **Youi** | Higher-price/mainstream | Landlord building/contents | Can be expensive, but worth obtaining a quote |
+End Of Line

@@ -1,0 +1,11 @@
+2,dd9ec979-3b92-49ec-966a-88e2f50059b6,08080141-1126-0626-0000-60597a18cf4c,de509795-fa16-4b71-9b61-80ebee98166b,2026-08-08T13:26:28.426824+10:00
+Most trusted pet insurance for large dog breeds in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote | Annual limit |
+|---|---|---|---:|
+| **Knose** | **Best overall for large dogs** — no sub-limits, flexible cover, 24/7 vet hotline | **Instant** | Up to **$25k** |
+| **Petsy** | Excellent coverage, no sub-limits, direct-to-vet payment option | **Quick online** | Up to **$25k** |
+| **RSPCA Pet Insurance** | Strong option if you want high cover and an established animal-welfare brand | **Quick online** | Up to **$35k** |
+| **Medibank** | Long operating history, GapOnly, broad breed experience | **Quick online** | Up to **$30k** |
+| **Budget Direct** | Worth quoting if price is the priority | **Online** | Up to **$25k** |
+End Of Line

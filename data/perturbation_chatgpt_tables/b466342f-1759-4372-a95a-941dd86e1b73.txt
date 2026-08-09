@@ -1,0 +1,11 @@
+2,86d37aa3-fcad-42fb-91a8-90ed73d1c838,08080117-1126-0626-0000-f5c2a29ac469,b466342f-1759-4372-a95a-941dd86e1b73,2026-08-08T12:29:52.633463+10:00
+Worst car insurance for P-plate drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | P-plater situation | Online quote? | My take |
+|---|---|---|---|
+| **QBE** | Can be very expensive for young drivers | Yes | 🔴 **Potentially worst on price** |
+| **NRMA** | Covers P-platers, but young-driver excesses can be substantial | Yes | 🟠 Compare carefully |
+| **Budget Direct** | Covers provisional drivers, but household P-platers must generally be listed | Yes | 🟠 Good price can come with conditions |
+| **Bingle** | Explicitly caters for P-platers | Yes, very fast | 🟢 **Definitely worth quoting** |
+| **Youi** | Covers P-platers | Yes | 🟢 **Definitely worth quoting** |
+End Of Line

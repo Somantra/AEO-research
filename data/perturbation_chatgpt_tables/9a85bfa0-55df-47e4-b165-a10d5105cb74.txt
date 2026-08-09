@@ -1,0 +1,10 @@
+2,06cac735-5beb-4e77-b904-ed4cb836c64a,08080117-1126-0626-0000-81d2c8be9f82,9a85bfa0-55df-47e4-b165-a10d5105cb74,2026-08-08T12:31:04.623435+10:00
+Least reliable car insurance for older drivers in Australia with monthly payments
+Tables found: 1
+| Policy | CHOICE rating | Main concern |
+|---|---:|---|
+| **Suncorp Comprehensive Advantages** | 50% | Very expensive for the level of cover |
+| **Bupa Comprehensive** | 50% | Limited features and poor value |
+| **AHM Comprehensive** | 51% | Limited features and poor value |
+| **Huddle Comprehensive** | 53% | Limited features and poor value |
+End Of Line

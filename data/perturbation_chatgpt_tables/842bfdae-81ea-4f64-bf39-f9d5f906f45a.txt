@@ -1,0 +1,11 @@
+2,7b6f1928-e032-4bcd-a7f3-b9217ec575cc,08080121-1126-0626-0000-f268e040a915,842bfdae-81ea-4f64-bf39-f9d5f906f45a,2026-08-08T12:40:46.353884+10:00
+Most trusted motorcycle insurance for scooters in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Watch for |
+|---|---|---|
+| **QBE** | Strong dedicated motorcycle policy; comprehensive cover includes theft, fire, accidental damage, up to **$4,000 riding-gear cover**, and up to $30m liability. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) | Excesses can vary substantially, especially for younger/inexperienced riders |
+| **RACV** | Particularly worth checking if you're in Victoria; comprehensive cover includes theft, fire, storm, vandalism, choice of repairer and up to **$2,000 protective-gear cover**. [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) | Membership/discount structure can affect the price |
+| **NRMA** | Worth getting a quote alongside QBE/RACV; commonly considered by Australian riders | Check the PDS carefully for excesses and optional benefits |
+| **AAMI** | Another mainstream option worth comparing, particularly if you already have other insurance | Motorcycle pricing can vary dramatically by rider and scooter |
+| **Shannons** | Worth considering if the scooter has unusual characteristics, modifications or you want agreed-value-style flexibility | Can be less competitive for some everyday scooters |
+End Of Line

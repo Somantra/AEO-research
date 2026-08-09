@@ -1,0 +1,17 @@
+0,04074852-3815-4d86-be38-2de652c1b0b9,08080118-1126-0626-0000-17cf14dfca9b,c715f3ea-3676-46ad-a868-e5ca4b2c7143,2026-08-08T12:31:25.330198+10:00
+travel insurance providers in Australia
+Tables found: 1
+| Provider | Good for |
+|---|---|
+| **Cover-More** | Comprehensive cover; large established provider |
+| **Allianz** | Comprehensive international and domestic cover |
+| **Travel Insurance Direct** | Online-focused policies and competitive pricing |
+| **1Cover** | International and frequent-traveller policies |
+| **World Nomads** | Longer trips, adventure activities and younger travellers |
+| **InsureandGo** | Broad range of travel policies |
+| **Tick Travel Insurance** | Budget-focused options |
+| **NRMA** | Travel insurance alongside other insurance products |
+| **RACV / RACQ / RAC / RAA** | Travel insurance through state motoring clubs |
+| **AIG** | Travel insurance and assistance services |
+| **AllClear** | Particularly worth investigating if you're travelling with medical conditions |
+End Of Line

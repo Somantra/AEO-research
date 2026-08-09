@@ -1,0 +1,11 @@
+2,e6539703-1d56-4494-96ef-fb03d6675ae2,08080140-1126-0626-0000-c01c1604ab04,e282c1fe-6cc8-4bc1-a97c-99c97ab222e6,2026-08-08T13:25:48.919457+10:00
+Cheapest pet insurance for large dog breeds in Australia with monthly payments
+Tables found: 1
+| Insurer | Indicative price | Cover | My take |
+|---|---:|---|---|
+| **Budget Direct** | Often among the cheapest | Comprehensive options | 🥇 First quote I'd get |
+| **Pet Insurance Australia** | ~$78/month in a standard comparison | $15k, 80% reimbursement | 🥈 Very competitive |
+| **Bow Wow Meow** | ~$79/month in a standard comparison | $20k, 80% reimbursement | 🥉 Good value |
+| **Petsy** | ~$130+/month in comparison | Higher-end cover | More expensive |
+| **Medibank Pet** | Varies by dog | Up to $30k, up to 90% | Worth checking for current offers |
+End Of Line

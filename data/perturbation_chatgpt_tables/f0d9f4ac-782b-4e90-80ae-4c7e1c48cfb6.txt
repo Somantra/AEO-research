@@ -1,0 +1,11 @@
+2,18ad337c-a3c3-4c4b-b3f9-c31161a89d1b,08080130-1126-0626-0000-6a4b12b9203f,f0d9f4ac-782b-4e90-80ae-4c7e1c48cfb6,2026-08-08T13:02:02.428349+10:00
+Cheapest roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider / plan | Annual price | Towing | Interstate | My take |
+|---|---:|---|---|---|
+| **RACQ Everyday** | **$109** | 20 km, but current terms say towing starts at **$165** | Yes, reciprocal | Cheapest, but limited |
+| **RACQ Everyday Plus** | **$179** | **Up to 50 km** | **Yes** | ⭐ **Best value** |
+| RACQ Ultra Care | $227 | Up to 60 km | Yes | Better for frequent/long trips |
+| RACV Roadside Care | $138 | 20 km metro / nearest service centre | Yes | Cheap, but interstate service depends on partner rules |
+| NRMA Everyday Care | $112 | Up to 25 km metro | Yes, reciprocal | Good alternative if eligible |
+End Of Line

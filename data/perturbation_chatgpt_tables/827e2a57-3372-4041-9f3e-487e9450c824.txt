@@ -1,0 +1,19 @@
+2,764636f5-711e-4a59-a79a-e8a91e91d266,08080127-1126-0626-0000-0dcf8f290443,827e2a57-3372-4041-9f3e-487e9450c824,2026-08-08T12:54:37.218569+10:00
+Cheapest home and contents insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Indicative annual premium | Relative price |
+|---|---:|---|
+| **AAMI** | **$1,126** | 🟢 Cheapest |
+| **Budget Direct** | **$1,242** | 🟢 Very cheap |
+| **Ozicare** | $1,277 | 🟢 Cheap |
+| **ING** | $1,304 | 🟢 Cheap |
+| **Qantas** | $1,410 | 🟢 Cheap |
+| Kogan | $1,614 | 🟡 |
+| Suncorp | $1,635 | 🟡 |
+| Australian Seniors | $1,705 | 🟡 |
+| Youi | $1,741 | 🟠 |
+| QBE | $1,858 | 🟠 |
+| Honey | $1,953 | 🟠 |
+| CommBank | $2,138 | 🔴 |
+| Bendigo Bank | $2,516 | 🔴 |
+End Of Line

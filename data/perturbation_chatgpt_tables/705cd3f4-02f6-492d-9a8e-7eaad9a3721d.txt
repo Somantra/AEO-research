@@ -1,0 +1,10 @@
+2,b05af2b1-c7bc-4130-81a7-2d49c33468ab,08080136-1126-0626-0000-f1674a8dae7f,705cd3f4-02f6-492d-9a8e-7eaad9a3721d,2026-08-08T13:17:36.005576+10:00
+Premium travel insurance for pre-existing medical conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Online assessment / quote | Why consider it |
+|---|---|---|---|
+| **Cover-More** | Many conditions automatically covered; others assessed | **Yes — outcome generally instant** | Strong option for comprehensive cover and complex conditions |
+| **InsureandGo** | All conditions can be considered, subject to assessment | **Yes — online screening** | Good choice if you want broad consideration of existing conditions |
+| **1Cover** | Conditions assessed individually; extra premium may apply | **Yes — instant assessment** | Straightforward online process |
+| **Allianz** | Can apply for eligible pre-existing-condition cover | **Yes — online medical assessment** | Established insurer with comprehensive plan |
+End Of Line

@@ -1,0 +1,11 @@
+2,2f307076-a65d-4af6-b98f-98f583502852,08080117-1126-0626-0000-22d64c4ef3cb,41fbd489-0133-465b-83df-a45db5249c50,2026-08-08T12:29:49.545945+10:00
+Worst car insurance for P-plate drivers in Australia with monthly payments
+Tables found: 1
+| Monthly comprehensive premium | My take |
+|---|---|
+| **Under $120** | 🟢 Excellent |
+| **$120–180** | 🟢 Good |
+| **$180–250** | 🟡 Expensive |
+| **$250–300** | 🟠 Very expensive |
+| **$300+** | 🔴 Extremely expensive |
+End Of Line

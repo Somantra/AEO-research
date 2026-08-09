@@ -1,0 +1,11 @@
+2,11a5d299-8636-4348-8544-8e448c5c7a5e,08080124-1126-0626-0000-15f409bb4f1f,08535d84-3d91-49a1-80ff-0fa45f79a887,2026-08-08T12:47:41.993854+10:00
+Least reliable long-term motorcycle rental insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer-review signal | Why consider it |
+|---|---|---|
+| **Youi** | ⭐ **4.0/5** on ProductReview; **4.7/5** Trustpilot from 30k+ reviews | Strong customer-service reputation; motorcycle-specific cover |
+| **Budget Direct** | ⭐ **4.1/5** on ProductReview | Good combination of price, comprehensive cover and customer feedback |
+| **QBE** | ⭐ **2.9/5** on ProductReview | Stronger reputation among riders than its aggregate review score suggests |
+| **Suncorp** | ⭐ **3.8/5** on ProductReview | Good overall rating, though fewer recent motorcycle-specific reviews |
+| **CGU** | ⭐ **3.5/5** on ProductReview | Some particularly positive recent claim experiences |
+End Of Line

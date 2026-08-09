@@ -1,0 +1,11 @@
+1,33ac40c9-b5fd-4e3c-a672-05d95d43d5d4,08080133-1126-0626-0000-dee13a868298,88feccd0-8348-46a1-95e1-98c6c6bbf3dc,2026-08-08T13:08:37.745000+10:00
+Most trusted travel insurance for pre-existing medical conditions in Australia
+Tables found: 1
+| Insurer | Why travellers consider them | Important notes |
+|---|---|---|
+| Cover-More | Strong reputation in travel insurance and often used by travellers needing medical screening | Medical assessment may be required for many conditions; check the exact acceptance terms |
+| Allianz Australia | Large established insurer; offers travel insurance with medical screening options | Make sure the condition is specifically declared and accepted |
+| Medibank | Useful option for people already familiar with the brand; offers assessment for conditions not automatically covered | Some conditions may be automatically covered if criteria are met; otherwise approval is needed [www.medibank.com.au](https://www.medibank.com.au/travel-insurance/help/existing-medical-conditions/?utm_source=chatgpt.com)[www.nib.com.au](https://www.nib.com.au/travel-insurance/what-we-cover/existing-medical-conditions?utm_source=chatgpt.com) |
+| nib | Offers cover for many existing medical conditions and allows specified medical conditions to be added where eligible | More than 40 common conditions may be automatically covered if criteria are satisfied [www.nib.com.au](https://www.nib.com.au/travel-insurance/what-we-cover/existing-medical-conditions?utm_source=chatgpt.com) |
+| AllClear Travel Insurance | Specialist focus on medical conditions, including more complex histories | Worth comparing if standard insurers decline cover |
+End Of Line

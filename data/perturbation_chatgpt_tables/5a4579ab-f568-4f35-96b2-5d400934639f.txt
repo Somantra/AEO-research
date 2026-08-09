@@ -1,0 +1,11 @@
+2,12e5e89e-201c-49ea-b8a4-955cb96ab6df,08080129-1126-0626-0000-084bdf5c28e7,5a4579ab-f568-4f35-96b2-5d400934639f,2026-08-08T12:59:59.289655+10:00
+Most affordable roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Current entry price | EV support | Customer reviews | My take |
+|---|---:|---|---|---|
+| **RAC WA** | **$135.68/yr** | EV emergency charging available | ⭐ **4.8/5** (1,221 reviews) | **Best overall value in WA** |
+| **RACQ QLD** | **$109/yr** | EVs explicitly covered | ⭐ **3.2/5** (405 reviews) | Cheapest strong-network option in QLD |
+| **RACV VIC** | **$138/yr** | Specifically tows EVs that run out of charge | ⭐ **2.6/5** (185 reviews) | Good EV provisions, weaker reviews |
+| **RACT TAS** | **$144/yr** | EVs covered under roadside assistance | — | Good low-cost Tasmanian option |
+| **NRMA NSW/ACT** | varies by plan | EV charging-equipped roadside vehicles | ⭐ **4.5/5** (1,913 reviews) | **Best review record nationally**, worth paying a little more |
+End Of Line

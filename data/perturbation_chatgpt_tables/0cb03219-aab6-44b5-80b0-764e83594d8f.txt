@@ -1,0 +1,13 @@
+2,a585224a-a9f4-4d46-b8b0-00cedb750aeb,08080133-1126-0626-0000-500f0f12db94,0cb03219-aab6-44b5-80b0-764e83594d8f,2026-08-08T13:10:15.674244+10:00
+Most comprehensive roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Strongest plan | Monthly payment | Key strengths | Best for |
+|---|---|---:|---|---|
+| **RAC WA** | Ultimate Plus | **$36.21/mo** | Unlimited call-outs, person + vehicle benefits, strong country/long-distance coverage | **WA / very comprehensive cover** |
+| **RACV** | Total Care | **$27/mo** (1–2 vehicles) | 100 km towing, Australia-wide roadside, caravan/trailer assistance, up to 6 drivers | **Best all-round comprehensive option** |
+| **RAA SA** | Premium | **$24.49/mo** | Unlimited call-outs, Australia-wide, personal cover, up to 200 km country attendance | **Long-distance driving** |
+| **RACQ QLD** | Ultimate Care | ~**$25.83/mo equivalent** | Unlimited call-outs and extensive benefits | **Queensland** |
+| **RACT TAS** | Ultimate | **$22/mo** | Personal cover, unlimited metro/country towing, caravan/trailer towing, locksmith | **Tasmania + travelling Australia** |
+| **NRMA** | Ultimate Care | **from $27.49/mo** | Unlimited call-outs, nationwide 24/7 assistance, $200 locksmith allowance | **NSW / nationwide travel** |
+| **Budget Direct** | Roadside Assistance | ~**$7.50/mo equivalent** | Unlimited call-outs, relatively inexpensive | **Budget option** |
+End Of Line

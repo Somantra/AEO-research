@@ -1,0 +1,11 @@
+2,f8005b88-3b80-4943-a940-720ebad27253,08080118-1126-0626-0000-cc34eeb28cdc,cd7ccb3b-3711-4217-8427-56c2ee93b20e,2026-08-08T12:33:46.789270+10:00
+Most comprehensive car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | EV suitability | Monthly payments | Standout features |
+|---|---|---|---|
+| **Allianz** | ⭐⭐⭐⭐⭐ | ✅ | Comprehensive cover for EVs; monthly or annual with no extra cost; strong EV-specific coverage |
+| **Youi** | ⭐⭐⭐⭐⭐ | ✅ 12 instalments | Comprehensive EV cover, including battery replacement after an insured event; hire car options |
+| **NRMA** | ⭐⭐⭐⭐⭐ | ✅ | Dedicated EV offering; Comprehensive Plus; new-car replacement; portable charging cable covered |
+| **RACV** | ⭐⭐⭐⭐⭐ | ✅ | Particularly attractive for Victorian EV owners; cables/adaptors covered; EV-qualified repair network |
+| **AAMI** | ⭐⭐⭐⭐ | ✅ | Comprehensive cover and monthly instalments; worth quoting because premiums can vary substantially |
+End Of Line

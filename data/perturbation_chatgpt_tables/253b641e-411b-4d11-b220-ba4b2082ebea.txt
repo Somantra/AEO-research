@@ -1,0 +1,12 @@
+2,ccb2b573-fe04-494b-ae96-d270a3b21d74,08080140-1126-0626-0000-6f7d24ab68ad,253b641e-411b-4d11-b220-ba4b2082ebea,2026-08-08T13:26:00.226519+10:00
+Best pet insurance for large dog breeds in Australia compared to other providers
+Tables found: 1
+| Provider | Large-dog appeal | Annual limit | Reimbursement | Key advantage | Main drawback |
+|---|---|---:|---:|---|---|
+| **Trupanion** | ⭐⭐⭐⭐⭐ | **Unlimited** | **90%** | Lifetime cover, no payout/sub-limits; can pay vets directly | Usually expensive |
+| **Pet Insurance Australia** | ⭐⭐⭐⭐⭐ | **Up to $35k** | **70–90%** | No sub-limits; flexible excess; GapOnly | Need to check breed/condition exclusions carefully |
+| **Petsy** | ⭐⭐⭐⭐⭐ | **Up to $30k*** | **80–90%** | No sub-limits; annual excess | Maximum depends on age at policy start |
+| **Knose** | ⭐⭐⭐⭐½ | **Up to $25k** | **70–90%** | No sub-limits and very customisable | Lower maximum than Trupanion/PIA |
+| **RSPCA** | ⭐⭐⭐⭐ | **Up to $35k** | varies by option | No tricky sub-limits on its new product; supports animal welfare | New product since Apr 2026, so compare PDS carefully |
+| **Pet Insurance Australia / other PetSure brands** | ⭐⭐⭐⭐ | Up to $35k depending on product | Up to 90% | Broad network/GAPOnly | Many apparently different brands share underwriting/structure |
+End Of Line

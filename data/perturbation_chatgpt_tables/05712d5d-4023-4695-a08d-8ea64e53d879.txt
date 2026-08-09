@@ -1,0 +1,11 @@
+2,d7f64144-65b8-4e2b-a1e3-e2509cce6782,08080136-1126-0626-0000-dcc005baec2a,05712d5d-4023-4695-a08d-8ea64e53d879,2026-08-08T13:18:24.797973+10:00
+Most trusted long-term travel insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Long-trip capability | Customer-review signal | My take |
+|---|---|---|---|
+| **Fast Cover** | **Up to 24 months** on eligible single-trip policies [help.fastcover.com.au](https://help.fastcover.com.au/article/716-what-is-the-maximum-trip-duration?utm_source=chatgpt.com) | **4.7/5** on ProductReview | 🥇 **Best overall for very long trips** |
+| **InsureandGo** | Up to **365 days** if aged ≤64; lower limits apply at older ages [www.insureandgo.com.au](https://www.insureandgo.com.au/faqs/can-i-extend-my-policy-if-i-decide-to-prolong-my-trip/?utm_source=chatgpt.com) | **4.7/5 Trustpilot**, 4.3 Google; ProductReview award in 2026 [www.insureandgo.com.au](https://www.insureandgo.com.au/?utm_source=chatgpt.com) | 🥈 **Best combination of reviews + long-term cover** |
+| **Southern Cross Travel Insurance** | Strong reputation and **4.6/5** ProductReview rating [www.productreview.com.au](https://www.productreview.com.au/listings/southern-cross-travel-insurance?utm_source=chatgpt.com) | 4.6/5 | 🥉 **Excellent customer-service reputation**, but check maximum trip length for your circumstances |
+| **Cover-More** | Single trips up to **12 months** [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/plans/single-trip?utm_source=chatgpt.com) | 3.7/5 for its Premium product on ProductReview [www.productreview.com.au](https://www.productreview.com.au/listings/cover-more-premium-travel-insurance?utm_source=chatgpt.com) | **Strong established insurer**, but reviews are more mixed |
+| **1Cover** | Long-trip options available; check exact policy/age limits | 4.0/5 for Comprehensive, 1,100+ reviews [www.productreview.com.au](https://www.productreview.com.au/listings/1cover-comprehensive-travel-insurance?utm_source=chatgpt.com) | Worth quoting, but I'd rank it below the three above |
+End Of Line

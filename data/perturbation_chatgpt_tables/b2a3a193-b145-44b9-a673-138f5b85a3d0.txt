@@ -1,0 +1,10 @@
+2,ffa4d118-54f6-4235-8799-8cfc34dabfba,08080126-1126-0626-0000-dbec0670c871,b2a3a193-b145-44b9-a673-138f5b85a3d0,2026-08-08T12:51:43.598201+10:00
+Worst home insurance for new builds in Australia compared to other providers
+Tables found: 1
+| Provider/policy type | Why it may be a concern for new builds |
+|---|---|
+| **Very low-cost online policies** | Often have tighter limits, more exclusions, and less flexibility during complex claims. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Some white-label policies** (insurance sold under a bank, retailer, or membership brand) | The brand name may not tell you who actually underwrites the policy or how the wording compares. Identical-looking products can have different pricing and features. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Policies without strong replacement/rebuild protection** | New homes can cost more than expected to rebuild because of labour and material increases. |
+| **Policies that exclude gradual damage/defects** | Important because many new-build problems involve waterproofing, workmanship, movement, or installation issues rather than sudden insured events. |
+End Of Line

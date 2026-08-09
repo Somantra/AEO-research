@@ -1,0 +1,11 @@
+2,5201a284-b490-40d8-bdf7-68b4e0703631,08080126-1126-0626-0000-38f94d1464b0,a4298540-4db1-4956-8f01-975c2fb6a4ec,2026-08-08T12:52:55.187118+10:00
+Most reliable home insurance for older properties in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it may suit an older home | Claims reputation |
+|---|---|---|
+| RACQ Insurance | Strong customer experience ratings; often regarded well for claims handling | Among the strongest claims feedback in CHOICE’s survey (noting it is Queensland-focused) [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| NRMA Insurance | Large repair network and broad experience with weather events | Ranked highly for claims ease in recent customer awards [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-victoria/?utm_source=chatgpt.com) |
+| RACV | Particularly relevant if you are in Victoria; local knowledge can help with older homes | Recognised for customer recommendation in Victoria [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-victoria/?utm_source=chatgpt.com) |
+| Allianz Australia | Large national insurer; worth comparing for older properties with higher rebuild costs | Has received recognition in some customer satisfaction categories [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-victoria/?utm_source=chatgpt.com) |
+| AAMI | Often competitive and has streamlined digital claims processes | Recognised for ease of claiming in recent awards [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-victoria/?utm_source=chatgpt.com) |
+End Of Line

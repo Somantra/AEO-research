@@ -1,0 +1,10 @@
+2,d0503686-e750-4ded-bbf3-ffe588571bb5,08080130-1126-0626-0000-f78a5adaf29e,d79d08b5-737b-400c-947e-04edc9bfc56a,2026-08-08T13:03:04.042865+10:00
+Cheapest roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Commercial-vehicle suitability | Cost signal |
+|---|---|---|---|
+| **RACQ Fleet Care** | QLD fleets | **Excellent** — vehicles up to 6t, 6m long | Quote-based |
+| **NRMA** | NSW/ACT + broader needs | Good, but check commercial vehicle limits | From $112/yr for standard roadside |
+| **RACV** | Victoria | Good option for Victorian fleets | Quote-based |
+| **RAC / RAA / RACT** | WA / SA / Tasmania | Worth comparing locally | Quote-based |
+End Of Line

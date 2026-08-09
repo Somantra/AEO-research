@@ -1,0 +1,11 @@
+2,03373268-1efc-41c3-9fc0-3b63e517624b,08080120-1126-0626-0000-885094919fe9,0b65216d-7759-40be-a336-4232ef51f014,2026-08-08T12:38:18.641107+10:00
+Least reliable car insurance providers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Speed/process | My take |
+|---|---|---|---|
+| **Budget Direct** | **Weakest among major insurers in CHOICE's 2025 survey: 52%** rated settled claims above average/excellent | Online claims 24/7; says it decides claims within **10 business days once it has everything required** | ⚠️ **Fast to lodge, but potentially frustrating when disputes arise** |
+| **AAMI** | 64% rated claims above average/excellent | Generally straightforward online claims | ⚠️ Mixed |
+| **RACV** | 66% | Good digital claims process | ⚠️ Mixed |
+| **Allianz** | 69% | Online claims and established repair network | 🟡 Better than the above |
+| **GIO** | 76% | Established claims process | 🟢 Reasonably solid |
+End Of Line

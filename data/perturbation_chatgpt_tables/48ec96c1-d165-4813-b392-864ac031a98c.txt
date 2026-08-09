@@ -1,0 +1,9 @@
+2,5fbd9793-c7af-454e-a566-d0e624c538f4,08080118-1126-0626-0000-f211d7e55c2f,48ec96c1-d165-4813-b392-864ac031a98c,2026-08-08T12:33:28.231414+10:00
+Safest car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | EV-specific cover | Monthly payments | My take |
+|---|---|---|---|
+| **Allianz Comprehensive** | Battery, thermal-runaway/fire, charging cable, owned wall charger, EV-certified repairers | **Yes** | ⭐ **Best overall for EV protection** |
+| **RAC WA Comprehensive** | Comprehensive accident, theft, fire, flood and storm cover | Check quote/policy | ⭐ Strong WA option |
+| **Other major insurers** | Varies considerably by policy | Usually available | Worth comparing on your exact EV |
+End Of Line

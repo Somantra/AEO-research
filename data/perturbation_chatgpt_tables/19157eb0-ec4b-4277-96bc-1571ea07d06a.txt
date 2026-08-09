@@ -1,0 +1,14 @@
+2,fb5d5475-dd15-4d08-b065-1b3cb20095ed,08080128-1126-0626-0000-92caece02af8,19157eb0-ec4b-4277-96bc-1571ea07d06a,2026-08-08T12:57:09.350240+10:00
+Least reliable home insurance for flood-prone areas in Australia without hidden fees
+Tables found: 1
+| Policy | CHOICE score | My concern |
+|---|---:|---|
+| **AHM Basic / Comprehensive** | 46% | Very low overall cover |
+| **Bupa Basic / Comprehensive** | 46% | Very low overall cover |
+| **Huddle Basic / Comprehensive** | 49% | Weak features for the price |
+| **Everyday Insurance Standard** | 52% | Bare-bones cover |
+| **GIO Platinum** | 52% | Good cover, but exceptionally expensive |
+| **RAAQ Honey Household** | 52% | Average cover at poor value |
+| **Real Insurance Essential / Top** | 52% | Low-scoring cover |
+| **Everyday Insurance Comprehensive** | 53% | Relatively weak overall |
+End Of Line

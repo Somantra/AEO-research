@@ -1,0 +1,9 @@
+1,a02498fb-84a9-4e91-bce2-3c497157990d,08080130-1126-0626-0000-45d6fa3987c4,93f0c250-1ea7-48d9-a2ac-aeabf8f16ef3,2026-08-08T13:03:04.760977+10:00
+Best travel insurance for business trips in Australia
+Tables found: 1
+| Provider | Best for | Why |
+|---|---|---|
+| **[Allianz Travel Insurance](https://www.allianz.com.au/travel-insurance.html)** | **Solo business traveller** | Straightforward online policies; Comprehensive and Multi-Trip options, including overseas medical, cancellation and baggage cover. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance.html?utm_source=chatgpt.com) |
+| **[QBE Corporate Travel](https://www.qbe.com/au/business-insurance/accident-health/corporate-travel)** | **Small/medium business with employees travelling** | Specifically designed for corporate travel, with unlimited overseas medical expenses, combined business/leisure travel, no baggage item limits, replacement-staff costs and 24/7 assistance. [www.qbe.com](https://www.qbe.com/au/business-insurance/accident-health/corporate-travel?utm_source=chatgpt.com) |
+| **[Chubb Business Travel Insurance](https://www.chubb.com/au-en/business/business-travel-group-travel-insurance.html)** | **Frequent/high-value corporate travel** | Particularly strong for companies: medical evacuation, crisis/security assistance, political/natural-disaster evacuation, alternative employee/resumption-of-assignment costs, kidnap/extortion and personal liability. [www.chubb.com](https://www.chubb.com/au-en/business/business-travel-group-travel-insurance.html?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/business-insurance/accident-health/corporate-travel?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,af99da40-eb64-43a0-9d48-03f69d15ce3c,08080141-1126-0626-0000-b697bb62df5d,b40ced58-5512-4fb9-b48b-1adc759d8841,2026-08-08T13:26:38.221284+10:00
+Cheapest pet insurance for exotic pets in Australia with monthly payments
+Tables found: 1
+| Exotic pet | Petcover from | Approx. yearly equivalent |
+|---|---:|---:|
+| 🐦 Birds | **$21/month** | $252/year |
+| 🐢 Turtles/tortoises | **$23/month** | $276/year |
+| 🦎 Reptiles | **$26/month** | $312/year |
+| 🐰 Small mammals | **$31/month** | $372/year |
+End Of Line

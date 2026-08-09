@@ -1,0 +1,11 @@
+2,96e4e4c9-93b5-4d42-9a41-d6d2d9ad1d23,08080132-1126-0626-0000-f282b73f761a,289622b1-c35f-4641-82b4-fca87d0a1dc9,2026-08-08T13:08:33.544290+10:00
+Worst standalone roadside assistance cover in Australia compared to other providers
+Tables found: 1
+| Provider | Entry/basic cover | Towing / key limitation | My take |
+|---|---:|---|---|
+| **RAC WA** | ~$128–136/yr | 25 km metro / 80 km country on Standard | **Good basic cover** |
+| **RACQ** | $80–109/yr | Everyday has 20 km towing; Lite has no towing | **Excellent value at entry level** |
+| **RACV** | ~$138/yr | 20 km metro towing | **Good, especially with its extras** |
+| **NRMA** | Varies | Generally strong NSW/ACT network | **Good overall, but compare actual tier** |
+| **Insurance add-ons** | Often cheaper | Usually more restrictive | **Potentially worst value if you need serious towing** |
+End Of Line

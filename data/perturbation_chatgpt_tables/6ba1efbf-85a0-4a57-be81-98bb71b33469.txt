@@ -1,0 +1,14 @@
+2,6006feb7-1fe6-40c0-b807-5b6c8051b33d,08080118-1126-0626-0000-69aabeadfbd3,6ba1efbf-85a0-4a57-be81-98bb71b33469,2026-08-08T12:33:40.076667+10:00
+Most popular car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV suitability | Customer satisfaction* | Standout points |
+|---|---|---:|---|
+| **Youi** | ⭐⭐⭐⭐⭐ | **77%** | Strong customer satisfaction; roadside assistance includes transport to a charging station; EV-specific cover |
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | **72%** | Dedicated EV insurance; same comprehensive options as conventional cars |
+| **RACQ** | ⭐⭐⭐⭐½ | **85%** | Excellent satisfaction, but primarily Queensland |
+| **RAC WA** | ⭐⭐⭐⭐½ | — | Strong WA option; lifetime repair guarantee and EV roadside charging |
+| **AAMI** | ⭐⭐⭐⭐ | **62%** | Large mainstream insurer; worth quoting for EVs |
+| **Budget Direct** | ⭐⭐⭐⭐ | **62%** | Often competitive on price; good option for quote comparison |
+| **Allianz** | ⭐⭐⭐⭐½ | **61%** | Particularly strong EV-specific features, including battery/charger and battery-fire cover |
+| **RACV** | ⭐⭐⭐⭐½ | **64%** | Strong Victorian option; EV-qualified repairers and charging-accessory cover |
+End Of Line

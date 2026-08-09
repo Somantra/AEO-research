@@ -1,0 +1,11 @@
+2,fa22cb00-37fb-485d-8208-cfe8b22b9d9a,08080140-1126-0626-0000-62e3876c23dc,8a8101f6-e486-4682-9015-9a1b4705fa2a,2026-08-08T13:24:59.960838+10:00
+Cheapest pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Provider / policy style | Typical position on price | Best for | Watch-outs |
+|---|---|---|---|
+| Budget Direct pet insurance | Often among the cheapest | Owners wanting low premiums | Check limits, exclusions and reimbursement level carefully |
+| Bow Wow Meow | Good value option | Higher cover without going fully premium | Premiums can rise as pets age |
+| Petcover | Competitive pricing | Flexible cover choices | Compare sub-limits and waiting periods |
+| Medibank pet insurance | Usually mid-range | Owners wanting larger benefit limits | May cost more than budget providers |
+| Fetch Pet Insurance | More feature-focused | Broader cover | Not always the cheapest |
+End Of Line

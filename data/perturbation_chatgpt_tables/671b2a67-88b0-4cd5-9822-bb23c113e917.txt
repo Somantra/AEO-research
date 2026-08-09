@@ -1,0 +1,11 @@
+2,079b8b85-a789-43f7-b333-e42a1f155021,08080125-1126-0626-0000-d470cdbf5ae1,671b2a67-88b0-4cd5-9822-bb23c113e917,2026-08-08T12:50:21.040606+10:00
+Cheapest home insurance for landlords in Australia with monthly payments
+Tables found: 1
+| Provider | Why consider it | Monthly payments |
+|---|---|---|
+| **Budget Direct** | Often among the cheaper options; Finder currently describes it as one of Australia’s cheapest insurers | Check quote |
+| **QBE** | Competitive pricing and strong landlord-specific cover | Available depending on policy |
+| **Allianz / Bank of Melbourne** | Bank of Melbourne explicitly offers **monthly payments with no extra cost** | ✅ Yes |
+| **Youi** | Competitive option, particularly for building-only cover | Check quote |
+| **AAMI** | Often worth quoting for combined building + landlord protection | Check quote |
+End Of Line

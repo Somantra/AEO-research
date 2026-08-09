@@ -1,0 +1,10 @@
+2,5fb1eecd-569d-4ec1-acd0-536e1e97ab5b,08080119-1126-0626-0000-f51e74815651,24b8f8a9-5e3d-4cd6-803d-171ccaefbc0a,2026-08-08T12:36:00.753004+10:00
+Best third-party car insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Third-party cover | My take |
+|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐⭐ | Yes | **Best overall for claims** |
+| **AAMI** | ⭐⭐⭐⭐½ | Yes | Very good alternative |
+| **RACQ** | ⭐⭐⭐⭐½ | Yes | Excellent if you're in QLD |
+| **Budget Direct** | ⭐⭐⭐⭐ | Yes | Good value, but service can be more variable |
+End Of Line

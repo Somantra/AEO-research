@@ -1,0 +1,11 @@
+2,09dd0b9b-dd54-49ae-8a20-3aa984c72eea,08080129-1126-0626-0000-2f93d9fc2387,9c232a84-ff7d-4011-9da0-5b411c48dca6,2026-08-08T12:58:46.825896+10:00
+Premium home insurance for first-time homeowners in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Notable points |
+|---|---|---|
+| **Budget Direct** | ✅ | Online-only discounts; currently advertises **30% off the first year's premium** for new combined home & contents policies, subject to T&Cs. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance.html?utm_source=chatgpt.com) |
+| **Allianz** | ✅ | Home & contents or building-only cover; includes insured events such as fire, storm, flood and theft, with 24/7 claims support. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| **ING** | ✅ | Online home, contents or combined cover; currently advertises **30% off combined policies** for the first year, subject to T&Cs. [www.ing.com.au](https://www.ing.com.au/insurance/home-and-contents-insurance.html?utm_source=chatgpt.com) |
+| **QBE** | ✅ | Listed by Canstar among its current home & contents comparison options. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **Youi** | ✅ | Listed by Canstar with a generally lower price guide and 24/7 claims. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+End Of Line

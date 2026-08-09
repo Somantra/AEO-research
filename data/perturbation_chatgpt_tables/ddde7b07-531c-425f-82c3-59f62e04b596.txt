@@ -1,0 +1,11 @@
+2,5ab10a57-d7c8-47c5-b856-f498dac2596a,08080138-1126-0626-0000-960de238f140,ddde7b07-531c-425f-82c3-59f62e04b596,2026-08-08T13:22:15.563548+10:00
+Premium pet insurance for dogs in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer rating* | Why I’d consider it |
+|---|---:|---|
+| **Petsy** | ⭐ **4.9/5** (323 reviews) | Excellent customer-service reputation; highly rated for transparency and value. [www.productreview.com.au](https://www.productreview.com.au/listings/petsy-pet-insurance?utm_source=chatgpt.com) |
+| **Fetch Pet** | ⭐ **4.8/5** (562 reviews) | Strong recent feedback for fast claims, communication and digital experience. [www.productreview.com.au](https://www.productreview.com.au/listings/fetch-pet?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | ⭐ **4.5/5** (3,237 reviews) | Much larger review base; particularly strong reputation for **GapOnly** claims and quick processing. [www.productreview.com.au](https://www.productreview.com.au/listings/bow-wow-meow-pet-health-insurance?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | ⭐ **4.5/5** (2,259 reviews) | Long-established provider with many positive claims experiences, including expensive dog surgeries. [www.productreview.com.au](https://www.productreview.com.au/listings/pet-insurance-australia?utm_source=chatgpt.com) |
+| **Medibank** | ⭐ **4.2/5** (75 reviews) | Worth considering if you prefer a major insurer; its Pet Max Cover offers up to $30,000 and 90% reimbursement. [www.productreview.com.au](https://www.productreview.com.au/listings/medibank-private-pet-insurance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/fetch-pet?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/pet-insurance-reviews?utm_source=chatgpt.com) |
+End Of Line

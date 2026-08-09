@@ -1,0 +1,10 @@
+1,2c03e52e-e26b-4e4d-84c7-c4c56538394a,08080126-1126-0626-0000-9c114e9f44e6,5e1971bd-e19c-4c73-af08-4f544f2799e5,2026-08-08T12:52:57.696502+10:00
+Premium roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | Premium EV-relevant benefits | Best for |
+|---|---|---|
+| **RACV Total Care** | EV out-of-charge towing to a charger or up to **200 km** to your destination; high-voltage-trained patrols; unlimited callouts; up to **$2,400** in accommodation/car-hire/taxi benefits when broken down 100+ km from home | **Best overall for long-distance EV travel** |
+| **RACQ Ultimate Care** | EV assistance included; up to **200 km attendance** and **100 km towing**; benefits valued up to **$7,000/year** | **Queensland + interstate trips** |
+| RACQ Ultra Care | EV assistance; 120 km attendance; 60 km towing; benefits up to $3,300/year | Good premium value |
+| Other state motoring clubs | EV assistance is increasingly included in standard/premium roadside products | Best if you want strong local coverage |
+End Of Line

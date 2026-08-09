@@ -1,0 +1,13 @@
+2,8cd037bd-43da-43df-b90d-385d9354ac35,08080123-1126-0626-0000-1d430ef0a828,52430096-d385-4499-8ab2-5860a7bca874,2026-08-08T12:44:57.327604+10:00
+Premium third-party motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Third-party liability | Damage to your bike | Uninsured driver | Notable strengths |
+|---|---:|---|---|---|
+| **Budget Direct** | $20m | Generally no | Up to $5,000 | Often competitive pricing; flexible excess |
+| **Youi** | $20m | No | Not the main feature of TPP-only | Flexible excess; counselling benefit |
+| **GIO** | $20m | No | Up to $5,000 | 24/7 claims; established insurer |
+| **AAMI** | $20m | No | Policy-dependent | Lifetime repair guarantee on authorised repairs |
+| **NRMA** | Policy-based | No | Check PDS | Strong national insurer; relationship discounts |
+| **RACV** | $20m | Limited $5,000 if uninsured driver at fault | Up to $5,000 | Tow included; open licensed riders |
+| **RAC WA** | $25m | Up to $5,000 if uninsured driver at fault | Up to $5,000 | Strong liability limit; member discounts |
+End Of Line

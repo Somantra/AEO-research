@@ -1,0 +1,11 @@
+2,63601fbf-b808-4973-9df3-a2ec227eaf2b,08080139-1126-0626-0000-a439648b7b9e,1884ca74-9c13-482a-913a-ed9b70edafd3,2026-08-08T13:24:07.890808+10:00
+Cheapest pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Likely position on pre-existing conditions | Cost/value notes |
+|---|---|---|
+| Budget Direct | Usually excludes existing conditions, but some cured conditions may be reconsidered after a symptom-free period | Often among the cheaper comprehensive options; discounts may apply [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Reviews temporary cured conditions; chronic conditions generally remain excluded | Mid-range pricing, broader cover options [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| RACQ | May review some temporary conditions after a symptom-free period | Worth checking if your pet’s condition has resolved [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| Knose | Can assess pre-existing conditions; exclusions depend on condition history | Flexible policies, but quotes vary significantly [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+| Medibank | Allows some pre-existing condition reviews where requirements are met | Often competitive for higher benefit limits [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) |
+End Of Line

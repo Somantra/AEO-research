@@ -1,0 +1,13 @@
+2,1aa6af7f-15a8-4d36-bd03-7c83c2f6e1c5,08080141-1126-0626-0000-c37f8e71fcda,e52c9da4-95ff-4c5f-90d2-999b7e1c87f3,2026-08-08T13:26:52.618164+10:00
+Worst pet insurance for exotic pets in Australia with strong customer reviews
+Tables found: 1
+| | Assessment |
+|---|---|
+| Availability for exotic pets | ⭐⭐⭐⭐⭐ |
+| Range of species | ⭐⭐⭐⭐⭐ |
+| Customer reviews | ⭐⭐⭐☆☆ |
+| Policy value | ⭐⭐☆☆☆ |
+| Maximum vet cover | ⭐⭐⭐☆☆ |
+| Long-term/lifetime cover | ⚠️ Major concern |
+| Overall | **Proceed cautiously** |
+End Of Line

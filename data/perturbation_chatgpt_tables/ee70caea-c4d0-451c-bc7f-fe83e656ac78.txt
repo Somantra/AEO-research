@@ -1,0 +1,11 @@
+2,ea3d1840-d3f4-458d-b518-6abc9bd7c064,08080140-1126-0626-0000-fe48127631fc,ee70caea-c4d0-451c-bc7f-fe83e656ac78,2026-08-08T13:24:51.984016+10:00
+Premium pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Pre-existing conditions | Transparency / standout feature | My take |
+|---|---|---|---|
+| **Petsy** | Generally excluded, but temporary conditions may have exclusions lifted after recovery | Complimentary pre-existing-condition assessment; **no condition sub-limits**; up to $25k/$30k annual cover | **Best for transparency** |
+| **Pet Insurance Australia** | Temporary conditions can become eligible after **18 months symptom-free**; chronic conditions remain excluded | Clear published rules; up to 90% cover depending on policy | **Best for a previously temporary condition** |
+| **Bow Wow Meow** | Temporary conditions can have exclusions removed after **18 months without signs** | Changed its approach specifically to distinguish temporary vs chronic conditions | **Worth comparing** |
+| **Medibank** | Similar temporary-condition review; chronic pre-existing conditions excluded | Up to **90%**, $30k annual limit on top plan; GapOnly available | **Strong high-limit alternative** |
+| **RSPCA Pet Insurance** | Generally excluded, but review possible for some temporary conditions | Pre-existing-condition reassessment available | **Good secondary quote** |
+End Of Line

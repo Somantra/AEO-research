@@ -1,0 +1,11 @@
+1,2fef628b-09e6-4d68-a748-7134981f0a66,08080135-1126-0626-0000-1435c13be127,0522c6e1-f94b-4c00-a610-71abe40d1aaf,2026-08-08T13:14:48.470552+10:00
+Premium pet insurance for multiple pets in Australia
+Tables found: 1
+| Insurer | High-end cover | Multi-pet discount | Why consider it |
+|---|---|---:|---|
+| **Bow Wow Meow** | Up to $30k annual limit, up to 90% reimbursement | **10%** | Strong balance of comprehensive cover and multi-pet savings |
+| **Fetch** | Up to $30k, up to 100% reimbursement | **5%** | Excellent comprehensive cover; 2026 Finder award winner |
+| **Petcover** | Up to $20k, up to 100% reimbursement | **5%** | Particularly attractive if you want high reimbursement and no sub-limits |
+| **RSPCA Pet Insurance** | Comprehensive options | **10%** | Worth comparing if the multi-pet discount is important |
+| **Knose** | Comprehensive options | **5%** | Good option if you want flexible cover |
+End Of Line

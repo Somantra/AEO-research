@@ -1,0 +1,11 @@
+2,20429101-9764-4cf0-9ac9-617fa5701bba,08080125-1126-0626-0000-704c1c8f5cb3,abc22936-0013-492e-ab84-42c2d17b3dd5,2026-08-08T12:49:19.857442+10:00
+Cheapest home insurance for renters in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d quote it | Customer/value signal |
+|---|---|---|
+| **Youi** | Excellent first quote to get; specifically offers renter contents insurance | Youi won Canstar's **2025 Most Satisfied Customers – Home Insurance** award; CHOICE's 2025 survey had 67% rating it above average/excellent for customer experience and 69% for value. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **Coles Insurance** | Worth checking for a very competitive introductory price | CHOICE's 2025 survey found **83%** of Coles customers rated it above average/excellent for value; Coles currently advertises **15% off new contents-only policies online**. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **Budget Direct** | Often competitive on price and explicitly targets renters | Currently offers **15% off the first year online**; customers who switched reported an average $172 saving, although that's not a guarantee of your price. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/buying-guides/contents-insurance-for-renters?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/contents-insurance.html?utm_source=chatgpt.com) |
+| **AAMI** | Good benchmark against the cheaper online insurers | Canstar named AAMI among its **2025 Contents Insurance Award** winners. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **RACV** | Particularly worth quoting if you're in Victoria | CHOICE's 2025 survey had RACV at **72% above average/excellent for customer experience**. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

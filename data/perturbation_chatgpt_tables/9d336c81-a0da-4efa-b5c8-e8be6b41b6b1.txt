@@ -1,0 +1,11 @@
+1,2a624e60-9a4e-45d1-bb3a-cd97bbdf510c,08080135-1126-0626-0000-21b9b2f78e34,9d336c81-a0da-4efa-b5c8-e8be6b41b6b1,2026-08-08T13:15:04.886588+10:00
+Best pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer | Pre-existing condition approach | Best for |
+|---|---|---|
+| **Pet Insurance Australia** | Temporary conditions can potentially become covered after **18 months symptom-free**; chronic conditions remain excluded | **Best overall for a previously sick pet** |
+| **Knose** | Can assess pre-existing symptoms/conditions; some exclusions may potentially be removed depending on the condition | Worth getting a **personalised assessment** |
+| **Budget Direct** | Fully cured conditions may become eligible after **12 months symptom-free** | Shorter waiting period for eligible conditions |
+| **RACQ** | Some temporary conditions may be reconsidered after **18 months symptom-free** | Another option to compare |
+| **Petcover** | Temporary/cured conditions may be reviewed | Useful alternative |
+End Of Line

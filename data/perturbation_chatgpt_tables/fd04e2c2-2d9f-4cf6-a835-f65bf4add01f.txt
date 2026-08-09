@@ -1,0 +1,10 @@
+1,af62078e-78c1-4f49-ad6b-23b5c6bb1981,08080127-1126-0626-0000-ff181e6713ea,fd04e2c2-2d9f-4cf6-a835-f65bf4add01f,2026-08-08T12:54:02.861712+10:00
+Most affordable roadside assistance for interstate travel in Australia
+Tables found: 1
+| Provider | Basic annual price | Interstate cover | Best for |
+|---|---:|---|---|
+| **NRMA** | **$112/year** | Yes, via reciprocal clubs | **Cheapest mainstream option** |
+| **RACV** | **$138/year** | Yes | Best straightforward choice from Victoria |
+| **RAC WA** | **$128/year** | Yes | Cheapest if you can join from WA |
+| **RACQ** | **$109/year** | Reciprocal arrangements | Cheapest headline price, but Queensland-based |
+End Of Line

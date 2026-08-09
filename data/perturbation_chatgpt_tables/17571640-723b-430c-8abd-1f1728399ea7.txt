@@ -1,0 +1,11 @@
+2,9e166b0b-9153-4238-971e-b94d7c0f77ea,08080139-1126-0626-0000-1faaa0d214d1,17571640-723b-430c-8abd-1f1728399ea7,2026-08-08T13:22:28.920615+10:00
+Most affordable pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Older-pet suitability | Claims speed | Value |
+|---|---|---|---|
+| **[Petsy](https://petsy.com.au/)** | New pets under 9; can renew for life | **Usually ≤5 business days**, sometimes same day | ⭐ **Best overall for older pets** |
+| **[Knose](https://www.knose.com.au/)** | New pets under 9 | **Most claims within 5 business days** | ⭐ Very good |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | New pets generally under 9 | **GapOnly can assess eligible claims in ~10 min at participating vets** | ⭐ Excellent for cash flow |
+| **[Budget Direct](https://www.budgetdirect.com.au/pet-insurance.html)** | New pets under 9 | Contact within **2–5 business days** if more info is needed | 💰 Often worth quoting |
+| **[Real Insurance](https://www.realinsurance.com.au/)** | Some cover allows entry up to **16** | Not as compelling for speed | 🏆 **Worth checking if pet is 9+** |
+End Of Line

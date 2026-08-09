@@ -1,0 +1,12 @@
+2,fb89a588-4f67-4838-b5d1-ff11dc94ab11,08080118-1126-0626-0000-424619ae1aa8,e6287a64-a218-4128-9973-3c18b6a8cf44,2026-08-08T12:32:02.646548+10:00
+Best car insurance for small cars in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Strengths | Possible downsides |
+|---|---|---|---|
+| Budget Direct | Cheap comprehensive cover | Often competitive pricing; good for budget-conscious drivers | Check excess, repairer choice and renewal increases carefully |
+| Youi | Personalised pricing | Often competitive if your driving profile suits their model | Can be expensive for some drivers |
+| NRMA Insurance | Established provider, broad support | Strong brand presence, good claims infrastructure | Often not the cheapest quote |
+| AAMI | Mainstream value option | Competitive for many everyday cars | Cover features vary by policy |
+| Allianz Australia | Broad insurance experience | Large insurer with extensive products | Premiums may be higher depending on profile |
+| RACV / RACQ | State-based member services | Good reputation among many members | Availability depends on your state |
+End Of Line

@@ -1,0 +1,12 @@
+2,14f13ab4-69fd-4fa0-bdef-c0d378733435,08080122-1126-0626-0000-f55516e3fe15,66af3940-61f9-4831-a4b2-b7b55cc65413,2026-08-08T12:43:15.573232+10:00
+Safest roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Plan | Monthly | Towing | Australia-wide | My take |
+|---|---:|---:|---|---|
+| **RACV Roadside Care** | **$12** | 20 km metro | Yes | ⭐ Best value |
+| **RACV Extra Care** | **$19.58** | 60 km | Yes | ⭐ Best balance |
+| **RACV Total Care** | **$27** | 100 km | Yes | ⭐ Best for frequent/long-distance driving |
+| **NRMA Everyday Care** | **$9.99 promo** | 25 km | Yes | Cheapest strong option |
+| **NRMA Complete Care** | **$17.99 promo** | 50 km | Yes | Very good alternative |
+| **NRMA Ultimate Care** | **$21.99 promo** | 100 km | Yes | Strong long-distance option |
+End Of Line

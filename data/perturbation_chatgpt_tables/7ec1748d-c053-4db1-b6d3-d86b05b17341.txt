@@ -1,0 +1,10 @@
+2,1019e879-4db6-4ccb-808b-c391ab19ba94,08080140-1126-0626-0000-8bc72e1638da,7ec1748d-c053-4db1-b6d3-d86b05b17341,2026-08-08T13:24:37.045049+10:00
+Safest pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why it may suit pets with medical history | Customer feedback signals |
+|---|---|---|
+| Petsy | Strong reputation for claims support and transparency; worth asking for a pre-existing condition review before joining | Around 4.8/5 on ProductReview for its dog insurance listing, with many reviews praising claims handling and support, though some customers report disputes over what counted as pre-existing. [www.productreview.com.au](https://www.productreview.com.au/listings/petsy-dogs-insurance?utm_source=chatgpt.com) |
+| Bow Wow Meow | Established provider; offers features such as gap-only claims (depending on policy) and is frequently shortlisted by pet owners | ProductReview shows strong customer sentiment, with a 4.5/5 rating and thousands of reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/bow-wow-meow-pet-health-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Long-running specialist provider; worth checking if they will cover any condition after individual assessment | Frequently appears among highly reviewed Australian pet insurers. [www.productreview.com.au](https://www.productreview.com.au/listings/petsy-vet-select-pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Recognisable brand, but review experiences are mixed; switching may be difficult if your pet’s condition is already recorded | Some Australian pet owners report staying with existing insurers because switching can mean losing cover for established conditions. [www.reddit.com](https://www.reddit.com/r/Petsypetinsurance/comments/1h8g5d9?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1oe0xzf/switching_pet_insurance_with_pre_existing/?utm_source=chatgpt.com) |
+End Of Line

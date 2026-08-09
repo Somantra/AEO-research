@@ -1,0 +1,10 @@
+2,3b8b5f1e-199b-4da2-8593-b1f343ff22f0,08080139-1126-0626-0000-ef4af153f6b8,f2490cd1-8763-4d59-8b9c-8c250aba7837,2026-08-08T13:23:14.865160+10:00
+Cheapest pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Multi-pet discount | Claims speed | My take |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10%** off additional pets | **On-the-spot** with GapOnly; otherwise generally 5–10 business days | **Best overall fit** |
+| **Petsy** | **5%** per additional pet, lifetime | Usually **5–10 business days**; approved claims generally paid next business day | **Best for simple online claims** |
+| **Medibank** | **5%** per additional pet | **98.6% processed within 5 business days** in 2025; GapOnly can be same-day | **Best claims-speed evidence** |
+| **Budget Direct** | No prominent multi-pet discount found | Contacts you within **2–5 business days** if more info is needed | **Worth checking for lowest premium** |
+End Of Line

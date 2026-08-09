@@ -1,0 +1,11 @@
+2,a2c82143-190a-4db0-8320-2284c331135a,08080139-1126-0626-0000-eea3d0872fa6,b98c67a0-89ba-44b3-bd38-8e242e9719b0,2026-08-08T13:22:53.906474+10:00
+Safest pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Strengths | Watch-outs |
+|---|---|---|---|
+| Pet Insurance Australia | Comprehensive senior cover (where eligible) | Long-standing specialist pet insurer; accident & illness options | Check entry age and exclusions carefully |
+| RSPCA Pet Insurance | Owners wanting broad cover + animal welfare connection | High benefit options; up to 90% reimbursement options are available on some plans | Premiums can rise as pets age; pre-existing conditions excluded |
+| Medibank Pet Insurance | Higher benefit limits | Some policies advertise up to 90% back and high annual limits | Maximum entry ages apply |
+| Petcover | Older pets needing available options | Has products marketed toward older pets | Compare exclusions, limits and waiting periods |
+| Australian Seniors Insurance Agency | Senior owners looking for pet cover | Senior-focused brand; may suit some owners | Compare value against specialist pet insurers |
+End Of Line

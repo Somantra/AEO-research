@@ -1,0 +1,16 @@
+2,e4291608-cd01-4da5-a241-ca4f15549f90,08080127-1126-0626-0000-8747402384c4,12ae05cc-68c7-4fcb-ab37-8a8ce34c850a,2026-08-08T12:55:01.983120+10:00
+Least reliable home and contents insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction | Claims experience | My take |
+|---|---:|---:|---|
+| **RACQ** | **91%** | **88%** | ⭐ Strongest overall |
+| **RAC (WA)** | **78%** | **71%** | ⭐ Strong, especially in WA |
+| **RAA** | **86%** | — | ⭐ Strong, SA-focused |
+| **Youi** | **67%** | **65%** | 🟢 Good, but mixed claims experiences |
+| **Suncorp** | **65%** | **66%** | 🟢 Reasonably strong |
+| **NRMA** | **61%** | **69%** | 🟢 Claims performance better than overall satisfaction |
+| **AAMI** | **60%** | **57%** | 🟡 Average rather than outstanding |
+| **Budget Direct** | **58%** | **49%** | 🟠 One I'd be more cautious about |
+| **Allianz** | **55%** | **52%** | 🟠 Below the stronger performers |
+| **GIO** | **55%** | **50%** | 🟠 Below the stronger performers |
+End Of Line

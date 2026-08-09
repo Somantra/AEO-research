@@ -1,0 +1,9 @@
+2,a146de86-cd9d-4f05-9208-c3570965c60d,08080124-1126-0626-0000-2cd7b617303b,ae28795c-dc33-4b14-9038-552511ea2a00,2026-08-08T12:47:03.796362+10:00
+Premium motorcycle insurance for custom bikes in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Custom-bike fit | Claims |
+|---|---|---|---|
+| **[Shannons Motorcycle Insurance](https://www.shannons.com.au/motorcycle-insurance.html)** | Agreed value can include **listed modifications and accessories**; enthusiast-focused | ⭐⭐⭐⭐⭐ | Online claims + enthusiast-oriented support |
+| **[NRMA Motorcycle Insurance](https://www.nrma.com.au/motorcycle-insurance)** | Comprehensive cover, automatic cover for certain modifications/accessories, lifetime repair workmanship guarantee | ⭐⭐⭐⭐ | Online claims, updates and document uploads |
+| **[NRMA Classic Motorcycle Insurance](https://www.nrma.com.au/motorcycle-insurance/classic-vintage-motorcycle-insurance)** | Bespoke underwriting for veteran/vintage/classic bikes and unusual builds | ⭐⭐⭐⭐ | Dedicated motorcycle claims process |
+End Of Line

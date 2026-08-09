@@ -1,0 +1,11 @@
+1,e679b042-7a29-4579-aa48-d5379aa8e709,08080118-1126-0626-0000-2503b7166178,80e16f95-29c1-4c1f-bb09-ca04dafe1305,2026-08-08T12:32:48.487691+10:00
+Safest car insurance for high-risk drivers in Australia
+Tables found: 1
+| Insurer/option | Worth trying when… | Why |
+|---|---|---|
+| **QBE** | Licence suspension / significant driving history | Recent comparison data found QBE among the few insurers returning quotes for a suspended-driver scenario. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+| **Kogan Insurance** | Suspension or difficult driving history | Also returned a quote in Finder's suspended-licence comparison. [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Less severe risk / previous claims | Often worth quoting because of its broad market availability, but acceptance criteria can still exclude drivers with recent claims or offences. |
+| **GIO / NRMA / Allianz** | You want a major established insurer and can obtain a quote | Worth checking individually because underwriting varies considerably by driver profile. |
+| **Third-party property damage** | Comprehensive is unavailable or prohibitively expensive | A sensible fallback for an older/low-value vehicle, but it won't cover damage to your own car. |
+End Of Line

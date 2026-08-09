@@ -1,0 +1,12 @@
+2,729cf555-d0eb-4f32-80af-2a584c41b63f,08080127-1126-0626-0000-ccaf76ebe2e7,3df018ee-0bf0-4534-80f6-0d7456893f18,2026-08-08T12:54:35.006065+10:00
+Most comprehensive home insurance for apartments in Australia with instant online quotes
+Tables found: 1
+| Insurer | Apartment suitability | Comprehensive features | Online quote |
+|---|---|---|---|
+| **QBE** | ⭐⭐⭐⭐⭐ Excellent | Flood, storm, fire, theft, liability up to $30m, temporary accommodation, electrical motor burnout; accidental damage & portable contents optional | **Yes** |
+| **Allianz** | ⭐⭐⭐⭐⭐ Excellent | Comprehensive home/contents options, 24/7 claims, strong claims infrastructure | **Yes** |
+| **AAMI** | ⭐⭐⭐⭐½ | Strong contents/home options and online quoting | **Yes** |
+| **NRMA** | ⭐⭐⭐⭐½ | Broad home & contents cover, online quoting | **Yes** |
+| **Youi** | ⭐⭐⭐⭐½ | Highly customisable, including accidental-damage options | **Yes** |
+| **Budget Direct** | ⭐⭐⭐⭐ | Often worth checking for price; broad optional extras | **Yes** |
+End Of Line

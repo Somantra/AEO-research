@@ -1,0 +1,11 @@
+2,4445e87c-b583-487b-823d-66d4e77ae112,08080123-1126-0626-0000-6ded937ffab1,2c80722f-835a-4af1-850d-83fe3aa7ad3c,2026-08-08T12:44:19.284576+10:00
+Best third-party motorcycle insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Third-party cover | Notable advantage |
+|---|---|---|---|
+| **Budget Direct** | ✅ | Property Only / Fire & Theft | **15% first-year online discount**; uninsured-driver damage up to $5,000 [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| **AAMI** | ✅ | Property Damage / optional Fire & Theft | **$15 first-year online discount**; up to $20m liability; $5,000 uninsured-driver cover [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | ✅ | Property Damage / Fire & Theft | Up to **10% online discount**; $5,000 uninsured-driver damage; $20m liability [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/third-party-property-damage?utm_source=chatgpt.com) |
+| **Youi** | ✅ | Property Only / Fire & Theft | Up to **$20m liability**; online quote available [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/third-party-cover?utm_source=chatgpt.com) |
+| **QBE** | ❌ for TPO | Property Only / Fire & Theft | Up to $30m liability, but QBE currently says TPO/FT quotes require a phone call [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

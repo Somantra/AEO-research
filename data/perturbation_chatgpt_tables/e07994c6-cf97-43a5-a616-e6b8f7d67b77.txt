@@ -1,0 +1,11 @@
+1,77edfd05-d383-45ef-b742-7d5c74ef48b6,08080135-1126-0626-0000-68713d92f02b,e07994c6-cf97-43a5-a616-e6b8f7d67b77,2026-08-08T13:13:27.724157+10:00
+Most reliable pet insurance for older pets in Australia
+Tables found: 1
+| Insurer | New-pet age limit | Ongoing cover | Why I'd consider it |
+|---|---:|---|---|
+| **Petsy** | Under 9 | No maximum renewal age | **Excellent overall**: no sub-limits/condition limits and up to $25k annual benefit [petsy.com.au](https://petsy.com.au/pet-insurance-faqs/?utm_source=chatgpt.com) |
+| **Knose** | Under 9 | No maximum renewal age | Strong alternative; 70/80/90% reimbursement, up to $25k, no sub-limits [quick-quote.knose.com.au](https://quick-quote.knose.com.au/?utm_source=chatgpt.com)[petsy.com.au](https://petsy.com.au/pet-insurance-faqs/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | Under 9 | Lifetime renewal | Well-established option with annual excess and optional extras [bowwowinsurance.com.au](https://bowwowinsurance.com.au/discover-our-new-nose-to-tail-cover-test/?utm_source=chatgpt.com) |
+| **Petinsurance.com.au** | **Dogs: under 15** on Silver | Lifetime if continuously renewed | Particularly interesting for an **older dog aged 9–14**, although Silver has more restricted/specified coverage [petinsurance.com.au](https://petinsurance.com.au/pds-forms-and-faqs/?utm_source=chatgpt.com) |
+| **RSPCA Australia Pet Insurance** | Depends on current product | — | Worth quoting, but note it **changed underwriter/administrator arrangements from 1 April 2026** [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+End Of Line

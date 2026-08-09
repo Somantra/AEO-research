@@ -1,0 +1,9 @@
+1,3ad0b85e-7798-4f1e-aa0b-436133f45067,08080136-1126-0626-0000-cfcc5fa4bb47,4e24cb25-9116-4aca-967c-0403fb6ae4bc,2026-08-08T13:18:16.059686+10:00
+Most popular pet insurance for exotic pets in Australia
+Tables found: 1
+| Provider | Exotic pets in Australia | My take |
+|---|---|---|
+| **Petcover** | ✅ Birds, reptiles, turtles, small mammals | **Main option to investigate** |
+| Most mainstream pet insurers | ❌ Generally dogs/cats | Usually not suitable |
+| Self-insurance/savings | ✅ Any species | Worth considering where insurance isn't available |
+End Of Line

@@ -1,0 +1,9 @@
+1,41650ca6-506f-43b2-9a5f-5296f4380ab0,08080129-1126-0626-0000-5a0461658cd2,13ee0238-837b-4fb3-9506-bacb0c1ef206,2026-08-08T12:59:48.585812+10:00
+Worst roadside assistance for rural areas in Australia
+Tables found: 1
+| Provider | Common rural complaints |
+|---|---|
+| RACV | Some customers report poor response times and lower satisfaction scores compared with competitors; rural Victoria coverage can depend heavily on local contractors. [www.productreview.com.au](https://www.productreview.com.au/listings/racv-roadside-assistance?utm_source=chatgpt.com) |
+| NRMA | Generally well regarded, but some regional users report long waits (including multi-hour waits) compared with metro response times. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| Insurance add-on roadside programs (various insurers) | Often cheaper, but may outsource assistance and can be less predictable in remote areas. [www.reddit.com](https://www.reddit.com/r/perth/comments/17d1qoh?utm_source=chatgpt.com) |
+End Of Line

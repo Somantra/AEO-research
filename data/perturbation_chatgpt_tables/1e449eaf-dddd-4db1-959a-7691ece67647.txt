@@ -1,0 +1,10 @@
+2,a265a114-99a4-4007-8652-da0db358917a,08080118-1126-0626-0000-803ad1b74366,1e449eaf-dddd-4db1-959a-7691ece67647,2026-08-08T12:32:20.904449+10:00
+Least reliable car insurance for small cars in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer sentiment trend | Considerations for a small car |
+|---|---|---|
+| Allianz Australia | Often below the leaders in customer satisfaction surveys | Can be competitive on price, but check claims service carefully |
+| Budget Direct | Often attractive on price but has had weaker claims satisfaction results in some surveys | May suit a low-value car where premium savings matter, but read policy details |
+| AAMI | Mixed results; generally not among the top-rated customer experience providers | Worth comparing, but don’t choose on price alone |
+| RACV Insurance | Strong brand recognition in Victoria, but customer satisfaction has ranked below some peers | Convenience benefits may appeal to Victorian drivers |
+End Of Line

@@ -1,0 +1,10 @@
+2,ec3393b7-87a9-409e-abae-4f91da087a23,08080132-1126-0626-0000-d49484547955,8f95766f-799b-4ac8-80df-7a20a9c7e9aa,2026-08-08T13:07:51.519837+10:00
+Safest roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Hybrid safety | Speed/visibility | Australia-wide | My take |
+|---|---|---|---|---|
+| **RAA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes | **Best overall for SA** |
+| **NRMA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Yes | Best national alternative |
+| **RACV** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes | Excellent EV/hybrid support |
+| **RACQ** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes | Excellent if you're often in QLD |
+End Of Line

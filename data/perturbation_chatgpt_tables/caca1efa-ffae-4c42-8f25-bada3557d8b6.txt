@@ -1,0 +1,11 @@
+2,362bdfd4-c170-44cb-b7ab-4847f05607cb,08080138-1126-0626-0000-620e19afea11,caca1efa-ffae-4c42-8f25-bada3557d8b6,2026-08-08T13:21:36.535611+10:00
+Cheapest pet insurance for dogs in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews* | Why I'd consider it | My take |
+|---|---:|---|---|
+| **[Petsy](https://petsy.com.au/)** | **4.9/5** (323) | 90% reimbursement, $25k annual limit, no sub-limits | ⭐ **Best balance** |
+| **[Knose](https://www.knose.com.au/)** | **4.7/5** (692) | 70/80/90% options, up to $25k, highly rated service | ⭐ **Best value alternative** |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | **4.5/5** (3,237) | Up to 90%, $30k limit, GapOnly, 10% multi-pet discount | ⭐ **Best established option** |
+| **[Fetch Pet](https://fetchpet.com.au/)** | **4.8/5** (562) | Very positive claims/service feedback | Worth quoting |
+| **Budget Direct** | **1.9/5** (49) | Often among the cheapest | ⚠️ **I'd avoid despite the low price** |
+End Of Line

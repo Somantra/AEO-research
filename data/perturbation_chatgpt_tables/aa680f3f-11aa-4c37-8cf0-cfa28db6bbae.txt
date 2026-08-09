@@ -1,0 +1,11 @@
+2,78e4c398-56ff-46d2-bea0-a64ed34d199b,08080132-1126-0626-0000-6a965d213584,aa680f3f-11aa-4c37-8cf0-cfa28db6bbae,2026-08-08T13:08:10.102881+10:00
+Premium roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid support | Strengths | Possible drawbacks |
+|---|---|---|---|
+| NRMA | Yes (including EV/hybrid assistance options) | Very large network, strong NSW/ACT presence, 24/7 service, broad towing and breakdown support | Premium tiers can be expensive; benefits vary by state/package |
+| RACV | Yes, hybrids included at no extra cost | Strong EV/hybrid focus, high-voltage trained patrols, premium Total Care benefits | Best value mainly if you use its higher tiers; Victorian focus |
+| RACQ | Yes | Strong Queensland coverage and regional reach | Less compelling if you are outside Queensland |
+| AAMI | Yes through optional roadside add-on | Convenient if bundled with insurance; 24/7 nationwide assistance | Usually not as specialised as motoring-club memberships |
+| Toyota Australia roadside assistance | Yes for Toyota hybrids | Convenient for Toyota hybrid owners; brand-specific support | Coverage depends on vehicle eligibility and warranty/service terms |
+End Of Line

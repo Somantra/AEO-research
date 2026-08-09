@@ -1,0 +1,11 @@
+2,5c7ca70d-7de6-4bfa-997b-4e60e65a7a74,08080140-1126-0626-0000-64d6b5cc4289,3c380d27-89db-400d-b8e9-69a5ddfcdcfd,2026-08-08T13:25:46.380106+10:00
+Most comprehensive pet insurance for puppies and kittens in Australia with a fast claims process
+Tables found: 1
+| Insurer | Comprehensive cover | Annual limit | Sub-limits | Claims speed | Puppy/kitten advantages |
+|---|---|---:|---|---|---|
+| **Petsy** | ⭐⭐⭐⭐⭐ | Up to **$30k** | **None** | Often very fast; direct-to-vet available | **20% annual-limit bonus** if joining at 6w–6m; 10% at 6m–1y |
+| **Fetch Pet Insurance** | ⭐⭐⭐⭐⭐ | **$30k** | **None** | Fast/in-app; direct vet where FetchPay available | In-app health check can **skip waiting periods** |
+| **Knose** | ⭐⭐⭐⭐⭐ | **$25k** | **None** | Most claims reportedly settled within **5 business days** | Flexible cover and 24/7 vet nurse service |
+| **Bow Wow Meow** | ⭐⭐⭐⭐⭐ | Up to **$30k** | **None** | Generally **5–10 business days** | 2 months free offer; GapOnly available |
+| **RSPCA Pet Insurance** | ⭐⭐⭐⭐ | Up to **$35k** | None advertised on new product | Need to assess separately | New product launched in 2026 |
+End Of Line

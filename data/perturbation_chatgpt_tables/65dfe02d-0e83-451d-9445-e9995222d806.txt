@@ -1,0 +1,10 @@
+1,58fd1972-0162-4aae-b664-a972095d57bd,08080136-1126-0626-0000-582223ce381a,65dfe02d-0e83-451d-9445-e9995222d806,2026-08-08T13:15:59.394235+10:00
+Worst pet insurance for puppies and kittens in Australia
+Tables found: 1
+| Policy/provider type to be cautious of | Why it can be a poor choice for puppies/kittens |
+|---|---|
+| **Very cheap accident-only or basic policies** | They may look affordable but often exclude common illnesses, hereditary conditions, dental disease, and ongoing treatments. [moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+| **Policies with low annual limits** | A serious puppy or kitten illness (surgery, cancer treatment, specialist care) can quickly exceed the benefit cap. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Policies with many age-related reductions** | Some reduce benefits as pets get older, leaving you with less protection when your pet is more likely to need care. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Policies with broad “pre-existing condition” interpretations** | Even a minor symptom noted before cover starts can sometimes affect future claims, so read the definitions carefully. [moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,fa75a9a0-2261-4301-81c1-0b1d6330aabf,08080125-1126-0626-0000-a6c8ee7afbc8,f88930c5-ce08-48c1-b3bd-f4cd3372de96,2026-08-08T12:50:18.739955+10:00
+Most comprehensive home insurance for renters in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Important catch |
+|---|---|---|
+| **Allianz Renter Insurance** | 12 insured events including fire, storm, flood and theft; up to **$20m liability**; replacement/repair of contents; temporary accommodation; storage; moving-house cover. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/renters.html?utm_source=chatgpt.com) | **Accidental Damage is optional**, as is portable contents cover. |
+| **Youi Contents/Renters** | Flood included as standard, escaping-water cover, **$20m liability**, temporary accommodation, tenants-liability cover for certain landlord fixtures, and moving-house cover. [www.youi.com.au](https://www.youi.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/contents-insurance?utm_source=chatgpt.com) | Check the exact limits and whether your desired accidental/portable cover is included in your quote. |
+| **AAMI Contents** | Strong renter-specific benefits: **$20m liability**, temporary accommodation for tenants and pets, and optional Accidental Damage at Home and portable valuables cover. [www.aami.com.au](https://www.aami.com.au/home-insurance/renters?utm_source=chatgpt.com) | Several of the most comprehensive protections are **paid extras**. |
+| **Budget Direct Renters** | Good breadth: temporary accommodation up to 10% of contents sum insured, $20m liability, new-for-old replacement, contents temporarily removed, and optional accidental damage/portable cover. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/renters-insurance.html?utm_source=chatgpt.com) | Flood and accidental damage can be optional, so compare the **final configured price**, not the headline quote. |
+End Of Line

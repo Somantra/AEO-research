@@ -1,0 +1,10 @@
+2,f22c4819-ab62-403e-92f9-0112a1a73a23,08080126-1126-0626-0000-7c0c8a481a75,7d839152-03e2-4aa0-920b-d0755e35a202,2026-08-08T12:51:59.519488+10:00
+Easiest home insurance for new builds in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer sentiment |
+|---|---|---|
+| **Youi** | Very strong customer satisfaction, easy app-based claims, building-only available | ⭐ **Best overall for service** |
+| **Allianz** | Strong WA offering, 24/7 claims, rebuild safety-net option, established insurer | ⭐ **Best balance of cover + service** |
+| **AAMI** | Simple online purchase, building-only available, optional **Complete Replacement Cover** | ⭐ **Best for new-build replacement protection** |
+| **Budget Direct** | Very easy online purchase and often competitive pricing | ⭐ **Best for price/ease** |
+End Of Line

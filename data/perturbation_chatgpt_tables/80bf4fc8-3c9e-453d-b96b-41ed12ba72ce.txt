@@ -1,0 +1,11 @@
+2,124934b4-960f-4afa-a801-6b1d8b52591b,08080134-1126-0626-0000-f20f27f76456,80bf4fc8-3c9e-453d-b96b-41ed12ba72ce,2026-08-08T13:11:40.596841+10:00
+Worst travel insurance for backpackers in Australia compared to other providers
+Tables found: 1
+| Provider | Backpacker suitability | Biggest issue |
+|---|---|---|
+| **World Nomads** | 🟢 Excellent for adventure | Can be expensive; exclusions/conditions need careful reading |
+| **1Cover** | 🟢 Good | Less attractive if you're doing lots of higher-risk activities |
+| **Cover-More** | 🟢 Good | Adventure activities often require checking options/conditions |
+| **Allianz** | 🟡 Good for conventional travel | Adventure Pack costs extra and has significant conditions |
+| **Basic/cheap policies** | 🔴 Potentially poor | Low activity, baggage or cancellation cover; exclusions can matter more than price |
+End Of Line

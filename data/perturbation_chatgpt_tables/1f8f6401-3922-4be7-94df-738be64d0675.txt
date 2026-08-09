@@ -1,0 +1,12 @@
+2,dd5929d3-5105-40b1-b3a3-1cda3fcdfe60,08080140-1126-0626-0000-b86c72dab2ad,1f8f6401-3922-4be7-94df-738be64d0675,2026-08-08T13:25:52.943477+10:00
+Cheapest pet insurance for large dog breeds in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Cover | Large-dog suitability |
+|---|---|---|---|
+| **Budget Direct** | 🥇 Often cheapest | Up to $25k/year, 80% reimbursement | **Excellent for budget** |
+| **Bow Wow Meow** | 🥈 Competitive | Up to $30k, up to 90%, no condition sub-limits on Nose-to-Tail | **Excellent** |
+| **Pet Circle** | Competitive | Up to $30k, up to 90%, no sub-limits | **Excellent** |
+| **HCF** | Competitive/flexible | $10k–$30k, 70–90%, no condition sub-limits | **Very good** |
+| **Medibank** | Usually pricier | Up to $30k, up to 90% | **Very good** |
+| **Fetch** | Usually not cheapest | Comprehensive cover | **Good if coverage matters most** |
+End Of Line

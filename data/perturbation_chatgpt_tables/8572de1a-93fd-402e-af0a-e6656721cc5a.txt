@@ -1,0 +1,12 @@
+2,dec90646-a301-4809-8689-289fbd779159,08080121-1126-0626-0000-8e2b0027fd5c,8572de1a-93fd-402e-af0a-e6656721cc5a,2026-08-08T12:39:00.329308+10:00
+Cheapest motorcycle insurance for learner riders in Australia compared to other providers
+Tables found: 1
+| Provider | Learners covered? | Likely position for price | Notes |
+|---|---|---|---|
+| **NRMA** | Yes | 🟢 Often worth checking first | Can be competitive for young/learner riders; comprehensive available |
+| **QBE** | Yes | 🟢 Often competitive | Explicitly covers learner riders, but inexperienced-rider excess can apply |
+| **Budget Direct** | Yes | 🟢 Often cheap | 15% online first-year discount currently advertised; learner/young-rider excesses apply |
+| **Youi** | Yes | 🟡 Highly variable | Learners covered with a valid licence; pricing can be excellent for some riders |
+| **Shannons** | Yes | 🟡 Worth quoting | Particularly worth checking for motorcycle enthusiasts; learner riders are covered under its policy terms |
+| **AAMI/GIO** | Varies by quote | 🟡 Compare | Can be competitive depending on rider/bike |
+End Of Line

@@ -1,0 +1,11 @@
+2,08cabe72-2b14-41d4-8061-f0902d3bb4c6,08080138-1126-0626-0000-871329914c0d,78901dd6-b9a3-4c99-be75-24f88af2e001,2026-08-08T13:21:50.436210+10:00
+Worst pet insurance for dogs in Australia with instant online quotes
+Tables found: 1
+| Type of policy | Why owners often regret it |
+|---|---|
+| **Accident-only cover** | Cheap, but won’t help with many common expensive dog problems like allergies, cancer, arthritis, or chronic illness. |
+| **Low annual limit policies** | A $5,000–$10,000 cap can disappear quickly after surgery, scans, specialist visits, or hospital stays. |
+| **High excess + low reimbursement policies** | A policy advertising “up to 80–90% back” may still leave a large gap if exclusions and limits apply. |
+| **Policies with many sub-limits** | Tick paralysis, cruciate ligament issues, dental, medications, and specialist treatments may have separate caps. |
+| **Very cheap online quotes** | The lowest premium can come with narrower definitions of what is covered and more exclusions. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,afb1c1d5-1fa2-4791-9ce2-99a73abab075,08080127-1126-0626-0000-03c5595b3e01,b0f236cf-a613-4031-a732-5c8fe78b0e77,2026-08-08T12:55:49.352232+10:00
+Best home insurance for high-value items in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Claims experience | High-value items |
+|---|---|---|---|
+| **Chubb Masterpiece** | High-net-worth homes, jewellery, art, watches, collections | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Allianz** | Strong mainstream option + accessible claims | ⭐⭐⭐⭐½ | ⭐⭐⭐½ |
+| **QBE** | Good mainstream cover with dedicated claims handling | ⭐⭐⭐⭐ | ⭐⭐⭐½ |
+| **AAMI** | Simple mainstream claims process/value | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+End Of Line

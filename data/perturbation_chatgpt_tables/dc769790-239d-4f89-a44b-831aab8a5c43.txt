@@ -1,0 +1,10 @@
+2,a2007480-1050-43b6-abaa-48c18bcdef3b,08080132-1126-0626-0000-44705f672bd4,dc769790-239d-4f89-a44b-831aab8a5c43,2026-08-08T13:08:10.351807+10:00
+Premium roadside assistance for hybrid cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Hybrid support | Premium features | Online pricing |
+|---|---|---|---|
+| **RAA Premium** | ✅ Hybrids included; EV-trained patrols | Unlimited call-outs, up to 50 km metro towing, up to 200 km country towing | **$293/year** currently |
+| **RACV Total Care** | ✅ Hybrid/EV support at no extra cost | Unlimited call-outs, 100 km metro/regional towing, EV-trained patrols, up to $2,400 travel benefits | Online pricing |
+| **MyDriveShield 5-Star** | ✅ Vehicle-specific eligibility | 24/7 roadside, towing/recovery, battery, tyre, fuel and lockout assistance | **Instant quote in under 2 minutes** |
+| **NRMA Roadside Assistance** | ✅ Hybrid and plug-in hybrid included | Unlimited call-outs, towing, mobile EV charging where applicable | Online joining available |
+End Of Line

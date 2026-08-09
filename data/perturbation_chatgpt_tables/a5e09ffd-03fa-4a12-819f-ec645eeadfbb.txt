@@ -1,0 +1,16 @@
+1,69baa228-3c85-4034-a6f8-8169cdb60b8b,08080125-1126-0626-0000-d65825c2b112,a5e09ffd-03fa-4a12-819f-ec645eeadfbb,2026-08-08T12:48:50.904879+10:00
+Best home insurance for high-value items in Australia
+Tables found: 1
+| Feature | Importance |
+|---|---|
+| Individual item limits | ⭐⭐⭐⭐⭐ |
+| Agreed-value cover | ⭐⭐⭐⭐⭐ |
+| Accidental loss/damage | ⭐⭐⭐⭐⭐ |
+| Worldwide cover | ⭐⭐⭐⭐ |
+| Choice of repairer/jeweller | ⭐⭐⭐⭐ |
+| Professional valuation requirements | ⭐⭐⭐⭐ |
+| Pair/set coverage | ⭐⭐⭐⭐ |
+| Security/alarm requirements | ⭐⭐⭐⭐ |
+| Replacement vs cash settlement | ⭐⭐⭐⭐⭐ |
+| Cover while travelling | ⭐⭐⭐⭐ |
+End Of Line

@@ -1,0 +1,12 @@
+2,dff782ca-6c54-45d5-a47e-d3a2e8929691,08080138-1126-0626-0000-92f6ccef277b,6792d855-d23a-478d-9fe0-9ee6607499a4,2026-08-08T13:22:06.381358+10:00
+Safest pet insurance for dogs in Australia compared to other providers
+Tables found: 1
+| Provider | My take | Annual cover | Key strength | Main drawback |
+|---|---|---:|---|---|
+| **Trupanion** | 🥇 **Best for catastrophic/lifetime protection** | **Unlimited** | 90% cover, no payout/sub-limits, lifetime **per-condition** excess | Usually expensive; exam fees need an add-on |
+| **Fetch** | 🥈 **Best all-round alternative** | **$30k** | No sub-limits, up to 100%, direct-to-vet claims, dental/physio/behaviour | $30k annual ceiling |
+| **Petsy** | 🥉 **Excellent value/comprehensive** | Up to **$30k** | No sub-limits, annual excess, strong chronic-condition continuity | Less suited than Trupanion if a condition generates huge costs over many years |
+| **Knose** | ⭐ **Very strong Australian option** | Up to **$25k** | No sub-limits, up to 90%, Australian support, renewal protection | Lower maximum than Fetch/Petsy |
+| **Pet Insurance Australia** | ⭐ **Strong conventional choice** | Up to **$35k** | Highest annual limit among these; no sub-limits; GapOnly | Dental/specialised therapies require optional cover |
+| **RSPCA** | Worth comparing | Up to **$35k** | New 2026 product, customisable, no sub-limits | It's a substantially changed product since April 2026, so don't rely on older RSPCA reviews |
+End Of Line

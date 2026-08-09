@@ -1,0 +1,10 @@
+2,c45ea088-3d45-444f-9b22-2744707bef31,08080131-1126-0626-0000-c9e51734b755,e918d7f0-2916-4d8f-b4cc-265978ee3f29,2026-08-08T13:05:00.012175+10:00
+Premium roadside assistance for older cars in Australia without hidden fees
+Tables found: 1
+| Provider | Premium option | Approx. annual price | Key strength |
+|---|---|---:|---|
+| **RACQ** | Ultimate Care | **$310** | 200 km attendance + 100 km towing, with no extra attendance fee |
+| **NRMA** | Ultimate Care | **~$299** | Unlimited callouts nationwide; strong option for NSW/ACT |
+| **RACV** | Extra Care | **~$301** | 60 km towing + mechanical-breakdown benefits |
+| **RAA** | Premium | **~$293** | Unlimited callouts |
+End Of Line

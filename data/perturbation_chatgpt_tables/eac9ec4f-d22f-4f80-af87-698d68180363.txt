@@ -1,0 +1,10 @@
+0,a83dbffd-b80b-4504-91aa-a20795af9c34,08080116-1126-0626-0000-c9e6994ca5a3,eac9ec4f-d22f-4f80-af87-698d68180363,2026-08-08T12:28:12.586191+10:00
+car insurance for young drivers in Australia
+Tables found: 1
+| Cover | What it covers | Usually suits |
+|---|---|---|
+| **Compulsory Third Party (CTP)** | Injury or death caused to other people in a crash | Required for registration (does **not** cover car damage) |
+| **Third Party Property** | Damage you cause to other cars/property | Budget option for cheaper cars |
+| **Third Party Fire & Theft** | Third party cover plus your car if stolen or fire-damaged | Middle ground |
+| **Comprehensive** | Damage to your car and others, including many at-fault accidents | Newer or more valuable cars |
+End Of Line

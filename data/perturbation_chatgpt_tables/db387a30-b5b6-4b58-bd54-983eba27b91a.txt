@@ -1,0 +1,11 @@
+2,93bce587-8f50-4b7d-8431-0bfe36f2d4a5,08080125-1126-0626-0000-e14748c75565,db387a30-b5b6-4b58-bd54-983eba27b91a,2026-08-08T12:50:40.350862+10:00
+Most reliable home insurance for landlords in Australia with monthly payments
+Tables found: 1
+| Insurer | Why landlords consider them | Monthly payments |
+|---|---|---|
+| QBE Insurance Group | Strong landlord-focused product; often includes options such as tenant damage, theft by tenant, and rent-related protections depending on policy | Instalment options available on some policies [www.canstar.com.au](https://www.canstar.com.au/home-insurance/landlord-insurance/?utm_source=chatgpt.com) |
+| Terri Scheer | Specialist landlord insurer with a long history; often chosen for stronger landlord-specific features | Payment options vary; check current quote terms |
+| Allianz Australia | Large insurer with broad claims infrastructure and landlord cover options | Instalments may be available depending on policy |
+| AAMI | Often competitive on price; recognised in some landlord/home insurance comparisons | Instalments generally available depending on product |
+| Suncorp Group | Major Australian insurer with home and landlord insurance offerings | Monthly payment options commonly offered |
+End Of Line

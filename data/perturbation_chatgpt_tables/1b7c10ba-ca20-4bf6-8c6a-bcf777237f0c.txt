@@ -1,0 +1,9 @@
+1,87035ac5-56eb-4af8-86d0-1974f1a0ec08,08080128-1126-0626-0000-bbaddb1ad274,1b7c10ba-ca20-4bf6-8c6a-bcf777237f0c,2026-08-08T12:57:36.594762+10:00
+Least reliable car insurance for young drivers in Australia
+Tables found: 1
+| Insurer | Why I'd be cautious |
+|---|---|
+| **Budget Direct** | Lowest claims satisfaction in CHOICE’s 2025 survey: only **52%** of customers who made a car claim rated the experience above average/excellent. Overall car satisfaction was **62%**. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| **Allianz** | Lowest overall customer satisfaction in CHOICE’s survey at **61%**, although its claims satisfaction was considerably better at **69%**. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| **AAMI** | Below-average overall satisfaction (**62%**) and claims satisfaction (**64%**) in the CHOICE survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

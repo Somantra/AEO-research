@@ -1,0 +1,10 @@
+2,63947e18-e66d-4804-bf05-4b073dc458ae,08080126-1126-0626-0000-746ef405ee22,4a84c837-b2a8-4642-81dd-6cfe3337015d,2026-08-08T12:52:51.355610+10:00
+Worst home insurance for older properties in Australia with instant online quotes
+Tables found: 1
+| Insurer type | Potential issue for older homes |
+|---|---|
+| **Cheap online-first insurers** | Attractive instant quotes may rely on automated assumptions; check whether the final policy accepts your home’s age, construction type and condition. |
+| **Policies with strict maintenance clauses** | Older roofs, pipes, wiring and gradual deterioration can become dispute areas. |
+| **Policies with limited “matching” or restoration cover** | Important if you have heritage features, period fixtures or non-standard materials. |
+| **Insurers using large excesses to reduce premiums** | A cheap premium may hide a large claim cost. |
+End Of Line

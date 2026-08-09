@@ -1,0 +1,12 @@
+1,31bd6286-572a-44e7-8fb0-4a2fb1a10306,08080137-1126-0626-0000-9ad4fe8892d8,4d1bb84d-f60f-4d32-966b-f760c021ca3e,2026-08-08T13:19:11.248047+10:00
+Cheapest pet insurance providers in Australia
+Tables found: 1
+| Provider | Why consider it | Typical positioning |
+|---|---|---|
+| **Budget Direct** | Currently identified by Finder as the **cheapest insurer** in its research; online discounts may reduce the first-year premium | ⭐ Cheapest starting point |
+| **Cover-More / CoverMy** | Lower-cost options with accident & illness cover and lifetime-cover options | ⭐ Budget |
+| **Bow Wow Meow** | Competitive pricing, up to 90% reimbursement and multi-pet discount | ⭐ Good value |
+| **RSPCA Pet Insurance** | Competitive accident-only and accident & illness options | ⭐ Budget/value |
+| **PetSure-backed policies** | Several brands use PetSure, giving you multiple policies to compare | ⭐ Worth quoting |
+| **Woolworths Pet Insurance** | Can be quite competitive, particularly for younger pets | ⭐ Worth checking |
+End Of Line

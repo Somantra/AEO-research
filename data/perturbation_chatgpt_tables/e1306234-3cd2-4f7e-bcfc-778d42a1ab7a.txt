@@ -1,0 +1,10 @@
+2,4e474a04-c7d9-4349-87b1-0f3598681e86,08080136-1126-0626-0000-cedc896e3eb1,e1306234-3cd2-4f7e-bcfc-778d42a1ab7a,2026-08-08T13:16:44.815015+10:00
+Most affordable travel insurance for pre-existing medical conditions in Australia with monthly payments
+Tables found: 1
+| Provider | Pre-existing conditions | Instalment payment |
+|---|---|---|
+| **Fast Cover** | Medical assessment available | **Yes — PayPal Pay in 4 or Zip Pay** |
+| **1Cover** | Medical assessment; some conditions covered automatically/for an extra premium | Payment options should be checked at quote |
+| **InsureandGo** | Considers pre-existing conditions individually | Standard online payment; instalment availability should be confirmed |
+| **Canstar comparison** | Lets you compare multiple insurers | Useful for finding the cheapest quote |
+End Of Line

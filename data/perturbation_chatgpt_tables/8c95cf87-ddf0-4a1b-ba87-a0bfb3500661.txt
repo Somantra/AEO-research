@@ -1,0 +1,11 @@
+2,5289fe32-d181-4fb1-9859-c507222e5d94,08080117-1126-0626-0000-9e961a674f2d,8c95cf87-ddf0-4a1b-ba87-a0bfb3500661,2026-08-08T12:29:37.937716+10:00
+Cheapest car insurance for P-plate drivers in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I'd check it | Catch to watch |
+|---|---|---|
+| **ROllin'** | Particularly interesting for P-platers: learner/provisional drivers are covered and its listed-driver excess is the same regardless of age/licence type | $800 excess for listed drivers; $3,000 for unlisted drivers [origin.rollininsurance.com.au](https://origin.rollininsurance.com.au/contact?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-policy-options.html?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-policy-options.html?segment=MOTOR-OTHER&utm_source=chatgpt.com) |
+| **Budget Direct** | Frequently competitive; offers online discounts and low-km options | Under-25 excess of $500–$600 **on top of** the basic excess [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-policy-options.html?utm_source=chatgpt.com) |
+| **AAMI** | Worth quoting, especially for older/cheaper cars | Under-25 age excess can apply in addition to the standard excess [www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/tips-for-young-drivers-car-buying-guide?utm_source=chatgpt.com) |
+| **RAC/RACQ/RACT** | CHOICE's January 2026 comparison found these among the cheapest average comprehensive insurers for drivers ≤25 | Availability depends on your state [www.mozo.com.au](https://www.mozo.com.au/insurance/car-insurance/guides/young-drivers-car-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/young-driver-car-insurance?utm_source=chatgpt.com) |
+| **Third-party property** | Usually the cheapest option overall | Doesn't pay to repair/replace your own car [www.finder.com.au](https://www.finder.com.au/car-insurance/cheap-car-insurance?utm_source=chatgpt.com) |
+End Of Line

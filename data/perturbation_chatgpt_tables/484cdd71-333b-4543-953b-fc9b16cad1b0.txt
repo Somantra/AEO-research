@@ -1,0 +1,10 @@
+1,d56f9ad0-abf4-4ac8-95c0-ea575e3a87e1,08080134-1126-0626-0000-ab3753a37856,484cdd71-333b-4543-953b-fc9b16cad1b0,2026-08-08T13:11:59.565663+10:00
+Safest pet insurance for cats in Australia
+Tables found: 1
+| Insurer | Why I’d consider it | Best for |
+|---|---|---|
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | Up to **$25,000/year**, no sub-limits, flexible excess and reimbursement options | **Best overall** |
+| **[Petsy Pet Insurance](https://petsy.com.au/cat-insurance/)** | Up to **90% reimbursement and $25,000/year**, with a $0 excess option | **Maximum coverage** |
+| **[Petinsurance.com.au](https://petinsurance.com.au/)** | Up to **$30,000/year**, up to 80% back, and GapOnly can reduce the amount you pay upfront at participating vets | **Big emergency bills / cash flow** |
+| **[RSPCA Pet Insurance](https://www.rspca.org.au/pet-insurance/)** | Current policies offer up to **$35,000/year** and advertise no tricky sub-limits | **High-limit cover** |
+End Of Line

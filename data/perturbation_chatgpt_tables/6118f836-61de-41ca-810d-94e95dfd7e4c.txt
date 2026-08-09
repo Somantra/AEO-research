@@ -1,0 +1,11 @@
+2,63b1c269-12e7-4864-8c01-4f1d86e254ea,08080134-1126-0626-0000-3e2bd32906d0,6118f836-61de-41ca-810d-94e95dfd7e4c,2026-08-08T13:12:44.278857+10:00
+Worst travel insurance for cruise holidays in Australia without hidden fees
+Tables found: 1
+| Avoid policies that… | Why they can be a problem |
+|---|---|
+| Don’t include cruise cover (or require an add-on you miss) | Many Australian insurers treat cruises as an optional extra, even for cruises departing from Australia. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-cruises?utm_source=chatgpt.com) |
+| Have low cancellation limits | A cruise can involve large non-refundable deposits and fares. [www.finder.com.au](https://www.finder.com.au/travel-insurance/cancellation-cover?utm_source=chatgpt.com) |
+| Exclude onboard medical treatment or evacuation | Ship medical bills can be very expensive; cruise-specific cover is important. [www.news.com.au](https://www.news.com.au/travel/travel-updates/warnings/aussie-shocked-by-hidden-cruise-cost/news-story/8aa00b5faa2b999d95f5cf587f7d6f19?utm_source=chatgpt.com) |
+| Have narrow pre-existing medical condition rules | Claims can be declined if conditions are not declared or accepted. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-cruises?utm_source=chatgpt.com) |
+| Advertise a very cheap premium but charge extras for essentials | “Cheap” can mean missing luggage, cancellation, missed ports, or medical benefits. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-cruises?utm_source=chatgpt.com) |
+End Of Line

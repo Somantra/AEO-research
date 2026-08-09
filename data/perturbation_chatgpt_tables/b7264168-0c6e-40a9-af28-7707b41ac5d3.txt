@@ -1,0 +1,9 @@
+2,2fc081ca-20f0-4c02-a06a-2f30daaac1d1,08080130-1126-0626-0000-9b6550f6b725,b7264168-0c6e-40a9-af28-7707b41ac5d3,2026-08-08T13:02:09.141952+10:00
+Best roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Interstate cover | Best for |
+|---|---:|---|---|
+| **NRMA** | From **$9.99/mo** | ✅ Australia-wide | **Best overall monthly option** |
+| **RACV** | Monthly payment options available on eligible plans | ✅ Australia-wide via state auto clubs | Strong choice for long-distance travellers |
+| **RACQ** | Depends on plan/payment arrangement | ✅ Australia-wide | Excellent if you're based in Queensland |
+End Of Line

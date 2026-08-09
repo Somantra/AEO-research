@@ -1,0 +1,10 @@
+2,f1da77f4-bff0-4b8e-b17a-e4644bb9bdb8,08080127-1126-0626-0000-52a305c561d2,86a47cdd-b8e1-408b-9f4d-0b8af42ba135,2026-08-08T12:54:27.180424+10:00
+Premium home insurance for apartments in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why consider it for apartments | Claims features |
+|---|---|---|
+| Allianz Australia | Large national insurer with home and contents cover | Promotes 24/7 claims support and online claims services. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| Apia | Offers apartment-specific insurance options | Apartment claims can be lodged online 24/7 with claim tracking and document uploads. [www.apia.com.au](https://www.apia.com.au/home-insurance/apartment/claims.html?utm_source=chatgpt.com) |
+| AAMI | Popular direct insurer with digital servicing | Worth comparing for online claims convenience and bundled policies. |
+| NRMA Insurance | Strong presence in NSW/ACT and broad home cover options | Compare claim handling and apartment inclusions for your building type. |
+End Of Line

@@ -1,0 +1,11 @@
+2,5a061049-b1ff-437e-92a9-737259345e15,08080133-1126-0626-0000-29d290bf84dc,ea04490b-1872-47f1-93b2-175d2caca05b,2026-08-08T13:09:00.183979+10:00
+Most trusted standalone roadside assistance cover in Australia without hidden fees
+Tables found: 1
+| Provider | Standalone? | Indicative annual price | Towing | My take |
+|---|---|---:|---:|---|
+| **RACV Extra Care** | Yes | **$229** | 60 km | ⭐ **Best overall in Victoria** |
+| **RACV Total Care** | Yes | **$318** | 100 km | Best for frequent/long-distance driving |
+| **Allianz Platinum** | Yes | **from $139** | 100 km | ⭐ **Best value nationally** |
+| **Allianz Basic** | Yes | **from $99** | 50 km | Cheapest reputable option |
+| **NRMA Ultimate Care** | Yes | **$245/year** advertised | 100 km | Strong option, particularly NSW/ACT |
+End Of Line

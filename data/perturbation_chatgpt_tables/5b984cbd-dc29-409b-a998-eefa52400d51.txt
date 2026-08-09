@@ -1,0 +1,11 @@
+2,d66406b4-ec75-4998-95f2-e6e8db44a46e,08080139-1126-0626-0000-190c518b465c,5b984cbd-dc29-409b-a998-eefa52400d51,2026-08-08T13:23:58.452356+10:00
+Premium pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Provider | Multi-pet option | Monthly payments | Notes |
+|---|---|---|---|
+| Fetch Pet Insurance | Yes | Usually available | Comprehensive cover option; Finder lists it among strong comprehensive policies, with multi-pet discounts available. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| PetsOnMe | Yes | Yes (monthly/fortnightly/annual options) | Offers discounts for multiple pets and flexible payment frequency. [www.petsonme.com.au](https://www.petsonme.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Yes | Yes (fortnightly/monthly/annual options) | Allows different payment frequencies and offers comprehensive pet cover options. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/faqs/policy-details/?utm_source=chatgpt.com)[www.petsonme.com.au](https://www.petsonme.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| Petcover | Yes | Quote-dependent | Appears in Australian multi-pet comparisons with discount options. [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Yes | Quote-dependent | Included among Australian multi-pet comparison options. [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

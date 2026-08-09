@@ -1,0 +1,11 @@
+2,ec56fd51-7266-46b4-9113-1184adf30d93,08080119-1126-0626-0000-99a7832a80fd,824a0fbb-8941-4054-9f05-ee3ad016e5cf,2026-08-08T12:34:46.005415+10:00
+Premium car insurance for used cars in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer feedback | Best for |
+|---|---|---|---|
+| **Youi** | Strong comprehensive cover, 24/7 roadside assistance included, online claims | **Excellent** — Finder rated it highly for customer satisfaction; Youi also reports a 4.7/5 Trustpilot rating | **Best overall** |
+| **NRMA Insurance** | Broad comprehensive cover and strong claims/service reputation | **Excellent** — NRMA won Finder's 2026 national customer-satisfaction award | Best for customer satisfaction |
+| **GIO** | Comprehensive cover, lifetime repair guarantee, option to choose your own repairer | **Above average** in CHOICE's 2025 survey | Good balance of cover & service |
+| **Shannons** | Particularly strong for enthusiast, modified, classic or higher-value cars | **Above average** customer satisfaction in CHOICE's survey | Specialist/enthusiast used cars |
+| **RACV** | Very convenient if you're in Victoria, with comprehensive options | **Mixed** — CHOICE's 2025 survey put RACV below the national leaders | If local Victorian service matters |
+End Of Line

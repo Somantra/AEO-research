@@ -1,0 +1,14 @@
+2,85db1f1a-7af0-440f-bb84-932338dc5966,08080125-1126-0626-0000-841ec00df812,93cea9f2-f1e4-4b02-8f60-7d149e391660,2026-08-08T12:50:20.976362+10:00
+Cheapest home insurance for landlords in Australia compared to other providers
+Tables found: 1
+| Provider | Indicative price position | Landlord cover | My take |
+|---|---|---|---|
+| **Budget Direct** | 🟢 Often cheap | Yes | **Best first quote for price** |
+| **Youi** | 🟢 Often cheap | Yes | Worth comparing; can be very competitive |
+| **AAMI** | 🟡 Mid/competitive | Yes | Good alternative, especially with discounts |
+| **Allianz** | 🟡 Mid | Yes | Worth getting a quote |
+| **Qantas** | 🟡 Mid | Yes | Can be competitive |
+| **QBE** | 🔴 Often higher | Yes | Stronger specialist features, but not usually cheapest |
+| **Terri Scheer** | 🔴 Often higher | Yes | Specialist landlord insurer; compare carefully |
+| **EBM RentCover** | 🔴 Often higher | Yes | Specialist landlord option, particularly worth considering for complex rentals |
+End Of Line

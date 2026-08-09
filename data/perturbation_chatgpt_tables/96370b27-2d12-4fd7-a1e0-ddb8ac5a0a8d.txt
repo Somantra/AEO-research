@@ -1,0 +1,11 @@
+2,6b929bbf-6b34-429c-91de-351fff5b4d8c,08080118-1126-0626-0000-a347a1e9faab,96370b27-2d12-4fd7-a1e0-ddb8ac5a0a8d,2026-08-08T12:32:27.133712+10:00
+Safest car insurance for small cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Why I'd consider it |
+|---|---|---|
+| **AAMI** | ⭐⭐⭐⭐⭐ | Very straightforward 24/7 online/app claims, with repairer and hire-car booking available for eligible claims. Most claims take around 10–15 minutes to lodge. [www.aami.com.au](https://www.aami.com.au/claim/car?utm_source=chatgpt.com) |
+| **Allianz** | ⭐⭐⭐⭐⭐ | Says it aims to contact you within **2 business days** after a claim, and Comprehensive customers can choose their repairer. Its customers rated claim experience **4.5/5** over the past year. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/claims.html?utm_source=chatgpt.com) |
+| **NRMA** | ⭐⭐⭐⭐½ | 24/7 online claims and 24/7 phone claims, with the ability to upload documents/photos and track the claim. Particularly worth considering in NSW. [www.nrma.com.au](https://www.nrma.com.au/claims/car-insurance?utm_source=chatgpt.com) |
+| **Suncorp** | ⭐⭐⭐⭐½ | Online claims are available 24/7, take roughly 10 minutes, provide an instant claim number and allow you to track progress. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/car/comprehensive/claims.html?utm_source=chatgpt.com) |
+| **Budget Direct** | ⭐⭐⭐⭐ | Claims can be started online or by phone 24/7, with claims-team chat available as well. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/claims/claims-process.html?utm_source=chatgpt.com) |
+End Of Line

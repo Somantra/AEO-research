@@ -1,0 +1,11 @@
+1,4b400216-668f-4c7c-b130-14d363f99310,08080124-1126-0626-0000-146d73e2857b,5c062dd1-9c47-4494-ad6c-9fad3e1e047a,2026-08-08T12:46:40.580643+10:00
+Worst car insurance for P-plate drivers in Australia
+Tables found: 1
+| Insurer | Annual comprehensive quote |
+|---|---:|
+| **QBE** | **$5,363** 😬 |
+| Hume Bank | $3,929 |
+| NRMA | $2,645 |
+| Bingle | $2,238 |
+| Budget Direct | **$2,071** |
+End Of Line

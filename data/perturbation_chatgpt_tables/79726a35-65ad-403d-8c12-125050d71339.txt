@@ -1,0 +1,12 @@
+2,7758e393-59ed-4fd4-93bd-5663e85cdd72,08080118-1126-0626-0000-0617449dfa22,79726a35-65ad-403d-8c12-125050d71339,2026-08-08T12:32:51.372936+10:00
+Cheapest car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | EVs | Monthly payment | Why consider it |
+|---|---|---|---|
+| **ROLLiN’** | ✅ | ✅ Monthly policy | Particularly attractive if you want true month-to-month flexibility; covers EV batteries, charging cables, wall boxes and adapters. [origin.rollininsurance.com.au](https://origin.rollininsurance.com.au/contact?utm_source=chatgpt.com) |
+| **Budget Direct** | ✅ | ✅ | Frequently competitive on price; currently offers 15% off the first year when bought online. Monthly payments are available, although annual is cheaper. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/comprehensive-car-insurance.html?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/paying-car-insurance-monthly-vs-annually?utm_source=chatgpt.com) |
+| **AAMI** | ✅ | ✅ | Monthly instalments available; worth checking because EV quotes can vary substantially by model and driver. [www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/paying-car-insurance-monthly-vs-annually?utm_source=chatgpt.com) |
+| **Allianz** | ✅ | ✅ No extra cost | EV battery, charging cables and owned wall charger covered under its comprehensive policies. [www.finder.com.au](https://www.finder.com.au/car-insurance/allianz-car-insurance?utm_source=chatgpt.com) |
+| **Youi** | ✅ | Check quote | EV-specific cover and roadside assistance including transport to the nearest charging station on eligible comprehensive policies. [www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) |
+| **NRMA** | ✅ | Check quote | Covers standard-spec EVs and offers up to 10% off eligible first-year online purchases. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com) |
+End Of Line

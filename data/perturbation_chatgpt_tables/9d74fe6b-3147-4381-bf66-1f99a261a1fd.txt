@@ -1,0 +1,12 @@
+2,7580bfc9-f326-40ba-a11b-4cef0def9eb0,08080131-1126-0626-0000-0a1789b8db3b,9d74fe6b-3147-4381-bf66-1f99a261a1fd,2026-08-08T13:03:54.726970+10:00
+Premium roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Priority | Strong option |
+|---|---|
+| Premium fleet roadside assistance | **RAA Fleet Premium** |
+| Business vehicle + roadside assistance | **RACQ** |
+| National assistance network / insurer integration | **Allianz Partners** |
+| Heavy commercial vehicles | **TFAS Fleet** / truck-specific manufacturer programs |
+| Fast, structured claims management | **ARC** |
+| Fleet management + roadside assistance | **ORIX Australia** |
+End Of Line

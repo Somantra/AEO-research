@@ -1,0 +1,15 @@
+2,746c466d-fd3b-4b02-99fb-d05657d1d6d8,08080138-1126-0626-0000-49d91cd8ffea,7508b983-c4a1-47d7-89d2-7d20cca26848,2026-08-08T13:20:25.445899+10:00
+Safest travel insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | My view | Why |
+|---|---|---|
+| **Allianz** | 🟢 **Top-tier / safest choice** | Large established insurer, strong comprehensive offering, high age limits on some policies |
+| **Cover-More (Zurich)** | 🟢 **Top-tier** | Major travel specialist; broad travel/medical coverage |
+| **InsureandGo (Mitsui Sumitomo)** | 🟢 **Very good** | Strong range of policies and high medical limits |
+| **Tick (Mitsui Sumitomo)** | 🟢 **Very good value** | Same major underwriter as InsureandGo; often competitive pricing |
+| **Travel Insurance Direct (NIB)** | 🟢 **Good** | Backed by NIB; good option for comprehensive cover |
+| **World Nomads (NIB)** | 🟡 **Good for adventurous travel** | Particularly useful for activities/adventure travel, but policy choice matters |
+| **NRMA** | 🟡 **Good** | Travel policies are underwritten by Zurich; compare against Cover-More directly |
+| **1Cover** | 🟡 **Mixed** | Can be competitive, but I wouldn't automatically choose it over the major insurers |
+| **Flight Centre** | 🔴 **Not my first choice** | CHOICE's 2026 comparison found its Gold and Silver policies among the lowest-rated overall |
+End Of Line

@@ -1,0 +1,10 @@
+2,e85035b7-1a60-415c-bb42-c375326d3521,08080138-1126-0626-0000-b98f64df4484,411ddb88-a246-4bf3-8443-c67d099c421b,2026-08-08T13:20:46.743107+10:00
+Cheapest pet insurance for cats in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Price/value | Customer reviews | My take |
+|---|---|---|---|
+| **Petsy** | ⭐⭐⭐⭐½ | **4.9/5 (323)** | 🥇 Best balance |
+| **Fetch Pet** | ⭐⭐⭐⭐½ | **4.8/5 (562)** | 🥈 Excellent value/service |
+| **Bow Wow Meow** | ⭐⭐⭐⭐ | **4.5/5 (3,237)** | 🥉 Strong, established option |
+| Budget Direct | ⭐⭐⭐⭐⭐ price | **1.9/5 (49)** | ⚠️ Cheap, but I'd avoid |
+End Of Line

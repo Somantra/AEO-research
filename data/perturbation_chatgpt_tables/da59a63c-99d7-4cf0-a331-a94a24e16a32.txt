@@ -1,0 +1,11 @@
+2,30cf7182-39b7-458c-84cb-1aa774eac6ba,08080117-1126-0626-0000-017477ed4c8b,da59a63c-99d7-4cf0-a331-a94a24e16a32,2026-08-08T12:29:07.350385+10:00
+Safest car insurance for young drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d quote it | Online quote |
+|---|---|---|
+| **Budget Direct** | Strong value; 15% online first-year discount; lifetime authorised-repair guarantee; 24/7 claims | urlGet a Budget Direct quoteturn1search3 |
+| **NRMA** | Particularly worth checking for young/P-platers; comprehensive options and lifetime authorised-repair guarantee | urlGet an NRMA quoteturn1search2 |
+| **Youi** | Specifically caters for under-25s and learners; 24/7 roadside assistance comes standard with its comprehensive learner/young-driver cover | urlGet a Youi quoteturn0search7 |
+| **QBE** | Comprehensive cover includes repair guarantee and, subject to conditions, three-year new-car replacement | urlGet a QBE quoteturn1search0 |
+| **AAMI** | Good additional quote to benchmark; comprehensive cover and online first-year discount | urlGet an AAMI quoteturn1search5 |
+End Of Line

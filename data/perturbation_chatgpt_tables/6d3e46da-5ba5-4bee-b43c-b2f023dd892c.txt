@@ -1,0 +1,9 @@
+1,4bfaa1e7-3af0-41b1-8863-1e56693e2701,08080119-1126-0626-0000-0e0470de9e92,6d3e46da-5ba5-4bee-b43c-b2f023dd892c,2026-08-08T12:36:33.962275+10:00
+Least reliable motorcycle insurance for high-performance bikes in Australia
+Tables found: 1
+| Insurer type | Why high-performance riders may have issues |
+|---|---|
+| **Large general insurers with motorcycle add-ons** | Policies may be designed around mainstream bikes rather than expensive superbikes; check repairer choice, parts, accessories, and valuation rules. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/nrma-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Very cheap online-only motorcycle policies** | Lower premiums can come with higher excesses, fewer options, tighter modification rules, or less flexibility after a claim. |
+| **Insurers that don’t specialise in enthusiast bikes** | They may not understand aftermarket suspension, exhausts, fairings, ECU tuning, wheels, or collectible/rare models. |
+End Of Line

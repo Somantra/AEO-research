@@ -1,0 +1,13 @@
+1,b979048c-448e-4f52-91ab-d74b80312ada,08080128-1126-0626-0000-db8f95594865,1efb6999-7aa6-4ae6-9cc3-f700e1f26a71,2026-08-08T12:58:11.112147+10:00
+Most comprehensive roadside assistance plans in Australia
+Tables found: 1
+| Provider | Top plan | Particularly strong for |
+|---|---|---|
+| **RAC WA Ultimate Plus** | Ultimate Plus | **Best overall for long-distance/remote touring** |
+| **RAA Premium** | Premium | **Excellent all-round comprehensive cover** |
+| **RACV Total Care** | Total Care | **Excellent for Victorians + interstate travel** |
+| **RACQ Ultra Care** | Ultra Care | **Queensland, caravans/RVs and touring** |
+| **RACT Ultimate** | Ultimate | **Very strong Tasmanian cover** |
+| **NRMA Ultimate Care** | Ultimate Care | Strong national reciprocal coverage |
+| **AANT Premium** | Premium | NT/remote travel and Australia-wide personal cover |
+End Of Line

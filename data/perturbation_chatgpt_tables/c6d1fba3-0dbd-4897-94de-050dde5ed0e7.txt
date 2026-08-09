@@ -1,0 +1,11 @@
+2,6f41b7b5-833d-4bd3-b476-d9772929af9a,08080141-1126-0626-0000-7d7e0c7f1d9a,c6d1fba3-0dbd-4897-94de-050dde5ed0e7,2026-08-08T13:27:33.762889+10:00
+Cheapest accident-only pet insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Accident-only option | Quote online | Notes |
+|---|---|---|---|
+| PetsOnMe | Accident Plan | Yes | Listed among low-cost accident-only options; example cover includes $5,000 annual benefit and 80% reimbursement. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+| PD Insurance | Accident Plan | Yes | Another budget accident-only option; example cover includes $5,000 annual benefit and 80% reimbursement. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) |
+| Petcover Australia | Accident-focused plans available | Yes | Often appears in Australian pet insurance comparisons. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+| Medibank | Accident-related pet cover options | Yes | A large Australian insurer with online pet insurance quotes. [www.finder.com.au](https://www.finder.com.au/pet-insurance/immediate-pet-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Budget pet insurance options | Yes | Frequently ranked among cheaper Australian pet insurance providers. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

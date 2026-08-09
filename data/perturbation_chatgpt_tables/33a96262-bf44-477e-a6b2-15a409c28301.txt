@@ -1,0 +1,10 @@
+2,a7cd4746-4106-48a3-bcbf-b6f68d88745e,08080129-1126-0626-0000-13a0a62d3374,33a96262-bf44-477e-a6b2-15a409c28301,2026-08-08T13:00:40.941329+10:00
+Most trusted roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | EV support | Online pricing | Best for |
+|---|---|---|---|
+| **RACV** | ✅ EVs covered at no extra cost; can tow an out-of-charge EV to a charger | ✅ Prices shown online | **Best overall, especially Victoria** |
+| **NRMA** | ✅ EV roadside assistance; national reciprocal coverage | ✅ Prices shown online | NSW/ACT + interstate travel |
+| **RAA** | ✅ EV-trained patrols; towing to charging station | ✅ Prices shown online | South Australia |
+| **RAC WA** | ✅ Australia-wide roadside coverage | ✅ Prices shown online | Western Australia |
+End Of Line

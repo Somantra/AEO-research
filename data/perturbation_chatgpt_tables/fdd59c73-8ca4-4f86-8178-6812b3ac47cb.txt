@@ -1,0 +1,10 @@
+2,0a1d61d0-26a9-4da3-ad71-d72122c4675c,08080118-1126-0626-0000-681a6b01c0ab,fdd59c73-8ca4-4f86-8178-6812b3ac47cb,2026-08-08T12:32:36.809964+10:00
+Most trusted car insurance for small cars in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote |
+|---|---|---|
+| **NRMA** | **Best for trust/reputation.** Roy Morgan named NRMA Australia’s Most Trusted Insurance Brand for 2022–2025. CHOICE also rated 72% of NRMA customers above average/excellent for car insurance. [www.nrma.com.au](https://www.nrma.com.au/car-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance?utm_source=chatgpt.com) | urlGet an NRMA quoteturn1search2 |
+| **RACQ** | **Excellent Queensland choice.** CHOICE rated RACQ **85%** for customer satisfaction and claims experience—among the strongest results nationally. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) | urlCheck RACQ car insuranceturn1search4 |
+| **Youi** | **Very good balance of features + online quoting.** Its comprehensive policy won Finder's **2026 Best Features Car Insurance** award, and Youi provides an online estimate based on your car. [www.youi.com.au](https://www.youi.com.au/car-insurance/qld?utm_source=chatgpt.com) | urlGet a Youi quoteturn1search16 |
+| **Budget Direct** | **Worth checking for the lowest price.** Finder named it **2026 Best Value Car Insurance**, and it currently offers an online-purchase discount. However, CHOICE's customer/claims scores were considerably weaker than RACQ and NRMA. [www.finder.com.au](https://www.finder.com.au/car-insurance?utm_source=chatgpt.com) | urlGet a Budget Direct quoteturn1search14 |
+End Of Line

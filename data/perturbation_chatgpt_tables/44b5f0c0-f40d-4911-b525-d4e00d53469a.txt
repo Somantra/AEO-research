@@ -1,0 +1,11 @@
+2,470845d5-c361-438f-9e90-baa8d251737d,08080136-1126-0626-0000-8f47858195e6,44b5f0c0-f40d-4911-b525-d4e00d53469a,2026-08-08T13:16:30.003785+10:00
+Premium travel insurance for seniors in Australia with instant online quotes
+Tables found: 1
+| Provider | Best suited for | Online quote |
+|---|---|---|
+| Allianz Australia | Seniors wanting comprehensive cover, including cruise options | Available online [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/seniors.html?utm_source=chatgpt.com) |
+| Australian Seniors | Older travellers seeking senior-focused plans and online medical assessment | Instant online quote available [www.seniors.com.au](https://www.seniors.com.au/travel-insurance?utm_source=chatgpt.com) |
+| AllClear Travel Insurance | Older travellers, including many over-70 and over-80 applicants | Online quote available; advertises no upper age limit on policies [www.allcleartravel.com.au](https://www.allcleartravel.com.au/seniors-travel-insurance/over-70s?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/travel-insurance/seniors.html?utm_source=chatgpt.com) |
+| Southern Cross Travel Insurance | Broad travel insurance comparison option | Online quote available  |
+| Cover-More Travel Insurance Australia | Travellers wanting established travel insurance options | Online quote available  |
+End Of Line

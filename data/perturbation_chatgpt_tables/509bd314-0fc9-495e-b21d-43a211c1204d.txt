@@ -1,0 +1,11 @@
+2,1117662a-7545-4236-b3bd-39c64bef0b75,08080140-1126-0626-0000-d795a11950c0,509bd314-0fc9-495e-b21d-43a211c1204d,2026-08-08T13:24:34.532142+10:00
+Easiest pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Pre-existing-condition approach | My take |
+|---|---|---|
+| **Budget Direct** | May cover a cured condition after **12 months symptom-free** | ⭐ Best simple option |
+| **Pet Insurance Australia** | Allows eligible pre-existing exclusions to be **reviewed** | ⭐ Good if you want an explicit review process |
+| **Knose** | Some exclusions can be waived if cured; period varies, roughly **3–24 months depending on condition** | ⭐ Worth getting a quote |
+| **RACQ** | Some temporary conditions can potentially be reviewed after **18 months symptom-free** | Good, but longer wait |
+| **Petcover** | Can assess temporary, cured conditions for removal of exclusions | Worth considering |
+End Of Line

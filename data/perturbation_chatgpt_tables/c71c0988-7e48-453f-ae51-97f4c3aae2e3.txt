@@ -1,0 +1,10 @@
+2,9c27b1d9-1e4e-4a17-9641-ddcbb57c3536,08080139-1126-0626-0000-ea41e1877217,c71c0988-7e48-453f-ae51-97f4c3aae2e3,2026-08-08T13:23:08.324202+10:00
+Premium pet insurance for older pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why it may suit older pets | Customer review signals / notes |
+|---|---|---|
+| Bow Wow Meow | Often considered for senior pets because of flexible cover options and a reputation for customer experience | Reported strong review history, including a high ProductReview rating in comparisons. [insu.au](https://insu.au/compare/best-pet-insurance-for-older-pets/?utm_source=chatgpt.com) |
+| Australian Seniors Insurance Agency Pet Insurance | Designed specifically toward older Australians and may appeal to owners seeking senior-focused products | ProductReview data cited by comparisons shows strong customer ratings; policies have fixed annual benefit structures and reimbursement tiers. [www.productreview.com.au](https://www.productreview.com.au/listings/seniors-pet-insurance?utm_source=chatgpt.com)[insu.au](https://insu.au/insurers/australian-seniors/?utm_source=chatgpt.com) |
+| Petcover | Offers senior-pet options in some comparisons, including accident and illness cover | Listed among options for older pets with maximum entry ages and reimbursement choices. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Worth comparing if you already use Medibank products or value a large insurer | Included among senior-pet insurance comparisons. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,9 @@
+2,d4163a1b-dac9-4904-a6ee-95704a8d79a0,08080138-1126-0626-0000-2dd19f3e5c35,2b19683a-dd97-41b0-aa11-1c69d9ae8a5a,2026-08-08T13:21:00.760118+10:00
+Most reliable pet insurance for cats in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Why I’d consider it | Main catch |
+|---|---|---|---|
+| **Trupanion** | ⭐⭐⭐⭐⭐ | **GapOnly claims can be assessed in ~5 minutes** at participating vets; direct vet payment means you pay only the gap. No annual/per-condition/lifetime payout limits. [trupanion.com.au](https://trupanion.com.au/?utm_source=chatgpt.com) | Usually more expensive; coverage structure/excess differs from conventional policies |
+| **Knose** | ⭐⭐⭐⭐½ | Says **most claims are settled within 5 working days**. No sub-limits, up to $25k annual cover, and flexible excess/reimbursement options. [www.knose.com.au](https://www.knose.com.au/?utm_source=chatgpt.com) | Standard cover excludes some things; dental/behavioural/specialised therapies are optional |
+| **PetSure/G​apOnly insurers** | ⭐⭐⭐⭐⭐ for participating vets | **GapOnly processes eligible claims at the vet**, so you don't have to front the full bill. PetSure says GapOnly is available at participating vets and its eClaim network covers 1,050+ vets. [petsure.com.au](https://petsure.com.au/claims/?utm_source=chatgpt.com) | The individual policy matters a lot because different brands have different limits, exclusions and premiums |
+End Of Line

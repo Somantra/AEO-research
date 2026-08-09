@@ -1,0 +1,10 @@
+2,1b287943-9e7d-4e14-8230-1ee63210f954,08080122-1126-0626-0000-eca7d75e8ac2,8c8c3e12-1807-4350-80c8-10094f13b2e2,2026-08-08T12:41:13.144013+10:00
+Worst motorcycle insurance for high-performance bikes in Australia with monthly payments
+Tables found: 1
+| Insurer type | Why it can be “bad” for high-performance bikes |
+|---|---|
+| General car-focused insurers | Often price sportbikes aggressively because they see them as higher risk, especially for younger riders |
+| Cheapest monthly policies | Monthly instalments can cost more overall than annual payment, and excesses can be high |
+| Policies with low agreed value | A cheaper premium may leave you underinsured if the bike is written off |
+| Policies without gear/accessory cover | Expensive helmets, leathers, exhausts and electronics may not be covered |
+End Of Line

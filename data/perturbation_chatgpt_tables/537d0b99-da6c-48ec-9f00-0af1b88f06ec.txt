@@ -1,0 +1,10 @@
+2,83842123-869a-4af9-b296-3dbc701084b6,08080120-1126-0626-0000-0988946e2ecb,537d0b99-da6c-48ec-9f00-0af1b88f06ec,2026-08-08T12:37:11.810097+10:00
+Worst car insurance for high-risk drivers in Australia without hidden fees
+Tables found: 1
+| Insurer | Potential issue for high-risk drivers |
+|---|---|
+| **Budget Direct** | Multiple additional excesses can stack. For example, its current published amounts include $500 for a driver who hasn't held a full/open Australian licence for 2 years and $600 for an unlisted driver. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-policy-options.html?segment=MOTOR-HEAD&utm_source=chatgpt.com) |
+| **AAMI** | Has standard, age/inexperienced-driver and driver-history excesses; cancellation can also attract a $30 fee plus applicable government charges. [www.aami.com.au](https://www.aami.com.au/assets/documents/aami/motor/car/aami-car-comprehensive-aig-a03701-17-04-24-a.pdf?utm_source=chatgpt.com) |
+| **GIO** | Its PDS specifically includes a **driver-history excess** where a listed driver's licence was cancelled, suspended, disqualified or restricted within the preceding 3 years. It also has a $30 cancellation fee plus applicable charges. [www.gio.com.au](https://www.gio.com.au/documents/car-and-vehicle/car/gio-car-insurance-pds-19-6-18.pdf?utm_source=chatgpt.com) |
+| **Youi** | Transparent about additional/unlisted-driver excesses, but its current PDS has a $30 cancellation fee after the cooling-off period. [www.youi.com.au](https://www.youi.com.au/?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-policy-options.html?segment=MOTOR-HEAD&utm_source=chatgpt.com) |
+End Of Line

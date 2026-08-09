@@ -1,0 +1,11 @@
+2,92bf11c8-c90b-4441-99c8-d94339e66c45,08080134-1126-0626-0000-0c50e06855f0,256525c7-0770-41de-871b-62816d7d6b16,2026-08-08T13:12:44.742087+10:00
+Worst travel insurance for cruise holidays in Australia with strong customer reviews
+Tables found: 1
+| Insurer | ProductReview rating | My take for cruising |
+|---|---:|---|
+| **Southern Cross Travel Insurance** | ⭐ 4.6/5 | **Strongest overall** |
+| **Fast Cover** | ⭐ 4.7/5 | Very strong customer sentiment |
+| **InsureandGo** | ⭐ 4.3/5 | Good value and dedicated cruise policies |
+| **Allianz** | ⭐ 3.8/5 | Mixed customer experience |
+| **Cover-More** | ⭐ 3.7/5 | **Most concerning of these for customer satisfaction** |
+End Of Line

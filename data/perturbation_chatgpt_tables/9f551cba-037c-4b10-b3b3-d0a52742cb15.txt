@@ -1,0 +1,11 @@
+1,41e4f541-fc34-4bcb-9646-aec355307635,08080133-1126-0626-0000-1f45e74b7657,9f551cba-037c-4b10-b3b3-d0a52742cb15,2026-08-08T13:10:33.424112+10:00
+Premium domestic travel insurance in Australia
+Tables found: 1
+| Provider | Premium-style option | Best suited for |
+|---|---|---|
+| Cover-More Australia | Comprehensive / Comprehensive+ | Travellers wanting broad benefits and optional extras; Comprehensive+ is positioned as its top domestic tier. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/compare-our-plans?utm_source=chatgpt.com) |
+| Allianz Australia | Domestic Travel Insurance | Strong mainstream option with cancellation, luggage, personal liability and rental vehicle excess cover options. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/domestic.html?utm_source=chatgpt.com) |
+| Southern Cross Travel Insurance | Holiday in Australia | Good to compare for domestic holidays and add-on needs. [www.choice.com.au](https://www.choice.com.au/compareproducts/travel/money/travel-insurance/domestic-travel-insurance?utm_source=chatgpt.com) |
+| Qantas Insurance | Australian Comprehensive | Useful if you want a travel insurer linked with Qantas bookings/rewards. [www.choice.com.au](https://www.choice.com.au/compareproducts/travel/money/travel-insurance/domestic-travel-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Comprehensive Domestic | Worth comparing if you already use NRMA products. [www.choice.com.au](https://www.choice.com.au/compareproducts/travel/money/travel-insurance/domestic-travel-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,12 @@
+2,47bee931-4a2b-4664-abe3-3137c30d2fde,08080122-1126-0626-0000-6ee79f9cbd79,21ca6db2-8338-4579-9e45-09e466395de1,2026-08-08T12:43:03.847301+10:00
+Most comprehensive motorcycle insurance for commuters in Australia compared to other providers
+Tables found: 1
+| Provider | Comprehensive cover | Particularly strong for | Main drawback |
+|---|---|---|---|
+| **Youi** | ⭐⭐⭐⭐⭐ | Broad everyday cover, roadside assistance, riding gear | No choice of repairer |
+| **QBE** | ⭐⭐⭐⭐⭐ | High limits, gear, new-bike replacement, value | No included roadside assistance; no choice of repairer |
+| **RACV** | ⭐⭐⭐⭐⭐ | Victorian commuters, repairer choice, gear, theft/hire-car benefits | Quote required by phone; pricing can vary considerably |
+| **AAMI** | ⭐⭐⭐⭐½ | Strong all-round cover, gear, emergency expenses, repair guarantee | Gear limit lower than QBE |
+| **NRMA** | ⭐⭐⭐⭐½ | Broad cover and flexible extras | Gear isn't standard; roadside assistance isn't an add-on |
+| **Budget Direct** | ⭐⭐⭐⭐ | Price/value and optional customisation | Some desirable features cost extra |
+End Of Line

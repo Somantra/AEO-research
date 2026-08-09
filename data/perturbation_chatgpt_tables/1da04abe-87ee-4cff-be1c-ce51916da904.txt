@@ -1,0 +1,9 @@
+2,5a8138da-505b-4e92-bf38-aab4a09522ab,08080131-1126-0626-0000-ac0a0b0ff3d7,1da04abe-87ee-4cff-be1c-ce51916da904,2026-08-08T13:05:38.444569+10:00
+Least reliable roadside assistance plans in Australia with instant online quotes
+Tables found: 1
+| Provider | Why I’d be cautious | Online quote? |
+|---|---|---|
+| **Budget Direct Roadside Assistance** | ProductReview currently shows only **3.2/5**, with recent complaints including disputes around towing charges/payment. It also uses a large contractor network rather than an in-house patrol fleet. [www.productreview.com.au](https://www.productreview.com.au/c/roadside-assistance?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs.html?utm_source=chatgpt.com) | **Yes** |
+| **RAC Roadside Assistance (WA)** | There are recent reports of very long waits and manpower/service issues, although other customers report good experiences. This looks particularly worth investigating if response time is your priority. [www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?page=9&utm_source=chatgpt.com) | **Yes** |
+| **Small/less-established national plans** | Cheap plans can have fewer patrol resources and rely heavily on third-party tow operators. For example, Roadside Support advertises 48-hour commencement on its standard plans, with immediate assistance as an optional extra. [roadsidesupport.com.au](https://roadsidesupport.com.au/plans-%26-pricing?utm_source=chatgpt.com) | **Yes** |
+End Of Line

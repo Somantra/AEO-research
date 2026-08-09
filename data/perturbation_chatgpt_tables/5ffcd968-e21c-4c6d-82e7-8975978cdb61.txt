@@ -1,0 +1,10 @@
+2,d897cabb-eb10-4f88-87fc-612b216f2d28,08080130-1126-0626-0000-47cbe12dafc7,5ffcd968-e21c-4c6d-82e7-8975978cdb61,2026-08-08T13:01:05.550801+10:00
+Most affordable roadside assistance for motorcycles in Australia without hidden fees
+Tables found: 1
+| Provider | Motorcycle cover | Price | Key towing/attendance | Hidden-fee concern |
+|---|---|---:|---|---|
+| **RACQ Everyday** | ✅ Yes | **$109/yr** | 20 km towing | Low, but limits/exclusions apply |
+| **RAA Standard** | ⚠️ Check motorcycle eligibility | **$135/yr** | 10 km metro / 40 km country | **Higher** — service fees can apply |
+| **RACV Roadside Care** | ⚠️ Motorcycle-specific cover needs checking | **$138/yr** | Varies | Monthly admin fee |
+| **NRMA Everyday Care SA** | Likely via vehicle eligibility | Varies | 15 km metro / 25 km country | Commercial rates possible remotely |
+End Of Line

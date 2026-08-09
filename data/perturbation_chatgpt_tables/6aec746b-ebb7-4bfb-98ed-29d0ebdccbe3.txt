@@ -1,0 +1,9 @@
+1,d345b7dc-78c9-497c-abb7-d6838cdaef15,08080133-1126-0626-0000-faa611ade695,6aec746b-ebb7-4bfb-98ed-29d0ebdccbe3,2026-08-08T13:10:55.589784+10:00
+Worst travel insurance providers in Australia
+Tables found: 1
+| Insurer | Why I'd be cautious |
+|---|---|
+| **AIG** | Recent high-profile dispute involving a major medical claim and a pre-existing-condition interpretation. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| **Jetstar travel insurance / AIG-underwritten policies** | The Jetstar policy involved in the recent Bali case was underwritten by AIG, so don't assume an airline-branded policy has fundamentally different claims handling. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| **Any budget/airline-branded policy** | Often worth comparing against standalone comprehensive policies because the headline price can obscure lower limits and tighter conditions. |
+End Of Line

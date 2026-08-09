@@ -1,0 +1,9 @@
+2,bd037888-36e3-4c2f-b98a-c0ad4057783d,08080130-1126-0626-0000-461b80f1eec6,4a9e50e1-1af5-4bb0-a939-2fde0a54e3ec,2026-08-08T13:03:06.497220+10:00
+Cheapest roadside assistance for commercial vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Price | Commercial suitability | Online quote/join |
+|---|---:|---|---|
+| **RAC BusinessWise Assist** | **$124/vehicle/year** | Excellent — specifically for businesses | Yes |
+| **RAC BusinessWise Absolute** | **$232/vehicle/year** | Excellent — stronger towing/business continuity | Yes |
+| **MyDriveShield** | From **$88/year** | Vehicle eligibility needs checking | Instant online price |
+End Of Line

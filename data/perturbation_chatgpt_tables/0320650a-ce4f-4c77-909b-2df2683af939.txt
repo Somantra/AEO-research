@@ -1,0 +1,11 @@
+1,d849afe2-310e-4136-8bff-0ba1e0e32d89,08080135-1126-0626-0000-4853aeada283,0320650a-ce4f-4c77-909b-2df2683af939,2026-08-08T13:14:55.960872+10:00
+Cheapest pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer | Existing condition | Potential future cover |
+|---|---|---|
+| **Pet Insurance Australia** | Usually excluded | **Temporary conditions can be reviewed after 18 months symptom-free**; chronic conditions remain excluded. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com) |
+| **Real Insurance** | Usually excluded | Some conditions can be reviewed after **18 months** symptom-free. [www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/what-does-pet-insurance-cover?utm_source=chatgpt.com) |
+| **Knose** | Excluded | Some pre-existing conditions may be reviewed after **12 months symptom-free**. [www.knose.com.au](https://www.knose.com.au/blog/understanding-pre-existing-symptoms-and-conditions/?utm_source=chatgpt.com) |
+| **Budget Direct** | Excluded | A fully cured condition may cease to be excluded after **12 months** without signs/treatment, subject to exclusions. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/compare-policies.html?utm_source=chatgpt.com) |
+| **Fetch** | Excluded | Doesn't cover pre-existing conditions, but does offer an upfront assessment so you know exclusions before claiming. [www.fetchpet.com.au](https://www.fetchpet.com.au/pds/pre-existing-conditions?utm_source=chatgpt.com) |
+End Of Line

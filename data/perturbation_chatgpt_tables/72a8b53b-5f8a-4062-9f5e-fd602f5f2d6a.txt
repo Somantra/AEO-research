@@ -1,0 +1,9 @@
+2,c83d79d9-f057-4694-b424-7e1b35216aaa,08080133-1126-0626-0000-79279a0ca77c,72a8b53b-5f8a-4062-9f5e-fd602f5f2d6a,2026-08-08T13:09:36.062276+10:00
+Worst roadside assistance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Why I'd be cautious | Online quote |
+|---|---|---|
+| **Budget Direct Roadside Assistance** | Current ProductReview feedback contains repeated complaints about long waits, call-centre transfers, coverage disputes and extra charges. One recent reviewer reported spending over 2 hours dealing with the service and receiving no assistance. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-roadside-assistance?utm_source=chatgpt.com) | ✅ |
+| **RACV Roadside Assistance** | ProductReview currently shows **2.6/5 from 185 reviews**, with particularly poor scores for timeliness (2.3/5). There are reports of both excellent and very poor experiences, so performance appears inconsistent. [www.productreview.com.au](https://www.productreview.com.au/listings/racv-roadside-assistance?utm_source=chatgpt.com) | ✅ |
+| **Allianz Roadside Assistance** | Feedback includes complaints about lengthy waits, multiple call transfers and poor contractor/customer-service experiences. Finder also describes Allianz as typically more expensive than comparable roadside products. [www.finder.com.au](https://www.finder.com.au/car-insurance/allianz-roadside-assistance?utm_source=chatgpt.com) | ✅ |
+End Of Line

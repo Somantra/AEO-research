@@ -1,0 +1,12 @@
+1,6260b9d8-d7be-41bb-a701-aac40efbf05a,08080137-1126-0626-0000-d23da4f29482,3ad496c3-ddc0-4843-863b-e7b54601c625,2026-08-08T13:18:38.260233+10:00
+Worst accident-only pet insurance in Australia
+Tables found: 1
+| Red flag | Why it matters |
+|---|---|
+| Low annual benefit cap (for example, only a few thousand dollars) | A major emergency surgery can exceed the limit quickly |
+| Low reimbursement percentage | You may still pay a large share of the vet bill |
+| Large excess | Small accidents may not be worth claiming |
+| Narrow accident definition | Some injuries may be disputed as illness, hereditary, or pre-existing |
+| No cover for things like poisoning, foreign object ingestion, fractures, or emergency surgery | These are among the main reasons people buy accident cover |
+| Many exclusions around breeds or prior conditions | Can make the policy less useful |
+End Of Line

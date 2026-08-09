@@ -1,0 +1,11 @@
+2,a796a304-5539-4397-af06-4f0d7721f175,08080131-1126-0626-0000-b89ae76fea26,96486cdb-b3ef-485b-a700-2472964b0542,2026-08-08T13:05:51.239694+10:00
+Most trusted roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. monthly cost | Best for |
+|---|---:|---|
+| NRMA | From about **$9.99/month** (Everyday Care); higher tiers around $17.99–$21.99/month | Best all-round choice, especially NSW/ACT drivers |
+| RACV | Around **$27/month** for Total Care | Premium cover, Victoria, frequent travellers |
+| RACQ | Monthly payment options available | Queensland drivers wanting a large network |
+| RAA | Monthly options available | South Australia drivers |
+| AAMI | Often available as an add-on to insurance | Lower-cost option if bundled with car insurance |
+End Of Line

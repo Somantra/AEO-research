@@ -1,0 +1,12 @@
+2,5118c6b7-989c-40b5-9ae8-7e58a99b6cf5,08080136-1126-0626-0000-53c4883957b4,8bc54681-277a-409e-882e-e2b557c3f477,2026-08-08T13:17:32.194115+10:00
+Premium travel insurance for pre-existing medical conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing conditions | My take |
+|---|---|---|
+| **Cover-More** | 30+ conditions can be automatically covered if criteria are met; others can go through medical assessment, sometimes for an additional premium. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/existing-medical?hc_location=ufi&utm_source=chatgpt.com) | **Best all-round starting point** |
+| **InsureandGo** | Considers *all* pre-existing conditions for possible cover; medical screening determines acceptance and price. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-tips/travel-insurance-options-travelling-with-pre-existing-conditions/?utm_source=chatgpt.com) | **Very strong for complex conditions** |
+| **Allianz** | Comprehensive policies allow you to apply for pre-existing-condition cover through a medical assessment; some conditions may be covered without extra premium. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/comprehensive.html?utm_source=chatgpt.com) | **Strong mainstream option** |
+| **Worldcare** | Covers a large number of pre-existing conditions; medical assessment determines eligibility and any additional premium. [www.worldcare.com.au](https://www.worldcare.com.au/?utm_source=chatgpt.com) | **Worth comparing, particularly for seniors** |
+| **Medibank** | Automatically covers a range of conditions subject to criteria, with online assessment for others. [www.medibank.com.au](https://www.medibank.com.au/travel-insurance/help/existing-medical-conditions/?utm_source=chatgpt.com) | **Good alternative to mainstream insurers** |
+| **1Cover** | Medical assessment determines whether the condition can be covered and whether an additional premium applies. [www.1cover.com.au](https://www.1cover.com.au/faqs/pre-ex-medical/what-do-you-cover/?utm_source=chatgpt.com) | **Often worth getting a comparison quote** |
+End Of Line

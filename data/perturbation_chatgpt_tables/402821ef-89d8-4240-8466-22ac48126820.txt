@@ -1,0 +1,9 @@
+2,543b40f7-f909-445e-ae8d-2a4ced9210fd,08080141-1126-0626-0000-0a386ad86517,402821ef-89d8-4240-8466-22ac48126820,2026-08-08T13:27:48.321562+10:00
+Most reliable accident-only pet insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | GapOnly | My take |
+|---|---|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | **88% within 1 day** after documents received | **Yes** | ⭐ Best overall for claims experience |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | **88% within 1 day; 98% within 5 days** | **Yes** | ⭐ Excellent claims infrastructure |
+| **PetsOnMe** | Less publicly documented | Check policy | Best fit if you specifically want accident-only |
+End Of Line

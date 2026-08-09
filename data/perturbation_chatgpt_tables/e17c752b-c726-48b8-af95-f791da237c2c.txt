@@ -1,0 +1,14 @@
+2,f91ba532-7beb-41cf-8c48-c52ee5431eea,08080131-1126-0626-0000-f7f3e800549a,e17c752b-c726-48b8-af95-f791da237c2c,2026-08-08T13:04:16.009082+10:00
+Best roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Older-car suitability | Main strength | My take |
+|---|---|---|---|
+| **RAC WA** | ⭐⭐⭐⭐⭐ | Strong towing + WA network | **Best if you're in WA** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Excellent options for older/high-mileage cars | **Best Queensland option** |
+| **NRMA** | ⭐⭐⭐⭐⭐ | Huge national network | Excellent for NSW/interstate travel |
+| **RACV** | ⭐⭐⭐⭐⭐ | Good towing and recovery packages | Excellent in Victoria |
+| **RAA** | ⭐⭐⭐⭐½ | Good value in SA | Worth serious consideration |
+| **RACT** | ⭐⭐⭐⭐½ | Good Tasmanian coverage | Strong choice locally |
+| **AANT** | ⭐⭐⭐⭐ | Remote-area considerations | Best NT-specific option |
+| Insurance/independent roadside add-ons | ⭐⭐–⭐⭐⭐ | Often cheaper | Check vehicle-age restrictions carefully |
+End Of Line

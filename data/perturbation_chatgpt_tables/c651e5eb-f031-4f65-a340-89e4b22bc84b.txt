@@ -1,0 +1,14 @@
+2,edfda633-c71e-4f8d-a4f3-37f043b6bfcd,08080141-1126-0626-0000-8f35c9f12c49,c651e5eb-f031-4f65-a340-89e4b22bc84b,2026-08-08T13:27:14.290326+10:00
+Most trusted pet insurance for exotic pets in Australia with strong customer reviews
+Tables found: 1
+| If you have… | I'd investigate first |
+|---|---|
+| 🐰 Rabbit | **Petcover** |
+| 🐹 Guinea pig | **Petcover** |
+| 🦜 Parrot/bird | **Petcover** |
+| 🦎 Bearded dragon/reptile | **Petcover** |
+| 🐢 Turtle | **Petcover** |
+| 🐀 Rat/mouse/ferret | **Petcover** |
+| 🐶 Dog | Bow Wow Meow / Knose / others |
+| 🐱 Cat | Bow Wow Meow / Knose / others |
+End Of Line

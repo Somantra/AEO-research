@@ -1,0 +1,11 @@
+2,0494e4a4-6356-4a99-a33c-beb905aa53ad,08080122-1126-0626-0000-429f208cc190,a1478c5b-ebe8-44ab-8dfb-1b30fc46418f,2026-08-08T12:42:01.867326+10:00
+Most comprehensive motorcycle insurance for high-performance bikes in Australia without hidden fees
+Tables found: 1
+| Insurer | Best suited for | Strengths to look for |
+|---|---|---|
+| Shannons | Premium/enthusiast bikes, modified builds | Specialist approach, agreed-value focus, enthusiast market |
+| QBE Insurance | Riders wanting broad mainstream comprehensive cover | Agreed or market value options, gear cover, replacement benefits on eligible new bikes [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Riders wanting a large insurer | Worth comparing for availability and claims network |
+| AAMI | Competitive quotes for some rider profiles | Often worth including in quote comparisons |
+| RACQ | Queensland riders | Multi-policy discounts may apply for eligible policies [www.racq.com.au](https://www.racq.com.au/membership/insurance-discounts?utm_source=chatgpt.com) |
+End Of Line

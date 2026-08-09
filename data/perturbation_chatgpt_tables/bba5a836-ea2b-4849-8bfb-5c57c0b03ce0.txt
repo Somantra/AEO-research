@@ -1,0 +1,15 @@
+2,feb028e3-f2b0-4e05-a2bd-1ab774974465,08080141-1126-0626-0000-64afdfdf4056,bba5a836-ea2b-4849-8bfb-5c57c0b03ce0,2026-08-08T13:26:56.318867+10:00
+Worst pet insurance for exotic pets in Australia compared to other providers
+Tables found: 1
+| Area | Petcover Exotic | Other mainstream Australian insurers |
+|---|---|---|
+| Dogs/cats | ✅ | ✅ |
+| Birds/parrots | ✅ | Generally ❌ |
+| Reptiles | ✅ | Generally ❌ |
+| Turtles | ✅ | Generally ❌ |
+| Rabbits/guinea pigs/ferrets | ✅ | Generally ❌ |
+| Vet-fee limit | Up to **$6,000** for birds/reptiles/turtles | Usually not applicable |
+| Small mammals | Up to **$4,000** | Usually not covered |
+| Illness + injury | ✅ | — |
+| Real competing exotic insurer | **Very limited** | **Very limited** |
+End Of Line

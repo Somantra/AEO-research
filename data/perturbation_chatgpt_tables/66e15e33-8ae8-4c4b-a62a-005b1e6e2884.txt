@@ -1,0 +1,10 @@
+2,f6e72956-cc51-481b-b88b-97e9347a12b9,08080125-1126-0626-0000-8caa2dbd7d73,66e15e33-8ae8-4c4b-a62a-005b1e6e2884,2026-08-08T12:49:55.188115+10:00
+Safest home insurance for renters in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Fee transparency |
+|---|---|---|
+| **Allianz** | Strong renter-specific policy; covers belongings, certain lease-related fixtures/fittings and legal liability. | **Very good** — Allianz explicitly says its standard Renter Insurance can be cancelled anytime with no cancellation fee. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/renters.html?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/contents.html?utm_source=chatgpt.com) |
+| **NRMA Insurance** | Good broad contents cover, including theft, flood, storm and landlord-property liability in some circumstances. | **Good**, but check the current PDS/fee schedule before buying. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| **Youi** | Particularly good breadth of cover; flood is included and renter temporary accommodation is available. | **Less ideal if "no hidden fees" is your top priority** — its current PDS explicitly lists a **$30 cancellation fee** outside the cooling-off period. [www.youi.com.au](https://www.youi.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Established insurer with a dedicated renters product. | Check the PDS carefully for cancellation/administrative fees and optional-cover costs. [www.aami.com.au](https://www.aami.com.au/home-insurance/renters?utm_source=chatgpt.com) |
+End Of Line

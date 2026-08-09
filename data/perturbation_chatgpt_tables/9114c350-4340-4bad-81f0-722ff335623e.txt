@@ -1,0 +1,11 @@
+1,e9b64fa9-8f6b-400c-b07d-91078cafef1a,08080127-1126-0626-0000-06f5e2f6c9c4,9114c350-4340-4bad-81f0-722ff335623e,2026-08-08T12:55:41.526378+10:00
+Most affordable roadside assistance for older cars in Australia
+Tables found: 1
+| Provider | Basic annual price | Towing | Best for |
+|---|---:|---|---|
+| **Budget Direct** | **$89.95** | Check plan limits | 🥇 Cheapest nationwide option |
+| **NRMA** | **$112** | Up to 25 km | NSW/ACT, good low-cost cover |
+| **RACQ** | **$109** | Up to 20 km | Queensland |
+| **RACV** | **$138** | 20 km | Victoria |
+| **RACV Extra Care** | $229 | 60 km | Regional/rural Victoria |
+End Of Line

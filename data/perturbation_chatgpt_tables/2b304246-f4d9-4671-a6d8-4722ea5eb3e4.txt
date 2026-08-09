@@ -1,0 +1,10 @@
+2,7cf26d0b-830c-4d07-ae45-72e6f9761f76,08080137-1126-0626-0000-c4bcbb35f000,2b304246-f4d9-4671-a6d8-4722ea5eb3e4,2026-08-08T13:18:59.118228+10:00
+Best domestic travel insurance in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why I’d consider it | Customer-review signal |
+|---|---|---|
+| **InsureandGo** | **Best overall pick** for domestic travel; strong value and several cover levels | **4.4/5 from 567 domestic reviews** on ProductReview; its Bare Essentials domestic policy is 4.7/5 from 138 reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/insureandgo-australia-domestic-travel-insurance?utm_source=chatgpt.com) |
+| **Virgin Australia / Cover-More** | **Best for customer satisfaction** | Virgin Australia won Canstar's **2026 Most Satisfied Customers – Travel Insurance** award, based on 2,922 customers across 24 brands. Its insurance is arranged/administered by Cover-More. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-travel-insurance-award/?utm_source=chatgpt.com) |
+| **Cover-More** | Good established option, particularly if you value broad cover and assistance | Domestic policy currently has **3.9/5 from 293 ProductReview reviews**—solid, but noticeably behind InsureandGo's domestic score. [www.productreview.com.au](https://www.productreview.com.au/listings/cover-more-domestic-travel-insurance?utm_source=chatgpt.com) |
+| **Tick** | Worth getting a quote if price is important | Finder has historically rated it highly for domestic travel; however, I'd compare the actual PDS and current premium rather than choosing it solely on price. [www.finder.com.au](https://www.finder.com.au/travel-insurance?utm_source=chatgpt.com) |
+End Of Line

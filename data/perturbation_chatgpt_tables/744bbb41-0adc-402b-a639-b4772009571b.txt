@@ -1,0 +1,12 @@
+2,350fba14-71ca-4405-adbb-cdf4d98a6259,08080127-1126-0626-0000-1ba6ffa30540,744bbb41-0adc-402b-a639-b4772009571b,2026-08-08T12:53:32.490132+10:00
+Most comprehensive home insurance for older properties in Australia compared to other providers
+Tables found: 1
+| Insurer | Older-property suitability | Key strength | Main caveat |
+|---|---|---|---|
+| **Chubb Masterpiece** | ⭐⭐⭐⭐⭐ | Exceptional cover for historic, architecturally unique and high-value homes | Premium product; target market is generally **$1.5m+ rebuild value** |
+| **AAMI + Complete Replacement Cover** | ⭐⭐⭐⭐⭐ | Probably the strongest mainstream option for protection against underinsurance | Complete Replacement Cover costs extra and conditions apply |
+| **Allianz** | ⭐⭐⭐⭐½ | Strong mainstream cover + 30% rebuild safety net + extensive building cover | Standard policy still relies on sum insured |
+| **QBE** | ⭐⭐⭐⭐½ | 30% safeguard, up to 2 years temporary accommodation, $30m liability | Need to verify eligibility/details for your particular older property |
+| **RACV** | ⭐⭐⭐⭐ | Particularly worth comparing in Victoria; broad home/contents cover | Can be expensive depending on property |
+| **GIO/Suncorp-type mainstream policies** | ⭐⭐⭐⭐ | Worth obtaining a quote, particularly if heritage status is involved | Exact treatment of heritage/period features needs checking in PDS/quote |
+End Of Line

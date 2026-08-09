@@ -1,0 +1,10 @@
+2,705171e3-37eb-4562-8d46-ec490bcbb6b7,08080132-1126-0626-0000-777e7e9ed9a4,e9403e1b-5ee0-4141-ac80-8d150a38db09,2026-08-08T13:07:14.813896+10:00
+Cheapest roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Cheapest useful cover | Hybrid/EV support | Speed features | My take |
+|---|---:|---|---|---|
+| **Budget Direct** | **$89.95/yr** | Covers battery/electrical faults and breakdowns | 2,700+ service providers; GPS tracking in selected areas | 🥇 **Best cheap national option** |
+| **RACQ** | **$109/yr** | Explicitly covers **hybrids**, including high-voltage-aware patrols | **35-min average response** in QLD; live patrol tracking | 🥇 **Best for hybrid-specific support in QLD** |
+| **NRMA** | **$112/yr** annual | Roadside assistance, including battery/towing | Large national network; 24/7 | **Best NSW/ACT budget choice** |
+| **RAA** | $135/yr | Roadside service | 24/7 Australia-wide | Good SA option |
+End Of Line

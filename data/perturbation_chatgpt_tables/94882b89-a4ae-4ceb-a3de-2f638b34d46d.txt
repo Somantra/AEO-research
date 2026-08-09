@@ -1,0 +1,11 @@
+2,5fd00a46-7c2d-46c5-a745-e2959f2542ba,08080140-1126-0626-0000-1b0da2cd63b4,94882b89-a4ae-4ceb-a3de-2f638b34d46d,2026-08-08T13:26:21.789919+10:00
+Safest pet insurance for large dog breeds in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it for a large dog | Online quote |
+|---|---|---|
+| **urlTrupanion Australiaturn1search1** | **Best for catastrophic/lifetime protection.** 90% cover, no payout limits or sub-limits, and a lifetime per-condition excess. It can also pay participating vets directly. [trupanion.com.au](https://trupanion.com.au/?utm_source=chatgpt.com) | **Yes** |
+| **urlRSPCA Pet Insuranceturn1search7** | **Best high-limit alternative.** Up to **$35,000/year**, up to 90% back, no tricky sub-limits and a zero-excess option. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/dog-insurance/?utm_source=chatgpt.com) | **Yes** |
+| **urlMedibank Pet Insuranceturn1search4** | **Strong mainstream option.** Pet Max gives up to **$30,000/year and 90% reimbursement**, with no sub-limit for cruciate conditions or hip-joint surgery. [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/?utm_source=chatgpt.com)[rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/dog-insurance/?utm_source=chatgpt.com) | **Yes** |
+| **urlKnose Pet Insuranceturn1search2** | **Best for customisation.** Up to $25,000/year, 70/80/90% reimbursement, no sub-limits, and it says claims won't cause refusal of renewal while conditions remain met. [www.knose.com.au](https://www.knose.com.au/?utm_source=chatgpt.com) | **Yes — ~60 sec** |
+| **urlPetinsurance.com.auturn0search1** | Worth quoting because it offers up to **$30,000**, up to 80% reimbursement, $0 excess and GapOnly claiming. [www.petinsurance.com.au](https://www.petinsurance.com.au/?utm_source=chatgpt.com) | **Yes — quick quote** |
+End Of Line

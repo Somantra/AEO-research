@@ -1,0 +1,10 @@
+2,2f0b4372-d334-4e40-b2ba-bec431970efa,08080128-1126-0626-0000-2fcf343d08d6,f5971579-d484-400f-af3a-bc46b49b1b7c,2026-08-08T12:57:15.097236+10:00
+Easiest home insurance for flood-prone areas in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Claims convenience |
+|---|---|---|
+| **Suncorp** | Strong choice for flood-prone properties; has dedicated flood/storm support | **Excellent** — online/app claims 24/7; says some claims may be decided instantly and it aims to contact you within 2 business days if more information is needed. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/home/claims.html?utm_source=chatgpt.com) |
+| **AAMI** | Good balance of straightforward online service and flood cover | **Excellent** — online/app claims 24/7, claim tracking, document uploads and claim-manager messaging. [www.aami.com.au](https://www.aami.com.au/claim/home-landlord?utm_source=chatgpt.com) |
+| **NRMA** | Convenient digital claims and 24/7 phone support | **Very good** — online claims 24/7, claim tracking and updates by SMS/email. [www.nrma.com.au](https://www.nrma.com.au/claims/home-insurance?utm_source=chatgpt.com) |
+| **Allianz** | Simple online claim process and 24/7 claims team | **Very good** — online is described as the fastest way to lodge a claim; flood claims can be lodged online or by phone. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/claims.html?utm_source=chatgpt.com) |
+End Of Line

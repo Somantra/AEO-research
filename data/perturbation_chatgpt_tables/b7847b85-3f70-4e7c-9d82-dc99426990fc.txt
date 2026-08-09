@@ -1,0 +1,9 @@
+2,5eb117f7-ff64-4aa8-ad45-35ab537d0c1f,08080141-1126-0626-0000-f62301f52ccd,b7847b85-3f70-4e7c-9d82-dc99426990fc,2026-08-08T13:28:03.920631+10:00
+Safest accident-only pet insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Accident-only | Online quote | Key point |
+|---|---|---|---|
+| **Ruff n’ Tumble** | ✅ Dogs | ✅ | **$40/month**, any dog/age/breed; no annual claim limit |
+| **PetsOnMe Accident Plan** | ✅ | ✅ | **$5,000 annual limit**, 80% reimbursement |
+| **PD Accident Plan** | ✅ | ✅ | **$5,000 annual limit**, 80% reimbursement |
+End Of Line

@@ -1,0 +1,11 @@
+2,3b2d6fe7-435a-4f57-9cd5-ee9fcc222120,08080136-1126-0626-0000-8093188409c6,7055ef88-835c-4d0c-b4bf-0380021b99cd,2026-08-08T13:17:02.348795+10:00
+Most reliable travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Pre-existing conditions |
+|---|---|---|
+| **Cover-More** | Strong option if your condition is on its automatically covered list | Many conditions are automatically covered if you meet their criteria; others can go through medical assessment. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/existing-medical?utm_source=chatgpt.com) |
+| **Insure&Go** | Particularly flexible because it considers *all* pre-existing conditions for assessment | Medical assessment determines whether your condition is covered; some may attract an extra premium. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/pre-existing-medical-conditions/?utm_source=chatgpt.com) |
+| **1Cover** | Clear written medical-approval process and current 2026 PDS | Conditions generally need to be declared and specifically accepted; additional premium may apply. [www.1cover.com.au](https://www.1cover.com.au/faqs/pre-ex-medical/what-do-you-cover/?utm_source=chatgpt.com)[www.1cover.com.au](https://www.1cover.com.au/ssg/policy-wording/20260304?utm_source=chatgpt.com) |
+| **SCTI** | Worth comparing, particularly if you want a well-established insurer | Pre-existing conditions aren't automatically covered on some policies, but medical assessment can provide cover. [scti.com.au](https://scti.com.au/our-policies/medical-only/pre-existing-conditions?utm_source=chatgpt.com) |
+| **Travel Insurance Direct** | Attractive if your condition falls within its automatically covered list | Over 40 conditions can be automatically covered if their specific criteria are satisfied, but it doesn't allow you to buy extra cover for conditions outside the list. [www.travelinsurancedirect.com.au](https://www.travelinsurancedirect.com.au/customer-service/existing-medical-conditions?utm_source=chatgpt.com) |
+End Of Line

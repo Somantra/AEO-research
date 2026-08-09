@@ -1,0 +1,9 @@
+2,039ef06d-48b6-47ad-898e-1c985fed49b8,08080120-1126-0626-0000-c5c1b3924aae,5bcd21c0-33dd-4510-a22b-c6c9c52baa9c,2026-08-08T12:36:29.857675+10:00
+Most trusted third-party car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer evidence |
+|---|---|---|
+| **Youi** | **Best overall for service/reviews**. Offers TPPD, including limited cover up to $5,000 if an uninsured driver is entirely at fault. | Finder 2026: **#1 Most Recommended nationally** and **Legendary Service**; Youi also reports 4.7/5 on Trustpilot from 30k+ reviews. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/car-insurance-satisfaction?utm_source=chatgpt.com) |
+| **NRMA Insurance** | **Best for trust in NSW**. Offers TPPD and uninsured-driver protection up to $5,000. | Finder 2026: **#1 Most Trusted Car Insurance in NSW (4.35/5)** and #1 Most Loved in NSW. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/car-insurance-satisfaction?utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/car-insurance/third-party-property-damage-car-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Strong **value/price** option. Offers TPPD with up to $20m liability and limited uninsured-driver cover. | Finder 2026: **Top Value Car Insurance NSW (4.29/5)**; also received "Loved Brand" recognition. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/car-insurance-satisfaction?utm_source=chatgpt.com) |
+End Of Line

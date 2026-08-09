@@ -1,0 +1,12 @@
+2,a61e7467-e012-4f92-b647-8f85bdb3c4a2,08080118-1126-0626-0000-3b96f3a829aa,93ec4907-e713-46d2-be84-56a2fee62ea4,2026-08-08T12:32:43.335521+10:00
+Premium car insurance for small cars in Australia compared to other providers
+Tables found: 1
+| Provider | Position | Key strengths | Watch-outs |
+|---|---|---|---|
+| **NRMA** | Premium/mainstream | Comprehensive Plus, new-car replacement, optional hire car/glass | Can be expensive depending on driver/postcode |
+| **RACV** | Strong in Victoria | Good local support, comprehensive options | Often higher premiums/excesses |
+| **Allianz** | Premium/mainstream | Choice of repairer, agreed value, new-car replacement | Premium can be higher than budget insurers |
+| **Youi** | Premium/features | Highly tailored pricing, strong feature set, roadside assistance | Quote can vary dramatically by driver |
+| **AAMI** | Mainstream/value | Often competitive pricing; pricing considers usage | Features may be less generous than highest-tier policies |
+| **Budget Direct** | Value/budget | Frequently competitive premiums, broad comprehensive cover | Check excesses and optional benefits carefully |
+End Of Line

@@ -1,0 +1,9 @@
+2,dac67556-7087-4f96-a1c2-a98cad221e53,08080135-1126-0626-0000-55a5be355c7f,b351bff5-fb28-4863-90c1-e9cda24e6c4d,2026-08-08T13:15:52.605929+10:00
+Worst travel insurance for seniors in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims-speed signal | My take for seniors |
+|---|---|---|
+| **Fast Cover** | Says completed claims are generally assessed within **10 business days** | ⚠️ Not necessarily bad, but “10 business days” isn't especially fast if speed is your priority. [help.fastcover.com.au](https://help.fastcover.com.au/article/628-is-your-claims-process-good?utm_source=chatgpt.com) |
+| **Allianz** | Says travel claims should receive contact within **10 business days** | ⚠️ Reasonable published timeframe, but not a particularly fast commitment. [www.allianz.com.au](https://www.allianz.com.au/help-and-contact.html?utm_source=chatgpt.com) |
+| **Insurers with restrictive pre-existing-condition rules** | Can create major delays/disputes | ⚠️ This is arguably more important for seniors than the headline claims turnaround. |
+End Of Line

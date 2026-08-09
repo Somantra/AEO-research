@@ -1,0 +1,10 @@
+2,84ccf09d-0443-45ef-b5db-ed066afba1f9,08080139-1126-0626-0000-a313aa0614f9,7b40c2a7-3367-43af-8a99-b4cd409a803d,2026-08-08T13:23:43.422414+10:00
+Easiest pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Insurer | Best for | Why it may suit multiple pets |
+|---|---|---|
+| Pet Insurance Australia | Simple multi-pet setup | Offers multi-pet discounts (5% for the second pet, increasing for additional pets up to 15% under its terms). [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/multi-pet-terms/?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Easy account management | Good option if you already use Medibank and want everything in one place; multi-pet discounts are commonly available through providers. [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Brand trust/animal focus | Often compared by Australian pet owners; multi-pet discounts may apply depending on cover. [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Bow Wow Meow | Broad pet insurance choice | Frequently considered by Australian pet owners, including for multi-pet households.  |
+End Of Line

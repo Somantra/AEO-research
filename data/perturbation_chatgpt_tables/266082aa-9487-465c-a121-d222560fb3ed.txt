@@ -1,0 +1,10 @@
+2,203216ea-af20-4666-b556-6b23d2672cc5,08080126-1126-0626-0000-a4b19fa2f95f,266082aa-9487-465c-a121-d222560fb3ed,2026-08-08T12:52:25.889135+10:00
+Premium home insurance for new builds in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **urlYoui Building Insuranceturn1search6** | Strong building cover including fire, theft, storm, flood and earthquake; flexible excess | Yes |
+| **urlANZ Building Plusturn1search1** | Higher limits and extras; temporary accommodation up to 24 months or 20% of building sum insured | Yes |
+| **urlBudget Direct Building Insuranceturn1search2** | More price-focused; 15% first-year online discount for building-only policies | Yes |
+| **urlING Home Insuranceturn1search0** | New-for-old replacement, $20m liability and online on-the-spot quotes | Yes |
+End Of Line

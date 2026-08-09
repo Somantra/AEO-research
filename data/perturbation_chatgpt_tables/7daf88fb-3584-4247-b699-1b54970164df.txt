@@ -1,0 +1,11 @@
+1,d8bebc8f-c838-41a0-b9d0-d699b04d3b0d,08080117-1126-0626-0000-36f7e9d2abd8,7daf88fb-3584-4247-b699-1b54970164df,2026-08-08T12:28:49.160360+10:00
+Best car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | Best for | Why I’d consider it |
+|---|---|---|
+| **Youi** | ⭐ Best overall EV-focused option | Comprehensive cover includes roadside assistance with transport to the nearest charging station if you run out of charge. Youi also scored strongly for customer satisfaction. [www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | 💰 Value/price | Often competitive on premiums and currently highly rated by comparison services; its Gold Comprehensive policy offers agreed or market value and new-car replacement under specified conditions. [www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) |
+| **NRMA** | 🔧 Traditional insurer + EV cover | Explicitly covers standard EVs, hybrids and PHEVs, with comprehensive options covering accidental damage, theft, fire and weather damage. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com) |
+| **AAMI** | 💵 Worth getting a quote | EV owners report competitive quotes for some Tesla/BYD models, although premiums vary dramatically by driver and vehicle. [www.reddit.com](https://www.reddit.com/r/BYDAU/comments/1tjck5g/byd_sealion_6_extended_range_fwd_insurance/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1tdrshq/tesla_insurance/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1s02gsl/polestar_4_comprehensive_insurance_is_3000year/?utm_source=chatgpt.com) |
+| **Allianz** | 🚗 Tesla/expensive EVs | Worth including in your quote comparison; recent Australian EV-owner reports show it can be competitive for some Tesla models. [www.reddit.com](https://www.reddit.com/r/BYDAU/comments/1tjck5g/byd_sealion_6_extended_range_fwd_insurance/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1tdrshq/tesla_insurance/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1s02gsl/polestar_4_comprehensive_insurance_is_3000year/?utm_source=chatgpt.com) |
+End Of Line

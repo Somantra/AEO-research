@@ -1,0 +1,12 @@
+2,101aad67-5768-4b8b-acca-92fca2c25701,08080118-1126-0626-0000-58be5ebe652e,fdae309f-3527-4a1d-9d60-d957958389c1,2026-08-08T12:31:59.711904+10:00
+Best car insurance for small cars in Australia with monthly payments
+Tables found: 1
+| Insurer | Best for | Monthly payments |
+|---|---|---|
+| Bingle | Cheapest basic comprehensive cover, older small cars | Available |
+| Budget Direct | Low-cost comprehensive policies | Monthly payment option available |
+| AAMI | Good all-round cover and claims network | Monthly payment option available |
+| ROLLiN' Insurance | Drivers who specifically want month-to-month insurance | Monthly-only model |
+| Youi | Personalised pricing, low-km drivers | Monthly payment option available |
+| QBE Insurance | Broader insurer with flexible options | Monthly payment options available |
+End Of Line

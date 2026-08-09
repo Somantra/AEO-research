@@ -1,0 +1,11 @@
+2,1c5917b8-ddc4-4993-b70c-5846555049d7,08080142-1126-0626-0000-35cc531d4f32,d82174f2-4889-4bfb-94d6-2bdeaa01eec2,2026-08-08T13:28:43.533620+10:00
+Least reliable pet insurance providers in Australia compared to other providers
+Tables found: 1
+| Policy | CHOICE Expert Rating | Main concern |
+|---|---:|---|
+| **Petcover Economy** | **25%** | No lifetime cover; very restrictive benefits |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only; illness isn't covered |
+| **Australian Seniors Basic Cover** | **53%** | Relatively low benefits/coverage |
+| **Guardian Bronze** | **53%** | Relatively limited cover |
+| **Real Insurance Classic** | **53%** | Lower cover/value compared with stronger policies |
+End Of Line

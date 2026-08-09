@@ -1,0 +1,12 @@
+1,7751c56c-ec0a-4f7d-b37b-7e67d679df6e,08080120-1126-0626-0000-e4ca51c97f5e,c42c0d63-aa3d-4f30-b95a-e8bb54f3748f,2026-08-08T12:36:44.832509+10:00
+Most popular motorcycle insurance for high-performance bikes in Australia
+Tables found: 1
+| Insurer | Why consider it for a performance bike |
+|---|---|
+| **QBE** | Strong mainstream option; comprehensive cover includes accidental damage, theft, fire, and up to **$4,000 motorcycle apparel**. You can choose agreed or market value. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | Comprehensive cover includes crash/accidental damage, theft, fire, flood and storm, with up to **$20m liability**. It also automatically covers certain modifications/accessories, subject to conditions. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) |
+| **Youi** | Comprehensive cover includes accidental damage, theft, fire, storm/flood and roadside assistance; riding gear and other options can be added. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/comprehensive?utm_source=chatgpt.com) |
+| **AAMI** | Worth getting a quote, particularly because pricing can differ dramatically between insurers for sports bikes. |
+| **Shannons** | Particularly worth investigating for enthusiast/performance bikes and riders with multiple vehicles or modified bikes. |
+| **Budget Direct** | Another useful price benchmark; whether they'll accept a particular high-performance model depends on underwriting. |
+End Of Line

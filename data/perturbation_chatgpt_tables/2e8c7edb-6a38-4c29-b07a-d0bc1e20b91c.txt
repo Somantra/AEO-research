@@ -1,0 +1,10 @@
+1,189e15d4-97fb-436f-8a00-308169656a95,08080128-1126-0626-0000-fded2b613a43,2e8c7edb-6a38-4c29-b07a-d0bc1e20b91c,2026-08-08T12:56:52.877668+10:00
+Least reliable roadside assistance plans in Australia
+Tables found: 1
+| Provider type | Common complaints reported |
+|---|---|
+| **Cheap third-party roadside assistance plans** | Fewer patrols, reliance on subcontractors, longer waits in regional areas, limited repair capability |
+| **Insurance-bundled roadside assistance** | Often considered less comprehensive than dedicated motoring-club memberships; limits on towing and callouts can be restrictive [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/seg9qg?utm_source=chatgpt.com) |
+| **Budget plans with minimal towing coverage** | Can leave drivers paying extra if the vehicle needs to go beyond the included distance |
+| **Some smaller nationwide providers** | May struggle with coverage consistency outside major cities |
+End Of Line

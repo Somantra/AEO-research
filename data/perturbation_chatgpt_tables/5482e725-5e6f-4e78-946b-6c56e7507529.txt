@@ -1,0 +1,11 @@
+2,6d5154ef-eed5-4cba-822b-2992b1acfb59,08080122-1126-0626-0000-ffbbcc955f27,5482e725-5e6f-4e78-946b-6c56e7507529,2026-08-08T12:42:59.716911+10:00
+Premium motorcycle insurance for commuters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out for commuters |
+|---|---|
+| **QBE Comprehensive Motorcycle** | **Best overall fit.** 24/7 motorcycle claims, online lodgement, a dedicated claims officer, accredited motorcycle repairers, guaranteed authorised repairs, and hire-vehicle cover after a not-at-fault accident or theft. It explicitly allows commuting use. [www.qbe.com](https://www.qbe.com/au/claims/motorcycle?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Suncorp Comprehensive Motorcycle** | Excellent digital claims process: online claims are available 24/7, take about 10 minutes, provide an instant claim number, and let you upload documents and track progress. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/motorcycle/claims-motorcycle-comprehensive.html?utm_source=chatgpt.com) |
+| **GIO Comprehensive Motorcycle** | Strong for convenience: claims can be lodged online 24/7, with instant confirmation and claim-number tracking through its app. [www.gio.com.au](https://www.gio.com.au/motorcycle-insurance/claims.html?utm_source=chatgpt.com) |
+| **RACV Comprehensive Motorcycle** | Particularly attractive if you're in Victoria: 24/7 claims assistance through the app or claims team, plus cover for damaged protective gear up to $2,000. [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **AAMI Comprehensive Motorcycle** | Simple 24/7 online/app claims process with photo/document uploads and phone assistance. [www.aami.com.au](https://www.aami.com.au/claim/motorcycle?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,9 @@
+2,cc0831d4-5694-438b-ad0f-6cb08a00c2e8,08080130-1126-0626-0000-be458055733f,0d20600d-2cee-418b-943d-31762bb30d6c,2026-08-08T13:02:56.402084+10:00
+Premium roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider | Premium option | Interstate cover | Strongest feature |
+|---|---|---|---|
+| **[RACV Total Care](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html)** | $318/year | Australia-wide | 100 km towing + up to $2,400 travel benefits |
+| **[RAA Premium Road Service](https://www.raa.com.au/motor/road-service)** | $293/year | Australia-wide | Up to 200 km country attendance/towing + vehicle recovery |
+| **[NRMA Ultimate Care](https://www.nrma.com.au/roadside-assistance)** | $245/year currently listed | National via reciprocal clubs | 100 km included towing |
+End Of Line

@@ -1,0 +1,9 @@
+2,5185f51e-d392-4265-b2b5-591c9f3dda9a,08080119-1126-0626-0000-6f75268d005a,e291c7a5-a46d-4748-bfe0-f86622de33dd,2026-08-08T12:35:50.169355+10:00
+Cheapest third-party car insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Third-party cover | Monthly payments | Current deal/info |
+|---|---|---|---|
+| **Budget Direct** | Property only / Fire & Theft | **Yes — monthly or fortnightly** | **15% off first year online** |
+| **NRMA** | Property Damage / Fire & Theft | Regular payments available | **Up to 10% off first year online** |
+| **AAMI** | Property Damage / Fire & Theft | Instalments available | **$20 off** third-party policy online |
+End Of Line

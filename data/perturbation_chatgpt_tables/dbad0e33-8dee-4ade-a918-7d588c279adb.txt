@@ -1,0 +1,13 @@
+2,23f3a488-22a0-4c9e-9337-1e2e1c16de31,08080136-1126-0626-0000-81210eeb1ac4,dbad0e33-8dee-4ade-a918-7d588c279adb,2026-08-08T13:16:54.315952+10:00
+Worst travel insurance for pre-existing medical conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing conditions | My take |
+|---|---|---|
+| **Allianz – Basic** | **Not covered at all** | 🔴 **Poor choice** if your condition needs cover |
+| **InsureandGo** | All conditions can be assessed; may be covered for extra/no extra cost | 🟢 Strong flexibility |
+| **Cover-More** | 30+ conditions automatically covered if criteria met; others can be assessed | 🟢 Very good |
+| **Medibank** | Automatic cover for various conditions + medical assessment | 🟢 Good |
+| **Budget Direct** | Automatic cover for many conditions + assessment for others | 🟢 Good |
+| **1Cover** | Online medical assessment; cover depends on assessment | 🟡 Good, but condition-dependent |
+| **Allianz – Comprehensive** | Can apply for pre-existing-condition cover through medical assessment | 🟡 Reasonable, but not as attractive as the strongest options for some conditions |
+End Of Line

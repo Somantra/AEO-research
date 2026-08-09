@@ -1,0 +1,10 @@
+2,393b38b9-a631-4b69-b20c-d7b47e28feea,08080133-1126-0626-0000-40db84fb9a0e,df9d7862-ad02-41ab-9e87-51e1541a32bc,2026-08-08T13:10:49.712012+10:00
+Least reliable travel insurance for business trips in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims convenience | Business-trip suitability | My take |
+|---|---|---|---|
+| **1Cover** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Best for straightforward online claims** |
+| **Cover-More** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best all-rounder for frequent business travel** |
+| **Allianz Global Assistance** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Strong emergency support, but claims aren't necessarily the fastest |
+| **Chubb** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Worth considering for higher-value corporate/business travel |
+End Of Line

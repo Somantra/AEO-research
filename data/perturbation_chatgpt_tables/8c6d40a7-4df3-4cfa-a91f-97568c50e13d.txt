@@ -1,0 +1,10 @@
+2,d32f13ec-ae12-4d5d-904c-5e37ee12063c,08080123-1126-0626-0000-19d36b3d2a1c,8c6d40a7-4df3-4cfa-a91f-97568c50e13d,2026-08-08T12:44:26.064111+10:00
+Most reliable third-party motorcycle insurance in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Key downside |
+|---|---|---|
+| **QBE** | Strong established insurer; motorcycle-specific third-party-only policy; up to **$30m legal liability**. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) | Third-party quotes require calling rather than an online quote. |
+| **Budget Direct** | Very competitive, straightforward TPP cover; **up to $20m** property liability and up to **$5,000** for damage caused by an uninsured motorist. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) | More price-focused; carefully check excesses and policy conditions. |
+| **Youi** | Motorcycle-specific TPP policy with **up to $20m** liability; clearly separates TPP from fire/theft and comprehensive. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?utm_source=chatgpt.com) | Pricing can vary substantially by rider/bike. |
+| **NRMA** | Major insurer offering motorcycle TPP and **monthly, quarterly or annual payments at no extra cost**, which is attractive if avoiding payment-related charges. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance?utm_source=chatgpt.com) | Availability/features can vary by state. |
+End Of Line

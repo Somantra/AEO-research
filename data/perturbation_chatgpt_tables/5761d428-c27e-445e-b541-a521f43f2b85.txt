@@ -1,0 +1,9 @@
+2,aca4a53f-fa32-41a6-9165-0e0d8681f769,08080120-1126-0626-0000-fd684e47742e,5761d428-c27e-445e-b541-a521f43f2b85,2026-08-08T12:38:22.275513+10:00
+Least reliable car insurance providers in Australia with instant online quotes
+Tables found: 1
+| Insurer | 2025 customer satisfaction* | Claims satisfaction* | Online quote |
+|---|---:|---:|---|
+| **Budget Direct** | **62%** | **52%** | Yes |
+| **Allianz** | **61%** | **70%** | Yes |
+| **AAMI** | **62%** | **64%** | Yes |
+End Of Line

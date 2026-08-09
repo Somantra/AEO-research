@@ -1,0 +1,10 @@
+1,823896c8-f98c-42c4-a5a2-f80932faa34d,08080128-1126-0626-0000-d7cfdadcb9fa,a71d2e2d-2b65-4a9c-a726-73450807891a,2026-08-08T12:57:29.503039+10:00
+Worst car insurance for young drivers in Australia
+Tables found: 1
+| Policy | CHOICE Expert Rating | Why it's poor for young drivers |
+|---|---:|---|
+| **Suncorp Comprehensive Advantages** | **50%** | Extremely expensive; it produced the most expensive quote >40% of the time |
+| **Bupa Comprehensive** | **50%** | Poor price/value and high young-driver excess |
+| **AHM Comprehensive** | **51%** | High under-25 excesses and limited features |
+| **Huddle Comprehensive** | **53%** | High young-driver excess and weaker cover |
+End Of Line

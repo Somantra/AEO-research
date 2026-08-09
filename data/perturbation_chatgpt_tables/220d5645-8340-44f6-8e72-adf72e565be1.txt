@@ -1,0 +1,12 @@
+2,410c56bc-b168-46b1-8d7c-2b35f03e0471,08080120-1126-0626-0000-76d58fc70860,220d5645-8340-44f6-8e72-adf72e565be1,2026-08-08T12:37:33.446446+10:00
+Most trusted car insurance for high-risk drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer sentiment | High-risk suitability | My take |
+|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | **Strong** for some serious-risk histories | **Best overall starting point** |
+| **Youi** | ⭐⭐⭐⭐⭐ | Good, but underwriting can be selective | **Excellent service/claims reputation** |
+| **QBE Insurance** | ⭐⭐⭐⭐ | **Strong for difficult histories** | Worth quoting if you've had a suspension |
+| **AAMI** | ⭐⭐⭐⭐ | Reasonable | Good mainstream alternative |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Good, particularly QLD | Excellent customer satisfaction |
+| **RAA** | ⭐⭐⭐⭐⭐ | Good, particularly SA | Excellent customer satisfaction |
+End Of Line

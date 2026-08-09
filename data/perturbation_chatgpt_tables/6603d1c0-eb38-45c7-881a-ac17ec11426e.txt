@@ -1,0 +1,10 @@
+2,cea575b4-9712-4da0-92fa-7b8f65996955,08080129-1126-0626-0000-b0fa496c162f,6603d1c0-eb38-45c7-881a-ac17ec11426e,2026-08-08T12:59:56.521490+10:00
+Cheapest roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Cheapest EV-suitable plan | Annual price | EV support | Fee/watch-out |
+|---|---|---:|---|---|
+| **RACQ (QLD)** | Everyday | **$109** | ✅ EVs + charging assistance | 48-hour waiting period; **$100–$140 immediate-service surcharge** if you join when already needing help |
+| **NRMA (NSW/ACT)** | Everyday Care | **$112** currently shown | ✅ EV support | Current page pricing is promotional; check renewal price |
+| **RAC (WA)** | Standard | **$135.68** | ✅ EVs | Price includes its 6% admin fee for monthly direct debit |
+| **RACV (VIC)** | Roadside Care | **$138/year** | ✅ EVs at no extra cost | $138 annual payment; monthly option totals $144 |
+End Of Line

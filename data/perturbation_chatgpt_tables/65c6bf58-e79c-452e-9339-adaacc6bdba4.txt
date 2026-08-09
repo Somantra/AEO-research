@@ -1,0 +1,12 @@
+2,5429518c-2e01-4cb8-bf57-91518a8b39d2,08080131-1126-0626-0000-1ecc2b4fafed,65c6bf58-e79c-452e-9339-adaacc6bdba4,2026-08-08T13:03:54.973179+10:00
+Premium roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Commercial/fleet suitability | Vehicle limit | Premium proposition | Indicative price |
+|---|---|---:|---|---:|
+| **RACV Business Total Care** | ⭐⭐⭐⭐⭐ | Up to **8t GVM** | 24/7, unlimited callouts, 100km towing, national assistance | **$290/vehicle/yr** |
+| **RACQ Plus Care for Business** | ⭐⭐⭐⭐ | Up to **4.5t**, limited services to 6t | Business cover + recovery/travel benefits | **$199/vehicle/yr** |
+| **RACQ Fleet Care** | ⭐⭐⭐⭐⭐ | Majority of commercial vehicles, subject to limits | Fleet-focused program for **21+ vehicles** | Quote |
+| **Allianz Platinum** | ⭐⭐⭐ | Consumer-oriented | 24/7 Australia-wide, mobile mechanics, 100km towing | **from $139/yr** |
+| **Isuzu Care Roadside Assist** | ⭐⭐⭐⭐⭐ for Isuzu trucks | Truck-specific | 24/7, Australia-wide, **6 years included** on eligible new trucks | Included |
+| **Hino Roadside Assist** | ⭐⭐⭐⭐⭐ for Hino trucks | Truck-specific | 24/7 nationwide technicians/recovery | Included with eligible new trucks |
+End Of Line

@@ -1,0 +1,10 @@
+2,13c03595-e01f-4d15-8fac-5f569e231d7f,08080129-1126-0626-0000-8fffc645892e,d645befb-c84b-47f8-a579-58ccda412bfd,2026-08-08T13:00:41.741514+10:00
+Most trusted roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | EV support | Call-outs | Towing / charge-out support | My take |
+|---|---|---|---|---|
+| **RACV** | Excellent | **Unlimited** on Total Care | EV can be towed to a charger; up to 200 km to preferred destination on Total Care | ⭐ **Best overall** |
+| **RACQ** | Excellent | Included with all levels | EV towing to accessible charger/destination within entitlement | ⭐ **Best value in QLD** |
+| **NRMA** | Excellent | **Unlimited** | EV support; national reciprocal coverage | ⭐ **Best for NSW/ACT + frequent travel** |
+| **RAA** | Excellent | Included | EV towing benefit can be used to nearest charger | ⭐ **Best in SA** |
+End Of Line

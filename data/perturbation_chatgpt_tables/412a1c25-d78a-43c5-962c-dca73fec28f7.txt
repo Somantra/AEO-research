@@ -1,0 +1,9 @@
+2,54258680-d3ec-45ad-8d51-c0590fb97bc1,08080135-1126-0626-0000-4093ad2420f1,412a1c25-d78a-43c5-962c-dca73fec28f7,2026-08-08T13:14:48.440060+10:00
+Worst travel insurance for adventure sports in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why travellers complain | Adventure-sport considerations |
+|---|---|---|
+| World Nomads | Lower customer-review scores on some Australian review sites, with complaints about delays, communication, and claim handling. [www.trustpilot.com](https://www.trustpilot.com/review/covermore.com.au?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/world-nomads?utm_source=chatgpt.com) | Often chosen by adventure travellers, but you must check the exact activity list and plan level—“adventure” does not mean every sport is covered. |
+| Cover-More | Reviews are mixed: many praise emergency assistance and claims, while others report frustration with exclusions or claim processes. [www.trustpilot.com](https://www.trustpilot.com/review/covermore.com.au?utm_source=chatgpt.com) | Has adventure options/add-ons, but activities, equipment, and circumstances need to match the policy wording. [www.finder.com.au](https://www.finder.com.au/travel-insurance/cover-more-travel-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Generally stronger customer sentiment than some competitors, but complaints still occur around claim decisions and policy interpretation. [www.productreview.com.au](https://www.productreview.com.au/listings/allianz-travel-insurance?utm_source=chatgpt.com) | Offers an Adventure Pack option, but some activities and situations remain excluded. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) |
+End Of Line

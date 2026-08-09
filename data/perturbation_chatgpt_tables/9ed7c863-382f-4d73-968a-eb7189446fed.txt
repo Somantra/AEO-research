@@ -1,0 +1,10 @@
+2,f58fdb41-7c84-4cbd-8d60-2689ca4f9e3a,08080130-1126-0626-0000-8107a8fe7731,9ed7c863-382f-4d73-968a-eb7189446fed,2026-08-08T13:02:14.680832+10:00
+Best roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider | Best for interstate travel | Key point |
+|---|---|---|
+| **NRMA – Ultimate Care** | ⭐ **Best overall** | National emergency coverage, unlimited call-outs, **100 km towing** in its top NSW/ACT plan |
+| **RACV – Total Care** | ⭐ **Best for frequent long trips** | **100 km towing**, plus accommodation/rental/taxi benefits when far from home |
+| **RACQ higher-tier cover** | Excellent if QLD-based | Strong national reciprocal network and higher-tier travel benefits |
+| State club equivalent | Good alternative | NRMA/RACV/RACQ/RAA/RAC/RACT/AANT have reciprocal arrangements nationally |
+End Of Line

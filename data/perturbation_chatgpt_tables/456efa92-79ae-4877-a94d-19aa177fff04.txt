@@ -1,0 +1,9 @@
+2,484db443-ae16-4cfe-a7d5-9496e732f960,08080140-1126-0626-0000-d3118ff1b644,456efa92-79ae-4877-a94d-19aa177fff04,2026-08-08T13:24:34.431489+10:00
+Easiest pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Best for | Pre-existing condition approach | Customer feedback |
+|---|---|---|---|
+| Bow Wow Meow Pet Insurance | Best overall balance of reviews + value | Generally excludes existing conditions, but may consider some conditions if they are no longer active (case-by-case) | Strong review scores; customers often mention straightforward claims and service. [www.productreview.com.au](https://www.productreview.com.au/listings/bow-wow-meow-pet-health-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Good reputation for claims support | Existing conditions usually excluded; may suit pets with a medical history if you want future issues covered | Frequently rated highly by customers for claim experiences. [www.productreview.com.au](https://www.productreview.com.au/listings/rspca-pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Strong brand trust and customisation | Existing conditions generally excluded; check underwriting carefully | Offers customisable cover and high annual limits. [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+End Of Line

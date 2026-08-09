@@ -1,0 +1,9 @@
+2,ff32adb6-f43e-4035-ae5d-4677c42b953b,08080141-1126-0626-0000-2b5b21053658,f91dd7a1-3b43-4c30-843b-c136a382fe5f,2026-08-08T13:27:25.018002+10:00
+Premium pet insurance for exotic pets in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Exotic pets | Cover highlights | Customer feedback | Verdict |
+|---|---|---|---|---|
+| **Petcover** | ✅ Reptiles, turtles, birds, rabbits, small mammals & others | Up to **$6,000 vet fees**, accidental injury, optional treatments, up to $1m third-party liability | **4.3/5 service, 4.4/5 product** on Feefo, with 2,269 reviews displayed | ⭐ **Best overall for true exotics** |
+| **Bow Wow Meow** | ⚠️ Primarily dogs/cats; some exotic coverage options | Up to $30k for eligible standard pets; up to 90% eligible vet bills | **4.5/5 from 3,237 ProductReview reviews** | ⭐ Excellent reviews, but check species eligibility |
+| **Knose** | ❌ Dogs & cats | Up to $25k, no sub-limits, up to 90% approved costs | **4.8/5 ProductReview** according to its current site | ⭐ Excellent insurer, **not suitable for most exotics** |
+End Of Line

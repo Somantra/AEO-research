@@ -1,0 +1,9 @@
+2,03e34bc0-c79a-4fa8-9be6-c726101b82f7,08080140-1126-0626-0000-007b4a00d314,b8db7002-aee8-4bc1-a796-94fbb2afb913,2026-08-08T13:25:42.853867+10:00
+Premium pet insurance for puppies and kittens in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Claims speed |
+|---|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Up to **$30k/year**, up to **90% back**, no sub-limits, and GapOnly on-the-spot claiming | **Excellent** — eligible GapOnly claims are assessed at participating vets, usually in about **10 minutes** [bowwowinsurance.com.au](https://bowwowinsurance.com.au/?utm_source=chatgpt.com)[bowwowinsurance.com.au](https://bowwowinsurance.com.au/gaponly-pet-insurance/?utm_source=chatgpt.com) |
+| **[Petinsurance.com.au](https://www.petinsurance.com.au/)** | Up to **$30k**, up to **80% back**, $0 excess option, 24/7 vet support | **Excellent** — GapOnly can process claims while you're at the vet; ordinary online claims are advertised as paid in **5–10 days** [www.petinsurance.com.au](https://www.petinsurance.com.au/?utm_source=chatgpt.com) |
+| **[Petsy](https://petsy.com.au/)** | Up to **$30k for young puppies**, 80%/90% reimbursement, no sub-limits, highly customisable | **Very good** — usually **5–10 business days**, with potential for faster processing if you complete its pre-existing-condition assessment early [petsy.com.au](https://petsy.com.au/puppy-insurance/?utm_source=chatgpt.com)[petsy.com.au](https://petsy.com.au/claims-process/?utm_source=chatgpt.com) |
+End Of Line

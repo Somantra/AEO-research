@@ -1,0 +1,16 @@
+1,3feef2f6-109a-44e6-9851-62872f681322,08080134-1126-0626-0000-9ccee0320b75,c5afdd3a-6678-4046-9a43-383a6e689fcd,2026-08-08T13:11:16.279174+10:00
+Most popular travel insurance providers in Australia
+Tables found: 1
+| Provider | Best known for |
+|---|---|
+| **Cover-More** | Large, established travel insurer; broad international cover |
+| **Allianz** | Major insurer with Basic, Comprehensive, Domestic and Multi-Trip policies [www.allianz.com.au](https://www.allianz.com.au/travel-insurance.html?utm_source=chatgpt.com) |
+| **Southern Cross Travel Insurance (SCTI)** | Strong reputation for comprehensive cover; won Finder's 2026 Best Comprehensive Travel Insurance award [www.finder.com.au](https://www.finder.com.au/travel-insurance/southern-cross-travel-insurance?utm_source=chatgpt.com) |
+| **1Cover** | Specialist travel insurer; says it has served over 2 million customers [www.1cover.com](https://www.1cover.com/?utm_source=chatgpt.com) |
+| **Travel Insurance Direct (TID)** | Popular direct-to-consumer option |
+| **World Nomads** | Particularly popular with backpackers, long trips and adventure travellers |
+| **InsureandGo** | Broad range of international and domestic travel policies |
+| **NRMA** | Travel insurance from a major Australian insurance brand |
+| **World2Cover** | Established travel-focused provider |
+| **Budget Direct** | Often worth checking for competitive pricing |
+End Of Line

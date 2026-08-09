@@ -1,0 +1,11 @@
+2,7661f0df-b37f-4090-84df-7f70e2dc8f20,08080138-1126-0626-0000-ce1cec1f7986,44ba2c0b-2653-46ae-84a9-125dd3fc8654,2026-08-08T13:20:13.490766+10:00
+Least reliable travel insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer reviews | Main reliability concern | My take |
+|---|---:|---|---|
+| **Allianz Travel** | ~3.8/5, 3,100+ reviews | Repeated complaints about slow claims, documentation requests and disputed exclusions | **High caution** |
+| **Cover-More** | ~3.7/5, 3,700+ reviews | Communication delays and rigid interpretation of exclusions | **Medium-high caution** |
+| **Tick Travel Insurance** | ~4.4/5, 3,900+ reviews | Strong overall rating, but recurring complaints about claim documentation and narrow claim triggers | **Medium caution** |
+| **1Cover** | ~4.2/5, 5,100+ reviews | Very good emergency/medical feedback, but more contentious cancellation/luggage claims | **Medium caution** |
+| **InsureandGo Australia** | ~4.3/5, 7,200+ reviews | Strong overall sentiment, but some reports of communication problems during difficult claims | **Medium caution** |
+End Of Line

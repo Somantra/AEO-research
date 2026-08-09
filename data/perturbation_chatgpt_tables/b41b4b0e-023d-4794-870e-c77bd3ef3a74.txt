@@ -1,0 +1,10 @@
+1,0e1ed39e-f4d8-40cc-a368-1e1de90a747a,08080119-1126-0626-0000-c73f523b086c,b41b4b0e-023d-4794-870e-c77bd3ef3a74,2026-08-08T12:34:17.470124+10:00
+Worst motorcycle insurance for learner riders in Australia
+Tables found: 1
+| Insurer/policy issue | Why learners may dislike it |
+|---|---|
+| Very high learner/P-plate premiums | Some insurers price inexperienced riders as high risk. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/shannons-motorcycle-insurance?utm_source=chatgpt.com) |
+| Huge age/inexperience excesses | A cheap premium can become expensive if you need to claim. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/shannons-motorcycle-insurance?utm_source=chatgpt.com) |
+| Learner rider exclusions or conditions | Some policies require the learner to be listed or may restrict cover depending on circumstances. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/shannons-motorcycle-insurance?utm_source=chatgpt.com) |
+| Poor agreed-value options | A cheaper policy may leave you underinsured after a write-off. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com) |
+End Of Line

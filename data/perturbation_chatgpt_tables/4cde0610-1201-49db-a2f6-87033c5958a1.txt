@@ -1,0 +1,9 @@
+1,73b51b4e-12a4-4aca-9a34-6e0f0f3186f8,08080136-1126-0626-0000-72eccf9e1883,4cde0610-1201-49db-a2f6-87033c5958a1,2026-08-08T13:17:43.439618+10:00
+Best pet insurance for exotic pets in Australia
+Tables found: 1
+| Provider | Exotic pets | My take |
+|---|---|---|
+| **Petcover** | 🐰 🐦 🦎 🐢 🐹 | **Best/most obvious choice** |
+| Standard dog/cat insurers | Usually ❌ | Generally unsuitable |
+| Self-insuring | Any species | Good alternative if premiums/limits don't stack up |
+End Of Line

@@ -1,0 +1,10 @@
+1,2e37e730-6596-42b4-a041-8ad066d9a306,08080129-1126-0626-0000-0b2a197d217e,0fa41564-f49b-429d-b137-e07c0de0394c,2026-08-08T13:00:33.626544+10:00
+Best roadside assistance for hybrid cars in Australia
+Tables found: 1
+| Provider | Best for | Why |
+|---|---|---|
+| **[RACV](https://www.racv.com.au/)** | ⭐ Best overall | Hybrid/EV assistance included at no extra cost, high-voltage-trained patrols, 24/7 Australia-wide assistance. Total Care also offers up to 200 km towing for an out-of-charge EV. [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| **[RACQ](https://www.racq.com.au/)** | ⭐ Best in QLD | Explicitly covers battery EVs, plug-in hybrids **and hybrids**, with high-voltage-aware patrols. 24/7 Australia-wide assistance. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| **[NRMA](https://www.nrma.com.au/)** | ⭐ Best in NSW/ACT | Strong choice if you're in NSW/ACT. Hybrid and plug-in hybrid assistance is included; cover also works nationally through reciprocal motoring-club arrangements. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RAC/RAA/RACT/AANT** | Best local-club option | Worth considering if you're primarily based in WA, SA, Tasmania or NT, respectively. |
+End Of Line

@@ -1,0 +1,11 @@
+1,ee5cbb2c-091e-485f-9678-ea9a6d3a5296,08080118-1126-0626-0000-3878abbbcaeb,bfdbf4d3-f937-494f-8a79-bacbb449c92a,2026-08-08T12:32:36.836078+10:00
+Most reliable car insurance for high-risk drivers in Australia
+Tables found: 1
+| Insurer | Best for | Reliability / availability |
+|---|---|---|
+| **QBE** | **Recent licence suspension / serious driving history** | ⭐⭐⭐⭐⭐ |
+| **AAMI** | Drivers with demerit points or a less severe history | ⭐⭐⭐⭐½ |
+| **Budget Direct** | At-fault accident history / competitive pricing | ⭐⭐⭐⭐ |
+| **NRMA** | Established insurer + broad cover options | ⭐⭐⭐⭐ |
+| **Kogan Insurance** | Drivers struggling to obtain comprehensive cover | ⭐⭐⭐½ |
+End Of Line

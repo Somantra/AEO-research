@@ -1,0 +1,13 @@
+2,537316bd-ced9-47e3-9a87-c7c1d73f5c1f,08080133-1126-0626-0000-50c2d4fd5db9,0bee3107-17d5-433d-8ea4-5e4bfad41520,2026-08-08T13:10:22.040618+10:00
+Cheapest travel insurance for business trips in Australia compared to other providers
+Tables found: 1
+| Provider | Price positioning | Business trips | Best for |
+|---|---|---|---|
+| **Travel Insurance Direct (TID)** | 🟢 Budget-friendly | **Yes** | Cheapest option / frequent business travel |
+| **1Cover** | 🟢 Often very competitive | Generally yes, but check business exclusions | Low-cost comprehensive cover |
+| **World2Cover** | 🟢 Competitive | Check policy wording for your business activities | Value + claims reputation |
+| **Allianz** | 🟡 Usually mid-range | Standard travel cover; check business-use exclusions | Established insurer |
+| **Southern Cross Travel Insurance (SCTI)** | 🟡 Mid-range | Yes; comprehensive suitable for short business trips | Strong all-round coverage |
+| **Cover-More** | 🟡/🔴 Often more expensive | Yes | Higher-end/comprehensive cover |
+| **World Nomads** | 🟡/🔴 Can be expensive | Better suited to flexible/adventure travel | Adventure-heavy trips |
+End Of Line

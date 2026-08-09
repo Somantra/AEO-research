@@ -1,0 +1,9 @@
+2,f87e3f91-25b8-4f39-a92e-91dfcb4dbfe3,08080138-1126-0626-0000-f895560080ce,1e53ba28-59ff-4de0-99ab-2429cf59cf43,2026-08-08T13:20:56.661936+10:00
+Worst pet insurance for cats in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Coverage/value | Customer reviews | My take |
+|---|---|---|---|
+| **Petcover** | ⚠️ Poor according to CHOICE | ⭐ 4.3/5 Feefo | **Most notable mismatch** |
+| **Real Insurance** | ⚠️ Poor according to CHOICE | ⭐ 4.4/5 Feefo | Good service sentiment, but policy limitations matter |
+| **PetsOnMe** | ⚠️ Poor according to CHOICE | ⭐ 4.0/5 ProductReview | Less compelling overall |
+End Of Line

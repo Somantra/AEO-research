@@ -1,0 +1,10 @@
+2,894019cd-25ce-41d9-850b-e2c48de9ebf9,08080123-1126-0626-0000-12abafbe5610,e6b7e928-c9fa-45fa-bef5-9b9d88b429c4,2026-08-08T12:44:04.424031+10:00
+Cheapest third-party motorcycle insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Sample annual premium* | Claims convenience |
+|---|---:|---|
+| **AAMI** | **$153.63** | Phone claims; online motorcycle claims are **not available for third-party policies** |
+| National Motorcycle Insurance | $279.48 | Claims support available |
+| NRMA | $280.93 | **24/7 online claims + tracking** |
+| Mi-bike | $297 | Claims support |
+End Of Line

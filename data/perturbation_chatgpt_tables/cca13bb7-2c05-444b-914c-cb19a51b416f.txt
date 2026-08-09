@@ -1,0 +1,11 @@
+2,10be4f00-7d32-4fe2-9c5a-1a430bf3081f,08080134-1126-0626-0000-1e599e1eb729,cca13bb7-2c05-444b-914c-cb19a51b416f,2026-08-08T13:11:52.552349+10:00
+Least reliable travel insurance for backpackers in Australia compared to other providers
+Tables found: 1
+| Provider | Current customer signal | My take |
+|---|---|---|
+| **RACQ Travel** | ⭐ **1.7/5** on ProductReview, 85% negative | 🔴 **Avoid / high caution** |
+| **Cover-More** | ⭐ **3.7/5** on ProductReview | 🟠 Mixed |
+| **Allianz** | ⭐ **3.8/5** on ProductReview | 🟠/🟢 Reasonable |
+| **Travel Insurance Direct (TID)** | ⭐ **4.2/5**, 2,588 reviews | 🟢 Generally stronger |
+| **Fast Cover** | ⭐ **4.7/5**, 2,855 reviews | 🟢 Strong customer signal |
+End Of Line

@@ -1,0 +1,10 @@
+2,82f22f7b-cc3e-4169-b64c-234854c230b3,08080127-1126-0626-0000-02ccfea43c7d,1ba18408-8cf8-4e8e-bcb4-8647c3b528cc,2026-08-08T12:54:20.575426+10:00
+Most trusted home insurance for apartments in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote |
+|---|---|---|
+| **NRMA** | **Best overall for trust** — Finder named NRMA Australia’s Most Trusted Home Insurer in 2025, and it also won Finder’s 2025 national awards for most loved, easiest to claim and legendary service. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) | urlNRMA online quoteturn1search2 |
+| **Youi** | **Best for customer satisfaction** — Canstar’s 2025 national Most Satisfied Customer winner; apartment contents cover includes flood, storm, theft and temporary accommodation. [www.youi.com.au](https://www.youi.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) | urlYoui quoteturn1search0 |
+| **AAMI** | Strong mainstream option with **online quoting**, new-for-old contents cover and optional portable valuables. [www.aami.com.au](https://www.aami.com.au/home-insurance/contents?utm_source=chatgpt.com) | urlAAMI quoteturn1search16 |
+| **Budget Direct** | **Best one to check for price** — online quotes and currently up to 15% off standalone contents or 30% off combined home & contents for new policies, subject to conditions. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance.html?utm_source=chatgpt.com) | urlBudget Direct quoteturn1search3 |
+End Of Line

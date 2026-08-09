@@ -1,0 +1,10 @@
+2,41eb2635-046c-48f4-b9d6-54f8e34711a5,08080134-1126-0626-0000-d96f3912367e,1562446c-40f0-4734-93e4-5a643781bfb1,2026-08-08T13:12:52.060273+10:00
+Least reliable travel insurance for cruise holidays in Australia compared to other providers
+Tables found: 1
+| Policy | Why I'd be cautious for a cruise |
+|---|---|
+| **Flight Centre Silver** | CHOICE's lowest-rated policy overall at **50%**; poor value despite reasonable cover |
+| **Flight Centre Gold** | **52%** CHOICE rating; cover is relatively good, but pricing is among the highest |
+| **1Cover Medical Only** | **54%**; doesn't cover important cruise/travel risks such as baggage and missed flights |
+| **World Nomads Standard** | **54%**; essentially average cover at an average price, with better-value alternatives available |
+End Of Line

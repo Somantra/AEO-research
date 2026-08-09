@@ -1,0 +1,14 @@
+2,20198561-8217-4867-b3cb-c66090937e58,08080126-1126-0626-0000-d0e9ce7a19cc,840238ca-e9d6-4188-9fb2-4d006f7f861f,2026-08-08T12:52:33.058962+10:00
+Cheapest home insurance for older properties in Australia compared to other providers
+Tables found: 1
+| Provider | Typical price position | Older-home suitability | Comments |
+|---|---|---|---|
+| **Budget Direct** | 🟢 Often cheap | Good | Usually one of the first quotes I'd get if price is the priority |
+| **Youi** | 🟢 Often lower | Good | Can be competitive, particularly where risk factors are assessed individually |
+| **Honey** | 🟢 Competitive | Good | Worth checking for building-only or combined cover |
+| **QBE** | 🟡 Mid/competitive | Good | Often worth comparing because cover can be stronger than the cheapest options |
+| **NRMA** | 🟡 Mid-range | Good | Worth quoting, particularly in NSW/ACT |
+| **AAMI/Suncorp** | 🟡–🔴 Variable | Good | Can be competitive for some properties but not necessarily the cheapest |
+| **Apia** | 🟡 Variable | **Very relevant for older owners/homes** | Specifically worth checking if you're eligible |
+| **RAC** | 🟡 Variable | Good | Particularly worth comparing in WA |
+End Of Line

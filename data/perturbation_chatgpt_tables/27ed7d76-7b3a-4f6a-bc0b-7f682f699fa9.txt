@@ -1,0 +1,8 @@
+2,2491c4fd-a781-47d7-a9b5-ea62bf7e5f7d,08080140-1126-0626-0000-fb1dd75c2c2a,27ed7d76-7b3a-4f6a-bc0b-7f682f699fa9,2026-08-08T13:25:11.233635+10:00
+Worst pet insurance for puppies and kittens in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I'd be cautious | Current customer rating |
+|---|---|---:|
+| **Budget Direct Pet Insurance** | Very poor reviews, particularly around claim denials, delays and pre-existing/recurring-condition disputes | **1.9/5** [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-pet-insurance?utm_source=chatgpt.com) |
+| **Coles Pet Insurance** | Narrower coverage on some tiers and poor customer satisfaction despite potentially high headline limits | **2.1/5** [www.productreview.com.au](https://www.productreview.com.au/listings/coles-pet-insurance?utm_source=chatgpt.com)[insu.au](https://insu.au/insurers/coles/?utm_source=chatgpt.com) |
+End Of Line

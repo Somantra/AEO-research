@@ -1,0 +1,11 @@
+2,59198444-f503-4364-b101-36382b6934a4,08080131-1126-0626-0000-592b0df6b3b9,c40b1220-9075-4a5a-b73b-efb5d07f351d,2026-08-08T13:05:54.433715+10:00
+Most popular roadside assistance plans in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best suited to | Customer feedback | My take |
+|---|---|---:|---|
+| **RAC WA** | WA drivers | ⭐ **4.8/5** from 1,221 reviews | 🥇 Best review profile |
+| **NRMA** | NSW/ACT, frequent travellers | ⭐ **4.5/5** from 1,913 reviews | 🥈 Best all-round established option |
+| **RACV** | Victoria | Strong, but mixed reviews | 🥉 Excellent coverage, especially Total Care |
+| **RAA** | South Australia | Less review data available | Strong SA-specific option |
+| **RACQ** | Queensland | ⭐ **3.2/5** from 405 reviews | Good network, but weaker customer sentiment |
+End Of Line

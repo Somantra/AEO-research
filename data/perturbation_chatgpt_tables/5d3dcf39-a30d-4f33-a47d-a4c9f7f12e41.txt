@@ -1,0 +1,15 @@
+2,1efc7eb2-f0fe-45e5-9dd6-20c969d2c45a,08080120-1126-0626-0000-05fc7914ed47,5d3dcf39-a30d-4f33-a47d-a4c9f7f12e41,2026-08-08T12:38:10.313340+10:00
+Worst car insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | My view | Why |
+|---|---|---|
+| **Allianz** | ⚠️ **Below average / caution** | Some recent AFCA disputes and a noticeable amount of negative customer feedback around claims. |
+| **QBE** | ⚠️ **Below average / caution** | Claims/dispute history warrants comparing alternatives carefully. |
+| **AAMI** | 🟡 **Average** | Large established insurer; claims experience can be good, but not consistently among the top performers. |
+| **Suncorp / GIO** | 🟡 **Average–good** | Generally competitive, but performance varies by state and policy. |
+| **NRMA** | 🟢 **Good** | Strong customer satisfaction and claims reputation, particularly in NSW. |
+| **Budget Direct** | 🟢 **Good value** | Frequently strong on price/value; particularly worth considering if premium is important. |
+| **RACV** | 🟢 **Good in Victoria** | Strong Victorian customer/trust ratings. |
+| **Youi** | 🟢 **Very good** | One of the strongest performers nationally in the latest customer-satisfaction results. |
+| **RAC/RACQ/RAA** | 🟢 **Very good regionally** | Strong results in their respective states. |
+End Of Line

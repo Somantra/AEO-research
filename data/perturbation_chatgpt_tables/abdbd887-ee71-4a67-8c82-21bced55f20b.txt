@@ -1,0 +1,11 @@
+1,a2bb4327-01e0-4524-bf2b-72640eea6334,08080119-1126-0626-0000-37b1004d9f74,abdbd887-ee71-4a67-8c82-21bced55f20b,2026-08-08T12:36:00.653565+10:00
+Cheapest motorcycle insurance for high-performance bikes in Australia
+Tables found: 1
+| Insurer | Why I'd check it |
+|---|---|
+| **NRMA** | Currently one of the strongest candidates for lowest price; Finder's 2026 comparison found NRMA cheapest among the providers it quoted. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| **QBE** | Frequently competitive, particularly for riders who get expensive quotes elsewhere. Offers comprehensive, agreed/market value and up to $4,000 motorcycle apparel cover. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Worth quoting specifically for price; Finder's sample showed it substantially cheaper than QBE in its test profile. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Worth getting a quote, but don't assume it'll be cheap for a high-performance bike. |
+| **Youi** | Definitely quote, but pricing can be extreme for young/inexperienced riders; recent Australian rider reports show very high sport-bike quotes. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1vbjwgb/insurance_quotes/?utm_source=chatgpt.com) |
+End Of Line

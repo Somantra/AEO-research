@@ -1,0 +1,12 @@
+2,03647e9f-6d88-460f-a0bb-88048c336f63,08080139-1126-0626-0000-beb7a0ec155d,7ff89092-a695-43af-979f-c4a40fbb0e50,2026-08-08T13:23:53.598847+10:00
+Most popular pet insurance for multiple pets in Australia compared to other providers
+Tables found: 1
+| Provider | Multi-pet appeal | Strengths | Watch-outs |
+|---|---|---|---|
+| Bow Wow Meow | ⭐ Strong | Often ranked highly for value; offers a multi-pet discount (commonly 10%); flexible reimbursement options | Check exclusions and annual limits carefully [www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Petsy | ⭐ Strong for digital experience | Modern claims process, customisable cover; popular among some pet owners online | Compare premium increases over time [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/Pets/comments/1naezj1/best_pet_insurance_australia_recommendations/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | ⭐ Good | Recognisable brand, multi-pet discount options, customisable cover | Compare policy wording rather than brand name alone [www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Good | Established specialist provider | Check current multi-pet pricing and benefits [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Fetch Pet Insurance | Good | Frequently included in Australian comparisons | Compare claim limits and extras [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Good | Backed by a large insurer brand; available alongside other Medibank products | May not always be cheapest for several pets [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

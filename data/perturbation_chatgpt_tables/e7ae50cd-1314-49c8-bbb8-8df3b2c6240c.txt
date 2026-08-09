@@ -1,0 +1,10 @@
+2,c2b23225-0ff9-4a95-b82c-c23911c4da2b,08080130-1126-0626-0000-03709622b8bd,e7ae50cd-1314-49c8-bbb8-8df3b2c6240c,2026-08-08T13:01:48.319802+10:00
+Most popular roadside assistance for motorcycles in Australia without hidden fees
+Tables found: 1
+| Provider | Price* | Motorcycle cover | Towing | Hidden-fee watch-outs |
+|---|---:|---|---|---|
+| **Rider Support Australia** | **$119.95/yr** Premium | Australia-wide, 24/7 | 50 km metro / 100 km country | Immediate assistance costs an extra **$100** if you’re already broken down |
+| **NRMA Roadside Assistance** | From **$112/yr** annually | Motorcycles & scooters | Up to 25/50/100 km depending plan | Standard membership is clear, but extra towing/add-ons can cost more |
+| **RACQ** | Varies by plan | Motorcycles, scooters & cars | Depends on plan | Terms/exclusions apply |
+| **RACV** | From **$138/yr** | Motorcycles eligible | Plan-dependent | Motorcycle assistance is more limited than car assistance |
+End Of Line

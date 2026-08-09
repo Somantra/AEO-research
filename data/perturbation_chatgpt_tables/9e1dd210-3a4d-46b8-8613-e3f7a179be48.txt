@@ -1,0 +1,13 @@
+2,23d7db28-46ac-495a-a617-d39c4dfa7b21,08080140-1126-0626-0000-e6105a5c56c9,9e1dd210-3a4d-46b8-8613-e3f7a179be48,2026-08-08T13:24:57.587463+10:00
+Most comprehensive pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Existing temporary condition | Chronic existing condition | Comprehensive cover |
+|---|---|---|---|
+| **Petsy** | ⭐ **Potentially reviewable; can be as short as ~2 months depending on condition** | ❌ Generally permanent exclusion | ⭐⭐⭐⭐⭐ |
+| **Pet Insurance Australia** | ⭐ **Review after 18 symptom-free months** | ❌ Permanent exclusion | ⭐⭐⭐⭐⭐ |
+| **Bow Wow Meow** | ⭐ **Review after 18 symptom-free months** | ❌ Permanent exclusion | ⭐⭐⭐⭐⭐ |
+| **Knose** | ⭐ Some curable conditions may be reviewed after **12 months** | ❌ Excluded | ⭐⭐⭐⭐⭐ |
+| **Trupanion** | ❌ Excluded | ❌ Excluded | ⭐⭐⭐⭐⭐ |
+| **Fetch** | ❌ No | ❌ No | ⭐⭐⭐⭐ |
+| **Petsy** | — | — | — |
+End Of Line

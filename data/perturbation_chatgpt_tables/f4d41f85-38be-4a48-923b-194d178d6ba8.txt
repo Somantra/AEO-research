@@ -1,0 +1,9 @@
+1,be653b66-61df-4584-ab23-a0229050d57a,08080135-1126-0626-0000-bb95c1742dab,f4d41f85-38be-4a48-923b-194d178d6ba8,2026-08-08T13:15:23.513447+10:00
+Easiest pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer | Pre-existing conditions | My take |
+|---|---|---|
+| **Pet Insurance Australia** | Some temporary conditions can become covered after 18 months symptom-free | ⭐ **Best option to investigate** |
+| **Trupanion Australia** | Pre-existing conditions excluded, but new/unrelated conditions can still be covered | Good if your pet has an existing issue but you want protection for future problems [trupanion.com.au](https://trupanion.com.au/pet-insurance/pre-existing-conditions/?utm_source=chatgpt.com) |
+| Other mainstream insurers | Generally exclude pre-existing conditions | Worth comparing, but don't expect the existing condition itself to be covered |
+End Of Line

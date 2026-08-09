@@ -1,0 +1,9 @@
+2,c518bce8-6c1b-4d34-a67e-1edc3ec5b9a2,08080140-1126-0626-0000-d5aeee842d84,884e2fae-2762-4c17-a5ed-444947074b1d,2026-08-08T13:26:00.214439+10:00
+Best pet insurance for large dog breeds in Australia without hidden fees
+Tables found: 1
+| Insurer | Why it stands out | Annual limit | Sub-limits | My take |
+|---|---|---:|---|---|
+| **RSPCA Pet Insurance PetFlex** | Very transparent structure; no condition-specific sub-limits | Up to **$35,000** | **None** | 🥇 **Best for transparency** |
+| **Fetch Pet Insurance** | No sub-limits; large annual limit; broad condition coverage | Up to **$30,000** | **None** | 🥈 **Best comprehensive option** |
+| **Bow Wow Meow Nose-to-Tail** | Good value, flexible reimbursement | Up to **$30,000** | None on the top plan | 🥉 **Best value** |
+End Of Line

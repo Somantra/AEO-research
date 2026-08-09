@@ -1,0 +1,10 @@
+1,ea1b3d43-4b8e-4155-b82c-5a00f2583782,08080134-1126-0626-0000-56d3a86fb0f5,c59ad85a-0b78-4972-92ee-ec607f5189ce,2026-08-08T13:12:46.763573+10:00
+Easiest pet insurance for dogs in Australia
+Tables found: 1
+| Insurer | Why I’d consider it | Waiting period |
+|---|---|---|
+| **Knose** | Very simple online setup; particularly short waits | **1 day accidents, 14 days illness** [www.knose.com.au](https://www.knose.com.au/pet-insurance-cover/?nab=1&utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | Straightforward options, up to $35k annual cover and no tricky sub-limits on its new product | Varies by condition [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+| **Budget Direct** | Easy online quote and generally budget-oriented | **2 days accidents, 30 days illness, 6 months cruciate** [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/compare-policies.html?utm_source=chatgpt.com) |
+| **Petsy** | Worth comparing if you want comprehensive accident + illness cover | Varies by policy |
+End Of Line

@@ -1,0 +1,10 @@
+1,d728e110-6479-4260-bb12-2c59bfef32b4,08080129-1126-0626-0000-d4a9bff33ea5,fd5475f1-1a8f-47ff-829d-bb9478e9dd17,2026-08-08T12:59:56.060893+10:00
+Least reliable roadside assistance for rural areas in Australia
+Tables found: 1
+| Provider | Current review signal | Rural/remote concern |
+|---|---:|---|
+| **RACV** | ⭐ 2.6/5 | **High** — complaints about long waits and restrictive towing arrangements |
+| **RACQ** | ⭐ 3.2/5 | **High** — particularly concerning reports involving very remote NSW callouts |
+| **NRMA** | ⭐ 4.5/5 | **Moderate** — generally strong, but regional response times can be much longer |
+| **RAC (WA)** | ⭐ 4.8/5 | Lower concern based on available reviews |
+End Of Line

@@ -1,0 +1,10 @@
+1,75ba7baf-e5c6-47e1-af4e-a0a7750e1ce6,08080136-1126-0626-0000-ec01eaedd62a,c172dc93-89c9-4f89-a32e-7abe66cefbd8,2026-08-08T13:16:39.221394+10:00
+Cheapest pet insurance for large dog breeds in Australia
+Tables found: 1
+| Provider | Current price indication | Why consider it |
+|---|---:|---|
+| **Budget Direct Plus** | Often among the cheapest | Finder currently ranks it the cheapest insurer in its comparison; up to 15% first-year online discount. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com)[insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | ~$939/year benchmark | Cheapest in a like-for-like 2026 comparison at $15k cover, 80% reimbursement and ~$300 excess. [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | ~$949/year benchmark | Competitive pricing with higher cover options; up to 90% reimbursement and $30k annual limit. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com)[insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) |
+| **Pet Circle Insurance** | Example: ~$71/month for 70% cover | Budget-friendly option with flexible 70–90% reimbursement levels. [petcoverguide.com.au](https://petcoverguide.com.au/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) |
+End Of Line

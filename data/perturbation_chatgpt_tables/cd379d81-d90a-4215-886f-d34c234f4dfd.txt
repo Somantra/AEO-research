@@ -1,0 +1,13 @@
+2,6663983c-e492-48f4-b733-9eec3446343d,08080118-1126-0626-0000-3ff2a5e648f5,cd379d81-d90a-4215-886f-d34c234f4dfd,2026-08-08T12:33:37.329164+10:00
+Most trusted car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Insurer | Trust / claims | EV suitability | Value | My take |
+|---|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐½ | ⭐⭐⭐ | **Best overall for trust & claims** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐ | **Excellent choice in Queensland** |
+| **Youi** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Excellent service/value contender** |
+| **Allianz** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐ | **Strong mainstream alternative** |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good mainstream option |
+| **Suncorp** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Worth quoting, particularly QLD |
+| **Budget Direct** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Good price-focused option** |
+End Of Line

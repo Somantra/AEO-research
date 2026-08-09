@@ -1,0 +1,10 @@
+2,ccb8636b-20c6-4f55-8851-1428ef9eacce,08080141-1126-0626-0000-2bd4058a3351,dc5ef866-4ce3-49a8-8140-7ac111ded066,2026-08-08T13:26:24.304291+10:00
+Most trusted pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Why it may suit a large dog |
+|---|---|---|
+| Pet Insurance Australia | Fast claims + broad cover | Offers online claims tracking and says many claims are processed within about five business days (with faster options such as GapOnly® where available). [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| Fetch Pet Insurance | Comprehensive cover | Listed by Finder as a strong comprehensive option, with high benefit limits and options for higher reimbursement percentages; it also highlights direct vet payment features to reduce upfront costs where available. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | High cover limits | Comparison listings highlight options with high annual benefit limits and up to 90% reimbursement on eligible bills (subject to terms). [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Established animal-welfare brand | Offers high annual cover options; check exclusions carefully because large-breed conditions can be policy-sensitive. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

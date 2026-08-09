@@ -1,0 +1,9 @@
+2,c6beb667-effa-4904-9166-9a9228d78ec5,08080126-1126-0626-0000-cb24a7220bd5,61c78ec4-7eb5-4391-929c-84f29c5de58b,2026-08-08T12:52:06.699426+10:00
+Safest home insurance for new builds in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it for a new build | Watch-out |
+|---|---|---|
+| **[AAMI](https://www.aami.com.au/)** | Particularly attractive if you can add **Complete Replacement Cover**, which removes the need to nominate a fixed building sum insured for an insured rebuild, subject to conditions. [www.aami.com.au](https://www.aami.com.au/home-insurance/complete-replacement-cover?utm_source=chatgpt.com) | Complete Replacement Cover costs extra; read its exclusions/conditions. |
+| **[RACQ](https://www.racq.com.au/)** | Strong option if you're in Queensland: flood, storm, cyclone, fire and theft are included, with up to 12 months' temporary accommodation on its home policies. [www.racq.com.au](https://www.racq.com.au/home/home-insurance?utm_source=chatgpt.com) | Compare the actual premium and excess against AAMI/others; don't assume the RACQ membership makes it cheapest. |
+| **[Youi](https://www.youi.com.au/)** | Good customisation and broad insured-event cover; professional/clean-up fees can be covered up to 20% of the building sum insured. [www.youi.com.au](https://www.youi.com.au/home-insurance?utm_source=chatgpt.com) | Building cover is generally capped at the nominated sum insured, so getting that figure right is important. |
+End Of Line

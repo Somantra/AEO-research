@@ -1,0 +1,12 @@
+2,2eda365f-8692-4b98-a56d-ae244acb5a63,08080141-1126-0626-0000-f1357a32ae21,9c44713b-3eda-4564-b35f-847772ee10ab,2026-08-08T13:26:37.817023+10:00
+Most comprehensive pet insurance for large dog breeds in Australia compared to other providers
+Tables found: 1
+| Provider | Annual limit | Reimbursement | Sub-limits | Large-breed suitability | My take |
+|---|---:|---:|---|---|---|
+| **Fetch** | $30,000 | 80/90/100% | **None** | ⭐⭐⭐⭐⭐ | **Best overall comprehensive** |
+| **RSPCA PetFlex** | **$35,000** | Up to 90% | **None** | ⭐⭐⭐⭐⭐ | **Best maximum cover** |
+| **Trupanion** | **Unlimited** | 90% | **None** | ⭐⭐⭐⭐⭐ | **Best for potentially huge/chronic claims** |
+| **Petsy** | $30,000 | Up to 90% | **None** | ⭐⭐⭐⭐⭐ | Excellent alternative |
+| **Medibank Pet Max** | $30,000 | Up to 90% | None on several major treatments | ⭐⭐⭐⭐½ | Excellent mainstream option |
+| **Knose** | $25,000 | Up to 90% | **None** | ⭐⭐⭐⭐½ | Excellent, but lower ceiling |
+End Of Line

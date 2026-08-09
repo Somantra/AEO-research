@@ -1,0 +1,11 @@
+2,2fb2415b-46b1-4636-b66d-37ff1bb506de,08080126-1126-0626-0000-7d9ddeb841c4,500728f5-6f63-4b73-9897-b602301a7758,2026-08-08T12:53:25.363357+10:00
+Premium home insurance for older properties in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer-review signal |
+|---|---|---|
+| **Youi** | Strong customisation and claims features; particularly worth quoting where the property has unusual characteristics | **4.7/5 Trustpilot**, 30,000+ reviews; Canstar’s Most Satisfied Home Insurance customers in 2024 & 2025 [www.youi.com.au](https://www.youi.com.au/home-insurance?utm_source=chatgpt.com) |
+| **Apia** | Specifically targets over-50s/retirees and offers Home & Contents Extra, including accidental-damage cover and higher limits for valuables | 30+ years specialising in seniors/retirees; previous Gold Quality Service winner for home & contents [www.apia.com.au](https://www.apia.com.au/?utm_source=chatgpt.com) |
+| **QBE** | Worth getting a quote if you want a mainstream insurer with relatively strong consumer-review scores | **4.5/5 on ProductReview** in the current NSW comparison [www.productreview.com.au](https://www.productreview.com.au/c/home-and-contents-insurance/l/new-south-wales_au?utm_source=chatgpt.com) |
+| **NRMA Insurance** | Particularly worth considering in NSW; established branch support can be useful when an older property's rebuild requirements need discussion | Finder's **2026 Most Loved Home Insurance – NSW** winner [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Australian Seniors** | Very strong customer ratings and designed around older customers | **4.7/5 from 2,700+ ProductReview reviews**, although reviews indicate the claims experience is more mixed than the sales experience [www.productreview.com.au](https://www.productreview.com.au/listings/seniors-home-contents-insurance?utm_source=chatgpt.com) |
+End Of Line

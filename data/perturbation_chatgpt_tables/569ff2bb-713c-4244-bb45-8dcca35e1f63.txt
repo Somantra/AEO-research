@@ -1,0 +1,10 @@
+2,377419ad-e76b-4a02-aa96-953eb0348c57,08080124-1126-0626-0000-8c0d2927bc07,569ff2bb-713c-4244-bb45-8dcca35e1f63,2026-08-08T12:48:07.552329+10:00
+Premium long-term motorcycle rental insurance in Australia with strong customer reviews
+Tables found: 1
+| Option | Best for | My take |
+|---|---|---|
+| **Rental company’s premium cover** | Long-term domestic hire | **Usually the safest choice** if it explicitly covers motorcycle damage, theft and third-party liability |
+| **HireMyBike owner-provided insurance** | Peer-to-peer motorcycle rental | Worth considering; renters are covered by the owner's policy, but you should verify the exact excess and rider conditions before booking. [hiremybike.com.au](https://hiremybike.com.au/Insurance?utm_source=chatgpt.com) |
+| **Travel insurance with motorcycle cover** | Personal injury + trip protection | Useful as a supplement, but don't assume it covers damage to the rented motorcycle |
+| **1Cover / Allianz rental-excess products** | Rental-car excess | **Not suitable for motorcycles** in the case of 1Cover; its rental-vehicle excess specifically excludes scooters and motorcycles. [www.1cover.com.au](https://www.1cover.com.au/car-rental-excess-insurance/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,03ad18fa-ae4a-4669-8936-29dcae99c52d,08080131-1126-0626-0000-4effd273b259,182b8b9f-cdbb-41ad-998e-266763a41072,2026-08-08T13:03:28.427590+10:00
+Least reliable roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Commercial vehicle fit | Claims speed/process | Roadside |
+|---|---|---|---|
+| **AAMI** | Good for cars, utes and vans; commercial motor available | ⭐⭐⭐⭐⭐ — eligible commercial claims under $15k lodged online may qualify for express settlement; claim number within 4 hours | 24/7 Australia-wide, but check vehicle eligibility |
+| **Allianz** | Strong for commercial/fleet vehicles, including heavy motor | ⭐⭐⭐⭐ — online commercial claims; claims team available 24/7 | Roadside available, but confirm it applies to your commercial vehicle |
+| **NRMA** | Very good for NSW/ACT and commercial vehicles up to/above 5 tonnes depending on arrangement | ⭐⭐⭐⭐ — online tracking and 24/7 general claims | Separate NRMA Roadside membership; 24/7 nationwide |
+| **GIO** | Strong commercial-motor offering, including trucks and fleets | ⭐⭐⭐⭐ — advertises 24/7 claims and fast/easy lodgement | **Important:** GIO says it does not currently offer Roadside Assist for some commercial-use categories |
+End Of Line

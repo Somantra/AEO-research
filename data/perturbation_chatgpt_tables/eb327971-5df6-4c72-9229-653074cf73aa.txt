@@ -1,0 +1,10 @@
+2,659700ed-57db-44bf-b42e-d5f7457f1502,08080129-1126-0626-0000-118cafbc816d,eb327971-5df6-4c72-9229-653074cf73aa,2026-08-08T13:00:49.802270+10:00
+Premium roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | EV out-of-charge support | Premium-level benefits | Indicative annual cost* |
+|---|---|---|---:|
+| **NRMA** | Mobile EV charger or tow to charging station | Unlimited call-outs; higher towing/benefit limits on premium tiers | ~$299 |
+| **RACV Total Care** | Tow to accessible charger | Up to 100 km towing; broader breakdown benefits | ~$318 |
+| **RAA Premium (SA)** | Mobile charging in Adelaide; tow to charger elsewhere | Unlimited call-outs; higher country towing | ~$267 |
+| **RACQ Ultimate Care** | EV assistance included | Unlimited call-outs; premium towing/benefits | ~$310 |
+End Of Line

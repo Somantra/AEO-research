@@ -1,0 +1,11 @@
+2,5f032e57-f9bd-4b4b-943a-3ed9423f26c0,08080133-1126-0626-0000-a0e632a742e1,2d7e72b8-a2b2-4e88-8d55-dff111299650,2026-08-08T13:09:31.715083+10:00
+Worst roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Evidence of concern | Monthly payment? |
+|---|---|---|
+| **Allianz Roadside Assistance** | **1.9/5 from 134 reviews** on ProductReview, with 76% negative sentiment. Complaints include long waits, poor communication and jobs allegedly being logged incorrectly. [www.productreview.com.au](https://www.productreview.com.au/listings/allianz-roadside-assistance?utm_source=chatgpt.com) | Usually available as an add-on through Allianz insurance, depending on policy/payment setup |
+| **Real Roadside Assistance / Stranded No More** | **1.5/5**, with 88% negative reviews on ProductReview. The listing says Real Roadside Assistance now trades as Stranded No More. [www.productreview.com.au](https://www.productreview.com.au/listings/real-roadside-assistance?utm_source=chatgpt.com) | Check current availability/payment terms |
+| **NRMA** | Mixed reputation. Recent Australian discussions include complaints about usefulness and wait times, although other customers report good experiences. [www.reddit.com](https://www.reddit.com/r/DrivingAustralia/comments/1uqdevq/any_good_roadside_assistance_other_than_nrma/?utm_source=chatgpt.com) | Yes, depending on membership/payment arrangement |
+| **RAC/RAC WA** | Recent Perth discussion includes complaints about service deterioration and price increases, although other users strongly defend RAC. [www.reddit.com](https://www.reddit.com/r/perth/comments/1s11io3/roadside_assistance_that_isnt_rac/?utm_source=chatgpt.com) | Yes, depending on membership |
+| **RACV** | Not one I'd classify as “worst” overall, but there are recent complaints about customer service and delays. It does offer monthly plans, starting at **$12/month** for Roadside Care. [au.trustpilot.com](https://au.trustpilot.com/review/www.racv.com.au?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) | **Yes** |
+End Of Line

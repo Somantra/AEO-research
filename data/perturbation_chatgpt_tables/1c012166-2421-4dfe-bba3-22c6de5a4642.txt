@@ -1,0 +1,11 @@
+2,3cb0c5de-2abc-4a8a-9eab-742067863138,08080128-1126-0626-0000-81c3da6bcc52,1c012166-2421-4dfe-bba3-22c6de5a4642,2026-08-08T12:57:36.995678+10:00
+Premium home insurance for flood-prone areas in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer satisfaction* | Flood cover |
+|---|---|---:|---|
+| **RACQ** | Best customer satisfaction overall; particularly compelling in Queensland | **91%** | Yes, subject to property/quote |
+| **RACV** | Strong choice in Victoria; good customer satisfaction and flood cover | **72%** | Yes, subject to policy |
+| **Youi** | Strong customer satisfaction, flexible underwriting and flood cover | **67%** | Yes |
+| **Suncorp** | Good option for comprehensive cover and flood-prone properties | **65%** | Yes |
+| **NRMA** | Particularly strong flood-specific offering and higher-tier “Plus” cover | **61%** | Yes |
+End Of Line

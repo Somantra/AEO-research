@@ -1,0 +1,10 @@
+2,848a12e4-f8c0-45d6-9415-2dc51f076103,08080121-1126-0626-0000-95e37b7b19c3,484c9510-672c-484f-afb1-b0be3c99e8b9,2026-08-08T12:39:50.184673+10:00
+Premium motorcycle insurance for learner riders in Australia without hidden fees
+Tables found: 1
+| Insurer | Learner riders | Why consider it | Watch for |
+|---|---|---|---|
+| **QBE** | ✅ Yes | Comprehensive cover, up to $4,000 motorcycle apparel, agreed/market value, $30m liability | Learner/inexperienced-rider excess can apply |
+| **Youi** | ✅ Yes | Explicitly covers validly licensed learner riders | Unlisted-rider excess and eligibility conditions |
+| **NRMA** | Often available | Competitive learner quotes in some cases; worth comparing | Exact premium/excess varies substantially by rider |
+| **RACV** | Check eligibility | Comprehensive motorcycle cover and clearly published PDS/fee documentation | Availability and pricing depend on circumstances |
+End Of Line

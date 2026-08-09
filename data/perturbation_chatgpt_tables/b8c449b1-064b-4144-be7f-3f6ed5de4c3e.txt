@@ -1,0 +1,10 @@
+2,1d9dcb7b-6c82-460f-aec6-7ec915e90088,08080139-1126-0626-0000-4bd4d51a2e7f,b8c449b1-064b-4144-be7f-3f6ed5de4c3e,2026-08-08T13:23:43.923648+10:00
+Safest pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer / model | Claims speed | Multiple pets | Coverage strength | My take |
+|---|---|---|---|---|
+| **Fetch** | ⭐⭐⭐⭐⭐ | Check current quote | ⭐⭐⭐⭐½ | **Best for fast, modern claims** |
+| **GapOnly partner policies** | ⭐⭐⭐⭐⭐ | Varies by insurer | ⭐⭐⭐⭐ | **Best for paying only the gap at the vet** |
+| **Trupanion** | ⭐⭐⭐⭐⭐ | Separate policies | ⭐⭐⭐⭐⭐ | **Best for major/lifetime veterinary costs** |
+| **Coles Pet Insurance** | ⭐⭐⭐ | Multi-pet discount | ⭐⭐⭐½ | Good if price + simple online claims matter |
+End Of Line

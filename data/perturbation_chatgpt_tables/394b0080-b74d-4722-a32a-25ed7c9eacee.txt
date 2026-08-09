@@ -1,0 +1,12 @@
+2,a971d7af-1614-4e4d-a100-92a6163dc9c6,08080131-1126-0626-0000-63faf7fd0a9f,394b0080-b74d-4722-a32a-25ed7c9eacee,2026-08-08T13:04:55.213358+10:00
+Most popular roadside assistance for older cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Online pricing | Older cars |
+|---|---|---|---|
+| **RACV** | Victoria | Yes | Very suitable |
+| **NRMA** | NSW/ACT | Yes | Suitable |
+| **RACQ** | Queensland | Yes | Explicitly says cover applies regardless of car age |
+| **RAA** | South Australia | Yes | Suitable |
+| **RAC** | Western Australia | Yes | Suitable |
+| **RACT** | Tasmania | Yes | Suitable |
+End Of Line

@@ -1,0 +1,11 @@
+2,b9aefafd-5ce8-422e-9fa2-9967654038d7,08080122-1126-0626-0000-a24f46bf77e0,8bdc6bb4-f493-4e9c-b09d-cdcf5f9d8013,2026-08-08T12:41:55.064541+10:00
+Premium motorcycle insurance for high-performance bikes in Australia without hidden fees
+Tables found: 1
+| Insurer | Best suited for | Features to check |
+|---|---|---|
+| Prevail Insurance | High-value, enthusiast and performance motorcycles | Specialist motorcycle cover, agreed value focus, gear and modifications options [prevailinsurance.com.au](https://prevailinsurance.com.au/high-net-worth-motor-motorcycles/?utm_source=chatgpt.com) |
+| National Motorcycle Insurance | Riders wanting motorcycle-focused cover | Comprehensive policies, agreed/market value options, accessories and gear options [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Riders wanting a large mainstream insurer | Comprehensive motorcycle cover, repair guarantees and some accessory/modification benefits (subject to policy terms) [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) |
+| QBE Insurance Australia | Comparing value-focused comprehensive cover | Often included in Australian motorcycle insurance comparisons with agreed or market value options [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+| Youi | Riders wanting tailored quotes | Offers market or agreed value choices depending on cover type [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

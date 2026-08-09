@@ -1,0 +1,13 @@
+2,d5160be1-4359-4446-8855-082d44bd4b14,08080130-1126-0626-0000-599193f0bb3e,6cf383c2-7555-45ef-ab51-732eb1e3fe01,2026-08-08T13:02:17.682315+10:00
+Worst roadside assistance for interstate travel in Australia compared to other providers
+Tables found: 1
+| Provider / plan | Interstate suitability | Why |
+|---|---|---|
+| **Allianz Basic** | 🔴 Poor | Australia-wide assistance, but only **50 km towing**. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+| **Allianz Platinum** | 🟠 Below average | Better at 100 km, but still limited for remote interstate breakdowns. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+| **RAC WA Standard** | 🟠 Below average | Australia-wide service, but only **80 km country towing** and limited away-from-home benefits. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/standard?utm_source=chatgpt.com) |
+| **RAA Standard** | 🟠 Below average | Interstate coverage, but country attendance/towing is only **40 km**. [www.raa.com.au](https://www.raa.com.au/motor/road-service?utm_source=chatgpt.com) |
+| **RAC WA Classic** | 🟢 Good | **200 km country towing**, plus recovery/accommodation/hire-car benefits when eligible. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/classic?utm_source=chatgpt.com) |
+| **RAA Premium** | 🟢 Good | **200 km country attendance and towing**, plus additional specialised towing benefits. [our.raa.com.au](https://our.raa.com.au/motor/which-road-service-level?utm_source=chatgpt.com)[www.raa.com.au](https://www.raa.com.au/en/motor/road-service?utm_source=chatgpt.com) |
+| **RAC WA Ultimate Plus** | 🟢🟢 Excellent | **300 km country towing**, vehicle recovery, accommodation/hire car and caravan/trailer towing. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/ultimate-plus?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,17e6ace2-d513-42d9-b576-c7fbae954193,08080125-1126-0626-0000-f52f509b7162,88ed4a3a-44fb-4e2b-8c98-f0e247f9a065,2026-08-08T12:49:49.098945+10:00
+Least reliable home insurance for renters in Australia without hidden fees
+Tables found: 1
+| Insurer | Fee transparency | Cancellation | Renter cover |
+|---|---|---|---|
+| **Allianz** | ⭐⭐⭐⭐⭐ | **No cancellation fee** | Yes |
+| **NRMA** | ⭐⭐⭐⭐ | Check current PDS | Yes |
+| **AAMI** | ⭐⭐⭐⭐ | Fees can apply in some circumstances | Yes |
+| **Budget Direct** | ⭐⭐⭐ | **$40 early-cancellation fee may apply** | Yes |
+| **Youi** | ⭐⭐⭐ | Small cancellation fee may apply | Yes |
+End Of Line

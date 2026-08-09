@@ -1,0 +1,12 @@
+2,46aba1c4-fd12-4bdd-aed5-94ef18cf4a72,08080118-1126-0626-0000-78c2dd8ce898,16f3a4ad-839e-4d08-9222-8ff725600087,2026-08-08T12:32:55.068006+10:00
+Cheapest car insurance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it for an EV | Customer feedback snapshot |
+|---|---|---|
+| [GIO](https://www.gio.com.au/) | Often competitive for EV quotes; some EV owners report strong pricing | CHOICE survey: 75% of GIO car customers rated their experience above average/excellent [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| [Youi](https://www.youi.com.au/) | Good claims reputation and personalised pricing approach | CHOICE survey: 77% of Youi car customers rated their experience above average/excellent; claims satisfaction was also relatively strong [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) |
+| [RACQ Insurance](https://www.racq.com.au/insurance/car-insurance) | Particularly worth checking if you’re in Queensland | CHOICE survey: 85% of RACQ car customers rated their experience above average/excellent [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racq?utm_source=chatgpt.com) |
+| [NRMA Insurance](https://www.nrma.com.au/car-insurance) | Large EV insurer option, especially NSW | CHOICE survey: 72% of NRMA car customers rated their experience above average/excellent [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| [Budget Direct](https://www.budgetdirect.com.au/car-insurance) | Often among the cheaper quotes, especially online | CHOICE found 62% of surveyed Budget Direct car customers rated their experience above average/excellent, with weaker claims satisfaction than some rivals [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) |
+| [ROLLiN’ Insurance](https://www.rollininsurance.com.au/) | Can be very price-focused; worth checking for EVs | Some EV owners report low quotes, but app-based conditions and policy details should be checked carefully [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1s23742/which_insurer/?utm_source=chatgpt.com) |
+End Of Line

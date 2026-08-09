@@ -1,0 +1,12 @@
+1,81a64a0f-8903-4d26-868a-e6910dd02495,08080136-1126-0626-0000-38c528c641a7,a0446516-3e45-4655-aa8f-4ffbc8187e6a,2026-08-08T13:17:19.923052+10:00
+Most popular pet insurance for large dog breeds in Australia
+Tables found: 1
+| Provider | Often chosen for | Why it suits large breeds |
+|---|---|---|
+| Pet Insurance Australia | Comprehensive dog cover | Offers higher-level accident and illness options; popular among owners wanting broad vet protection. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| Petsy | Flexible cover | Customisable policies and optional benefits such as dental illness and alternative therapies. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Established brand | Lets owners adjust factors such as benefit percentage, excess and annual limits. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| Medibank | Bundling with other insurance | Offers multiple pet cover levels for dogs and cats. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/providers/?utm_source=chatgpt.com) |
+| Budget Direct | Value-focused policies | Often appears in comparisons for comprehensive dog cover. [www.finder.com.au](https://www.finder.com.au/pet-insurance?utm_source=chatgpt.com) |
+| Knose Pet Insurance | Higher-limit cover options | Frequently highlighted by comparison sites for flexible cover. [dogthings.com.au](https://dogthings.com.au/pet-insurance/best-2026?utm_source=chatgpt.com) |
+End Of Line

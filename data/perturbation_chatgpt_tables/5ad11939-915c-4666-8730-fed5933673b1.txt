@@ -1,0 +1,10 @@
+2,8a8cee90-b4f7-4b9d-bdb5-fd4031d7282e,08080119-1126-0626-0000-3e7ffd4a3f78,5ad11939-915c-4666-8730-fed5933673b1,2026-08-08T12:35:54.035915+10:00
+Cheapest third-party car insurance in Australia without hidden fees
+Tables found: 1
+| Insurer | Why consider it | Hidden-fee concern |
+|---|---|---|
+| **Bingle** | Online-only, explicitly positioned as low-cost; offers Third Party cover | Relatively simple/no-frills structure |
+| **Budget Direct** | Third Party Property Only and Fire & Theft; currently advertises **15% off the first year online** | Check renewal price and payment/admin charges |
+| **AAMI / GIO / NRMA** | Worth quoting because individual risk pricing can make them surprisingly competitive | Compare the final annual premium, not advertised discounts |
+| **Youi** | Can be cheap for some driver profiles | Quote is highly individual |
+End Of Line

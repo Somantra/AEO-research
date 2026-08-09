@@ -1,0 +1,10 @@
+2,e50d0c93-f45b-42bf-bc8f-7d288a76fad3,08080119-1126-0626-0000-ccc724fdaf0d,e6d16132-552c-4ceb-bde8-8e53422f976a,2026-08-08T12:36:16.821150+10:00
+Least reliable third-party car insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | My take |
+|---|---|---|
+| **Bingle** | ✅ Minutes | **Best fit for cheap/simple online-only cover**, but less attractive if you want extensive human assistance. Bingle operates exclusively online and offers Third Party cover. [www.bingle.com.au](https://www.bingle.com.au/?utm_source=chatgpt.com) |
+| **AAMI** | ✅ Online | **Safer mainstream choice**; Third Party Property Damage covers up to $20m liability and has 24/7 claims. [www.aami.com.au](https://www.aami.com.au/car-insurance/third-party-property?utm_source=chatgpt.com) |
+| **Budget Direct** | ✅ Online | **Worth getting a price**; currently advertises a 15% online-purchase discount for third-party policies. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-estimator.html?utm_source=chatgpt.com) |
+| **Youi** | ⚠️ Quote process varies | I'd compare it, but it isn't my first choice if your priority is an entirely instant, no-phone process. AFCA has published recent motor-claim determinations involving Youi, although an individual determination isn't evidence that the insurer is generally unreliable. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=b3ec0795-e515-f111-8341-7c1e5262e1fe&utm_source=chatgpt.com) |
+End Of Line

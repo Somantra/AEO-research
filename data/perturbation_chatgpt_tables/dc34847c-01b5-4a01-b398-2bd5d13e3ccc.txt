@@ -1,0 +1,13 @@
+1,9228bc87-2070-4846-9e36-24b95324908a,08080130-1126-0626-0000-d38a95a3bf30,dc34847c-01b5-4a01-b398-2bd5d13e3ccc,2026-08-08T13:02:06.534301+10:00
+Most affordable roadside assistance providers in Australia
+Tables found: 1
+| Provider / plan | State | Annual price | Key catch |
+|---|---|---:|---|
+| **RACQ Everyday Lite** | QLD | **$80** | No towing; nominated vehicle only |
+| **RACQ Everyday** | QLD | **$109** | Includes up to 20 km towing |
+| **NRMA Everyday Care** | NSW/ACT | **$112** | Up to 25 km metro towing |
+| **RACV Roadside Care** | VIC | **$138** | Up to 20 km metro towing |
+| **RAA Standard** | SA | **$135** | Up to 10 km metro towing |
+| **RAC Standard** | WA | ~**$136/year** | Basic roadside cover |
+| Higher-tier options | Various | ~$195–$320+ | More towing/travel benefits |
+End Of Line

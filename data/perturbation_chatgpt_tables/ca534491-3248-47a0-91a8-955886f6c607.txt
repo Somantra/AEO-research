@@ -1,0 +1,10 @@
+2,0acd03c2-ab77-481a-b9bd-2f8316e8e630,08080131-1126-0626-0000-3ebcf805bd6b,ca534491-3248-47a0-91a8-955886f6c607,2026-08-08T13:05:07.862773+10:00
+Cheapest roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Basic plan | Monthly payment | Approx. annual cost | Key point |
+|---|---|---:|---:|---|
+| **RAA Standard** | Standard | **$8.58/mo*** | ~$103 | Personal cover; Australia-wide assistance |
+| **NRMA Everyday Care** | Everyday Care | **$9.99/mo** | $119.88 | Up to 25 km metro towing |
+| **RAC WA Standard** | Standard | **$11.30/mo** | $135.68 incl. monthly admin fee | Mainly WA membership |
+| **RACV Roadside Care** | Roadside Care | **$12/mo** | $144 | Good option for Victorian drivers |
+End Of Line

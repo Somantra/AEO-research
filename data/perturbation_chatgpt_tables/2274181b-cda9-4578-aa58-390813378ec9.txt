@@ -1,0 +1,10 @@
+2,59b4c97d-393b-4a4d-a5ce-8e9b499b0f36,08080119-1126-0626-0000-df83e4ae3dd3,2274181b-cda9-4578-aa58-390813378ec9,2026-08-08T12:34:10.427601+10:00
+Worst car insurance for used cars in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why some customers complain | Who might still consider them |
+|---|---|---|
+| Budget Direct | Frequently praised for low premiums but some customers report frustrating claims experiences or needing to escalate issues. CHOICE’s survey showed Budget Direct had one of the lower claim satisfaction results among surveyed insurers. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Drivers prioritising price, especially for older/lower-value cars |
+| AAMI | Mixed reviews: many customers like the brand and pricing, while some report dissatisfaction during complex claims. CHOICE’s survey placed AAMI below several competitors for claims satisfaction. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | People wanting a large established insurer and competitive quotes |
+| Allianz Australia | Generally has a solid reputation, but like all large insurers receives complaints, particularly around claim decisions and repair disputes. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/reviews.html?utm_source=chatgpt.com) | Drivers who value a major insurer and broad product options |
+| RACV | Strong brand recognition in Victoria, but CHOICE reported a decline in car claims satisfaction compared with earlier results. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racv?utm_source=chatgpt.com) | Victorian drivers who value roadside/member services |
+End Of Line

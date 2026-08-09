@@ -1,0 +1,9 @@
+2,2ad88ff3-3de0-4115-aca9-a128ce4c5fef,08080140-1126-0626-0000-3d243d5bdc5d,33c18321-6e34-4ee9-bdf0-f1fa86ca30cf,2026-08-08T13:26:00.150741+10:00
+Best pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Large-dog suitability | My take |
+|---|---|---|---|
+| **Trupanion** | **~5 min** with GapOnly at participating vets | ⭐⭐⭐⭐⭐ | **Best overall for large breeds** |
+| **Bow Wow Meow** | **~10 min** with GapOnly | ⭐⭐⭐⭐⭐ | **Best fast-claims alternative** |
+| **Knose** | Most claims within **5 business days** | ⭐⭐⭐⭐ | Best if you want a straightforward digital process |
+End Of Line

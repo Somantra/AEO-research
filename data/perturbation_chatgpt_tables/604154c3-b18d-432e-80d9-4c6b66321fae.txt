@@ -1,0 +1,10 @@
+2,4867ca15-45bd-44f9-bd3b-75d9da8f0c52,08080132-1126-0626-0000-cdc120dea09f,604154c3-b18d-432e-80d9-4c6b66321fae,2026-08-08T13:08:19.486973+10:00
+Cheapest standalone roadside assistance cover in Australia with instant online quotes
+Tables found: 1
+| Provider | Approx. annual price | Standalone | Online |
+|---|---:|:---:|:---:|
+| **Budget Direct** | **$76.46 first year** | ✅ | ✅ |
+| Allianz Basic | from $99 | ✅ | ✅ |
+| RAC WA Standard | $135.68 | ✅ | ✅ |
+| NRMA Everyday Care | $137 RRP | ✅ | ✅ |
+End Of Line

@@ -1,0 +1,9 @@
+2,50f0be09-c166-45cf-9845-e3707fe893f7,08080129-1126-0626-0000-2046000b181e,57b3ce23-22d5-429b-a475-fb1a6c38137b,2026-08-08T13:00:25.957245+10:00
+Easiest roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | EV roadside assistance | Claims convenience | My take |
+|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best overall in QLD** |
+| **RACV** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Excellent in VIC, strong nationally |
+| **NRMA** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐⭐ | Best if you want broad national coverage |
+End Of Line

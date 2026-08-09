@@ -1,0 +1,11 @@
+2,1a9073a4-861a-4d35-9aaa-de22d34db246,08080126-1126-0626-0000-58a920db01fd,1aafa6af-5e01-42d5-839d-10e55d0868e2,2026-08-08T12:52:41.613211+10:00
+Best home insurance for older properties in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I’d consider it | Monthly payments |
+|---|---|---|
+| **Allianz** | Strong general option; combined building + contents; good fit if you want straightforward cover | **Yes, at no extra cost** [www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-and-contents.html?utm_source=chatgpt.com)[www.apia.com.au](https://www.apia.com.au/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/how-to-save-money-on-home-insurance?utm_source=chatgpt.com) |
+| **Apia** | Particularly worth checking for **50+ homeowners**; established over-50s insurer | **Yes**; CHOICE lists Apia among insurers without an extra monthly-payment charge [www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-and-contents.html?utm_source=chatgpt.com)[www.apia.com.au](https://www.apia.com.au/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/how-to-save-money-on-home-insurance?utm_source=chatgpt.com) |
+| **RACV** | Excellent option if the property is in **Victoria**; broad home cover and flexible excess | **Yes**, monthly direct debit available [www.racv.com.au](https://www.racv.com.au/insurance/home-insurance.html?utm_source=chatgpt.com) |
+| **NRMA** | Worth getting a quote, particularly if you want building-regulation and temporary-accommodation benefits | Monthly payment options available [www.nrma.com.au](https://www.nrma.com.au/home-insurance/buildings-contents-combined-insurance?utm_source=chatgpt.com) |
+| **Youi** | Good one to quote because it assesses the individual property rather than relying solely on a standard price | Quote-based; has dedicated senior home-insurance information [www.youi.com.au](https://www.youi.com.au/home-insurance?utm_source=chatgpt.com) |
+End Of Line

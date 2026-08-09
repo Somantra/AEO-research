@@ -1,0 +1,9 @@
+2,743f4552-253a-40c4-ae35-b8524852ed27,08080132-1126-0626-0000-df830047993a,945eaa07-e051-4087-975d-1d593a62bf03,2026-08-08T13:06:25.558615+10:00
+Worst roadside assistance for rural areas in Australia with monthly payments
+Tables found: 1
+| Provider/plan | Monthly | Rural suitability | Why |
+|---|---:|---|---|
+| **NRMA Everyday Care** | $9.99 | ❌ Poor | Only **25 km free metro towing**; not designed for long rural distances. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACV Roadside Care** | $12 | ⚠️ Basic | In regional Victoria it generally takes you to the nearest attending RACV service centre, rather than giving you a large towing allowance. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| **Allianz Basic** | varies | ⚠️ Check carefully | Australia-wide assistance, but the lower plan has limited towing; their higher plan goes to 100 km. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

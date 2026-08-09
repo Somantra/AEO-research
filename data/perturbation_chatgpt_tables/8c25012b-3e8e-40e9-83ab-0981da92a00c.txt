@@ -1,0 +1,12 @@
+2,e20386c5-41c2-440d-b997-955a6e1b0da2,08080123-1126-0626-0000-0de5a2dee5f5,8c25012b-3e8e-40e9-83ab-0981da92a00c,2026-08-08T12:44:04.830449+10:00
+Cheapest third-party motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Third-party motorcycle cover | Price indication / comments |
+|---|---|---|
+| **QBE** | Third Party Only | Worth quoting; offers up to **$30m legal liability**. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | Third Party Property Only | Up to **$20m legal liability**; flexible excess. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/third-party-cover?utm_source=chatgpt.com) |
+| **NRMA** | Third Party | Available for motorcycles; pricing needs an individual quote |
+| **AAMI** | Third Party | Available; individual quote required |
+| **Budget Direct** | Third Party | Often competitive in general vehicle insurance, but motorcycle pricing is quote-specific |
+| **Mi-bike / specialist motorcycle insurers** | Various | Can be competitive depending on bike/rider profile |
+End Of Line

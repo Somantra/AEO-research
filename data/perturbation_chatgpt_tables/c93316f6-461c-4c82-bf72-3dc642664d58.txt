@@ -1,0 +1,10 @@
+2,c103e32d-7891-46ca-b567-73aa21a2ceb5,08080123-1126-0626-0000-2de83de098dc,c93316f6-461c-4c82-bf72-3dc642664d58,2026-08-08T12:45:05.759854+10:00
+Cheapest motorcycle insurance for older riders in Australia with a fast claims process
+Tables found: 1
+| Insurer | Often competitive for older riders? | Claims features |
+|---|---|---|
+| QBE Insurance Group | Often worth quoting, especially for experienced riders and certain bikes | Online claims, 24/7 claims line, dedicated claims handling and repair process. [www.qbe.com](https://www.qbe.com/au/claims/motorcycle?utm_source=chatgpt.com) |
+| Youi | Can be competitive because pricing is heavily personalised | Online claims available anytime; offers repair guarantees on authorised repairs. [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/claims/motorcycle?utm_source=chatgpt.com) |
+| Budget Direct | Frequently among the cheaper quote options | Online claim lodgement and straightforward excess structure. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/faqs/claims-excesses.html?utm_source=chatgpt.com) |
+| Swann Insurance | Motorcycle-focused insurer worth checking, especially for enthusiast bikes | Motorcycle-specific policies and claims support |
+End Of Line

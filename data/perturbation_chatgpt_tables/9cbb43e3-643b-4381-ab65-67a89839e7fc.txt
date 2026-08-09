@@ -1,0 +1,10 @@
+2,62fdc86b-f238-4c21-8f3a-3ae8d0ec63a8,08080130-1126-0626-0000-fbc943282f16,9cbb43e3-643b-4381-ab65-67a89839e7fc,2026-08-08T13:02:43.247277+10:00
+Most trusted roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | Monthly payment | Interstate coverage |
+|---|---|---|---|
+| NRMA | Frequent interstate travellers, especially NSW/ACT drivers | Yes — packages include roughly $10–$22/month depending on cover level | Yes, via reciprocal arrangements with other state motoring clubs [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV | Victoria-based drivers wanting national travel support | Yes — monthly direct debit available; examples include Roadside Care and higher plans [www.racv.com.au](https://www.racv.com.au/help-and-support/billing-payments.html?utm_source=chatgpt.com) | Yes, through partner clubs in other states [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| RACQ | Queensland drivers and long regional trips | Monthly options available (check current pricing) | Yes, through Australia-wide motoring club network [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| RAA / RAC | SA/WA travellers | Monthly options vary | Yes, through reciprocal arrangements [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

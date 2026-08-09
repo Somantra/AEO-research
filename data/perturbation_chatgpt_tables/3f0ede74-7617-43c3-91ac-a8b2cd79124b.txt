@@ -1,0 +1,10 @@
+2,9c014664-03e9-4799-a605-d100653a3f34,08080131-1126-0626-0000-0b7bb7a19311,3f0ede74-7617-43c3-91ac-a8b2cd79124b,2026-08-08T13:04:52.205635+10:00
+Most popular roadside assistance for older cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Approx. monthly cost | Good for |
+|---|---:|---:|---|
+| **NRMA** | Yes | **$9.99–$21.99** | Best overall in NSW/ACT; large national network |
+| **RACV** | Yes | **$12–$27** | Strong option in Victoria |
+| **RACQ** | Monthly options available | Varies | Queensland |
+| **RAA / RAC / RACT** | Check plans | Varies | SA / WA / Tasmania |
+End Of Line

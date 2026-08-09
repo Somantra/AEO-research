@@ -1,0 +1,14 @@
+2,1e2d2e30-0bf3-4e97-acd4-5688bd0c6996,08080126-1126-0626-0000-c71e3ac8f771,a2980d46-ca9d-4392-9449-92776e7ff2e1,2026-08-08T12:52:48.496932+10:00
+Worst home insurance for older properties in Australia compared to other providers
+Tables found: 1
+| Provider | Older-home suitability | Why |
+|---|---|---|
+| **Budget Direct** | ⚠️ Can be difficult | Competitive pricing generally, but older construction can trigger underwriting issues |
+| **Youi** | 🟡 Worth trying | Has been reported as helpful with older homes/asbestos, but acceptance is property-specific |
+| **Allianz** | 🟢 Worth trying | Particularly worth investigating for older/heritage properties |
+| **Suncorp/AAMI** | 🟡 Mixed | Can work well for some heritage properties, but underwriting varies |
+| **NRMA** | 🟡 Worth comparing | Broad mainstream offering; exact terms matter more than brand |
+| **QBE** | 🟢 Worth comparing | Strong general home-insurance offering, including flood options |
+| **RACV** | 🟢 Potentially good | Particularly relevant if you're in Victoria |
+| **Australian Seniors** | 🟡 Check carefully | Not necessarily bad for older owners, but the policy structure and underinsurance provisions need scrutiny |
+End Of Line

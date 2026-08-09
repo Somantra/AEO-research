@@ -1,0 +1,11 @@
+2,4c3bfdd9-1e99-4c1b-93ed-d4ef9a375f4a,08080117-1126-0626-0000-66b1f49205f3,df826483-8dfb-40a9-af9a-7a922202bc78,2026-08-08T12:30:40.682295+10:00
+Cheapest car insurance for older drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer feedback/value |
+|---|---|---|
+| **Youi** | Particularly strong customer satisfaction; often worth getting a personalised quote | **4.0-ish/5** on ProductReview; 77% of CHOICE-surveyed customers rated it above average/excellent [www.productreview.com.au](https://www.productreview.com.au/listings/youi-car-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/apia?utm_source=chatgpt.com) |
+| **Budget Direct** | Often one of the cheapest mainstream options; strong value ratings | Canstar **2026 Insurer of the Year**; 3.6/5 on ProductReview, so claims feedback is more mixed [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/insurer-of-the-year-award/?utm_source=chatgpt.com) |
+| **Australian Seniors** | Specifically designed for over-50s and has very strong online customer ratings | **4.8/5 from ~4,900 ProductReview reviews**; particularly worth quoting for older drivers [www.productreview.com.au](https://www.productreview.com.au/listings/seniors-car-insurance?utm_source=chatgpt.com) |
+| **APIA** | Specialist insurer for 50+ drivers; useful if you drive relatively few kilometres | 68% of CHOICE-surveyed customers rated its car insurance above average/excellent; offers low-km discounts [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/apia?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/seniors-car-insurance?utm_source=chatgpt.com) |
+| **Bupa** | Excellent national customer-satisfaction result in 2026 | Won Canstar's **2026 Most Satisfied Customers – Car Insurance** nationally, although independent review-site claims feedback is more mixed [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-car-insurer-award-2/?utm_source=chatgpt.com) |
+End Of Line

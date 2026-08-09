@@ -1,0 +1,11 @@
+2,88861577-da28-49dc-963c-6837cc69c5cf,08080135-1126-0626-0000-328754b4c613,d9fe23cc-eefa-41eb-943d-9dd6adc3ab51,2026-08-08T13:15:26.462722+10:00
+Premium travel insurance for adventure sports in Australia compared to other providers
+Tables found: 1
+| Provider | Adventure-sports strength | Best suited to | Main catch |
+|---|---|---|---|
+| **World Nomads** | ⭐⭐⭐⭐⭐ | Lots of different adventure activities | Check the exact activity and plan/PDS carefully |
+| **Cover-More** | ⭐⭐⭐⭐½ | Broad mainstream + adventure cover | Some activities require Adventure/Adventure+ |
+| **Fast Cover** | ⭐⭐⭐⭐½ | Active travellers wanting an optional Adventure Pack | Adventure Pack required for listed activities |
+| **1Cover** | ⭐⭐⭐⭐ | Good value with Adventure & Sports Pack | Pack must be purchased for certain sports |
+| **Allianz** | ⭐⭐⭐⭐ | Strong conventional comprehensive insurance + selected adventure sports | Adventure Pack has an additional $500 excess for relevant medical/cancellation claims |
+End Of Line

@@ -1,0 +1,12 @@
+2,2c20a959-3f31-4da9-b02d-7ae63dc55efd,08080125-1126-0626-0000-6c43bc7aa576,3aa7089d-4741-40db-a09e-ef830f65a03e,2026-08-08T12:50:10.871992+10:00
+Most popular home insurance for renters in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why renters consider it | Online quote |
+|---|---|---|
+| [Allianz Australia](https://www.allianz.com.au/) | Offers contents insurance specifically for renters, with online home insurance quotes and 24/7 claims support. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) | Yes |
+| [AAMI](https://www.aami.com.au/) | Large Australian insurer with contents cover for renters; often compared for price and convenience. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) | Yes |
+| [Budget Direct](https://www.budgetdirect.com.au/) | Known for online-first insurance and online discounts; offers contents insurance quotes. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | Yes |
+| [Youi](https://www.youi.com.au/) | Offers home/contents insurance and online quote options; customer experiences vary. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) | Yes (may involve follow-up) |
+| [NRMA Insurance](https://www.nrma.com.au/) | Popular Australian insurer offering contents cover for renters. | Yes |
+| [GIO](https://www.gio.com.au/) | Offers contents insurance and online quote tools. | Yes |
+End Of Line

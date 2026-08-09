@@ -1,0 +1,12 @@
+2,1707f9fc-047b-4d6a-88b9-5604cb9d8707,08080130-1126-0626-0000-bfe73085bdbc,8570825c-d01f-4d20-83c5-707fe352527a,2026-08-08T13:01:02.525259+10:00
+Cheapest roadside assistance for motorcycles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Price | Motorcycle cover | Key limits | Reviews |
+|---|---:|---|---|---|
+| **Motorcycle Assist Australia (MCAA) – Standard** | **$59/yr** | Australia-wide | 2 callouts; 20 km metro / 40 km regional towing | Limited independent review volume |
+| **National Motorcycle Alliance** | **$60/yr** | Australia-wide | 2 callouts; 25 km metro / 50 km country towing | Limited review volume |
+| **Rider Support Australia – Essential** | **$69.95/yr** | Australia-wide | 4 callouts; up to 30 km metro / 50 km country towing | **5.0/5**, but only 1 ProductReview review |
+| **MCAA – Superior** | **$99/yr** | Australia-wide | 3 callouts; 40 km metro / 80 km regional | Good motorcycle-specific feedback |
+| **MCAA – Premium** | **$119/yr** | Australia-wide | Unlimited callouts; 50 km metro / 100 km regional | Good motorcycle-specific feedback |
+| **NRMA Everyday Care** | ~$112/yr annual offer | Reciprocal national cover | 25 km metro towing | **4.5/5 from 1,900+ reviews** |
+End Of Line

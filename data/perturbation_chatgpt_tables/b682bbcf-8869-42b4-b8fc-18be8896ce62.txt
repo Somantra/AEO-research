@@ -1,0 +1,10 @@
+2,ee04219c-fe03-4626-901c-e1668bf62f93,08080130-1126-0626-0000-6544bf824bb8,b682bbcf-8869-42b4-b8fc-18be8896ce62,2026-08-08T13:01:59.393298+10:00
+Cheapest roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment | Annual cost | Australia-wide? | Basic towing |
+|---|---:|---:|---|---|
+| **RAC WA Standard** | **$11.30/mo** | $135.68 monthly-DD total | ✅ Yes | Varies by location |
+| **NRMA Everyday Care** | **$11.65/mo** | $139.80 | ✅ Reciprocal nationwide | Up to 25 km metro |
+| **Budget Direct** | — | **$89.95/yr** | ✅ Yes | Up to 20 km |
+| **Allianz Basic** | — | From $99/yr | ✅ Yes | Up to 50 km |
+End Of Line

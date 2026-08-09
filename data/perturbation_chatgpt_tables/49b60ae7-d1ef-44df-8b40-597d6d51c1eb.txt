@@ -1,0 +1,11 @@
+2,f7b78869-fbe8-4e60-912f-06dd67f7aa9e,08080139-1126-0626-0000-08062912937f,49b60ae7-d1ef-44df-8b40-597d6d51c1eb,2026-08-08T13:22:28.698680+10:00
+Most affordable pet insurance for older pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why it may suit older pets | Customer review signals | Watch-outs |
+|---|---|---|---|
+| Australian Seniors Insurance Agency | Often attractive for older owners/pets; offers senior-focused products | Strong review scores reported on review sites (around 4.6–4.7/5 in some datasets) [insu.au](https://insu.au/insurers/australian-seniors/?utm_source=chatgpt.com) | Check entry age limits and benefit percentage carefully; some plans have lower reimbursement |
+| Pet Insurance Australia | Broad cover options and a well-known specialist insurer | Frequently considered by Australian pet owners | Premiums can rise significantly as pets age; compare excess and benefit limits |
+| Medibank | Higher annual benefit options and established insurer backing | Good brand familiarity; some comparison sites rate its cover strongly for older pets [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) | May not be the cheapest |
+| RSPCA Pet Insurance | Appeals to owners who value animal welfare support plus insurance | Often shortlisted in Australian comparisons [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) | Check exclusions and waiting periods |
+| Petcover Australia | Can be competitive for some senior pets depending on age and breed | Appears in senior pet comparisons [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) | Compare carefully because premiums vary widely |
+End Of Line

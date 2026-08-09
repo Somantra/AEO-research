@@ -1,0 +1,12 @@
+1,e385ea25-3660-4502-b231-48924f3cfe7c,08080126-1126-0626-0000-6f5c4f41c4e5,f48b4007-245a-4a9b-8576-3b80d8bbfa03,2026-08-08T12:52:32.979562+10:00
+Most reliable roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | Best for | EV-specific support | My take |
+|---|---|---|---|
+| **RACV** | Victoria + interstate | EV out-of-charge towing, high-voltage-trained patrols | ⭐ **Best overall for Victoria** |
+| **NRMA** | NSW/ACT + interstate | Large national network; EV roadside support | ⭐ **Best for NSW/interstate touring** |
+| **RACQ** | Queensland | High-voltage-aware patrols + towing to charger/destination | ⭐ **Excellent for QLD** |
+| **RAA** | South Australia | EV roadside assistance | Very good |
+| **RAC WA** | Western Australia | EV assistance | Best local choice in WA |
+| **RACT** | Tasmania | EV roadside assistance | Best local choice in TAS |
+End Of Line

@@ -1,0 +1,14 @@
+2,dcb50991-36a6-42d4-8483-e6c39139b78a,08080123-1126-0626-0000-b8ceecfd8795,b3fe3edb-cfbe-467b-a70d-40f8d53db776,2026-08-08T12:44:50.132637+10:00
+Most popular third-party motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Third-party property | Uninsured-driver bike damage | Example annual price* |
+|---|---|---|---:|
+| **AAMI** | Up to $20m | Yes | **$153.63** |
+| **Budget Direct** | Up to $20m | Yes | **$176.96** |
+| **QBE** | Up to $30m | Not listed | — |
+| **Youi** | Up to $20m | Yes | — |
+| **GIO** | Up to $20m | Yes | — |
+| **National Motorcycle** | Liability cover | — | **$279.48** |
+| **NRMA** | TPPD | — | **$280.93** |
+| **Mi-bike** | Third-party liability | — | **$297** |
+End Of Line

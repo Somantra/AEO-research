@@ -1,0 +1,11 @@
+2,1b6caf29-f1c5-407e-88d3-38499b2e0a2b,08080139-1126-0626-0000-10da1b896df9,96a655bc-83ec-43be-b0db-a8d8b2efe192,2026-08-08T13:22:47.869102+10:00
+Least reliable pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Policy | CHOICE rating | Why I'd be cautious |
+|---|---:|---|
+| **Petcover Economy** | **25%** | Particularly poor for ageing pets: no lifetime cover, and reimbursement falls from 100% to **80% at age 8 and 65% at age 10**. Some breeds have reductions even earlier. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid) |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only, just **$5,000 annual limit**, excludes illness and cruciate ligament injuries. Not really suitable if you're trying to protect an older pet against age-related illness. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid) |
+| **Australian Seniors Basic** | **53%** | Only **60% reimbursement**, $12,000 annual limit but just **$2,000 per condition**; limited injury cover and no dental/behavioural extras. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid) |
+| **Guardian Bronze** | **53%** | Essentially the same underlying PetSure product as Australian Seniors Basic, with the same major limitations. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid) |
+| **Real Insurance Classic** | **53%** | Same underlying product structure and limitations as the two above. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid) |
+End Of Line

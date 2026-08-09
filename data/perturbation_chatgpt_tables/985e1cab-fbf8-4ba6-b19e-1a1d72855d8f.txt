@@ -1,0 +1,11 @@
+1,680ac785-7979-4880-a212-1f094504c9ed,08080123-1126-0626-0000-3fb77d7a65ef,985e1cab-fbf8-4ba6-b19e-1a1d72855d8f,2026-08-08T12:44:25.603275+10:00
+Least reliable home insurance for landlords in Australia
+Tables found: 1
+| Warning sign | Why it matters |
+|---|---|
+| Many complaints about claim delays | A cheap policy is not useful if repairs or payouts take months |
+| Strict definitions of “malicious damage” | Some tenant damage claims may be rejected if they do not meet the wording |
+| Low rent-default limits | A long vacancy or arrears period can exceed cover |
+| Outsourced claims handling | Service quality can vary |
+| Many exclusions for gradual damage | Common source of disputes |
+End Of Line

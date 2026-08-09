@@ -1,0 +1,10 @@
+2,93edd9aa-6ad5-46bd-8013-48a3a6ac4d5c,08080118-1126-0626-0000-b1e22204f3a0,b8c46284-9905-45ee-a1ff-c945fafb4a08,2026-08-08T12:33:08.532381+10:00
+Worst car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Insurer | Common complaints / weaknesses for EVs | Compared with |
+|---|---|---|
+| Youi | Often competitive on service, but some EV owners report very high quotes compared with rivals. Community reports include EV quotes thousands higher than alternatives. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1sa3u7d/ev_insurance_surprise_at_the_cost/?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) | May lose on price to AAMI, Budget Direct, RACV or others |
+| RACV | Can be expensive for EVs in some states; some EV owners report quotes significantly above cheaper alternatives. [www.reddit.com](https://www.reddit.com/r/EVAustralia/comments/1li8wac?utm_source=chatgpt.com) | Worth comparing against AAMI, Budget Direct and Allianz |
+| Allianz | Often strong EV features, but premiums may not always be competitive. [www.finder.com.au](https://www.finder.com.au/car-insurance/allianz-vs-aami-car-insurance?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com)[www.mozo.com.au](https://www.mozo.com.au/insurance/car-insurance/guides/ev-car-insurance/?utm_source=chatgpt.com) | Better if you value EV-specific cover rather than lowest price |
+| NRMA Insurance | Large network and established claims handling, but some drivers find premiums high. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/compare-car-insurance-comparitron.html?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/electric-car-insurance?utm_source=chatgpt.com) | Compare against lower-cost direct insurers |
+End Of Line

@@ -1,0 +1,10 @@
+1,bdeb628f-7696-4540-be4b-83fea97e55b7,08080127-1126-0626-0000-cd643d2f5cc3,c92d091d-ab29-426b-a702-0e00810d9ca6,2026-08-08T12:53:59.536422+10:00
+Cheapest roadside assistance for interstate travel in Australia
+Tables found: 1
+| Provider | Annual price | Interstate? | Key catch |
+|---|---:|---|---|
+| **Budget Direct** | **$89.95** | ✅ Australia-wide | Service/towing limits; 48-hour waiting period |
+| **RACQ Everyday** | **$109** | ✅ Reciprocal cover | Interstate cover is generally the **base-level local club entitlement** |
+| **RACV Roadside Care** | **$138** | ✅ Australia-wide | Only 20 km metro towing; regional = nearest attending RACV centre |
+| **NRMA Everyday Care** | **$112/year** advertised offer* | ✅ Reciprocal | Base package is mainly short-distance cover |
+End Of Line

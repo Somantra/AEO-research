@@ -1,0 +1,11 @@
+2,a02dcf03-69b4-4427-b377-e7ae06001adb,08080119-1126-0626-0000-0a45d222861b,5d73c428-f17c-40e6-9350-622ae3a5a9ec,2026-08-08T12:36:14.407010+10:00
+Least reliable third-party car insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Third-party cover | Monthly payment | My take |
+|---|---|---|---|
+| **Bingle** | ✅ TPPD | Usually available | **Good budget option**, but online-only service |
+| **Budget Direct** | ✅ TPPD | ✅ | Cheap, but check excess and exclusions carefully |
+| **AAMI** | ✅ | ✅ | More established; worth getting a quote |
+| **Youi** | ✅ | ✅ | Can be competitive, but pricing varies considerably |
+| **Suncorp/GIO** | ✅ | ✅ | Worth comparing if service/support matters |
+End Of Line

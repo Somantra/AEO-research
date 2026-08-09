@@ -1,0 +1,10 @@
+2,4bcf1fe3-f904-4f75-af59-58eece38b5ee,08080136-1126-0626-0000-bb10e8b46ffd,b9059025-7797-4a7a-a494-09d4e9b79de6,2026-08-08T13:17:28.312912+10:00
+Most popular travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Provider | Why travellers consider it | Pre-existing conditions |
+|---|---|---|
+| Allianz Australia | Large insurer with established travel assistance services | Available on eligible policies after medical assessment; you need to apply for cover for conditions that are not automatically included. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/comprehensive.html?utm_source=chatgpt.com)[www.medibank.com.au](https://www.medibank.com.au/travel-insurance/help/existing-medical-conditions/?utm_source=chatgpt.com) |
+| Medibank | Popular among Australians, with a clear online medical assessment process | Some conditions may be automatically covered if criteria are met; others require assessment and may involve an extra premium. [www.medibank.com.au](https://www.medibank.com.au/travel-insurance/help/existing-medical-conditions/?utm_source=chatgpt.com) |
+| Cover-More | Specialist travel insurer often considered by travellers needing medical-condition assessments | Usually requires disclosure and assessment for pre-existing conditions. [www.reddit.com](https://www.reddit.com/r/newzealand/comments/1vd4d3a/travel_insurance/?utm_source=chatgpt.com) |
+| AllClear Travel Insurance | Focuses on travellers with existing health conditions, including more complex cases | Worth considering if mainstream insurers cannot provide suitable cover. [www.reddit.com](https://www.reddit.com/r/AskAnAustralian/comments/1vbdqw0/travel_insurance/?utm_source=chatgpt.com) |
+End Of Line

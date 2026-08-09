@@ -1,0 +1,9 @@
+2,6b543b36-2cf2-4350-a2c4-40de9784b036,08080141-1126-0626-0000-5afe19f9b5db,21c39461-4af8-4cd5-a8ec-263c11fd0b17,2026-08-08T13:28:18.017398+10:00
+Premium accident-only pet insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Accident-only | Online quote | Key point |
+|---|---|---|---|
+| **Ruff ’n’ Tumble** | ✅ | ✅ | Dog-only; **$40/month**, any age/breed, $500 excess, no annual/sub-limits |
+| **PetsOnMe Accident Plan** | ✅ | ✅ | $5,000 annual benefit, 80% reimbursement |
+| **PD Accident Plan** | ✅ | ✅ | $5,000 annual benefit, 80% reimbursement |
+End Of Line

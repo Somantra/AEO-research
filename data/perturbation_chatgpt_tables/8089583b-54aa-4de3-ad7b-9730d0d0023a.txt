@@ -1,0 +1,9 @@
+2,f24e5ffa-5319-4b94-882e-acb1392f4780,08080138-1126-0626-0000-6369d6a67386,8089583b-54aa-4de3-ad7b-9730d0d0023a,2026-08-08T13:21:58.210731+10:00
+Least reliable pet insurance for dogs in Australia without hidden fees
+Tables found: 1
+| Provider/policy | Why to be cautious |
+|---|---|
+| Petcover (especially lower-tier policies such as Economy) | Some policies have scored poorly due to limited cover, lack of lifetime cover, and conditions that can reduce benefits over time. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| PetsOnMe Accident Plan | Rated among the lowest in CHOICE’s comparison because of limited coverage. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance Classic | Low-scoring in CHOICE’s comparison, with concerns around value and coverage limitations. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

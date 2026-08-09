@@ -1,0 +1,10 @@
+2,1e6ac7f2-22f7-4dda-ac2b-1b92190cc28b,08080132-1126-0626-0000-dc2d0c5ce57e,0fa21344-b49d-4378-afb4-f7e980431d4f,2026-08-08T13:07:27.702525+10:00
+Best roadside assistance for hybrid cars in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Customer feedback | Hybrid/EV support |
+|---|---|---|---|
+| **RACV** | 🥇 Best overall for hybrid/EV | Strong — RACV won Canstar’s 2026 Victorian customer-satisfaction award | **Excellent** — hybrid/EV covered at no extra cost; high-voltage-trained patrols |
+| **NRMA** | 🥈 Best for NSW & national travel | **4.5/5 from ~1,900 ProductReview reviews** | **Excellent** — EV, hybrid and PHEV supported; mobile EV charging available in relevant areas |
+| **RAC (WA)** | 🥉 Best in Western Australia | **4.8/5 from 1,221 ProductReview reviews** | Very good — covers electric vehicles and has a large WA network |
+| **Allianz** | Good Australia-wide alternative | Less compelling customer-review evidence than the above | Good — specifically supports EVs running out of charge |
+End Of Line

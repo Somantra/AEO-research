@@ -1,0 +1,11 @@
+2,24ef6a3e-63c3-4c67-aba2-6fb799846fbc,08080127-1126-0626-0000-e6d281f46cd1,0c898d2a-1c9e-4639-9dc8-bdb24c22291b,2026-08-08T12:54:22.934560+10:00
+Premium home insurance for apartments in Australia with monthly payments
+Tables found: 1
+| Insurer | Apartment suitability | Monthly payments | Notes |
+|---|---|---|---|
+| **Allianz** | ⭐⭐⭐⭐⭐ | **Yes, no extra cost** | Specifically offers contents cover for strata/apartment owners |
+| **ANZ/CGU** | ⭐⭐⭐⭐ | Check quote | Building, contents or combined options |
+| **AAMI** | ⭐⭐⭐⭐ | Check quote | Often competitive on price |
+| **Budget Direct** | ⭐⭐⭐⭐ | Check quote | Often worth comparing for price |
+| **NRMA** | ⭐⭐⭐⭐ | Check quote | Strong option, particularly in NSW |
+End Of Line

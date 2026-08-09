@@ -1,0 +1,11 @@
+2,d93a7443-f270-4450-b31c-92d4dd3008ec,08080132-1126-0626-0000-d6fd388dd0a5,18fc76b5-413f-442c-9a53-f7db2fb78b8d,2026-08-08T13:06:26.100831+10:00
+Worst roadside assistance for rural areas in Australia compared to other providers
+Tables found: 1
+| Provider | Rural suitability | Why |
+|---|---|---|
+| **RACV – basic Roadside Care** | 🔴 **Poor** | Only 20 km metro towing; the plan is explicitly aimed at metro drivers. Their **Extra Care** is much better for rural/regional Victoria, with 60 km towing. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| **NRMA – lower/basic cover** | 🟠 **Below average for very remote trips** | Strong national network, but benefits can be limited by the reciprocal club's basic cover interstate. In SA, for example, basic country towing is only 25 km. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACQ – lower tiers** | 🟡 **Good, but tier matters** | RACQ's higher Ultra Care plan gives up to **120 km attendance and 60 km towing**, making it considerably better for long-distance Queensland driving. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/ultra-care?utm_source=chatgpt.com) |
+| **RAA SA** | 🟢 **Good rural design** | Country attendance is calculated from the designated country depot, with up to **200 km** on the highest level; country towing is also structured around the country depot. [www.raa.com.au](https://www.raa.com.au/motor/road-service/?utm_source=chatgpt.com) |
+| **RAC WA** | 🟢 **Excellent for rural WA** | Standard gives 80 km country towing; Classic/Ultimate give **200 km**, and Ultimate Plus gives **300 km**. RAC specifically markets the higher tiers to country/long-distance drivers. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/compare?utm_source=chatgpt.com) |
+End Of Line

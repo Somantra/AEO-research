@@ -1,0 +1,10 @@
+2,1dce8b16-cdc4-410b-8fae-d11756413096,08080131-1126-0626-0000-0a27b5769d9f,0ec77d6a-606b-49e0-99b8-fc2a7b36c61b,2026-08-08T13:05:35.482676+10:00
+Easiest roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Basic monthly price | Why it’s easy |
+|---|---:|---|
+| **NRMA Everyday Care** | **$9.99/month** promotional price | Clearly offers monthly billing; 25 km metro towing |
+| **NRMA Complete Care** | **$17.99/month** promotional price | Monthly billing + 50 km towing |
+| **NRMA Ultimate Care** | **$21.99/month** promotional price | Monthly billing + 100 km towing |
+| **RACQ Everyday** | ~$9.08/month equivalent | Excellent option if you're in Queensland, but the advertised price is **annual ($109)** rather than monthly |
+End Of Line

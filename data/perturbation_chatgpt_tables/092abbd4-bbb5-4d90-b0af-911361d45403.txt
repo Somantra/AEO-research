@@ -1,0 +1,9 @@
+2,61a5f44a-0cda-4067-812a-50197b2a5b40,08080132-1126-0626-0000-9b7d394aa654,092abbd4-bbb5-4d90-b0af-911361d45403,2026-08-08T13:07:55.423628+10:00
+Safest roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Why I’d consider it | Hidden-fee risk |
+|---|---|---|
+| **RAC** | Strong WA network, 24/7, explicitly covers petrol/diesel/electric vehicles, and towing limits are clearly published | **Low**, if you choose the right tier |
+| NRMA | Good national option if you travel interstate frequently | Check towing/entitlement limits carefully |
+| Your insurer's roadside add-on | Can be substantially cheaper | Often more limited than dedicated roadside clubs |
+End Of Line

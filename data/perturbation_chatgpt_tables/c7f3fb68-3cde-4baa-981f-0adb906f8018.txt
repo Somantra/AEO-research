@@ -1,0 +1,11 @@
+1,2231ff7a-ffc1-400f-adc9-446550d10aca,08080137-1126-0626-0000-5ad33d6c8801,c7f3fb68-3cde-4baa-981f-0adb906f8018,2026-08-08T13:19:21.709388+10:00
+Worst pet insurance providers in Australia
+Tables found: 1
+| Provider / policy | Why it gets criticised |
+|---|---|
+| Petcover (especially Economy plans) | Some policies have limited lifetime protection, lower reimbursement rates and restrictive benefit structures. CHOICE ranked Petcover Economy among its lowest-scoring policies reviewed. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| PetsOnMe (Accident Plan) | Accident-only cover can look cheap but may leave large gaps; CHOICE rated this policy poorly compared with broader cover options. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance (Classic) | CHOICE identified this policy among the lower-scoring products due to coverage/value concerns. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Australian Seniors Insurance Agency (Basic Cover) | Basic cover may suit some older pets, but low benefit levels can mean significant out-of-pocket costs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Guardian Insurance (Bronze) | Lower-tier plans may appear affordable but can have weaker protection compared with comprehensive policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

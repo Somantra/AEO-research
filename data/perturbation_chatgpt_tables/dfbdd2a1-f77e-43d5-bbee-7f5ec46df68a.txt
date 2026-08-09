@@ -1,0 +1,18 @@
+2,558fc6a1-47b0-4b7c-a4cf-87ddcda39137,08080120-1126-0626-0000-b7d8065ee653,dfbdd2a1-f77e-43d5-bbee-7f5ec46df68a,2026-08-08T12:38:44.474546+10:00
+Most popular car insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider / brand | Market presence | Customer satisfaction* | Value | Best suited to |
+|---|---|---:|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ Very large | **72%** | $$ | Mainstream cover, NSW/ACT |
+| **AAMI** | ⭐⭐⭐⭐⭐ Very large | **62%** | $$ | Broad availability, Suncorp customers |
+| **Allianz** | ⭐⭐⭐⭐⭐ Very large | **61%** | $$–$$$ | Mainstream/comprehensive cover |
+| **GIO** | ⭐⭐⭐⭐ Large | **75%** | $$ | Good mainstream alternative |
+| **Youi** | ⭐⭐⭐⭐ Large | **77%** | $$–$$$ | Customer service, tailored pricing |
+| **RACV** | ⭐⭐⭐⭐ Large in VIC | **64%** | $$–$$$ | Victorian drivers |
+| **RACQ** | ⭐⭐⭐⭐ Large in QLD | **85%** | $$ | Queensland drivers |
+| **RAA** | ⭐⭐⭐ Regional | **91%** | $$ | South Australian drivers |
+| **RAC** | ⭐⭐⭐ Regional | **77%** | $$ | Western Australian drivers |
+| **Budget Direct** | ⭐⭐⭐⭐ Large/direct | **62%** | $–$$ | Price-conscious drivers |
+| **Bingle** | ⭐⭐⭐ Direct/online | — | $ | Cheap/basic online insurance |
+| **QBE** | ⭐⭐⭐⭐ Large | — | $$–$$$ | Mainstream/comprehensive cover |
+End Of Line

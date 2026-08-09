@@ -1,0 +1,10 @@
+2,6236fed9-eeca-4a45-8f67-aa420c1d6221,08080138-1126-0626-0000-620ae4051b56,110cd1a4-29bd-4e86-94a4-f7c8084847e9,2026-08-08T13:20:17.511889+10:00
+Least reliable travel insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider / insurer | My caution level | Why |
+|---|---|---|
+| **AIG** | 🔴 High | Recent Australian case involving a serious medical claim and alleged pre-existing-condition dispute; other customer reports describe difficult escalation and overseas customer service. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| **Cover-More / Zurich** | 🟠 Medium–high | Very large provider, so it has a substantial number of positive claims experiences, but also recurring complaints about delays, communication and strict exclusions. Current independent review data is mixed. [au.trustpilot.com](https://au.trustpilot.com/review/covermore.com.au?utm_source=chatgpt.com) |
+| **RACQ** | 🟠 Medium–high | There are anecdotal reports of particularly difficult pre-existing-condition claim disputes. This isn't enough to establish that RACQ is objectively worse overall, but I'd examine its PDS carefully. [www.reddit.com](https://www.reddit.com/r/queensland/comments/1j67l2b?utm_source=chatgpt.com) |
+| **Airline-branded insurance** | 🟠 Medium | Don't assume that buying insurance through Qantas/Jetstar/etc. means the airline itself is the insurer. For example, Jetstar travel insurance has involved AIG, while Cover-More administers some policies on behalf of Zurich. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+End Of Line

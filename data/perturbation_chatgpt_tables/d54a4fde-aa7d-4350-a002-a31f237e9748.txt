@@ -1,0 +1,12 @@
+2,7ad5c377-7d7f-4d05-82f1-dafb7db3e774,08080124-1126-0626-0000-de1753a27065,d54a4fde-aa7d-4350-a002-a31f237e9748,2026-08-08T12:46:04.555551+10:00
+Premium motorcycle insurance for older riders in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited to | Strengths | Possible drawbacks |
+|---|---|---|---|
+| Shannons | Older riders, classic bikes, enthusiast bikes | Strong reputation for enthusiast vehicles; agreed value options; low-use/classic bike focus; modifications often better understood | May not always be cheapest for modern daily riders |
+| National Motorcycle Insurance | Riders wanting motorcycle-specific cover | Motorcycle-focused insurer; options such as choice of repairer and gear cover can be attractive | Premiums may vary widely by bike and rider profile |
+| QBE Insurance | Riders seeking competitive pricing | Often competitive quotes; broad insurance experience | Check included extras carefully, especially riding gear and accessories |
+| NRMA Insurance | Riders already using NRMA/IAG products | Large insurer, broad claims network; can be competitive for some profiles | Less specialist-focused than enthusiast insurers |
+| RACV | Victorian riders, especially members and classic-bike owners | Classic/vintage motorcycle options; member benefits | Strongest value may depend on state and membership |
+| Youi | Riders whose circumstances fit its pricing model | Personalised quote approach | Can be expensive for some motorcycle profiles |
+End Of Line

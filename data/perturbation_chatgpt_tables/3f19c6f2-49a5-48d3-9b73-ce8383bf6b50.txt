@@ -1,0 +1,16 @@
+2,6b9b3488-4196-4386-82c7-543ce5c86c73,08080141-1126-0626-0000-117f7a8fea37,3f19c6f2-49a5-48d3-9b73-ce8383bf6b50,2026-08-08T13:28:10.679632+10:00
+Most popular accident-only pet insurance in Australia without hidden fees
+Tables found: 1
+| | PetsOnMe | Ruff 'n' Tumble |
+|---|---|---|
+| Accident-only | ✅ | ✅ |
+| Dogs | ✅ | ✅ |
+| Cats | ✅ | ❌ |
+| Annual limit | $5,000 | **No annual limit** |
+| Excess | $100–$300 | $500/accident |
+| Co-payment | Up to 20% | **None** |
+| Sub-limits | Check PDS | **None** |
+| Fixed price | ❌ | **$40/month** |
+| Lock-in contract | **No** | **No** |
+| Best for | **Lower-cost cover** | Simplicity/high-cost accidents |
+End Of Line

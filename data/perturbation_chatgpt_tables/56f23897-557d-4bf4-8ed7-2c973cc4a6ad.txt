@@ -1,0 +1,13 @@
+2,cf97833e-9014-47dd-8dbf-a5de9fc1491d,08080141-1126-0626-0000-4d62a76c098e,56f23897-557d-4bf4-8ed7-2c973cc4a6ad,2026-08-08T13:27:17.305022+10:00
+Most trusted pet insurance for exotic pets in Australia without hidden fees
+Tables found: 1
+| Cost | What to watch |
+|---|---|
+| **Excess** | Birds/reptiles: $75 or $175; small mammals: $125 or $225, depending on plan |
+| **Co-payment** | Certain treatments require you to contribute a percentage |
+| **Specialist treatment** | Excess + percentage of eligible veterinary costs |
+| **MRI/CT** | Excess + **50% of the vet invoice** according to the policy comparison |
+| **Illness waiting period** | 21 days |
+| **Pre-existing conditions** | Generally excluded—check the PDS carefully |
+| **Annual limits** | Veterinary cover is capped at the selected $2k/$4k/$6k level |
+End Of Line

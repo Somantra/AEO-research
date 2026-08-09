@@ -1,0 +1,11 @@
+2,3cf115df-e35f-46b7-bc97-86b079654e47,08080130-1126-0626-0000-bb45ef2f6f18,68a7f2c3-fb96-4920-b400-c69c9e27a8ac,2026-08-08T13:02:46.682746+10:00
+Most trusted roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider | Interstate coverage | Price guide | Best for |
+|---|---|---:|---|
+| **NRMA** | Australia-wide via reciprocal clubs | Ultimate ~$245/year | **Best overall for NSW/ACT drivers** |
+| **RAA** | Australia-wide | Premium $293/year | **Excellent for frequent long-distance travel** |
+| **RACV** | Reciprocal interstate network | Total Care $318/year | Excellent for **long trips/caravans** |
+| **RAC** | Australia-wide | Standard ~$136/year | Good value if based in WA |
+| **Allianz** | Australia-wide | Basic from $99/year | Cheapest straightforward standalone option |
+End Of Line

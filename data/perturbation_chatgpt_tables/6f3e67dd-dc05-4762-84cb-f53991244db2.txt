@@ -1,0 +1,10 @@
+2,bf11a12e-dd92-4f15-92b4-b95af6346492,08080132-1126-0626-0000-3cc7746ed0da,6f3e67dd-dc05-4762-84cb-f53991244db2,2026-08-08T13:08:17.441645+10:00
+Most comprehensive roadside assistance for hybrid cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Hybrid/EV capability | Strongest feature | Online pricing |
+|---|---|---|---|
+| **RAC WA** | ✅ Petrol, diesel & electric | Excellent choice for WA + Australia-wide cover | ✅ |
+| **RACQ** | ✅ Explicitly covers hybrids & PHEVs | Very strong EV/hybrid-specific assistance | ✅ |
+| **RACV** | ✅ EV support, including high-voltage-trained patrols | Unlimited callouts + strong travel benefits | ✅ |
+| **NRMA** | ✅ EV/hybrid roadside network | Strong national coverage | ✅ |
+End Of Line

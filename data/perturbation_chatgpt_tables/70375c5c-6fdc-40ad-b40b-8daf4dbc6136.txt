@@ -1,0 +1,9 @@
+2,f6157585-b3c7-44ce-be87-f8ca2c374c2c,08080132-1126-0626-0000-bcce0341eb5e,70375c5c-6fdc-40ad-b40b-8daf4dbc6136,2026-08-08T13:07:30.466595+10:00
+Worst roadside assistance for hybrid cars in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why some hybrid owners may be cautious | Overall review picture |
+|---|---|---|
+| RACV Roadside Assistance | Some complaints mention communication, service refusal, or frustration with policy handling. [www.trustpilot.com](https://www.trustpilot.com/review/www.racv.com.au?utm_source=chatgpt.com) | Mixed: some excellent experiences, but online complaint sentiment is notably negative in some channels. [www.trustpilot.com](https://www.trustpilot.com/review/www.racv.com.au?utm_source=chatgpt.com) |
+| RACQ Roadside Assistance | Some customers report issues with remote-area assistance and claim handling, although many praise individual patrol staff. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) | Mixed-to-good depending on location and situation. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) |
+| NRMA Roadside Assistance | Some complaints relate to pricing, contracts, and certain service disputes rather than hybrid capability. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) | Generally strong reviews; one comparison site shows a high volume of positive feedback. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

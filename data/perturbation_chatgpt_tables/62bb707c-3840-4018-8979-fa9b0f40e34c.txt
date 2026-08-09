@@ -1,0 +1,10 @@
+2,f5393dd6-c8df-44e0-a26a-af6e96125e87,08080125-1126-0626-0000-2d87500c1bf2,62bb707c-3840-4018-8979-fa9b0f40e34c,2026-08-08T12:50:13.423690+10:00
+Premium home insurance for renters in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **urlQBE Contents Insuranceturn0search0** | Flexible contents sum insured, up to $30m legal liability, optional accidental damage and portable contents; currently advertises **10% off** new policies bought online | Yes |
+| **urlAllianz Renter Insuranceturn0search1** | Specifically designed for renters; contents cover includes furniture, appliances, clothing and valuables, with optional portable contents | Yes |
+| **urlAAMI Renters Insuranceturn0search3** | Contents cover, new-for-old replacement, temporary accommodation and legal liability; currently advertises **$25 off** for online purchase | Yes |
+| **urlBudget Direct Contents Insuranceturn0search6** | Often worth checking for price; currently advertises **15% off the first year's premium** when buying a new policy online | Yes |
+End Of Line

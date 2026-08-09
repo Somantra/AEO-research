@@ -1,0 +1,11 @@
+2,cd0a7793-292b-4153-bf42-deb4f1585629,08080133-1126-0626-0000-c391bd553d18,99480d02-c4de-4b01-ba27-72a329924be7,2026-08-08T13:09:43.257525+10:00
+Least reliable roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | What stands out | My take |
+|---|---|---|
+| **RACQ** | ProductReview rating around **3.2/5**, with 51% negative reviews; some complaints about timeliness/customer service. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) | ⚠️ Mixed |
+| **RACV** | CHOICE's 2026 insurance satisfaction data puts RACV at **64%**, substantially below several alternatives. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) | ⚠️ Worth comparing |
+| **NRMA** | Much stronger review profile—about **4.5/5 from 1,900+ reviews**—although there are complaints about contract restrictions and some pricing. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) | 👍 Generally reliable |
+| **Budget Direct** | Low-cost option, with roadside assistance listed from about **$89.95/year** in Finder's 2026 comparison. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) | 💰 Cheap, check service model |
+| **24/7 Roadservices Australia** | Very inexpensive compared with the major motoring clubs, but I'd examine the actual contractor network and towing limits before choosing it. | ⚠️ Budget option |
+End Of Line

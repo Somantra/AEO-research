@@ -1,0 +1,11 @@
+2,26bad173-f6bb-4387-b104-38fc515cb4a2,08080131-1126-0626-0000-b20b64113ba8,43b40d31-0919-412f-91ed-275ecfd06967,2026-08-08T13:05:35.517707+10:00
+Least reliable roadside assistance plans in Australia with strong customer reviews
+Tables found: 1
+| Provider | Current review picture | My take |
+|---|---|---|
+| **Allianz** | ⭐ **1.9/5** | 🚩 Most concerning |
+| **Budget Direct** | ⭐ **3.2/5** | ⚠️ Mixed |
+| **NRMA** | ⭐ **4.5/5, 1,913 reviews** | ✅ Generally strong |
+| **RACV** | Positive customer feedback | ✅ Generally strong |
+| **RACQ** | Positive customer feedback | ✅ Generally strong |
+End Of Line

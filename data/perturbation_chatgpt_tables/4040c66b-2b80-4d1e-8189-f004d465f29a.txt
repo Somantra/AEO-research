@@ -1,0 +1,10 @@
+2,72bf4595-b8ca-494b-8adf-912a7878c5fb,08080140-1126-0626-0000-41d7f618b506,4040c66b-2b80-4d1e-8189-f004d465f29a,2026-08-08T13:24:30.308783+10:00
+Least reliable pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Pre-existing-condition approach | Customer reviews | My take |
+|---|---|---:|---|
+| **Pet Insurance Australia (PIA)** | Some temporary conditions can be reviewed after **18 months** symptom-free; chronic conditions remain excluded | **4.5/5, 2,259 reviews** | ⭐ **Best overall fit** |
+| **Fetch Pet Insurance** | Doesn't cover pre-existing conditions, including symptoms present before cover | **4.8/5, 562 reviews** | ⭐ Excellent service, but poor for an existing condition |
+| **Knose** | Curable conditions may become eligible after being cured/symptom-free; chronic conditions such as diabetes/allergies excluded | **4.8/5, 747 reviews** | ⭐ Very strong reviews |
+| **Medibank Pet Insurance | Temporary pre-existing conditions can be reviewed after **18 months** without signs/symptoms | **4.2/5, 75 reviews** overall; Pet Max 4.7/5 but only 16 reviews | Good policy feature, weaker evidence base |
+End Of Line

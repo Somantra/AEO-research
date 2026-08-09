@@ -1,0 +1,13 @@
+2,73b38221-1be3-4ecf-9d10-3f90c951233e,08080129-1126-0626-0000-b899a427877b,279e882a-c408-426b-a523-a320cbfb1fdd,2026-08-08T12:58:39.492015+10:00
+Most popular home insurance for first-time homeowners in Australia compared to other providers
+Tables found: 1
+| Provider | How it compares | Best suited to |
+|---|---|---|
+| **AAMI** | Strong value; Canstar 2025 award winner | **Best overall/value starting point** |
+| **Allianz** | Canstar 2025 outstanding-value winner; broad cover | Comprehensive cover |
+| **NRMA** | Very strong customer satisfaction; Finder's 2025 customer-satisfaction winner | **Good balance of service + cover** |
+| **Youi** | Canstar's 2025 most-satisfied-customer winner | Customer service/claims experience |
+| **QBE** | Canstar 2025 outstanding-value winner | Another strong mainstream option |
+| **RAC/RACQ** | Particularly strong customer experience in their respective states | **WA/QLD homeowners** |
+| **Budget Direct** | Often competitive on price | Cheapest-quote comparison |
+End Of Line

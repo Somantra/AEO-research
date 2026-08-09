@@ -1,0 +1,11 @@
+2,f80d6bc1-0133-4e93-88cc-7f3928ff2dbd,08080127-1126-0626-0000-9389d0f77e6c,1994d3b4-8784-4f11-a1d9-c8cc40579b9f,2026-08-08T12:53:46.767572+10:00
+Most affordable home insurance for apartments in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I'd check it | Online quote |
+|---|---|---|
+| **Budget Direct** | Strong price-focused option; currently advertises **15% off the first year** for new contents-only policies bought online. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/contents-insurance.html?utm_source=chatgpt.com) | urlGet a Budget Direct quoteturn0search2 |
+| **AAMI** | **$25 off** first year for contents-only when quoted/bought online; also has specific strata insurance products. [www.aami.com.au](https://www.aami.com.au/home-insurance?utm_source=chatgpt.com) | urlGet an AAMI quoteturn1search1 |
+| **Real Insurance** | Has an **Essential Contents** option specifically positioned as a more competitive-price product and says quotes take minutes. [www.realinsurance.com.au](https://www.realinsurance.com.au/home-insurance/contents/essential-contents?utm_source=chatgpt.com) | urlGet a Real Insurance quoteturn1search4 |
+| **Allianz** | Online quotes, established insurer, and home/contents combination discounts. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) | urlGet an Allianz quoteturn0search3 |
+| **Youi** | Worth checking because pricing is highly individualised; offers online contents quotes and covers apartments. [www.youi.com.au](https://www.youi.com.au/home-insurance/vic?utm_source=chatgpt.com) | urlGet a Youi quoteturn1search5 |
+End Of Line

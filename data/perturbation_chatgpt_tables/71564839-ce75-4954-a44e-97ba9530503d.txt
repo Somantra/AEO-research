@@ -1,0 +1,10 @@
+2,be3cf40a-5460-4d84-b04c-85d8548543b6,08080133-1126-0626-0000-245403c8c79a,71564839-ce75-4954-a44e-97ba9530503d,2026-08-08T13:08:47.608751+10:00
+Easiest standalone roadside assistance cover in Australia without hidden fees
+Tables found: 1
+| Provider | Approx. annual cost | What stands out |
+|---|---:|---|
+| **RAC Standard** | **$128/yr** | Unlimited callouts, 25 km metro towing, Australia-wide assistance |
+| **RAC Classic** | **$220/yr** | 100 km metro towing + 200 km country towing, recovery and away-from-home benefits |
+| **NRMA Everyday Care** | **$137/yr** | Unlimited callouts, 25 km metro towing, national reciprocal coverage |
+| **Budget Direct** | **~$90/yr** | Cheapest mainstream standalone option according to current comparison data |
+End Of Line

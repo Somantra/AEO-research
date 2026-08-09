@@ -1,0 +1,10 @@
+2,384053be-ee50-46ee-a6da-856eb4e343e6,08080118-1126-0626-0000-792f82159145,4e3b8676-1206-437d-9f64-a93a9e6c12e2,2026-08-08T12:33:44.095816+10:00
+Premium car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | EV cover | Monthly payments | Notable features |
+|---|---|---|---|
+| **[Youi](https://www.youi.com.au/car-insurance/ev-car-insurance)** | ✅ | 12 monthly instalments | EV battery cover after insured events; roadside assistance can include transport to a charging station. Monthly payment may cost extra. [www.youi.com.au](https://www.youi.com.au/car-insurance/comprehensive?utm_source=chatgpt.com) |
+| **[NRMA Insurance](https://www.nrma.com.au/car-insurance/ev-insurance)** | ✅ | Monthly available | Comprehensive Plus option, EV repair guarantee, portable charging cable covered. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com) |
+| **[RACV](https://www.racv.com.au/insurance/car-insurance/complete-care.html)** | ✅ | **Monthly at no extra cost** | EV-qualified repair network, charging cables/adaptors covered, agreed-value option. [www.racv.com.au](https://www.racv.com.au/insurance/car-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **[Budget Direct](https://www.budgetdirect.com.au/car-insurance.html)** | ✅ | Monthly/fortnightly | Often competitive on price; monthly payments available, although annual payment is cheaper. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/car-insurance-faqs/renewing-car-insurance.html?utm_source=chatgpt.com) |
+End Of Line

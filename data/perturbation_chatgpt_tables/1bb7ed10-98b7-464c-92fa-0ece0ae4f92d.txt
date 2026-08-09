@@ -1,0 +1,22 @@
+2,089cbd0c-2e14-4702-9c07-2fcf85d1b784,08080142-1126-0626-0000-10ea66f98617,1bb7ed10-98b7-464c-92fa-0ece0ae4f92d,2026-08-08T13:29:07.198711+10:00
+Premium pet insurance providers in Australia compared to other providers
+Tables found: 2
+| Provider | Best suited for | Strengths | Potential drawbacks |
+|---|---|---|---|
+| Fetch Pet Insurance | Owners wanting very comprehensive cover | Often positioned among the more comprehensive options; high reimbursement choices and large annual benefit limits are available on some policies | Premiums can be higher for top-tier cover |
+| Bow Wow Meow | Owners wanting broad cover with flexibility | Strong reputation for comprehensive plans; options for different reimbursement levels and higher annual limits | Premiums may rise substantially as pets age |
+| Pet Insurance Australia | Owners wanting specialist pet insurer experience | Pet-focused provider rather than a general insurer; offers accident and illness products | Compare exclusions carefully between plans |
+| Petsy | Owners wanting customisation | Known for customisable policies and optional extras such as dental illness and alternative therapies | Higher cover options may cost more |
+| RSPCA Pet Insurance | Owners who value a recognised animal-welfare brand | Customisable cover options and strong brand recognition | Check underwriting, exclusions and renewal pricing |
+| Medibank Pet Insurance | Existing Medibank customers | Can suit customers wanting insurance bundled with other services | May not always be the cheapest for equivalent cover |
+End Of Line
+| Feature | Premium policy target |
+|---|---|
+| Vet bill reimbursement | 80–90% (some offer higher options) |
+| Annual claim limit | $20,000–$30,000+ is commonly considered strong |
+| Excess | Usually $0–$500 depending on premium preference |
+| Conditions covered | Accidents + illnesses + hereditary/congenital conditions (where eligible) |
+| Specialist care | Ideally included (MRI, CT scans, oncology, surgery) |
+| Dental | Preferably dental illness, not only dental accidents |
+| Emergency care | Look for after-hours and specialist hospital coverage |
+End Of Line

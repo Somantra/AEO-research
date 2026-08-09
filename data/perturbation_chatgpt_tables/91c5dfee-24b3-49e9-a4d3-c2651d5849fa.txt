@@ -1,0 +1,11 @@
+2,2ff20af0-3c68-4ff9-8637-1bcb80b77a76,08080132-1126-0626-0000-22a76c797dfd,91c5dfee-24b3-49e9-a4d3-c2651d5849fa,2026-08-08T13:08:05.184948+10:00
+Premium roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Premium option | Monthly payment | Key benefits |
+|---|---|---:|---|
+| **RAA Premium** | Premium Road Service | **$24.49/mo** | Unlimited call-outs, 24/7 Australia-wide, up to $5,500 country attendance |
+| **NRMA Ultimate Care** | Ultimate Care | **from $27.49/mo** | Unlimited call-outs, premium towing/assistance benefits |
+| **RACV Total Care** | Total Care | **$27/mo** | Up to 100 km towing, battery assistance, 5 L emergency fuel, multiple drivers |
+| **RACQ Ultimate Care** | Ultimate Care | **~$25.83/mo** | Unlimited call-outs and higher-level roadside benefits |
+| **RACT Advantage** | Advantage | **$12/mo** | 24/7 assistance, personal cover, interstate coverage, towing |
+End Of Line

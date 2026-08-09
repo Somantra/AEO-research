@@ -1,0 +1,10 @@
+2,eb32c2ac-481f-4540-9103-bf92fe9a3af5,08080131-1126-0626-0000-71a738215dea,cf4e39f7-0fe9-48b3-a73e-07f820dc3e00,2026-08-08T13:03:57.334773+10:00
+Most comprehensive roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment | Vehicle suitability | Key strength |
+|---|---:|---|---|
+| **RACV Business Roadside Assistance** | Monthly invoicing rather than a simple fixed monthly membership | **Up to 8t GVM** | Specifically designed for businesses; 24/7 Australia-wide |
+| **NRMA Ultimate Care** | **$21.99/month** currently advertised | Mainly light vehicles; larger-vehicle towing can be added | 100 km towing, broad NSW/ACT network |
+| **RACV Total Care** | **$27/month** for 1–2 vehicles | Check commercial-use/vehicle eligibility | Unlimited call-outs + 100 km towing |
+| **RAA Premium** | **$24.49/month** | Eligibility restrictions apply | Strong towing benefits, Australia-wide assistance |
+End Of Line

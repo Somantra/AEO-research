@@ -1,0 +1,15 @@
+1,53cb4268-4846-4a9b-9487-1a3a616a58b4,08080129-1126-0626-0000-8db922dcdb9b,e1f7d0b1-2072-4a71-847a-3c208607e096,2026-08-08T12:59:06.760463+10:00
+Least reliable car insurance for P-plate drivers in Australia
+Tables found: 1
+| Insurer | Customer satisfaction | Claims experience |
+|---|---:|---|
+| **Budget Direct** | **62%** | **52% — lowest surveyed** |
+| Allianz | 61% | — |
+| AAMI | 62% | — |
+| RACV | 64% | — |
+| Suncorp | 68% | — |
+| NRMA | 72% | — |
+| Youi | 77% | — |
+| RACQ | 85% | — |
+| RAA | 91% | — |
+End Of Line

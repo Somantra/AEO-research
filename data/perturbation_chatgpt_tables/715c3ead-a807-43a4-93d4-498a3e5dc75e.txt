@@ -1,0 +1,11 @@
+2,a3f0c039-7c2f-4a5e-8d07-0b1a7101d716,08080138-1126-0626-0000-d4cc2e549a8f,715c3ead-a807-43a4-93d4-498a3e5dc75e,2026-08-08T13:22:15.120599+10:00
+Most popular pet insurance for dogs in Australia with instant online quotes
+Tables found: 1
+| Provider | Online quote | Notable cover |
+|---|---|---|
+| **Pet Insurance Australia** | **Quick quote in minutes** | Up to $35k/year, up to 90% back, no hidden sub-limits, GapOnly |
+| **Medibank Pet Insurance** | **Quick online quote** | Up to $30k/year, up to 90% back, GapOnly |
+| **Knose** | **~60-second quote** | Up to $25k/year, flexible cover, no sub-limits |
+| **Petsy** | **Online quote** | Up to $25k/year, no sub-limits, $0 excess available |
+| **Trupanion** | **Instant online quote** | 90% cover, no payout limits, lifetime per-condition excess |
+End Of Line

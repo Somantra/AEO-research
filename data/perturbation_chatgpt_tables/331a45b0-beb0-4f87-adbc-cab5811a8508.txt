@@ -1,0 +1,11 @@
+2,ec7ec32b-7394-4adf-9588-3cfae7771169,08080136-1126-0626-0000-db04d35195ee,331a45b0-beb0-4f87-adbc-cab5811a8508,2026-08-08T13:16:22.022307+10:00
+Most popular travel insurance for seniors in Australia with strong customer reviews
+Tables found: 1
+| Insurer | ProductReview rating | Reviews | Senior suitability | My take |
+|---|---:|---:|---|---|
+| **Southern Cross Travel Insurance (SCTI)** | **4.6/5** | 3,400+ | ⭐⭐⭐⭐⭐ | **Best overall** |
+| **InsureandGo Australia** | **4.3/5** | 7,200+ | ⭐⭐⭐⭐⭐ | **Best for seniors + lots of reviews** |
+| **Fast Cover** | **4.7/5** | — | ⭐⭐⭐⭐½ | Excellent customer sentiment |
+| **1Cover** | **4.2/5** | 5,100+ | ⭐⭐⭐⭐ | Good alternative |
+| **Cover-More** | **3.7/5** | 3,800+ | ⭐⭐⭐⭐ | Strong claims reputation, lower overall rating |
+End Of Line

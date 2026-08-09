@@ -1,0 +1,10 @@
+2,6f851fd5-fdcf-4e23-9a40-0d321fe736f2,08080120-1126-0626-0000-45b6b0b2f908,a9a8b92b-e9aa-404b-9608-976754959f67,2026-08-08T12:38:09.888690+10:00
+Worst car insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why customers criticise them | Context |
+|---|---|---|
+| Budget Direct | Complaints often mention difficult claims experiences, disputes over fault, and communication issues | In CHOICE’s 2025 survey, Budget Direct was rated below average for overall customer satisfaction and had one of the weaker claims experience ratings among surveyed insurers. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| AAMI | Some customers report frustration with claim handling, repair decisions, and call-centre experiences | CHOICE rated AAMI below average for customer satisfaction in its 2025 survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| Allianz Australia | Some complaints relate to claims delays and communication | Allianz scored below average in CHOICE’s customer satisfaction comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| RACV | Victorian customers sometimes report dissatisfaction around premiums and claims handling | CHOICE’s 2025 survey placed RACV below average for satisfaction compared with several other major insurers. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

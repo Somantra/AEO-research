@@ -1,0 +1,11 @@
+2,df40e19a-2458-4305-bc32-3ea86acf7591,08080132-1126-0626-0000-37338e87eb55,e77ec8e8-cfc1-4c04-b332-88d9811b8f87,2026-08-08T13:07:30.654396+10:00
+Worst roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Hybrid/EV support | Speed/process | My take |
+|---|---|---|---|
+| **RACV** | Excellent — specifically covers hybrids and EVs, with high-voltage-trained patrols | ⭐⭐⭐⭐⭐ | **Best overall for hybrid/EV** |
+| **RACQ** | Excellent — explicitly covers hybrids, PHEVs and EVs | ⭐⭐⭐⭐½ | **Best in Queensland** |
+| **RAC WA** | Strong EV capability; Australia-wide roadside cover | ⭐⭐⭐⭐½ | **Best choice in WA/Perth** |
+| **NRMA** | Broad roadside network | ⭐⭐⭐⭐ | Good national option |
+| **RAC/RAA etc.** | Generally good through the national auto-club network | ⭐⭐⭐⭐ | Good regional alternatives |
+End Of Line

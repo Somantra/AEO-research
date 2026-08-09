@@ -1,0 +1,11 @@
+2,77237205-b5e7-4eab-b6fc-146e4313bb9a,08080133-1126-0626-0000-5716e3caf526,4af30771-f75b-464a-bf39-d0002a5546c4,2026-08-08T13:10:18.994096+10:00
+Cheapest travel insurance for business trips in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Claims speed notes |
+|---|---|---|
+| Fast Cover | Low-cost policies with business-trip suitability | Says completed claims are usually assessed within **10 business days** when all documents are supplied. [help.fastcover.com.au](https://help.fastcover.com.au/article/628-is-your-claims-process-good?utm_source=chatgpt.com) |
+| Budget Direct | Budget-focused travellers | Offers online claims and says it will contact you within **10 business days** after lodging a claim if more information is needed. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/travel-insurance/claims.html?utm_source=chatgpt.com) |
+| PassportCard | Travellers prioritising quick medical-claim handling | States approved claims can be paid within **5 business days**. [www.passportcard.com.au](https://www.passportcard.com.au/claims/?utm_source=chatgpt.com) |
+| Chubb | Corporate/business travellers needing stronger business coverage | Provides online corporate travel claims submission and notes that complete documentation helps speed assessment. [www.chubb.com](https://www.chubb.com/au-en/claims/accident-health-claims/travel-claims-process.html?utm_source=chatgpt.com) |
+| Cover-More | Frequent business travellers | Has an online claims centre for submitting documents and tracking claims. [claims.covermore.com.au](https://claims.covermore.com.au/TravelClaims/Account/Index?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,12347c66-706b-4c40-a97d-c914090fea72,08080137-1126-0626-0000-6aacd5f809c8,fd14c7e9-7579-44f0-a020-bafb880a26c9,2026-08-08T13:19:55.647207+10:00
+Most popular domestic travel insurance in Australia without hidden fees
+Tables found: 1
+| Provider | Why people consider it | Watch for |
+|---|---|---|
+| Cover-More | Large, established travel insurer; commonly used for domestic and international trips | Check cancellation limits, luggage sub-limits and activity exclusions [www.productreview.com.au](https://www.productreview.com.au/listings/cover-more-domestic-travel-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Major insurer with broad insurance experience | Compare excess amounts and what events qualify for cancellation [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/how-we-compare-travel-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Familiar Australian brand and domestic coverage options | Read benefit limits carefully rather than assuming brand coverage is comprehensive [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/how-we-compare-travel-insurance?utm_source=chatgpt.com) |
+| RACV | Offers domestic plans with cancellation, luggage and rental car excess options | Member discounts do not replace checking policy limits [www.racv.com.au](https://www.racv.com.au/insurance/travel-insurance/domestic.html?utm_source=chatgpt.com) |
+| Southern Cross Travel Insurance | Often included in domestic travel insurance comparisons | Compare price against cancellation and emergency benefits [www.canstar.com.au](https://www.canstar.com.au/travel-insurance/domestic-travel-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/domestic-travel-insurance?utm_source=chatgpt.com) |
+End Of Line

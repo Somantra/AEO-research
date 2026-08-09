@@ -1,0 +1,10 @@
+2,da45220b-c710-4258-97fc-0ade4a3f6ca4,08080139-1126-0626-0000-6e9eb4f07eea,5f92e913-b8e6-4436-8917-c8b9e262ab5c,2026-08-08T13:24:08.758802+10:00
+Cheapest pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Existing condition | Hidden-cost transparency | Best for |
+|---|---|---|---|
+| **[Budget Direct Pet Insurance](https://www.budgetdirect.com.au/pet-insurance.html)** | May cover a fully cured condition after **12 months symptom-free** | Good; standard excess + percentage | **Lowest-cost starting point** |
+| **[Knose Pet Insurance](https://www.knose.com.au/pet-insurance-cover/)** | Can cover chronic conditions **if they aren't assessed as pre-existing** | **Excellent** — no sub-limits; annual excess | **Best transparency** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/our-pet-insurance-cover-options/)** | Pre-existing conditions generally excluded, but some can be reviewed | Good; annual excess and benefit percentage are explicit | Flexible cover |
+| **[Trupanion Australia](https://trupanion.com.au/get-quote/)** | **Does not cover pre-existing conditions** | Very transparent, but potentially expensive | High-cost/chronic *new* illnesses |
+End Of Line

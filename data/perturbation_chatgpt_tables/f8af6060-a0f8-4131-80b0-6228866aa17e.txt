@@ -1,0 +1,11 @@
+2,152f09c1-d0d1-485e-87b0-c50cb1391237,08080140-1126-0626-0000-5a3cf2a252de,f8af6060-a0f8-4131-80b0-6228866aa17e,2026-08-08T13:24:57.150009+10:00
+Most comprehensive pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Pre-existing condition approach | Comprehensive cover | My take |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | Temporary conditions can potentially be reviewed after **18 months** symptom-free; chronic conditions remain excluded | Up to **$35,000/year** on eligible cover | 🥇 **Best overall for comprehensive cover** |
+| **RACQ** | Review possible for certain non-lifelong conditions after **18 months** symptom-free | Comprehensive options | 🥈 Strong if your condition is temporary |
+| **Knose** | Pre-existing restrictions may be waived depending on condition; symptom-free period can vary **3–24 months** | Comprehensive | 🥉 Potentially best for a specific curable condition |
+| **Bupa / Medibank** | Review pathway for temporary conditions after **18 months** symptom-free | Comprehensive options | Worth quoting alongside PIA |
+| **Budget Direct** | Certain cured conditions may become covered after **12 months** symptom-free | Comprehensive | Interesting if your priority is shorter review period |
+End Of Line

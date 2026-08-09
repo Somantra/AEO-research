@@ -1,0 +1,12 @@
+2,a5da7aef-05b6-450f-986e-10f9b66984ff,08080138-1126-0626-0000-5038acd6b2b6,20d6ed13-4b4e-4c39-a5a1-75abd6aa2235,2026-08-08T13:21:00.926748+10:00
+Worst pet insurance for cats in Australia compared to other providers
+Tables found: 1
+| Provider | My take | Why |
+|---|---|---|
+| **Budget Direct** | 🔴 **Avoid / compare carefully** | Very cheap in some quotes, but poor customer-review sentiment and complaints about claims/out-of-pocket deductions |
+| **PetSure-branded policies** | 🟠 **Mixed** | Huge number of brands use PetSure; policy terms vary, so the brand name alone isn't enough |
+| **RSPCA** | 🟡 **Depends on policy** | Important change in April 2026 means old reviews don't necessarily describe the current product |
+| **Petcover** | 🟢 **Strong** | Up to $20k, 70–100% reimbursement and no sub-limits on its Superior plan according to Finder |
+| **Petsy / Knose** | 🟢 **Strong contenders** | Generally attractive combination of coverage, flexibility and claims experience |
+| **Bow Wow Meow** | 🟢 **Very strong** | Finder currently rates its Nose-to-Tail Cover highly for value; particularly interesting for pedigree cats |
+End Of Line

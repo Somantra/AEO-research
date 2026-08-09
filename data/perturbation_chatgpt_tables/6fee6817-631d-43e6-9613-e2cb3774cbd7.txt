@@ -1,0 +1,10 @@
+2,2926a5dd-22b8-41ae-b6c5-de3886a3b8b5,08080139-1126-0626-0000-520dd80d8ae9,6fee6817-631d-43e6-9613-e2cb3774cbd7,2026-08-08T13:23:03.702453+10:00
+Most popular pet insurance for older pets in Australia without hidden fees
+Tables found: 1
+| Insurer | New-pet age | Why I'd consider it | Main catch |
+|---|---:|---|---|
+| **Knose** | Up to **8y 364d** | No sub-limits; up to 90% reimbursement; lifetime renewal; clearly states fees/limits | Optional extras have age restrictions |
+| **RSPCA Pet Insurance** | Under **9 years** | **No sub-limits** on PetFlex; no maximum age once enrolled | New product/provider arrangement from April 2026 |
+| **Petcover** | Generally up to **8 years** | 250,000+ customers; lifelong options; direct-to-vet payment possible | **Age contribution** can become 20% at 8 and 35% at 10 on applicable policies |
+| **Bow Wow Meow** | Depends on product | Very established Australian provider and popular choice | Need to check senior-pet eligibility and age-related contribution on the exact quote |
+End Of Line

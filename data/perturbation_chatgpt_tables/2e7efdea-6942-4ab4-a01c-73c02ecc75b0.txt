@@ -1,0 +1,12 @@
+2,61cc33ca-dd0d-4a04-ac86-7c614812e882,08080132-1126-0626-0000-b2c53e200140,2e7efdea-6942-4ab4-a01c-73c02ecc75b0,2026-08-08T13:07:05.258963+10:00
+Premium roadside assistance for rural areas in Australia compared to other providers
+Tables found: 1
+| Provider / premium-ish plan | Rural attendance | Rural towing | Approx. annual price | Best for |
+|---|---:|---:|---:|---|
+| **RAC WA Ultimate Plus** | **300 km** | **300 km** | $410 | Very remote WA / long-distance touring |
+| **RACQ Ultimate Care** | **200 km** | **100 km** | $310 | Queensland + interstate trips |
+| **RAA Premium** | **200 km** from country depot | **200 km** to depot + 50 km in any direction | $293 | SA, including country SA |
+| **RAC WA Ultimate** | 200 km | 200 km | $330 | Rural WA |
+| **RACV Total Care** | 100 km in regional areas* | 100 km | $318 | Victoria/regional VIC |
+| **NRMA Ultimate Care** | National reciprocal network | 100 km included | $245 | NSW + interstate travel |
+End Of Line

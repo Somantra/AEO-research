@@ -1,0 +1,10 @@
+2,a805e42d-c3de-4fa1-86d9-c4af3db1ae5d,08080123-1126-0626-0000-0900fc15eb9a,3465f166-9aff-4062-a279-033bc00a2d48,2026-08-08T12:44:21.853676+10:00
+Worst third-party motorcycle insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Third-party options | Online quote | Notable feature |
+|---|---|---|---|
+| **Budget Direct** | Property Only / Fire & Theft | ✅ | Up to $20m liability; up to $5k uninsured-driver damage |
+| **AAMI** | Property Damage / optional Fire & Theft | ✅ | Up to $20m liability; up to $5k uninsured-driver damage |
+| **Youi** | Property Only / Fire & Theft | ✅ | Up to $20m liability; flexible excess |
+| **QBE** | Third Party Only | ✅ | Up to $30m liability |
+End Of Line

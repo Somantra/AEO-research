@@ -1,0 +1,11 @@
+2,7a508e15-4057-4269-b70f-5701b415e49b,08080118-1126-0626-0000-4d3bf16958dc,bad3625d-70e0-4a20-97e5-412f11226e0c,2026-08-08T12:32:36.850616+10:00
+Most popular car insurance for small cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims convenience | Customer satisfaction* | My take |
+|---|---|---:|---|
+| **RACQ** | Online claims in minutes + phone support | **85%** | ⭐ Best choice if you're in QLD |
+| **Allianz** | Online anytime + **24/7 claims team** | 61% | ⭐ Strong claims infrastructure |
+| **Youi** | Strong customer-service reputation | **77%** | ⭐ Worth getting a quote |
+| **NRMA** | Online claims + tracking | 72% | ⭐ Good mainstream option |
+| **AAMI** | Online/phone claims | 62% | Good option to price-check |
+End Of Line

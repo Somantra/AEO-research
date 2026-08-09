@@ -1,0 +1,10 @@
+2,69dbe430-2c32-4a15-93b7-51f7a5289a15,08080140-1126-0626-0000-e1d751a8ce42,f8787b2b-c00e-4eb1-9fe4-c9973c3380c7,2026-08-08T13:26:22.036766+10:00
+Safest pet insurance for large dog breeds in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews | Large-dog strengths | My take |
+|---|---:|---|---|
+| **Petsy** | ⭐ **4.9/5** (323 reviews) | No sub-limits; up to $30k; 80–90% reimbursement; hip/elbow dysplasia covered | 🥇 **Best overall for reviews + coverage** |
+| **Knose** | ⭐ **4.8/5** (747 reviews) | No sub-limit cap; up to 90%; ongoing renewal even after chronic conditions develop | 🥈 **Excellent alternative** |
+| **Pet Insurance Australia** | ⭐ **4.5/5** (2,259 reviews) | Up to $35k; 90%; no sub-limits; hereditary/congenital and cruciate cover | 🥉 **Best for maximum annual limit** |
+| **RSPCA Pet Insurance** | — | New PetFlex: up to $35k, 90%, no sub-limits | **Worth quoting** |
+End Of Line

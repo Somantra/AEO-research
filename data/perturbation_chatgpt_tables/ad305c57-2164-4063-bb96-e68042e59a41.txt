@@ -1,0 +1,9 @@
+2,24a388b2-1f31-4bf1-8447-bd9fcc046321,08080130-1126-0626-0000-4b3111892106,ad305c57-2164-4063-bb96-e68042e59a41,2026-08-08T13:03:14.235300+10:00
+Best roadside assistance for commercial vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Commercial vehicles | Online pricing | Best for |
+|---|---|---|---|
+| **RACV Business Roadside Assistance** | Up to **8 tonnes GVM** | **Yes — prices published online** | ⭐ Best overall for small fleets |
+| **Allianz Roadside Assistance** | Check vehicle eligibility | **Yes — from $99/year** | Simple nationwide cover |
+| **RACV Fee-for-Service** | Up to **8 tonnes GVM** | **Yes — published call-out prices** | Low-use delivery/courier fleets |
+End Of Line

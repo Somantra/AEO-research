@@ -1,0 +1,12 @@
+2,5be4879c-f45d-4107-8820-e880daa3c4aa,08080142-1126-0626-0000-4f591451a856,52f5b6a0-964c-4cc4-891f-0a15482b0f64,2026-08-08T13:28:43.564338+10:00
+Most reliable pet insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Why I’d consider it | Online quote | Strong point |
+|---|---|---|---|
+| **Knose** | Pet-specialist insurer with 60,000+ pets insured | **~60 seconds** [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) | No sub-limits; flexible cover |
+| **Petsy** | Pet-focused, highly customisable | **A few minutes** [quote.petsy.com.au](https://quote.petsy.com.au/?utm_source=chatgpt.com) | No sub-limits; can pay vet directly |
+| **Medibank Pet Insurance** | Large, established provider | **Quick online quote** [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/?utm_source=chatgpt.com) | Up to $30k/year, 90% reimbursement, GapOnly |
+| **RSPCA Pet Insurance** | Strong animal-welfare connection | **Quick online quote** [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) | Up to $35k/year, up to 90%, no sub-limits |
+| **Bow Wow Meow** | Long-established pet specialist | **Online quote** | Up to 90% reimbursement; strong community reputation |
+| **Budget Direct Pet Insurance | Worth checking if price is important | **Online quote** | Frequently competitive on premiums |
+End Of Line

@@ -1,0 +1,11 @@
+2,a89b8946-35ac-418a-b13b-fd55095d71ce,08080118-1126-0626-0000-12d3676d5aa6,e0b74aab-fe13-4d23-bf93-64835f67a66d,2026-08-08T12:33:37.522046+10:00
+Most trusted car insurance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it for an EV | My take |
+|---|---|---|
+| **Allianz Comprehensive** | Explicitly covers EV batteries, battery fires, charging cables, wall chargers/mounts, and offers EV-certified repairers. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) | ⭐ **Best overall EV-focused choice** |
+| **ROLLiN’ Comprehensive** | Canstar’s 2026 award winner; explicitly covers EV batteries, charging cables, wall boxes and adapters. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/best-car-insurance/?utm_source=chatgpt.com) | ⭐ **Best for transparent EV inclusions/value** |
+| **AAMI Comprehensive** | Canstar’s 2026 National Award winner, with strong standard features and competitive pricing across driver profiles. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/best-car-insurance/?utm_source=chatgpt.com) | ⭐ **Strong mainstream option** |
+| **QBE Comprehensive** | Competitive comprehensive option; Canstar currently lists new-car replacement up to 36 months/60,000 km under its stated conditions. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/car-insurance-nsw/?utm_source=chatgpt.com) | Good alternative |
+| **NRMA/RACV** | Major established insurers worth quoting, particularly if their local repair network is important to you. CHOICE compares both among major Australian insurers. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) | Worth getting a quote |
+End Of Line

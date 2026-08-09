@@ -1,0 +1,14 @@
+2,75bed197-a008-4319-9d38-8637db51e777,08080119-1126-0626-0000-3c348350c73f,c5f7b234-5721-475e-9cac-7990f3808dca,2026-08-08T12:34:38.788650+10:00
+Most popular car insurance for used cars in Australia compared to other providers
+Tables found: 1
+| Provider | Best known for | My take for a used car |
+|---|---|---|
+| **NRMA** | Strong customer satisfaction, established insurer | ⭐⭐⭐⭐ Good all-rounder |
+| **Youi** | Features, service and personalised pricing | ⭐⭐⭐⭐⭐ Worth getting a quote |
+| **Budget Direct** | Low prices/value | ⭐⭐⭐⭐⭐ Excellent if price matters |
+| **AAMI** | Large mainstream insurer, competitive pricing | ⭐⭐⭐⭐ Good comparison quote |
+| **Bingle** | Low-cost, online-focused insurance | ⭐⭐⭐⭐ Good for an older/cheaper car |
+| **Allianz** | Large established insurer | ⭐⭐⭐⭐ Worth comparing |
+| **RAA** | Particularly strong in South Australia | ⭐⭐⭐⭐⭐ Excellent SA option |
+| **RACQ / RACV / RAC** | Strong state-based insurers | ⭐⭐⭐⭐ Depends on your state |
+End Of Line

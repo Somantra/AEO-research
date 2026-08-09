@@ -1,0 +1,10 @@
+2,d05d6e93-bb42-4349-bfd3-e364f0f32017,08080122-1126-0626-0000-cbc06095b4f6,935a412f-189c-4dbe-bf04-70aed4458ee6,2026-08-08T12:41:33.437873+10:00
+Worst pet insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider / policy | Why people criticise it | Monthly payment notes |
+|---|---|---|
+| Petcover Australia | Some customers report large premium increases and concerns about value for money. Community reports include monthly premiums rising substantially over time. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1vg301m/pet_insurance_crazy_increase/?utm_source=chatgpt.com) | Usually available by monthly instalments |
+| Real Insurance pet insurance | Ranked among lower-rated pet policies in a CHOICE comparison based on cover and out-of-pocket costs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) | Monthly payment options generally available |
+| PetsOnMe | Also appeared among lower-rated policies in CHOICE’s comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) | Monthly payment options generally available |
+| RACQ Pet Insurance | Some customer reviews mention slow claims handling, excess issues, and premium rises. Reviews are individual experiences and may not represent all customers. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-pet-insurance?utm_source=chatgpt.com) | Monthly payment options generally available |
+End Of Line

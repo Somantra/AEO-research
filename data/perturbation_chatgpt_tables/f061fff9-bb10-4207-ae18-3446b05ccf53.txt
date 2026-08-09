@@ -1,0 +1,11 @@
+2,210892dc-246a-4fee-9749-c8d48b02acc6,08080117-1126-0626-0000-f65ea40e428b,f061fff9-bb10-4207-ae18-3446b05ccf53,2026-08-08T12:28:43.193032+10:00
+Worst car insurance for young drivers in Australia compared to other providers
+Tables found: 1
+| Provider/policy | Why I'd be cautious for under-25s |
+|---|---|
+| **TrueCover Comprehensive** | CHOICE says it imposes a **$1,000 additional excess on every driver under 35**. That's particularly unattractive for young drivers. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+| **Real Insurance Comprehensive** | CHOICE describes its additional excess for younger drivers as **quite high**. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+| **Bupa Ultimate Comprehensive** | Also has a **high additional young-driver excess**, even when the young driver is listed on the policy. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+| **Huddle/Bupa/Real-style policies** | The headline premium can look competitive, but the young-driver excess can make a claim extremely expensive. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+| **Bingle** | Not necessarily “bad” for young drivers, but its overall new-policy pricing rose **25% from Jan 2025 to Jan 2026**. Interestingly, under-21 premiums actually fell slightly, so it's more of a case of checking the actual quote rather than automatically choosing it because it's a budget brand. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurers-with-the-biggest-price-hikes?utm_source=chatgpt.com) |
+End Of Line

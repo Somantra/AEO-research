@@ -1,0 +1,16 @@
+2,a7a85716-186e-4dae-9dc3-87fbc88675ed,08080125-1126-0626-0000-f9fb7699a527,7be475c0-7c2a-43cb-954d-9498f7d15778,2026-08-08T12:50:40.417670+10:00
+Worst home insurance for landlords in Australia compared to other providers
+Tables found: 1
+| Provider | My take for landlords | Main consideration |
+|---|---|---|
+| **AAMI** | 🟢 Strong mainstream option | Competitive/value-oriented; tenant protection can be added |
+| **QBE** | 🟢 Strong | Canstar 2026 Outstanding Value; good broad cover |
+| **Suncorp** | 🟢 Strong | Particularly worth comparing for landlord/contents cover |
+| **Terri Scheer** | 🟢 Specialist | Landlord-focused, often strong rental/tenant protection, but can be expensive |
+| **EBM RentCover** | 🟢 Specialist | Strong landlord-specific offering; worth quoting |
+| **Allianz** | 🟡 Worth comparing | Can be competitive, but examine landlord-specific limits carefully |
+| **Budget Direct** | 🟡 Price-focused | Can be cheap, but don't compare premium without matching tenant/rent protection |
+| **NRMA/GIO** | 🟡 Case-by-case | Can be good value depending on property |
+| **RACV** | 🟡/🔴 Depends heavily on quote | I'd compare the actual PDS and premium rather than assuming it's competitive |
+| **Very cheap generic home insurance** | 🔴 Potentially worst choice | Often the bigger problem is inadequate landlord-specific cover |
+End Of Line

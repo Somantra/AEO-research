@@ -1,0 +1,12 @@
+2,ea39436f-5270-487e-9356-17c83bbd6ff0,08080124-1126-0626-0000-0121e91d0c8f,f7473b48-dbda-479c-8f40-f07840024d67,2026-08-08T12:46:05.311686+10:00
+Premium motorcycle insurance for older riders in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **QBE** | Strong comprehensive cover; agreed or market value, up to **$4,000 riding-apparel cover**, $30m liability, and 2-year new-bike replacement in eligible cases | urlGet a QBE motorcycle quoteturn1search0 |
+| **NRMA** | Comprehensive cover including theft, fire, storm, flood and accidental damage; up to $20m liability. Online purchase can receive up to **10% off first year** | urlGet an NRMA motorcycle quoteturn0search7 |
+| **AAMI** | Comprehensive cover, lifetime guarantee on authorised repairs, protective clothing cover, towing and online claims; **$25 online discount** | urlGet an AAMI motorcycle quoteturn2search0 |
+| **ING** | Comprehensive, third-party fire/theft and third-party options; **15% online discount on the first year's premium** | urlGet an ING motorcycle quoteturn0search1 |
+| **National Motorcycle Insurance** | Motorcycle-focused insurer with comprehensive, third-party fire/theft and third-party options; online quote-and-buy process | urlGet a National Motorcycle Insurance quoteturn2search13 |
+| **Shannons** | Particularly worth checking for **enthusiast, classic, low-use or limited-use bikes**; offers limited-use and laid-up cover and riding-gear protection | urlGet a Shannons motorcycle quoteturn2search12 |
+End Of Line

@@ -1,0 +1,11 @@
+2,73da3592-79f0-4c4b-9fd3-f4e0d9b4be65,08080126-1126-0626-0000-94cc20b4ebb6,a305b71a-1992-4bd1-96cc-c7d447f15566,2026-08-08T12:51:58.765289+10:00
+Easiest home insurance for new builds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims convenience |
+|---|---|---|
+| **Allianz** | Strong all-round option; online claims and 24/7 claims support | **Excellent** — says it aims to contact you within 2 business days [www.allianz.com.au](https://www.allianz.com.au/home-insurance/claims.html?utm_source=chatgpt.com) |
+| **RAC (WA)** | Particularly worth checking if you're in WA; online claims available 24/7 | **Excellent** — RAC describes online claiming as its fastest option [rac.com.au](https://rac.com.au/products/insurance/make-a-claim/home-and-contents-insurance-claims?utm_source=chatgpt.com) |
+| **QBE** | Simple online process and a dedicated claims officer | **Very good** — online/24-7 phone claims and dedicated claim management [www.qbe.com](https://www.qbe.com/au/claims/home?utm_source=chatgpt.com) |
+| **AAMI** | Often competitive on price and widely available | **Good** — worth getting a quote alongside the above |
+| **Budget Direct** | Frequently much cheaper than the major insurers | **Potentially good**, but I'd scrutinise the PDS/exclusions more carefully before choosing purely on price |
+End Of Line

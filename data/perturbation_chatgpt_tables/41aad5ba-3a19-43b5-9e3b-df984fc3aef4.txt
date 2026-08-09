@@ -1,0 +1,10 @@
+2,cfb70b33-6926-4549-ba66-2993a6605d83,08080139-1126-0626-0000-8dca02c14bca,41aad5ba-3a19-43b5-9e3b-df984fc3aef4,2026-08-08T13:23:03.666215+10:00
+Most popular pet insurance for older pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | New-pet age limit | Online quote | Why consider it |
+|---|---:|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Before 9th birthday | **Yes** | Very established; 200,000+ Australian pets insured; up to $30k cover and 90% reimbursement. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/?utm_source=chatgpt.com) |
+| **[Knose](https://www.knose.com.au/)** | Before 9th birthday | **Yes — ~60 sec** | Strong option for senior pets; up to $25k annual limit, 70/80/90% reimbursement, no upper renewal age. [quick-quote.knose.com.au](https://quick-quote.knose.com.au/?utm_source=chatgpt.com) |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Before 9th birthday | **Yes** | Specifically offers senior-dog and senior-cat insurance; continued cover after age 9 if enrolled beforehand. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+| **PetSure comparison products** | Generally before 9th birthday | **Yes** | Useful if you want to compare several PetSure-issued policies; products include up to $30k annual limits and up to 80% reimbursement. [petsure.com.au](https://petsure.com.au/comparepetinsurance/?utm_source=chatgpt.com) |
+End Of Line

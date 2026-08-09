@@ -1,0 +1,10 @@
+2,90750fd0-b11a-4c96-963d-906d8b968e82,08080131-1126-0626-0000-2fac0f6f6723,1f1b04f3-085a-4b3d-8d5b-9e1e7d93c52d,2026-08-08T13:05:43.579704+10:00
+Easiest roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider | Entry plan | Towing | Callouts | Hidden-fee risk | My take |
+|---|---:|---|---|---|---|
+| [Allianz Roadside Assistance](https://www.allianz.com.au/car-insurance/roadside-assistance.html) | **$99/yr** | Up to 50 km | Included | 🟢 Low | **Best simple standalone option** |
+| [NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance) | **$112/yr annually** | Up to 25 km metro | Unlimited | 🟢 Low | **Best for NSW/ACT** |
+| [RACV Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance.html) | Varies by plan | Up to 60 km on Extra Care | Unlimited | 🟡 Medium | Good, but read benefit limits |
+| [RAC WA Roadside Assistance](https://rac.com.au/car-motoring/roadside-assistance/compare) | **$128/yr** | 25 km metro / 80 km country | Unlimited | 🟡 Medium | Best if you're in WA |
+End Of Line

@@ -1,0 +1,12 @@
+2,38c16774-efba-4c4f-87b8-3ab7b10dd072,08080120-1126-0626-0000-4a767a46241d,10b2a9f1-2e23-47e0-b6d7-080bd0f22f40,2026-08-08T12:36:34.750516+10:00
+Most popular third-party car insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Third-party option | Monthly payment |
+|---|---|---|
+| **AAMI** | Third Party Property Damage | ✅ Available |
+| **NRMA** | Third Party Property Damage | ✅ Available |
+| **Budget Direct** | Third Party Property | ✅ Available |
+| **Youi** | Third Party Property | ✅ Available |
+| **Bingle** | Third Party | ✅ Available |
+| **Suncorp** | Third Party | ✅ Available |
+End Of Line

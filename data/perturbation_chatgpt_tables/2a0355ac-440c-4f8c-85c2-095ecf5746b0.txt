@@ -1,0 +1,11 @@
+2,e1ae4d82-c0f0-4e51-b846-6702d18ae727,08080124-1126-0626-0000-6ff6e51a1936,2a0355ac-440c-4f8c-85c2-095ecf5746b0,2026-08-08T12:46:28.411837+10:00
+Worst motorcycle insurance for custom bikes in Australia with a fast claims process
+Tables found: 1
+| Insurer | Custom-bike fit | Claims convenience | Main concern |
+|---|---|---|---|
+| **QBE** | 🟡 Good if everything is listed | 🟢 24/7 claims | **Every modification/accessory needs to be listed** |
+| **RACV** | 🟢 Better than many mainstream options | 🟢 24/7 claims | Automatic modification cover still needs checking against your exact build |
+| **Shannons** | 🟢🟢 Excellent for enthusiast/custom bikes | 🟢🟢 Excellent | Generally the one I'd investigate first |
+| **Suncorp** | 🟡 Depends heavily on the build | 🟢 | Certain major modifications require specific underwriting |
+| **NRMA** | 🔴 Can be problematic for unusual/custom builds | 🟢 | Reports of difficulties with some cosmetic modifications |
+End Of Line

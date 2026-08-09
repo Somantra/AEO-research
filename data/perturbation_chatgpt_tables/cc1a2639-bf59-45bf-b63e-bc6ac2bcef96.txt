@@ -1,0 +1,10 @@
+1,0b1a8429-826e-4e90-9fa8-ba7817ec4707,08080136-1126-0626-0000-17dd3ee349dd,cc1a2639-bf59-45bf-b63e-bc6ac2bcef96,2026-08-08T13:17:13.840881+10:00
+Safest pet insurance for large dog breeds in Australia
+Tables found: 1
+| Insurer | Why I’d consider it for a large dog | Key cover |
+|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | **My top pick for comprehensive protection** | Up to **$30k/year**, no vet sub-limits, 80–100% reimbursement options, hereditary conditions covered if not pre-existing |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Excellent if you want a high limit and flexibility | **$15k/$25k/$35k**, 70–90% reimbursement, **no sub-limits**, hereditary/congenital and cruciate cover |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | Very strong alternative, particularly because of no sub-limits | PetFlex up to **$35k**, up to 90% back, zero excess available |
+| **[Petsy Pet Insurance](https://petsy.com.au/)** | Worth getting a quote alongside the above | Up to $25k according to current comparison data |
+End Of Line

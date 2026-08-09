@@ -1,0 +1,11 @@
+2,e51825d3-7d9b-4538-a096-99658f3238d1,08080127-1126-0626-0000-7c4e3146ac74,c4cb2070-a76b-4274-ad93-4fb35dc37656,2026-08-08T12:55:39.434363+10:00
+Cheapest home insurance for high-value items in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why worth quoting | Online quote |
+|---|---|---|
+| **Budget Direct** | Often price-competitive; lets you specify high-value contents above standard limits. Current online-purchase discount is **15% for contents-only** or **30% for combined home & contents**, subject to conditions. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/combined.html?utm_source=chatgpt.com) | [Get a Budget Direct quote](https://www.budgetdirect.com.au/home-contents-insurance/contents-insurance.html) |
+| **Real Insurance** | Online quotes; optional **portable valuables** cover, useful for jewellery, watches, electronics etc. [www.realinsurance.com.au](https://www.realinsurance.com.au/home-insurance/wa?utm_source=chatgpt.com) | [Get a Real Insurance quote](https://www.realinsurance.com.au/home-insurance/wa) |
+| **RAC WA** | Particularly worth checking if you're in WA; allows **specified contents** for expensive items and separate personal-valuables cover for items taken outside the home. [rac.com.au](https://rac.com.au/home-life/home-insurance/contents-insurance?cmpag=home&cmpprv=google&cmpprv=google%3Fcmpid%3D500&cmppt=insurance&cmptp=ppc&utm_source=chatgpt.com) | [RAC WA contents insurance](https://rac.com.au/home-life/home-insurance/contents-insurance) |
+| **Youi** | Online quote and potentially competitive in WA; Youi reports that about 75% of surveyed WA customers who switched saved, although that's their own survey rather than a market-wide comparison. [www.youi.com.au](https://www.youi.com.au/home-insurance/wa?utm_source=chatgpt.com) | [Get a Youi quote](https://www.youi.com.au/home-insurance/wa) |
+| **NRMA** | Online contents quote and explicit treatment of high-value items; useful as a benchmark quote. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) | [Get an NRMA quote](https://www.nrma.com.au/home-insurance/contents-insurance) |
+End Of Line

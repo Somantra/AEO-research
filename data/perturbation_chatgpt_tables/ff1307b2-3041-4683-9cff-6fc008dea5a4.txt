@@ -1,0 +1,13 @@
+2,e9cc36bf-cf03-481c-9e16-dd709fe6ad8b,08080138-1126-0626-0000-5c7107fcf030,ff1307b2-3041-4683-9cff-6fc008dea5a4,2026-08-08T13:21:36.832556+10:00
+Cheapest pet insurance for dogs in Australia compared to other providers
+Tables found: 1
+| Provider | Relative price | Cover highlights | My take |
+|---|---|---|---|
+| **Budget Direct** | 🟢 Cheapest | Basic-to-comprehensive options | **Best if lowest premium is priority** |
+| **Bow Wow Meow** | 🟢 Low–mid | Up to $30k, 70/80/90% reimbursement | **Best value overall** |
+| **Petcover** | 🟢 Low–mid | Up to $20k, 70–100% reimbursement | Good for customising cover |
+| **Cover-More/Coles-type budget policies** | 🟢 Low | Lower limits depending on plan | Worth checking for price |
+| **Medibank Pet** | 🟡 Mid–high | Up to $30k, up to 90%, GapOnly | Good features, not cheapest |
+| **Fetch** | 🟠 Higher | Up to $30k, 80/90/100%, no sub-limits | Excellent comprehensive cover |
+| **Pet Insurance Australia** | 🟠 Mid–high | Broad range of cover | Worth quoting, especially for specific breeds |
+End Of Line

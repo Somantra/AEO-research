@@ -1,0 +1,10 @@
+1,0f7d7046-51ad-4822-8d52-3852ffb57099,08080136-1126-0626-0000-3e64d1cc280a,fe6ae948-2bd5-42ea-854c-9479836fdf96,2026-08-08T13:17:53.095742+10:00
+Most reliable pet insurance for exotic pets in Australia
+Tables found: 1
+| Pet | Maximum vet-fee cover |
+|---|---:|
+| Birds/parrots | **$6,000** |
+| Reptiles | **$6,000** |
+| Turtles | **$6,000** |
+| Small mammals | **$4,000** |
+End Of Line

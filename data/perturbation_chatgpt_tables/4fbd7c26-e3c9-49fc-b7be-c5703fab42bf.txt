@@ -1,0 +1,12 @@
+1,e9c5653d-e574-43a2-964c-548727d11fb1,08080125-1126-0626-0000-663cd1e611af,4fbd7c26-e3c9-49fc-b7be-c5703fab42bf,2026-08-08T12:50:49.040276+10:00
+Least reliable home insurance for first-time homeowners in Australia
+Tables found: 1
+| Insurer | Customer experience rated above average/excellent | Claims experience |
+|---|---:|---:|
+| **Qantas Insurance** | **42%** | Not reported |
+| **CGU** | **48%** | Not reported |
+| **CBA Insurance** | 51% | **54%** |
+| **GIO** | 55% | **50%** |
+| **Budget Direct** | 58% | **49%** |
+| **Allianz** | 55% | **52%** |
+End Of Line

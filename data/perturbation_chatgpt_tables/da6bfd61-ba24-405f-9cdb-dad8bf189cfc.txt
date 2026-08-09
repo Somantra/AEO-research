@@ -1,0 +1,12 @@
+2,1154d5c5-9e2b-4fc4-bb44-174020801a0b,08080116-1126-0626-0000-7558ac20943d,da6bfd61-ba24-405f-9cdb-dad8bf189cfc,2026-08-08T12:28:35.993068+10:00
+Best car insurance for young drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer satisfaction* |
+|---|---|---:|
+| **Youi** | Strong overall customer rating; learner-driver cover and comprehensive policies with roadside assistance | **77%** |
+| **NRMA Insurance** | Good balance of reputation, cover options and availability to under-25s | **72%** |
+| **GIO** | Strong customer satisfaction and worth quoting alongside NRMA/Youi | **75%** |
+| **RAC/RACQ/RAA** | Particularly worth checking if you're in WA, QLD or SA respectively | **77–91%** |
+| **AAMI** | Large mainstream insurer with broad availability, though customer satisfaction is more middling | **62%** |
+| **Budget Direct** | Often competitive on price, but weaker claims satisfaction makes me less enthusiastic if service is your priority | **62%** |
+End Of Line

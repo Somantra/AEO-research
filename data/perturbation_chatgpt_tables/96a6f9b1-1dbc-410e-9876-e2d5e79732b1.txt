@@ -1,0 +1,9 @@
+2,524acbd8-4894-4e6c-b89e-f45920948c14,08080132-1126-0626-0000-435ac4d2ff0f,96a6f9b1-1dbc-410e-9876-e2d5e79732b1,2026-08-08T13:05:57.885193+10:00
+Premium roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Premium plan | Monthly payment | Key benefit |
+|---|---|---:|---|
+| **NRMA** | Ultimate Care | **$21.99/mo** promotional* | Unlimited callouts, up to 100 km free towing |
+| **RACV** | Total Care | **$27/mo** | Unlimited callouts, 100 km towing, caravans/trailers |
+| **RACQ** | Ultra Care | **~$18.92/mo equivalent** | Up to 120 km attendance, 60 km towing, broader benefits |
+End Of Line

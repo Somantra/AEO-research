@@ -1,0 +1,11 @@
+2,59eef815-5bfc-4f35-b4e2-160bb3e77645,08080140-1126-0626-0000-d5c223e17ca8,5da99015-20bd-467e-810d-1a6c5fb107ea,2026-08-08T13:25:33.605830+10:00
+Most trusted pet insurance for puppies and kittens in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Biggest strength | My take |
+|---|---|---|---|
+| **Trupanion** | Direct-to-vet at participating hospitals | **No annual/lifetime payout limits or sub-limits**, 90% benefit | 🥇 Best for major/lifelong conditions |
+| **Petsy** | Usually ~5 business days; potentially faster with pre-existing assessment | Strong cover, no condition sub-limits | 🥈 Best balance of cover + claims |
+| **Knose** | Usually within **5 business days** | Simple online claims, flexible cover | 🥉 Excellent all-rounder |
+| **Pet Insurance Australia (PIA)** | Typically **5 business days**; GapOnly can be faster | Established Australian provider + GapOnly | ⭐ Great if fast reimbursement matters |
+| **Bow Wow Meow** | GapOnly available | Up to $30k and 90% reimbursement | ⭐ Strong conventional option |
+End Of Line

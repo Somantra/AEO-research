@@ -1,0 +1,10 @@
+2,267e4ab9-79d0-4b5c-beb9-3ba27e4e5c26,08080132-1126-0626-0000-656eaa44deb4,8438e4b8-8737-4bfc-80fd-1245bc950134,2026-08-08T13:08:10.513240+10:00
+Most comprehensive roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Best comprehensive option | Monthly payment | Hybrid/EV support | Towing |
+|---|---|---:|---|---|
+| **RACQ** | Ultimate Care | Annual price $310; monthly/direct-debit availability should be confirmed | **Excellent** — explicitly covers hybrids, PHEVs and EVs | Higher-level cover includes extensive towing |
+| **RACV** | Total Care | **$27/month** | **Excellent** — EV assistance included; hybrids covered | **100 km** |
+| **NRMA** | Ultimate Care | **$21.99/month** currently advertised | Very good | **100 km** |
+| **Allianz** | Platinum | From annual membership; monthly payment needs confirmation | Good — explicitly supports EVs | **Up to 100 km** |
+End Of Line

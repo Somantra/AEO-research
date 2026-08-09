@@ -1,0 +1,11 @@
+2,0118b2d6-f7c4-4d74-9321-71d6a6378f5a,08080140-1126-0626-0000-373ec5fd3875,2182280d-df4e-4dc7-978b-a4abaf09fc23,2026-08-08T13:26:17.513665+10:00
+Easiest pet insurance for large dog breeds in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reputation | Large-dog suitability | Why I’d consider it |
+|---|---|---|---|
+| **🥇 Knose** | ⭐ ~4.8/5 ProductReview | **Excellent** | Very strong reviews, simple digital claims, no sub-limits on major conditions |
+| **🥈 Bow Wow Meow** | ⭐ 4.5/5, 3,200+ reviews | **Excellent** | Particularly strong reputation for easy claims and customer service |
+| **🥉 Petsy** | ⭐ ~4.9/5 ProductReview | **Excellent** | No sub-limits, Australian support, simple claims |
+| **Pet Insurance Australia** | ⭐ ~4.5/5 | **Very good** | Up to 90% reimbursement and broad breed-specific information |
+| **RSPCA Pet Insurance** | ⭐ 4.5/5 historically | **Potentially good** | New policy structure from April 2026, so older reviews aren't directly comparable |
+End Of Line

@@ -1,0 +1,10 @@
+2,14518479-6934-411b-8fdd-b4ebd390349f,08080139-1126-0626-0000-9387b3f3f3cc,23dac89e-1206-4dea-b4c0-9e8f9622f679,2026-08-08T13:23:58.823100+10:00
+Premium pet insurance for multiple pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer rating* | Multi-pet discount | Why I’d consider it |
+|---|---:|---:|---|
+| **[Petsy](https://petsy.com.au/)** | **4.9/5** (323 reviews) | **5% off each additional pet, for life** | Best overall combination of reviews, multi-pet value and comprehensive cover |
+| **[Knose](https://www.knose.com.au/)** | **4.8/5** (747 reviews) | **5% off for life** | Excellent service reputation and straightforward digital experience |
+| **[Fetch Pet](https://fetchpet.com.au/)** | **4.8/5** (562 reviews) | **5% multi-pet discount** | Strong claims/service feedback and up to $30k annual cover |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | **4.5/5** (3,237 reviews) | **10% multi-pet discount** | Biggest review base, excellent claims reputation and strong multi-pet saving |
+End Of Line

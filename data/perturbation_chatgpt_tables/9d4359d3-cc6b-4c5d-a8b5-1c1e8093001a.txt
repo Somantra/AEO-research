@@ -1,0 +1,10 @@
+2,6fe96a8c-7867-44d9-b54a-3c3e5c978d01,08080139-1126-0626-0000-1ef120c08bee,9d4359d3-cc6b-4c5d-a8b5-1c1e8093001a,2026-08-08T13:23:58.116000+10:00
+Premium pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Claims speed | Multi-pet |
+|---|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | Excellent comprehensive cover: up to **$30k/year**, no vet sub-limits, up to 100% reimbursement | **~15 min** when your vet uses FetchPay and pre-existing checks are complete; Fetch pays the vet directly | **5% multi-pet discount** [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com)[www.fetchpet.com.au](https://www.fetchpet.com.au/articles/how-do-i-submit-a-pet-insurance-claim?utm_source=chatgpt.com) |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | Strong premium option with up to **$30k/year** and a particularly mature claims system | **~5 min** with participating GapOnly vets; 98.6% of claims were processed within 5 business days in 2025 | **5% multi-pet discount** [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/?utm_source=chatgpt.com) |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Very good balance of comprehensive cover and multi-pet savings | Good digital claims experience, though I wouldn't rank it ahead of the two above specifically for speed | **10% multi-pet discount**, one of the better discounts available [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **[Petcover](https://www.petcovergroup.com/au/)** | Premium plans can offer **up to $20k** and reimbursement of up to 100%, with no sub-limits on some plans | Less compelling if *fast claims* is your #1 criterion | **5% multi-pet discount** [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

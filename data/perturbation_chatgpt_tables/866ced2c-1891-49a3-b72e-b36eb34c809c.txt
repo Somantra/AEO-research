@@ -1,0 +1,10 @@
+2,9d2bcd62-8554-4dbe-97bc-ebd3a0ecf602,08080130-1126-0626-0000-722d04512029,866ced2c-1891-49a3-b72e-b36eb34c809c,2026-08-08T13:02:28.667506+10:00
+Least reliable roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Risk | What can happen |
+|---|---|
+| Cheap “Australia-wide” cover | You may find the call-out is covered but towing distance is not |
+| Rural breakdown | A tow beyond the included kilometres may incur extra charges |
+| Wrong vehicle category | 4WDs, caravans, trailers, commercial vehicles and modified vehicles may have exclusions |
+| “Unlimited assistance” wording | Often does not mean unlimited towing or recovery |
+End Of Line

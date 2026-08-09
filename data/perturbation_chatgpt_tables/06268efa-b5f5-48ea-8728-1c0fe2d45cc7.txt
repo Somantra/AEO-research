@@ -1,0 +1,12 @@
+2,f346d18c-c39a-45c3-9bd3-a70af703f9d5,08080125-1126-0626-0000-1099f6655671,06268efa-b5f5-48ea-8728-1c0fe2d45cc7,2026-08-08T12:50:40.618119+10:00
+Worst home insurance for landlords in Australia with strong customer reviews
+Tables found: 1
+| Insurer | ProductReview rating | Reviews | My take |
+|---|---:|---:|---|
+| **Everyday Landlords Insurance** | **1.0/5** | — | 🚩 Very poor review profile |
+| **CGU Landlord Insurance** | **1.2/5** | 39 | 🚩 One of the weakest |
+| **Vero Insurance** | **1.5/5** | — | 🚩 Poor customer-service feedback |
+| **CBA Landlord Insurance** | **1.5/5** | — | 🚩 Significant complaints about claims |
+| **NRMA Landlord & Rental Property** | **1.6/5** | 29 | 🚩 Poor claims/service feedback |
+| **Allianz Landlord Insurance** | **1.9/5** | 98 | 🚩 Low rating with a reasonably large sample |
+End Of Line

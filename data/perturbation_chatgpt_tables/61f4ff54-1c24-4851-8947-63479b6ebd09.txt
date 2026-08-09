@@ -1,0 +1,9 @@
+2,5f8970ab-5024-4020-9d8a-88c49930a55b,08080131-1126-0626-0000-bb5e8903c951,61f4ff54-1c24-4851-8947-63479b6ebd09,2026-08-08T13:05:35.866078+10:00
+Least reliable roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider | Common complaints reported | Compared with stronger performers |
+|---|---|---|
+| Allianz Australia roadside assistance (often bundled through insurers) | Customers commonly criticise claims/service experiences with some Allianz products; roadside quality can vary because services may rely on third-party networks rather than a dedicated patrol fleet. | Dedicated motoring clubs generally have stronger roadside identities and larger direct networks. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/articles/allianz-nrma-qbe-aami-gio-and-suncorp-insurance-compared?utm_source=chatgpt.com) |
+| AAMI roadside assistance | Some customers report slower issue resolution and mixed service experiences. AAMI’s broader customer satisfaction results have tended to sit below several motoring clubs. | Providers such as RAC, NRMA and RAA often score better in customer satisfaction surveys. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/youi?utm_source=chatgpt.com) |
+| Budget Direct roadside assistance | Lower-cost plans can involve more limited benefits and reliance on external contractors; some drivers report inconsistent experiences. | Cheaper plans may be adequate for occasional urban use but may be less reassuring for frequent regional driving. [www.finder.com.au](https://www.finder.com.au/car-insurance/roadside-assistance-survey-data?utm_source=chatgpt.com) |
+End Of Line

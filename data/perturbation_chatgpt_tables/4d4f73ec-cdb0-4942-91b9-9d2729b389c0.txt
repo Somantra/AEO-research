@@ -1,0 +1,10 @@
+2,d4f82e6d-8678-49be-94ab-c1fad07c121a,08080128-1126-0626-0000-ced79da8a822,4d4f73ec-cdb0-4942-91b9-9d2729b389c0,2026-08-08T12:56:32.263833+10:00
+Premium home insurance for high-value items in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Claims angle |
+|---|---|---|
+| **Chubb** | High-net-worth homes, jewellery, art and other valuable possessions | Strong specialist claims capability; worth approaching through a broker |
+| **QBE** | High-value mainstream home/contents cover | 24/7 claims line and online claims; says it generally decides claims within 10 business days once it has all required information [www.qbe.com](https://www.qbe.com/au/claims/home?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/claims?utm_source=chatgpt.com) |
+| **AAMI** | Convenient digital claims and broad home/contents cover | Claims can be lodged online, through the app or by phone, with a defined seven-step process [www.aami.com.au](https://www.aami.com.au/aami-informed/in-the-home/how-the-home-claim-assessment-and-repair-process-works?utm_source=chatgpt.com) |
+| **Zurich** | Specialist/broker-arranged cover where fast settlement is important | Its Priority Settlement service targets 24–48-hour settlement for eligible small property claims once all required information is supplied, although this is primarily a commercial-property service rather than a high-value residential promise [www.zurich.com.au](https://www.zurich.com.au/claims/priority-settlement-service?utm_source=chatgpt.com) |
+End Of Line

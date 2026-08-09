@@ -1,0 +1,13 @@
+2,43b13487-e66e-4557-8b9e-e9daa4570f66,08080129-1126-0626-0000-53833391ed80,0e15cf18-308a-4c0a-ac37-b4736d193e7c,2026-08-08T12:58:56.669187+10:00
+Cheapest home insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Why I'd check it | Cost/value indication |
+|---|---|---|
+| **Youi** | Often competitive on price; flexible quoting | Canstar currently describes its NSW/ACT pricing as generally lower [www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-contents-insurance-cost/?utm_source=chatgpt.com) |
+| **Westpac Home** | Particularly worth checking in Victoria | CHOICE's 2026 analysis gives it an 86% price score in VIC [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **QBE** | Competitive pricing and broad availability | 85% price score in VIC in CHOICE's 2026 analysis [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **Aldi Household Insurance** | Worth quoting if available for your circumstances | 83% price score in VIC [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **Allianz** | Major insurer; competitive in some locations | 83% price score in VIC [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/best-and-cheapest-home-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Usually worth including in a price comparison | Listed among major providers in Canstar's 2026 comparison database [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| **NRMA / AAMI / GIO / Suncorp** | Strong alternatives depending on state and property | All are included in major 2026 comparisons [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+End Of Line

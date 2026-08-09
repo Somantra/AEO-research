@@ -1,0 +1,11 @@
+2,6ca8183f-f6d6-4c12-8312-6b19a43652e3,08080131-1126-0626-0000-b9e51dd9975f,05588809-9be9-4b4c-90a8-1bdb8ff603ac,2026-08-08T13:04:01.608086+10:00
+Most comprehensive roadside assistance for commercial vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Commercial vehicle capability | Online quote/purchase |
+|---|---|---|---|
+| **[Truck Assist](https://www.truckassist.com.au/)** | **Best overall for trucks** | Trucks over 3.5t GVM; specialist truck mechanics; towing/recovery; hydraulic hoses; tyres; fuel; lockouts | **Yes** |
+| **[RACV Business Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance/business.html)** | Fleets/light commercial | Vehicles up to **8t GVM**, 24/7, unlimited callouts, interstate partner network | **Yes** |
+| **[Nationwide Group](https://www.nationwide-group.com.au/)** | **Heavy/specialist recovery** | Heavy trucks, refrigerated trucks, cranes, emergency vehicles, garbage trucks, etc. | **Online quote** |
+| **[24/7 Roadservices Australia](https://247roadservices.com.au/)** | Larger motorhomes/specialty vehicles | Plans up to **8t GVM / 9m**, national network | Online membership options |
+| **[GetATow](https://getatow.com.au/)** | **Instant pay-as-you-go pricing** | Roadside, towing and vehicle transport; vehicle type is incorporated into pricing | **Instant online price** |
+End Of Line

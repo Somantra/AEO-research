@@ -1,0 +1,11 @@
+2,e23b6e59-d5c8-44c8-ba22-f4ef866baaa4,08080129-1126-0626-0000-d3e2f7ca5013,8b0e2a1f-ee91-4908-853c-dfeda970d572,2026-08-08T12:58:53.803847+10:00
+Cheapest home insurance providers in Australia with a fast claims process
+Tables found: 1
+| Provider | Price potential | Claims experience | Best for |
+|---|---|---|---|
+| **AAMI** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Cheapest starting quote |
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐½ | Best low-cost all-rounder |
+| **Youi** | ⭐⭐⭐½ | ⭐⭐⭐⭐⭐ | Best combination of service + claims |
+| **NRMA** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐½ | Strong claims support, especially NSW |
+| **QBE** | ⭐⭐⭐½ | ⭐⭐⭐⭐ | Comprehensive cover |
+End Of Line

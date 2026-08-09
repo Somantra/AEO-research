@@ -1,0 +1,11 @@
+2,0112b4f1-24ea-42c8-b51b-4045b63fa877,08080117-1126-0626-0000-9e620ae9fd52,2aadded6-8d9a-4734-a2e6-428c504bfdc9,2026-08-08T12:28:43.231510+10:00
+Worst car insurance for young drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why it may be poor value for some young drivers |
+|---|---|
+| NRMA Insurance | Can be expensive for under-25 drivers depending on location, car and history; worth comparing against alternatives. |
+| AAMI | Often competitive, but not always cheapest for young drivers; quotes vary heavily by profile. |
+| Youi | Personalised pricing can work well for some drivers but can produce higher quotes for others. [www.youi.com.au](https://www.youi.com.au/car-insurance/learner-driver-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Can be good value, but check excesses and policy details rather than choosing only on price. [www.finder.com.au](https://www.finder.com.au/car-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/car-insurance/?utm_source=chatgpt.com) |
+| QBE Insurance | May suit some drivers, but young drivers should compare features and total cost. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/car-insurance-under-25s/?utm_source=chatgpt.com) |
+End Of Line

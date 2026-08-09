@@ -1,0 +1,10 @@
+2,f213873d-6f04-4dfc-ab39-d2823eca14d4,08080123-1126-0626-0000-92a842998aae,90f06999-d9c6-4fd0-a534-5767c46e43c9,2026-08-08T12:44:19.802374+10:00
+Worst third-party motorcycle insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Third-party motorcycle | Claims convenience | My take |
+|---|---|---|---|
+| **GIO** | Yes | **24/7 claims** by phone; strong claims infrastructure | ⭐ **Best fit for fast claims** |
+| **QBE** | Yes | Online claims + **24/7 claims line**; says online claims are responded to within 48h | ⭐ **Very good** |
+| **Youi** | Yes | 24/7 online claims; generally strong customer-service focus | ⭐ **Good alternative** |
+| **AAMI** | Yes | 24/7 claims team, but **third-party motorcycle claims cannot be lodged online** | Good, but less convenient for your requirement |
+End Of Line

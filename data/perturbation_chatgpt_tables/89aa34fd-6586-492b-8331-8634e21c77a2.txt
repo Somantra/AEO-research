@@ -1,0 +1,11 @@
+2,09a0fefe-557b-438c-881e-bf79bf3c9e1a,08080139-1126-0626-0000-bbabad282061,89aa34fd-6586-492b-8331-8634e21c77a2,2026-08-08T13:24:15.415102+10:00
+Best pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing condition approach | Best for | Main limitation |
+|---|---|---|---|
+| Pet Insurance Australia | Generally excludes existing conditions; may consider some resolved conditions after review | Owners wanting broad cover for **new** problems | Existing chronic issues usually remain excluded |
+| RSPCA Pet Insurance | May cover some conditions after a symptom-free period depending on circumstances | Staying with an established provider | Switching after diagnosis can leave exclusions |
+| Budget Direct Pet Insurance | Some cured conditions may be reconsidered after a period without symptoms | Lower-cost cover | Longer symptom-free requirements may apply |
+| Medibank Pet Insurance | Strong comprehensive cover for future illnesses/accidents | Pets without major existing issues | Does not generally solve existing-condition exclusions |
+| Fetch Pet Insurance | Competitive comprehensive cover, but existing conditions are usually excluded | Overall feature-rich cover | Not designed to pay for known conditions |
+End Of Line

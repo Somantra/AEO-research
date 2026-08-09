@@ -1,0 +1,10 @@
+2,6195d4e6-af66-44bd-82ce-dfd87913cd81,08080124-1126-0626-0000-3c43d851e7e3,a6af93c5-ce01-4e64-9e7c-26ddaee2ad6d,2026-08-08T12:47:15.764649+10:00
+Cheapest long-term motorcycle rental insurance in Australia compared to other providers
+Tables found: 1
+| Option | Indicative long-term price | Insurance | Comments |
+|---|---:|---|---|
+| **Scootering / Xpert Moto, Sydney** | from **$69/week** | Included | Unlimited km, insurance, roadside assistance; mainly scooters/smaller bikes [www.scootering.com.au](https://www.scootering.com.au/fleet/?utm_source=chatgpt.com) |
+| **EasyMoto, Sydney** | from **$85/week** | Comprehensive included | No lock-in contracts; scooters and CBF125; unlimited km [www.easymoto.com.au](https://www.easymoto.com.au/?utm_source=chatgpt.com) |
+| **NAX Motorcycle Rental** | **$160/week for 4 weeks** | Rental insurance arrangement | Honda CB400; security deposit normally $2,000, potentially $1,000 for eligible riders [sydneymotorbikerental.com.au](https://sydneymotorbikerental.com.au/motorcycle-riding-classes-motorcycle-rental.php?utm_source=chatgpt.com) |
+| Separate motorcycle policy | Highly variable | Usually **not suitable for a rental bike** | Standard insurers generally insure bikes you own, not bikes you're hiring |
+End Of Line

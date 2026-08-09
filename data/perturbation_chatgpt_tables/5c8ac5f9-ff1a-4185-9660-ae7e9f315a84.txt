@@ -1,0 +1,11 @@
+2,d3bfd3e3-b0f5-4a5d-98d2-eee7a162fe73,08080135-1126-0626-0000-a3fbf155fcd7,5c8ac5f9-ff1a-4185-9660-ae7e9f315a84,2026-08-08T13:15:02.195973+10:00
+Least reliable travel insurance for adventure sports in Australia compared to other providers
+Tables found: 1
+| Provider/type | Adventure-sports suitability | Main concern |
+|---|---|---|
+| **Basic/cheap policies from providers such as Tick Basic** | 🔴 Low | Many adventure activities aren't covered; optional cover may be needed |
+| **Tick Standard/Top** | 🟠 Moderate | Better overall cover, but activity-specific exclusions still matter |
+| **Allianz/Worldcare standard policies** | 🟠–🟢 Depends heavily on activity | Must verify the exact sport and conditions |
+| **Travel Insurance Direct / World Nomads** | 🟢–🟠 Activity dependent | Generally worth considering for adventure travel, but check the Australian PDS |
+| **Cover-More with appropriate Adventure/Adventure+ add-on** | 🟢 Strong | Broad adventure menu, but exclusions and conditions still apply |
+End Of Line

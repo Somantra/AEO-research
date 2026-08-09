@@ -1,0 +1,9 @@
+2,2bafe0a7-1ed5-46bd-a680-1a14331b441f,08080138-1126-0626-0000-0ed58842a409,6a4e3538-94fc-4a1d-aefd-78fb7cf55a09,2026-08-08T13:21:25.454298+10:00
+Premium pet insurance for cats in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out for fast claims | Cover highlights |
+|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/cat-insurance)** | **Best for speed.** With FetchPay and a participating vet, claims are assessed in around **15 minutes**, and Fetch can pay the vet directly. [www.fetchpet.com.au](https://www.fetchpet.com.au/articles/can-fetch-pet-insurance-pay-vets-directly?utm_source=chatgpt.com) | Up to **$30,000/year**, up to 100% reimbursement, $0 excess option, no sub-limits on its advertised cat plan; dental, physio and behavioural cover included subject to the PDS. [www.fetchpet.com.au](https://www.fetchpet.com.au/cat-insurance?utm_source=chatgpt.com) |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/make-a-claim/)** | **Excellent established fast-claims option.** GapOnly claims at participating vets can be settled in about **10 minutes**; eClaims are typically processed within 5 business days. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) | Comprehensive accident/illness options with GapOnly availability. |
+| **[Petsy Pet Insurance](https://petsy.com.au/claims-process/)** | Usually **5–10 business days**, but potentially quicker when a pre-existing-condition assessment has already been completed. It also offers direct-to-vet payment. [petsy.com.au](https://petsy.com.au/claims-process/?utm_source=chatgpt.com) | No sub-limits advertised, extensive cover and Australian customer support. [petsy.com.au](https://petsy.com.au/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,03f44417-98c6-42e3-8498-aa7aa002a674,08080120-1126-0626-0000-f517d17000c7,d74ae162-225e-4359-b27d-c002e64c50e3,2026-08-08T12:37:33.404369+10:00
+Most trusted car insurance for high-risk drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Claims process | My take for high-risk drivers |
+|---|---|---|---|
+| **RACQ** | ⭐ **85%** rated above average/excellent | Online or phone; claims team support | **Best overall if you’re in QLD** |
+| **NRMA Insurance** | ⭐ **78%** | 24/7 online claims + phone + tracking | **Strong all-rounder** |
+| **GIO** | ⭐ **76%** | 24/7 online/app/phone; instant claim number | **Excellent for fast digital claims** |
+| **Youi** | ⭐ **73%** | 24/7 online/app/phone + tracking | **Worth trying for difficult risk profiles** |
+| **AAMI** | 64% | Online/app/phone | Good to quote, but weaker claims satisfaction |
+End Of Line

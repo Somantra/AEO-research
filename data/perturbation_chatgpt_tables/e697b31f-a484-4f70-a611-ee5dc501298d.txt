@@ -1,0 +1,10 @@
+2,c33b9272-29b5-4599-8ee2-c0748fcbb46d,08080139-1126-0626-0000-34e039a6a75a,e697b31f-a484-4f70-a611-ee5dc501298d,2026-08-08T13:23:36.317375+10:00
+Least reliable pet insurance for multiple pets in Australia compared to other providers
+Tables found: 1
+| Provider | Why I’d be cautious | Multiple-pet suitability |
+|---|---|---|
+| **Budget Direct Pet Insurance** | Very low current customer rating: about **1.9/5 from 49 ProductReview reviews**, with recurring complaints about claim denials, exclusions and customer service. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-pet-insurance?utm_source=chatgpt.com) | **Poor** — no multi-pet discount. [www.finder.com.au](https://www.finder.com.au/pet-insurance/budget-direct-pet-insurance?utm_source=chatgpt.com) |
+| **Coles Pet Insurance** | CHOICE compares it among the Australian market, but current independent review data puts it toward the weaker end; I'd scrutinise the PDS particularly carefully before insuring several pets. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) | **Below average** if you're looking for a straightforward multi-pet arrangement |
+| **Petcover** | Recent Australian owner discussions show significant concern about premium increases; one August 2026 report described a rise from $110 to $165/month. That's anecdotal, so I wouldn't treat it as proof of poor claims reliability. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1vg301m/pet_insurance_crazy_increase/?utm_source=chatgpt.com) | **Mixed** — compare the combined cost for all pets carefully |
+| **Trupanion** | **Not necessarily unreliable for claims**—in fact, its direct-vet-payment model can be excellent. The problem for multiple pets is cost: it doesn't offer a multi-pet discount, and premiums can be expensive. [www.wsj.com](https://www.wsj.com/buyside/personal-finance/pet-insurance/trupanion-pet-insurance-review?utm_source=chatgpt.com) | **Poor for cost-conscious multi-pet households** |
+End Of Line

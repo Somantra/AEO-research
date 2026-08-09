@@ -1,0 +1,11 @@
+2,d822c783-cd5d-4a21-8543-c438023fb3b1,08080139-1126-0626-0000-c9d33ca447d1,311343b6-9d42-4257-94e7-966bc40b49fe,2026-08-08T13:23:10.980710+10:00
+Most comprehensive pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Provider / policy type | Strengths for senior pets | Potential drawbacks |
+|---|---|---|
+| Medibank Pet Max Cover | High annual benefit limits (reported up to $30,000), up to 90% reimbursement options, accident & illness cover; relatively competitive for pets still within entry age limits | New enrolments for older pets may be restricted; check age eligibility and exclusions |
+| RSPCA Pet Insurance | Strong accident & illness options, high benefit limits (some options up to $35,000), supports animal welfare programs | Maximum entry ages can be lower; premiums may rise significantly as pets age |
+| Pet Insurance Australia Select & Protect | Comprehensive accident & illness cover, options up to 90% reimbursement and higher annual limits | Older pets may face entry restrictions and exclusions |
+| Knose Comprehensive cover | Modern policy design, accident & illness focus, higher reimbursement options | Newer provider; check claims experience and policy wording carefully |
+| Petcover Vital Plan | One of the providers that may still consider some older pets | May have lower limits/features compared with top comprehensive plans |
+End Of Line

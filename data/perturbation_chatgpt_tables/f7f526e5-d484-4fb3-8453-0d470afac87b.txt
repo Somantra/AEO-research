@@ -1,0 +1,11 @@
+2,78ff24fb-d707-4eaf-affe-e4d2d7e717fd,08080121-1126-0626-0000-5b5e24113015,f7f526e5-d484-4fb3-8453-0d470afac87b,2026-08-08T12:40:14.714880+10:00
+Worst motorcycle insurance for scooters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims/experience signal | My take for a scooter |
+|---|---|---|
+| **Youi** | Stronger than average car-claims satisfaction; motorcycle reviews are generally positive | 🟢 Worth quoting |
+| **NRMA** | 72% overall customer satisfaction in CHOICE’s latest insurer comparison | 🟢 Worth quoting |
+| **QBE** | Motorcycle riders report generally good experiences, but individual claims can take weeks | 🟡 Quote and check policy carefully |
+| **AAMI** | 62% overall satisfaction in CHOICE's comparison | 🟡 Not my first pick for fast claims |
+| **Budget Direct** | 62% satisfaction; some rider communities report frustrating claims/renewal experiences | 🔴 **One I'd be cautious about if claims speed is your #1 priority** |
+End Of Line

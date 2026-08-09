@@ -1,0 +1,9 @@
+2,6b2989cc-aca2-4d99-a2c4-60a168b9982a,08080135-1126-0626-0000-c952db69ad01,f7c37481-abe4-44af-bb61-a75152398924,2026-08-08T13:15:23.513965+10:00
+Premium travel insurance for adventure sports in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Adventure sports cover | Claims convenience |
+|---|---|---|---|
+| World Nomads | Adventure-focused travellers | Covers **220+ sports and activities** (including activities such as scuba diving, mountain biking, surfing and skiing, subject to plan terms) | Online claims available 24/7; emergency assistance available while travelling [www.worldnomads.com](https://www.worldnomads.com/au/travel-insurance/whats-covered/online-travel-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Premium mainstream cover with optional adventure add-ons | Adventure Pack available on eligible plans; activities and exclusions vary by policy wording | Established claims process and 24/7 emergency assistance network [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) |
+| Cover-More | Travellers wanting a large Australian travel insurer | Adventure activities depend on the selected policy and options | Often considered by Australian travellers needing local claims support; check current PDS and claims service details |
+End Of Line

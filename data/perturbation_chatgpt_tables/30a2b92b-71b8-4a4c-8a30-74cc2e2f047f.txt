@@ -1,0 +1,11 @@
+2,e49f1d0f-152b-44fa-9cc1-02d3418da0dd,08080119-1126-0626-0000-7dbe1a4565b4,30a2b92b-71b8-4a4c-8a30-74cc2e2f047f,2026-08-08T12:34:10.368729+10:00
+Worst car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Speed / convenience | My take |
+|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best overall for fast claims** |
+| **Youi** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Excellent service and claims |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Very convenient online/app claims |
+| **Allianz** | ⭐⭐⭐ | ⭐⭐⭐⭐ | Good published response times, weaker satisfaction |
+| **Budget Direct** | ⭐⭐ | ⭐⭐⭐⭐ | Often cheap, but claims satisfaction is weaker |
+End Of Line

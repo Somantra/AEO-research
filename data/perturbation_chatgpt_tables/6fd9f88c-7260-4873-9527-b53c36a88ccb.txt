@@ -1,0 +1,10 @@
+1,5d2df3d1-cfaf-4ebb-bae9-79af367c6f0b,08080135-1126-0626-0000-e74ddb3c394f,6fd9f88c-7260-4873-9527-b53c36a88ccb,2026-08-08T13:14:04.427032+10:00
+Cheapest pet insurance for multiple pets in Australia
+Tables found: 1
+| Insurer | Multi-pet discount | Current offer | My take |
+|---|---:|---:|---|
+| **Budget Direct** | No specific multi-pet discount found | **15% off first year** online | 🥇 Likely cheapest starting point |
+| **Bow Wow Meow** | **10%** | Up to **2 months free** | 🥈 Excellent for multiple pets |
+| **Fetch** | **5%** | Varies | Good coverage, worth quoting |
+| **Knose** | **5%** | **2 months free** currently | Good value, particularly if coverage matters |
+End Of Line

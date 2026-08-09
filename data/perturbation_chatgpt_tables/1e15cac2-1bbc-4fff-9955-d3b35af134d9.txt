@@ -1,0 +1,11 @@
+2,54dd4acd-c079-4f3b-b7d3-d044c3bb0cf8,08080136-1126-0626-0000-549c18db8fad,1e15cac2-1bbc-4fff-9955-d3b35af134d9,2026-08-08T13:17:17.191769+10:00
+Safest travel insurance for pre-existing medical conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing conditions | My view |
+|---|---|---|
+| **AllClear** | Specialist underwriting; says it can cover all pre-existing conditions, subject to medical screening | 🥇 **Best specialist option** |
+| **Cover-More** | Many conditions automatically covered; others assessed | 🥈 **Best mainstream option** |
+| **Medibank** | Many common conditions automatically covered; assessment available for others | 🥉 **Strong mainstream alternative** |
+| **1Cover** | Medical assessment required for conditions outside automatic cover | **Good, but more condition-dependent** |
+| **Allianz** | Strong mainstream insurer, but pre-existing-condition rules can be more restrictive | **Worth quoting, especially for stable conditions** |
+End Of Line

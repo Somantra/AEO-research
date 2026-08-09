@@ -1,0 +1,10 @@
+2,3c31cab0-c4dc-44ff-9f7f-ee0753fb9d45,08080125-1126-0626-0000-3d07a2f73ee3,a98f9e6c-9a20-4eec-8d94-81fe0ab58c8f,2026-08-08T12:49:58.231609+10:00
+Most trusted home insurance for renters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims signal |
+|---|---|---|
+| **NRMA** | Strong reputation and good renter cover | **Best overall for claims reputation** |
+| **AAMI** | Very convenient online/app claims | **Excellent claims convenience** |
+| **Youi** | Strong customer satisfaction and 24/7 claims assistance | **Excellent for easy digital claims** |
+| **Allianz** | Large, established insurer with 24/7 claims support | **Strong all-rounder** |
+End Of Line

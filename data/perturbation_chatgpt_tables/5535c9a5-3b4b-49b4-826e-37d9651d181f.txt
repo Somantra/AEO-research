@@ -1,0 +1,9 @@
+2,f1f079fa-d81f-40ca-a245-5db1c5788fea,08080121-1126-0626-0000-c13a822c868b,5535c9a5-3b4b-49b4-826e-37d9651d181f,2026-08-08T12:39:07.109850+10:00
+Best motorcycle insurance for learner riders in Australia with a fast claims process
+Tables found: 1
+| Insurer | Learner-friendly? | Claims experience/process | Best for |
+|---|---|---|---|
+| **QBE** | ✅ Explicitly covers learners | ⭐⭐⭐⭐⭐ 24/7 claims, online lodging, dedicated claims officer, accredited motorcycle repairers | **Best overall fit** |
+| **AAMI** | ✅ Offers motorcycle cover | ⭐⭐⭐⭐⭐ 24/7 online claims, photo/document upload, claim tracking | **Fast/easy digital claims** |
+| **NRMA** | ✅ Motorcycle insurance available | ⭐⭐⭐⭐ Claims online, towing assistance, updates and lifetime repair guarantee | **Strong repair/claims support** |
+End Of Line

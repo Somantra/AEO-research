@@ -1,0 +1,11 @@
+2,8f137e0b-ed8b-4330-894c-cd0990fe1090,08080131-1126-0626-0000-88097c2e4216,4d405fce-e459-4c48-9851-86f36953088a,2026-08-08T13:04:44.270371+10:00
+Most trusted roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Why it suits older cars |
+|---|---|---|
+| NRMA Roadside Assistance | **Best overall (especially NSW)** | Large established roadside network, strong reputation for handling common older-car issues like flat batteries, breakdowns and towing. [www.reddit.com](https://www.reddit.com/r/DrivingAustralia/comments/1uqdevq/any_good_roadside_assistance_other_than_nrma/?utm_source=chatgpt.com) |
+| RACV Roadside Assistance | **Victoria** | Long-running motoring organisation; roadside requests can be made through its app, and it states assistance is generally available within about an hour of a request (conditions apply). [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| RACQ Roadside Assistance | **Queensland** | Strong state-based coverage with app/online request options and 24/7 assistance channels. [www.racq.com.au](https://www.racq.com.au/help-contact/roadside/how-do-i-request-roadside-assistance?utm_source=chatgpt.com) |
+| Allianz Roadside Assistance | **Simple nationwide option** | Offers 24/7 support, mobile mechanics and a national network of technicians/towing providers. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+| RAC Roadside Assistance | **Western Australia** | Well-established WA motoring club with a large local member base.  |
+End Of Line

@@ -1,0 +1,10 @@
+2,d273ef34-e155-4801-8976-de51ada80c1e,08080134-1126-0626-0000-83ada08f752b,fbd59d0b-ddf6-4a2c-997b-53c6af91610b,2026-08-08T13:11:41.225757+10:00
+Worst travel insurance for backpackers in Australia with instant online quotes
+Tables found: 1
+| Insurer / option | Why it can be a bad backpacker fit |
+|---|---|
+| **1Cover** | You generally need to be an Australian resident eligible for full Medicare benefits; the standard policy also requires buying before departure. [www.1cover.com.au](https://www.1cover.com.au/cover/not-covered/?utm_source=chatgpt.com) |
+| **Allianz Basic** | It's deliberately an essentials-only product. Adventure activities such as skiing/sports may require an additional pack, so the cheap quote can be misleading for an active backpacker. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance.html?utm_source=chatgpt.com) |
+| **Any policy without motorcycle cover** | A major trap for backpackers in Bali/Thailand/SE Asia. Riding a scooter can be excluded unless the relevant cover is specifically included. |
+| **Cheap “medical-only” policies** | Can look fantastic on price but may leave you without useful baggage, cancellation, interruption and personal-liability protection. |
+End Of Line

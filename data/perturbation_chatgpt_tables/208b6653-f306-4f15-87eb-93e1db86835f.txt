@@ -1,0 +1,9 @@
+2,be3fc413-e322-4573-8638-af0e95626eac,08080129-1126-0626-0000-0d25700f1c0b,208b6653-f306-4f15-87eb-93e1db86835f,2026-08-08T13:00:10.610270+10:00
+Worst roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Review sentiment | Common complaints |
+|---|---|---|
+| RACV | Lower customer ratings compared with some rivals | Delays, communication issues, inconsistent experiences. RACV’s EV cover does include EV-related support such as out-of-charge assistance and high-voltage-trained patrols, but customer reviews of roadside service overall are mixed. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/racv-roadside-assistance?utm_source=chatgpt.com) |
+| RACQ | Mixed reviews | Some customers praise helpful patrols, while others report frustration with wait times and service handling. RACQ offers EV roadside assistance with high-voltage-aware patrols. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) |
+| Independent/insurance-linked roadside programs | Highly variable | Smaller networks may struggle more in regional areas or with EV-specific breakdowns. |
+End Of Line

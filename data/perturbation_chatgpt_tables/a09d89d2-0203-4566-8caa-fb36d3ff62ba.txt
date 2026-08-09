@@ -1,0 +1,10 @@
+2,28877599-f56c-424d-bdf7-1ffe6014202e,08080142-1126-0626-0000-78723d583380,a09d89d2-0203-4566-8caa-fb36d3ff62ba,2026-08-08T13:29:05.069797+10:00
+Most popular pet insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Why it stands out | Transparency |
+|---|---|---|
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | No sub-limits on standard vet treatments; annual excess of $0/$100/$200; up to $25k annual cover | ⭐⭐⭐⭐⭐ |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | New Select & Protect plan has **no sub-limits**, up to $35k annual cover, 70–90% reimbursement and $0–$600 annual excess | ⭐⭐⭐⭐⭐ |
+| **[Trupanion Australia](https://trupanion.com.au/)** | No payout limits; 90% eligible-vet-bill cover; lifetime **per-condition** excess, so you don't repeatedly pay an excess for the same condition | ⭐⭐⭐⭐ |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | Major, well-known Australian brand with its PDSs readily available online | ⭐⭐⭐⭐ |
+End Of Line

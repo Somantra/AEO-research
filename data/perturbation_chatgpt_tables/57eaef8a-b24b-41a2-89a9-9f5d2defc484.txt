@@ -1,0 +1,13 @@
+1,f6f6851c-5359-4859-91d8-7bd645c08e1e,08080129-1126-0626-0000-5952bf7b4629,57eaef8a-b24b-41a2-89a9-9f5d2defc484,2026-08-08T12:59:58.631321+10:00
+Easiest roadside assistance for rural areas in Australia
+Tables found: 1
+| Where you live | Best starting point |
+|---|---|
+| NSW / ACT | **NRMA** |
+| Queensland | **RACQ** |
+| Victoria | **RACV** |
+| South Australia | **RAA** |
+| WA | **RAC** |
+| Tasmania | **RACT** |
+| NT | **AANT** |
+End Of Line

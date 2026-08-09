@@ -1,0 +1,11 @@
+2,2d7424c0-c10d-47a4-ad5b-50f6cdc230ed,08080127-1126-0626-0000-edf78b6a257b,214f8447-f834-47d3-8892-2007d3eb8769,2026-08-08T12:54:09.162042+10:00
+Safest home insurance for apartments in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims |
+|---|---|---|
+| **Allianz** | Strong overall option; won Canstar’s 2025 Outstanding Value Home Insurance award in NSW and nationally | **24/7 claims**, online lodgement; Allianz says new claims generally receive a response within **2 business days** [www.allianz.com.au](https://www.allianz.com.au/home-insurance/claims.html?utm_source=chatgpt.com) |
+| **Youi** | Excellent customer-satisfaction credentials; Canstar named Youi the **2025 national Most Satisfied Customer – Home Insurance** | **24/7 claims**, app lodgement and claims tracking [www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-nsw/?utm_source=chatgpt.com) |
+| **AAMI** | Strong value and broad availability; Canstar awarded it Outstanding Value for Home, Contents and Home & Contents in 2025 | **24/7 online/app claims**, with guided process and claim tracking [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/home-and-contents-insurance/?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/claim?utm_source=chatgpt.com) |
+| **Budget Direct** | Particularly interesting if claims experience and overall insurer performance are priorities | Canstar named it **2026 Insurer of the Year**, with claims-process experience included in the award methodology [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/insurer-of-the-year-award/?utm_source=chatgpt.com) |
+| **Suncorp** | Particularly worth checking for **contents-only** apartment cover; won Canstar's 2025 Contents Insurance award nationally and in NSW | Good established option; compare its actual PDS/excess against Allianz/AAMI |
+End Of Line

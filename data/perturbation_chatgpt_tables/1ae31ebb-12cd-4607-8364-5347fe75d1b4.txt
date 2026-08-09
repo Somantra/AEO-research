@@ -1,0 +1,13 @@
+2,f5522fba-1c3b-4149-8e8a-9dc111ebe259,08080127-1126-0626-0000-666419991307,1ae31ebb-12cd-4607-8364-5347fe75d1b4,2026-08-08T12:53:38.685529+10:00
+Cheapest home insurance for apartments in Australia compared to other providers
+Tables found: 1
+| Provider | Relative price indication | Comments |
+|---|---|---|
+| **Everyday Insurance Standard** | **$ in NSW** | One of the cheaper options in CHOICE's current comparison |
+| **CBA Contents Cover Plus** | **$ in NSW** | Cheap; includes a 25% underinsurance safety net |
+| **CBA Contents Cover Classic** | **$ in NSW** | Also rated in the cheaper price band |
+| **Real Insurance** | Varies | Hollard-backed; compare the actual quote rather than assuming it's cheapest |
+| **AAMI / NRMA / Apia** | Varies | Worth quoting, particularly if you have other policies |
+| **Budget Direct** | Generally competitive | Finder rates it highly, but your apartment-specific quote can differ |
+| **QBE** | Generally competitive | Worth including in the comparison |
+End Of Line

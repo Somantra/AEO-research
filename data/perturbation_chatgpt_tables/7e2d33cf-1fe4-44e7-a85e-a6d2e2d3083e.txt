@@ -1,0 +1,13 @@
+2,61be3541-4fbc-4a3e-a4ef-51854dd22ae8,08080120-1126-0626-0000-1e6ae2794093,7e2d33cf-1fe4-44e7-a85e-a6d2e2d3083e,2026-08-08T12:37:36.847554+10:00
+Most trusted car insurance for high-risk drivers in Australia compared to other providers
+Tables found: 1
+| Insurer | Trust / claims reputation | High-risk suitability | My view |
+|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Best overall starting point** |
+| **Youi** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Excellent customer satisfaction; worth quoting |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐ | Strong mainstream option, but may impose a driver-history excess or decline some histories |
+| **GIO** | ⭐⭐⭐⭐ | ⭐⭐⭐ | Worth comparing, particularly for Suncorp/AAI customers |
+| **Allianz** | ⭐⭐⭐⭐ | ⭐⭐⭐ | Strong claims infrastructure, but pricing can be less attractive for higher-risk drivers |
+| **Budget Direct** | ⭐⭐⭐ | ⭐⭐⭐⭐ | Often worth getting a quote, but claims satisfaction is materially weaker |
+| **RACV** *(Victoria)* | ⭐⭐⭐⭐ | ⭐⭐⭐ | Good local option, particularly if you're in Victoria |
+End Of Line

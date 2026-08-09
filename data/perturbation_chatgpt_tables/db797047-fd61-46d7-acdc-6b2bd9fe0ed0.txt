@@ -1,0 +1,10 @@
+2,2cae8dab-b689-4e86-a0b7-7fa5000edf10,08080132-1126-0626-0000-404ea0fa0fef,db797047-fd61-46d7-acdc-6b2bd9fe0ed0,2026-08-08T13:07:23.424075+10:00
+Most affordable roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Cheapest plan | Annual price | Key catch |
+|---|---:|---:|---|
+| **[NRMA](https://www.nrma.com.au/roadside-assistance)** (NSW/ACT) | Everyday Care | **$112/year** paid annually | 25 km metro towing |
+| **[RACV](https://www.racv.com.au/cars-transport/roadside-assistance.html)** (VIC) | Roadside Care | **$138/year** | 20 km metro towing |
+| **[RAC WA](https://rac.com.au/car-motoring/roadside-assistance)** (WA) | Standard | **$128/year advertised annually** | Monthly payment has 6% admin fee |
+| Other state motoring clubs | Varies | Usually ~$120–$250+ | Depends heavily on state and towing distance |
+End Of Line

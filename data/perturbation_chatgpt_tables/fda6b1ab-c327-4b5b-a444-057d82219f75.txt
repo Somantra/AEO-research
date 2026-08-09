@@ -1,0 +1,10 @@
+2,d543a670-72ed-4a0a-af20-662108df165f,08080130-1126-0626-0000-cd3852771003,fda6b1ab-c327-4b5b-a444-057d82219f75,2026-08-08T13:03:14.417896+10:00
+Best roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Commercial focus | Heavy vehicles | Roadside | Claims process | My pick |
+|---|---|---|---|---|---|
+| **Truck Assist** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **🏆 Best overall** |
+| **NRMA** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Best network |
+| **RACV Business** | ⭐⭐⭐⭐ | Up to 8t | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Best ≤8t |
+| **Allianz** | ⭐⭐⭐⭐ | Depends on policy | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Best insurance claims |
+End Of Line

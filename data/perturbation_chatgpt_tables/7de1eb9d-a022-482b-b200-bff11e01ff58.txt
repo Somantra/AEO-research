@@ -1,0 +1,11 @@
+2,c11f2109-37e5-486a-baf2-c0d9bb0e0876,08080138-1126-0626-0000-a0f7ea8d9de2,7de1eb9d-a022-482b-b200-bff11e01ff58,2026-08-08T13:21:08.602178+10:00
+Least reliable pet insurance for cats in Australia compared to other providers
+Tables found: 1
+| Provider / brand | My view | Why |
+|---|---|---|
+| **PetsOnMe** | 🔴 **Avoid / high caution** | CHOICE currently ranks it among the lowest-rated pet-insurance policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Real Insurance** | 🔴 **Avoid / high caution** | Also in CHOICE's lowest-rated group. Some policies have relatively restrictive limits; e.g. Real Classic has $12k annual cover and up to $2k per condition. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Petcover** | 🔴 **Avoid / high caution** | CHOICE specifically identifies Petcover among the lowest-rated policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Some PetSure-branded policies** | 🟠 **Investigate carefully** | PetSure underwrites a very large number of brands, so the brand name alone doesn't tell you the quality of the policy. ASIC previously issued stop orders covering 67 PetSure/Hollard pet products over deficiencies in target-market determinations. The orders were subsequently lifted after changes. [asic.gov.au](https://asic.gov.au/about-asic/news-centre/find-a-media-release/2023-releases/23-174mr-asic-issues-38-ddo-stop-orders-for-pet-insurance-products/?utm_source=chatgpt.com) |
+| **Trupanion** | 🟢/🟠 **Potentially strong, but compare carefully** | It has unusually comprehensive features, including no annual benefit limit and 90% reimbursement, but the exact policy terms and price need checking. [www.choice.com.au](https://www.choice.com.au/products/money/insurance/pet/trupanion-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

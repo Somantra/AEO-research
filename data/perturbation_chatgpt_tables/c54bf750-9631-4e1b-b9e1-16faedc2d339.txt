@@ -1,0 +1,12 @@
+2,3513bca6-d581-483c-ab34-f7f9615bb7bf,08080140-1126-0626-0000-4086b598afd5,c54bf750-9631-4e1b-b9e1-16faedc2d339,2026-08-08T13:25:39.997283+10:00
+Most popular pet insurance for puppies and kittens in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer-review signal | Best for | My take |
+|---|---|---|---|
+| **Petsy** | ⭐ **4.9/5 from 323 ProductReview reviews** | Puppies/kittens, comprehensive cover | 🥇 **Best overall shortlist** |
+| **Fetch Pet** | ⭐ **4.8/5 from 562 reviews** | Strong claims/customer service | 🥈 **Excellent alternative** |
+| **Bow Wow Meow** | Finder 2026 **Most Recommended** & **Most Trusted** | Established specialist insurer | 🥉 **Very strong choice** |
+| **AAMI** | Finder 2026 **Most Loved** + **Top Value** | Value + mainstream insurer | ⭐ **Best value contender** |
+| **Trupanion** | ⭐ **4.6/5 from 190 reviews** | Major unexpected/chronic conditions | ⭐ **Premium coverage option** |
+| **Pet Insurance Australia** | ⭐ **4.5/5** | Established Australian provider | ⭐ **Worth comparing** |
+End Of Line

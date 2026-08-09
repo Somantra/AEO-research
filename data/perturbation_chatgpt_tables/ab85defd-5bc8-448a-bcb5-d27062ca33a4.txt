@@ -1,0 +1,11 @@
+2,1a9fc36b-a95f-4fd2-916e-c79a3ee425a3,08080137-1126-0626-0000-c1918c7260b6,ab85defd-5bc8-448a-bcb5-d27062ca33a4,2026-08-08T13:19:24.336196+10:00
+Cheapest domestic travel insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Why check it | Online quote |
+|---|---|---|
+| **Budget Direct Domestic** | Often very price-competitive; **15% online-purchase discount** currently advertised | urlGet Budget Direct quoteturn1search5 |
+| **InsureandGo Bare Essentials** | Low-cost tier specifically for domestic trips; instant online quote process | urlGet InsureandGo quoteturn0search1 |
+| **Tick Basic Domestic** | Budget-focused policy; cancellation $1,500 and baggage $2,000 | urlCompare Tick policiesturn1search0 |
+| **Travel Insurance Direct Domestic** | Worth checking when price-shopping; included in CHOICE's domestic comparison | urlCompare Travel Insurance Directturn1search11 |
+| **Australia Post Domestic** | Quote takes minutes and offers optional extras | urlGet Australia Post quoteturn0search3 |
+End Of Line

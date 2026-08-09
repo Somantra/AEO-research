@@ -1,0 +1,11 @@
+1,ca98d4e7-0a4e-4c14-8a7f-a4a75e965693,08080130-1126-0626-0000-e17931a84362,c0cdd4d2-d468-42bb-afd4-6992b3e70a6c,2026-08-08T13:02:24.131442+10:00
+Least reliable roadside assistance providers in Australia
+Tables found: 1
+| Provider | Common complaints reported | Notes |
+|---|---|---|
+| Budget Direct roadside assistance | Longer waits, outsourced service experiences, inconsistent contractor quality | Often chosen for price; cheaper plans may trade off service consistency. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+| Allianz roadside assistance | Mixed feedback around call handling and contractor experiences | Some customers report good service, but it lacks the same roadside-specialist reputation as motoring clubs. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+| AAMI roadside assistance | Some complaints about delays and service consistency | Customer experience varies; it is often bundled with insurance rather than being the provider’s core focus. [www.choice.com.au](https://www.choice.com.au/transport/cars/general/buying-guides/roadside-assistance?utm_source=chatgpt.com) |
+| RACV (some customers) | Occasional complaints about wait times and service outcomes | It remains a major provider, but online reviews include mixed experiences. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racv?utm_source=chatgpt.com) |
+| RACQ (some customers) | Some complaints about timeliness and customer service | Review sites show a split experience: many positive reports but also a substantial number of negative reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

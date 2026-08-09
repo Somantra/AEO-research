@@ -1,0 +1,11 @@
+2,33b90287-4e54-4452-b5d9-b1d187380332,08080117-1126-0626-0000-bbdf83ed0da4,97968e05-9e14-4e04-b577-530df5a9c394,2026-08-08T12:29:49.563939+10:00
+Worst car insurance for P-plate drivers in Australia without hidden fees
+Tables found: 1
+| Watch out for | Why it hurts P-platers |
+|---|---|
+| **Huge age or inexperienced-driver excess** | You might pay thousands before the insurer contributes to a claim. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/young-driver-car-insurance?utm_source=chatgpt.com) |
+| **Unlisted driver excess** | If you drive a parent’s car but aren’t listed, the excess can be much higher. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/young-driver-car-insurance?utm_source=chatgpt.com) |
+| **Low advertised premium with lots of exclusions** | Cheap cover may remove benefits like hire cars, choice of repairer, or certain claim options. |
+| **Monthly payment fees** | Some insurers charge more over time compared with annual payment. |
+| **Market value only** | Your payout after a write-off may be lower than expected. |
+End Of Line

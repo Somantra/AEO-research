@@ -1,0 +1,11 @@
+2,4c955bbb-25c3-44a0-b2e8-1c3b34d5a641,08080139-1126-0626-0000-e24c4afc6220,825ccf73-e2e5-43e4-9fab-11ec48afeb4f,2026-08-08T13:23:58.818717+10:00
+Premium pet insurance for multiple pets in Australia compared to other providers
+Tables found: 1
+| Provider | Multi-pet discount | Top annual cover | Reimbursement | Standout feature | My take |
+|---|---:|---:|---:|---|---|
+| **Pet Insurance Australia** | **5% / 10% / 15%** on 2nd/3rd/4th+ pets | Varies by policy | Varies | Strong multi-pet discount | ⭐ **Best for 3–4+ pets** |
+| **Bow Wow Meow** | **10%** on 2nd+ pets | **$30k** | Up to **90%** | No sub-limits + GapOnly | ⭐ **Best overall alternative** |
+| **Fetch** | **5%** | **$30k** | Up to **100%** | Broad inclusions + FetchPay | ⭐ **Best for comprehensive cover** |
+| **Budget Direct** | Multiple pets allowed | **$25k** | **80%** | Potentially lower-cost | ⭐ **Best budget option** |
+| **Petcover** | Check quote | **$20k** | Up to **100%** | No sub-limits on Superior | Worth quoting |
+End Of Line

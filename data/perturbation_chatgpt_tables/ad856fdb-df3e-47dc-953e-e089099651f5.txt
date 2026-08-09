@@ -1,0 +1,11 @@
+2,b1a74e66-4326-40f3-8b14-073152dfa9e3,08080126-1126-0626-0000-eda7136e524f,ad856fdb-df3e-47dc-953e-e089099651f5,2026-08-08T12:51:29.105741+10:00
+Cheapest home insurance for new builds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why consider it |
+|---|---|
+| **Budget Direct** | Often competitive on price; CHOICE rated it reasonably for value, though its claims experience was weaker than the leaders. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **Coles Insurance** | Strong value-for-money results in the latest CHOICE survey and relatively good claims ratings. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **RACV** | Particularly attractive if you're in Victoria: Finder's 2026 awards named RACV **Easiest to Claim Home Insurance – VIC**. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **NRMA** | Strong claims reputation nationally; Finder named it **Easiest to Claim nationally** and Most Recommended nationally in 2026. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Youi** | Worth getting a quote if price is important; it scored well for value and claims experience in CHOICE's 2025 survey, although customer experiences were more mixed. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+End Of Line

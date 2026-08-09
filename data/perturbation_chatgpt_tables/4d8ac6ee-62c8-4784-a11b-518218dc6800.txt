@@ -1,0 +1,10 @@
+2,8543620c-7be2-45bf-9441-2a29cf1223bf,08080131-1126-0626-0000-f1870b3cf77e,4d8ac6ee-62c8-4784-a11b-518218dc6800,2026-08-08T13:05:27.890906+10:00
+Worst roadside assistance plans in Australia with instant online quotes
+Tables found: 1
+| Plan | Current price* | Main weakness | Online quote |
+|---|---:|---|---|
+| **RACV Roadside Care** | $138/yr | Only **20 km metro towing** | urlGet RACV pricingturn1search0 |
+| **RACV Extra Care** | $229/yr | Better, but still only **60 km towing** | urlGet RACV pricingturn1search4 |
+| **Allianz Basic** | from $99/yr | **50 km towing**; several useful benefits are higher-tier | urlAllianz roadside assistanceturn1search6 |
+| **Budget Direct** | $89.95/yr ($76.46 first year online) | Cheap, but service-area and towing limits need checking carefully | urlBudget Direct quoteturn1search12 |
+End Of Line

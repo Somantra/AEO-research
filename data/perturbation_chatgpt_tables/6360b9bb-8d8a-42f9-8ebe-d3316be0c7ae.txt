@@ -1,0 +1,11 @@
+2,191029e2-45f9-4246-afcd-67c48329d3dc,08080129-1126-0626-0000-4263de593304,6360b9bb-8d8a-42f9-8ebe-d3316be0c7ae,2026-08-08T13:00:07.026389+10:00
+Best roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | EV support | Current published price | Hidden-fee risk | Best for |
+|---|---|---:|---|---|
+| **RACV** | EV out-of-charge towing, high-voltage-trained patrols | **$318/yr Total Care** | 🟢 Low | **Best overall in Victoria** |
+| **RACQ** | EV charging-station towing, High Voltage Aware patrols | From **$80/yr**, but higher tiers needed for towing | 🟡 Medium | Queensland |
+| **NRMA** | EV roadside assistance available | From **$112/yr annually** | 🟡 Medium | NSW/ACT |
+| **RAA** | EV assistance + mobile emergency charging in metro areas | Varies by cover | 🟢 Low | South Australia |
+| **RAC WA** | EV roadside assistance | Varies by cover | 🟢 Low | Western Australia |
+End Of Line

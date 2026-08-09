@@ -1,0 +1,11 @@
+2,a5a43333-4c11-4505-b7b5-6566992f0f89,08080140-1126-0626-0000-c556bffdf212,53258991-d6bf-4b7e-8671-d8dd6ed31a61,2026-08-08T13:25:22.122097+10:00
+Least reliable pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Provider / policy | CHOICE rating | Main concern | Puppy/kitten suitability |
+|---|---:|---|---|
+| **Petcover Economy** | **25%** | No lifetime cover; benefits reduce with age | 🔴 Poor |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only, only $5k/year, excludes illness and cruciate injury | 🔴 Poor |
+| **Australian Seniors Basic** | **53%** | Poor out-of-pocket score | 🟠 Below average |
+| **Guardian Bronze** | **53%** | Poor out-of-pocket score | 🟠 Below average |
+| **Real Insurance Classic** | **53%** | $2k-per-condition limit | 🟠 Below average |
+End Of Line

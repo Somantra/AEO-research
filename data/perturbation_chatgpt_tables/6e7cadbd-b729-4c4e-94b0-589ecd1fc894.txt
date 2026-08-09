@@ -1,0 +1,10 @@
+1,7ad789f5-a13f-4ce4-bb64-5c0ae169695d,08080136-1126-0626-0000-eaeaf62087ba,6e7cadbd-b729-4c4e-94b0-589ecd1fc894,2026-08-08T13:16:51.035324+10:00
+Best pet insurance for large dog breeds in Australia
+Tables found: 1
+| Insurer | Why I’d consider it for a large dog | Annual limit |
+|---|---|---:|
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | **Best overall for high cover** — no sub-limits, hereditary/congenital conditions covered, cruciate cover, GapOnly claims | **$15k / $25k / $35k** |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | **Excellent for orthopaedic problems** — no sub-limits on common expensive conditions such as cruciate disease and hip surgery; hereditary conditions covered | **$30k** |
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | **Great value/simple policy** — no sub-limits and flexible excess/coverage options | **Up to $25k** |
+| **PIA** | Particularly attractive if you want the **highest available annual limit** and 90% reimbursement | **Up to $35k** |
+End Of Line

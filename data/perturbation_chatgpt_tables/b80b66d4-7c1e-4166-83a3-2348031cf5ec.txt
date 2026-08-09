@@ -1,0 +1,10 @@
+1,f28962e1-a032-4486-afb3-f612360e0564,08080123-1126-0626-0000-b95e1433cff8,b80b66d4-7c1e-4166-83a3-2348031cf5ec,2026-08-08T12:43:29.705920+10:00
+Safest home insurance for renters in Australia
+Tables found: 1
+| Insurer | Why I’d consider it |
+|---|---|
+| **QBE** | Strong renter-specific cover; up to **$30m legal liability** and cover for major events such as fire, theft, storm and flood. [www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/qbe-contents-renters?utm_source=chatgpt.com) |
+| **Allianz** | Particularly attractive for broad protection, with **$20m liability**, alternative accommodation, lock replacement and storage/moving benefits. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/contents.html?utm_source=chatgpt.com) |
+| **Youi** | Good option if you want flexible contents cover and optional accidental damage; up to **$20m liability**. [www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/youi-contents-renters?utm_source=chatgpt.com) |
+| **ING** | Worth pricing because its renters policy is based on the same underlying cover as Budget Direct, with up to **$20m liability**. [www.choice.com.au](https://www.choice.com.au/products/money/insurance/home-and-contents/ing-contents-renters?utm_source=chatgpt.com) |
+End Of Line

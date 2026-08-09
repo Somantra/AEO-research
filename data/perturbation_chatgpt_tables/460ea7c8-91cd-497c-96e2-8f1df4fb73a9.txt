@@ -1,0 +1,10 @@
+2,8c76ec06-bcfe-4f8e-a57b-4e6354231a3d,08080137-1126-0626-0000-8241789263fc,460ea7c8-91cd-497c-96e2-8f1df4fb73a9,2026-08-08T13:18:31.217152+10:00
+Most popular long-term travel insurance in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Long continuous trip? | Fee transparency |
+|---|---|---|---|
+| **World Nomads** | Backpacking / long-term travel | ✅ Often suitable | ⭐⭐⭐⭐ |
+| **InsureandGo Australia** | Value & established insurer | ⚠️ Check maximum trip length | ⭐⭐⭐⭐ |
+| **Cover-More** | Comprehensive mainstream cover | ⚠️ Depends on policy | ⭐⭐⭐⭐ |
+| **Allianz Australia** | Mainstream comprehensive cover | ❌ Annual multi-trip has 15/30/45-day limits | ⭐⭐⭐⭐⭐ |
+End Of Line

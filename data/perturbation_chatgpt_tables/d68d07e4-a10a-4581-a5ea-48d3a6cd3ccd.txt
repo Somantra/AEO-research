@@ -1,0 +1,12 @@
+1,4c31fee1-e3f4-4e7b-b95c-f24c7b7d6a88,08080124-1126-0626-0000-0037890cf57d,d68d07e4-a10a-4581-a5ea-48d3a6cd3ccd,2026-08-08T12:48:07.655704+10:00
+Worst home and contents insurance in Australia
+Tables found: 1
+| Insurer | Customer experience rated above average/excellent | Claims experience |
+|---|---:|---:|
+| **Qantas** | **42%** | — |
+| **CGU** | **48%** | — |
+| **CBA/CommBank** | 51% | 54% |
+| **Allianz** | 55% | 52% |
+| **GIO** | 55% | 50% |
+| **Budget Direct** | 58% | 49% |
+End Of Line

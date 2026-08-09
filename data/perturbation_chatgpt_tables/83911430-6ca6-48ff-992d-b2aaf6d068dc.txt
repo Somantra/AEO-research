@@ -1,0 +1,11 @@
+2,d81f1f00-aa19-4e95-b955-39c54cf8d932,08080121-1126-0626-0000-11e3630cae04,83911430-6ca6-48ff-992d-b2aaf6d068dc,2026-08-08T12:39:08.985500+10:00
+Best motorcycle insurance for learner riders in Australia with instant online quotes
+Tables found: 1
+| Insurer | Learners? | Online quote | Why consider it |
+|---|---|---|---|
+| **QBE** | ✅ Yes | ✅ Yes | **Best starting point** — explicitly covers learner riders; comprehensive includes gear/apparel cover up to $4,000. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | ✅ Generally | ✅ Yes | Strong option for comprehensive cover; currently offers up to 10% first-year online discount. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Check eligibility in quote | ✅ Yes | Broad motorcycle coverage and $25 first-year online discount. [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Varies | ✅ Yes | Worth quoting because learner pricing can be very different between insurers. |
+| **Youi** | Varies | ❌ Phone quote | Often well regarded for features/service, but it doesn't meet your instant-online-quote requirement. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

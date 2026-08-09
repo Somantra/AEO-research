@@ -1,0 +1,10 @@
+2,7fe17877-da03-4ef9-bbf7-58b24ecf2064,08080132-1126-0626-0000-a370e8721686,487d42a7-f746-4002-9dd5-a0fda18fb661,2026-08-08T13:07:54.973935+10:00
+Most trusted roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Hybrid/EV support | Speed / convenience |
+|---|---|---|---|
+| **RACV** | ⭐ Best overall, especially Victoria | Yes, including hybrids; EV assistance at no extra cost | Typically within 1 hour; app tracking in metro Melbourne |
+| **Allianz** | Best national alternative | Yes, including EV out-of-charge assistance | 24/7 Australia-wide |
+| **RACQ** | Best for Queensland | Strong roadside coverage, Australia-wide | Online/app requests; higher tiers offer broader recovery |
+| **NRMA** | Strong NSW/national option | Hybrid/EV assistance available | Large established roadside network |
+End Of Line

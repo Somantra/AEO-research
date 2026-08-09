@@ -1,0 +1,10 @@
+2,e34cb67d-6f88-400f-b32d-d9993cab1ec6,08080136-1126-0626-0000-914d2faedf47,625a916e-8998-4bed-81a9-54201a519602,2026-08-08T13:17:31.775419+10:00
+Premium travel insurance for pre-existing medical conditions in Australia with strong customer reviews
+Tables found: 1
+| Provider | Why it may suit travellers with pre-existing conditions | Review/customer reputation notes |
+|---|---|---|
+| AllClear Travel Insurance | Specialises in covering travellers with medical conditions and assesses conditions individually rather than relying only on a standard list. | Customer reviews frequently mention acceptance of pre-existing conditions and helpful service experiences. [www.trustpilot.com](https://www.trustpilot.com/review/www.allcleartravel.com.au?utm_source=chatgpt.com) |
+| InsureandGo Australia | Offers policies where pre-existing conditions are considered, with options aimed at older travellers and those needing broader medical assessment. | Reported as a 2026 ProductReview.com.au Travel Insurance Award winner based on customer feedback metrics. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance-awards/product-review-2026/?utm_source=chatgpt.com) |
+| Allianz Australia | A large established insurer with comprehensive travel insurance options; often considered by travellers wanting a major insurer and broad assistance network. | Some travellers report positive claims experiences, but you should check the exact PDS and medical-condition rules for your situation. [www.reddit.com](https://www.reddit.com/r/travel/comments/1rqijbu/travel_insurance_with_a_preexisting_condition/?utm_source=chatgpt.com) |
+| Cover-More | Known for comprehensive travel cover options and medical screening for conditions that may need assessment. | Worth comparing if you want premium-level cover rather than the cheapest policy. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+End Of Line

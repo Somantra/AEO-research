@@ -1,0 +1,11 @@
+2,308196d7-bc39-4332-89cc-6ab9e6e5e49b,08080136-1126-0626-0000-a97a58415cfb,7e8a3d65-9477-4bfb-b852-b08584a06857,2026-08-08T13:17:57.950007+10:00
+Worst long-term travel insurance in Australia compared to other providers
+Tables found: 1
+| Provider | My take for long-term travel | Why |
+|---|---|---|
+| **World Nomads** | 🔴 **Most concerning** | Very poor current customer-review scores, particularly around claims and customer service |
+| **Travel Insurance Direct (TID)** | 🟠 **Read PDS carefully** | Good overall reputation, but annual policy has a relatively short **35-day maximum per trip** |
+| **1Cover** | 🟡 **Generally reasonable** | Stronger customer ratings, but complaints tend to involve non-medical claims and documentation |
+| **Allianz** | 🟡 **Worth comparing** | Established insurer, but annual multi-trip limits can be restrictive |
+| **Southern Cross Travel Insurance (SCTI)** | 🟢 **One I'd investigate** | Annual multi-trip allows up to **90 days per trip**, which is unusually useful for frequent/long travellers |
+End Of Line

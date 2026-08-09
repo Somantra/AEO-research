@@ -1,0 +1,11 @@
+2,dc00cc3f-8125-456f-84bb-83c630079eb9,08080135-1126-0626-0000-50becd8641c9,23d29342-f1df-4046-a6b1-ab4dfda2e988,2026-08-08T13:15:19.111785+10:00
+Most popular travel insurance for adventure sports in Australia with monthly payments
+Tables found: 1
+| Provider | Adventure sports suitability | Payment options |
+|---|---|---|
+| Fast Cover | Strong focus on adventure travellers; covers many activities and offers activity-specific options | Offers instalment options such as PayPal Pay in 4 and Zip Pay (rather than a traditional monthly insurance subscription) [help.fastcover.com.au](https://help.fastcover.com.au/article/567-can-i-pay-for-my-policy-in-instalments?utm_source=chatgpt.com) |
+| Allianz Australia | Adventure Pack add-on for activities not included in standard cover; good for hiking, diving and other adventure activities | Payment options depend on the quote/policy setup [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) |
+| Cover-More | Popular for adventure travel; includes many activities automatically and has optional upgrades for higher-risk activities [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/adventure-travel-insurance?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) | Payment options depend on purchase method |
+| InsureandGo Australia | Offers sports/activity cover and upgrades for higher-risk activities and winter sports [www.insureandgo.com.au](https://www.insureandgo.com.au/we-cover/sports-and-activities/?utm_source=chatgpt.com) | Payment options depend on policy purchase |
+| nib | Covers a range of activities such as hiking, surfing, scuba diving and some higher-risk activities on eligible plans [www.nib.com.au](https://www.nib.com.au/travel-insurance/what-we-cover/activities?utm_source=chatgpt.com) | Payment options depend on plan |
+End Of Line

@@ -1,0 +1,14 @@
+2,1d40e094-b8e7-41af-a53e-794020186c5c,08080131-1126-0626-0000-d4bf374b3ac9,7978a4a0-82d7-4f8d-b3cf-c0c7163a6065,2026-08-08T13:05:58.667356+10:00
+Most popular roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider | Best known for | Example entry/typical plan | Towing / standout feature |
+|---|---|---:|---|
+| **NRMA** | NSW/ACT; very large national network | **$112/yr** promotional annual price for Everyday Care; RRP $137 | 25 km metro towing; higher tiers 50 km/100 km |
+| **RACV** | Victoria | **$138/yr** Roadside Care | 20 km metro; Extra Care gives 60 km; Total Care 100 km |
+| **RACQ** | Queensland | From **$80/yr** for Everyday Lite | Multiple tiers, including higher cover for long-distance driving |
+| **RAC WA** | Western Australia | **$128/yr** Standard; $220/yr Classic | Classic is explicitly its "Most popular" option |
+| **RAA** | South Australia | Varies by plan | Strong state-club network |
+| **RACT** | Tasmania | Varies by plan | Tasmanian motoring-club coverage |
+| **Allianz** | National insurer alternative | **$99/yr Basic**, $139/yr Platinum | 50 km towing Basic / 100 km Platinum |
+| **AAMI / Budget Direct etc.** | Cheap insurance-linked option | Often competitively priced as an add-on | Usually less extensive than premium motoring-club memberships |
+End Of Line

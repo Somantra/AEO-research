@@ -1,0 +1,11 @@
+2,a97c8e88-6bb6-48b6-8fb4-e130975a883a,08080133-1126-0626-0000-1cef65f74bf1,c0b8d751-a89a-4f63-bade-eb9fcc66c651,2026-08-08T13:09:21.467579+10:00
+Most affordable roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Cheapest cover | Monthly payment | Approx. annual cost | Notes |
+|---|---:|---:|---:|---|
+| **Budget Direct** | Standalone roadside | **No monthly plan** | **$89.95/yr** | Cheapest overall, but paid annually |
+| **NRMA** | Everyday Care | **$9.99/mo** | **$119.88** | Monthly option; available to SA residents |
+| **RAA** | Standard | **$11.25/mo** | **$135** | Excellent option if you're in SA |
+| **RAC WA** | Standard | ~**$11.31/mo*** | $135.68 | Monthly direct debit available |
+| **RACT** | Advantage | **$12/mo** | $144 | Monthly direct debit; Tasmania |
+End Of Line

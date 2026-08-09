@@ -1,0 +1,11 @@
+2,3c3061ae-0b05-4f2d-ba11-1cf28374c914,08080128-1126-0626-0000-58e65fb8674d,ee97bad5-5ba4-45b5-ba54-cceebce005be,2026-08-08T12:58:23.246833+10:00
+Easiest home insurance for first-time homeowners in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote |
+|---|---|---|
+| **Budget Direct** | Probably the simplest starting point; fully online and currently advertises **15% off building-only or 30% off combined home & contents** for new policies bought online. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/compare-policy-options.html?segment=HOME-HEAD&utm_source=chatgpt.com) | [Get a Budget Direct quote](https://www.budgetdirect.com.au/home-contents-insurance.html) |
+| **NRMA Insurance** | Straightforward online home/building & contents quotes; currently offers **up to 10% off eligible policies bought online**. [www.nrma.com.au](https://www.nrma.com.au/home-insurance?utm_source=chatgpt.com) | [Get an NRMA quote](https://www.nrma.com.au/home-insurance) |
+| **Allianz** | Good option if you want a mainstream insurer with online quoting, **24/7 claims support**, and an **instant Certificate of Currency after purchase**. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/home-insurance/first-time-home-insurance?utm_source=chatgpt.com) | [Get an Allianz quote](https://www.allianz.com.au/home-insurance.html) |
+| **AAMI** | Very easy online process and online claims; currently advertises a **$50 first-year online discount** for home & contents. [www.aami.com.au](https://www.aami.com.au/aami-informed/in-the-home/home-and-contents-insurance-whats-covered?utm_source=chatgpt.com) | [Get an AAMI quote](https://www.aami.com.au/) |
+| **ING** | Worth checking if you want a simple online purchase; currently advertises **15% off home-only or 30% off combined home & contents** for the first year online. [www.ing.com.au](https://www.ing.com.au/insurance.html?utm_source=chatgpt.com) | [Get an ING quote](https://www.ing.com.au/insurance/home-and-contents-insurance.html) |
+End Of Line

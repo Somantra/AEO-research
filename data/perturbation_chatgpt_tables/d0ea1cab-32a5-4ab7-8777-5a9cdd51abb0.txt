@@ -1,0 +1,9 @@
+2,0abc90c4-3d0f-4453-93cf-ed04eed3cf8e,08080142-1126-0626-0000-61aee9f85b47,d0ea1cab-32a5-4ab7-8777-5a9cdd51abb0,2026-08-08T13:28:45.974852+10:00
+Least reliable pet insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Why it raises concern |
+|---|---|
+| **PetsOnMe** | Ranked among CHOICE’s lowest-scoring pet-insurance policies across 30 coverage/value features. |
+| **Real Insurance** | Also among CHOICE’s lowest-rated policies. |
+| **Petcover** | Among the lowest-rated in CHOICE’s comparison; there are also recent consumer reports of substantial renewal increases. |
+End Of Line

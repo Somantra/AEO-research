@@ -1,0 +1,12 @@
+2,dff85565-f57c-468a-b9e7-a76be3359c02,08080131-1126-0626-0000-9e7bdd0b5771,0b70a88f-fb7f-4622-9b83-600330dea965,2026-08-08T13:04:44.748765+10:00
+Safest roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Why I'd consider it | Older-car suitability |
+|---|---|---|
+| **RACV** | Strong roadside network, unlimited call-outs, battery help, towing and regional/interstate reciprocal assistance | ⭐⭐⭐⭐⭐ |
+| **RACQ** | Explicitly says its roadside cover applies **regardless of car age**; excellent higher-level towing/attendance | ⭐⭐⭐⭐⭐ |
+| **NRMA** | Very large, established network and good Australia-wide support | ⭐⭐⭐⭐½ |
+| **RAA** | Particularly strong if you're in SA; personal rather than vehicle-based cover | ⭐⭐⭐⭐½ |
+| **RAC WA** | Excellent towing distances on higher plans, particularly useful in WA's long-distance driving environment | ⭐⭐⭐⭐½ |
+| Insurance-company roadside | Often cheaper, but benefits and towing can be more restrictive | ⭐⭐⭐ |
+End Of Line

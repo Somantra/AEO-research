@@ -1,0 +1,11 @@
+2,c798415f-b4b1-40c2-8284-0f8e970d8cdd,08080139-1126-0626-0000-ab1e8b80f918,ba15529e-71b8-4a7a-9cf7-8c3007ce6c29,2026-08-08T13:22:22.410289+10:00
+Cheapest pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | Approximate cost guide |
+|---|---|---|
+| Budget Direct Pet Insurance | Often among the cheaper providers for basic cover | Can be lower-cost depending on age/breed [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Competitive pricing on some comprehensive policies | Example comparison: about $78/month for a benchmark policy (not a senior-pet quote) [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) |
+| Bow Wow Meow | Value-focused cover options | Example comparison: about $79/month for a benchmark policy (not a senior-pet quote) [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) |
+| Medibank Pet Insurance | Higher cover limits, if eligible | May suit some older pets depending on entry age and policy [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) |
+| Petcover | Options for some older pets | Has senior-pet comparisons available [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

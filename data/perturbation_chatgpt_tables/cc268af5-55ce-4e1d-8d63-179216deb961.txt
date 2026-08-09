@@ -1,0 +1,10 @@
+2,36ba8705-bbf1-4317-b5a6-02f27af764aa,08080137-1126-0626-0000-c350d5d3851b,cc268af5-55ce-4e1d-8d63-179216deb961,2026-08-08T13:20:06.536191+10:00
+Worst travel insurance providers in Australia with monthly payments
+Tables found: 1
+| Policy | CHOICE Expert Rating | Main concern |
+|---|---:|---|
+| **Flight Centre Silver Travel Insurance** | **50%** | Very poor price/value despite reasonable cover |
+| **Flight Centre Gold Travel Insurance** | **52%** | Expensive for the level of cover |
+| **1Cover Medical Only** | **54%** | Limited cover because it’s medical-only |
+| **World Nomads Standard** | **54%** | Relatively weak overall score |
+End Of Line

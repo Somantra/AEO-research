@@ -1,0 +1,10 @@
+2,0bdf5c82-ab81-445f-b88b-cdeb456e9d28,08080118-1126-0626-0000-5d76d1728df4,044e7263-747e-4dd3-af06-8da0a5f17242,2026-08-08T12:32:34.028036+10:00
+Most trusted car insurance for small cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims/service | Best for |
+|---|---|---|
+| **[RAC](https://rac.com.au/)** | ⭐ **Excellent in WA** — 80% of surveyed customers rated their claims experience above average/excellent; online claims are available 24/7 and RAC describes this as its fastest way to claim. [rac.com.au](https://rac.com.au/products/insurance/make-a-claim/car-insurance-claims?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/car-insurance/reviews.html?utm_source=chatgpt.com) | **My first choice for a WA driver** |
+| **[Youi](https://www.youi.com.au/)** | ⭐ Very good — 73% claims satisfaction in the CHOICE survey, plus 24/7 claims lodgement in WA. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Strong service and easy claims |
+| **[NRMA Insurance](https://www.nrma.com.au/)** | ⭐ Good — 78% of surveyed customers with settled claims rated the experience above average/excellent; claims can be lodged online 24/7. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Good national option |
+| **[Allianz Australia](https://www.allianz.com.au/)** | 👍 Solid — 4.5/5 from 1,700+ independently collected car-insurance reviews, though CHOICE's claims-experience result was lower at 69%. [rac.com.au](https://rac.com.au/products/insurance/make-a-claim/car-insurance-claims?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/car-insurance/reviews.html?utm_source=chatgpt.com) | Large established insurer |
+End Of Line

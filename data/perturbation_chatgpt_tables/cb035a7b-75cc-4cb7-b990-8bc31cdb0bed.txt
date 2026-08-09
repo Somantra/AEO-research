@@ -1,0 +1,9 @@
+2,3abd0e9c-4a42-403b-ad16-d0032cb7be19,08080127-1126-0626-0000-408fd472d524,cb035a7b-75cc-4cb7-b990-8bc31cdb0bed,2026-08-08T12:55:54.571080+10:00
+Worst home insurance for high-value items in Australia with monthly payments
+Tables found: 1
+| Provider/policy type | Why to be cautious |
+|---|---|
+| **Low-cost “basic” contents policies** | Often have lower limits for jewellery, watches, artwork, collections and portable items unless you add specified cover. [moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+| Woolworths Insurance, Bupa, Huddle Insurance, ahm and some other white-label policies | CHOICE identified a number of low-scoring home insurance products it advised consumers to be wary of, citing issues such as poor value, exclusions, or limited features. [moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/contents-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Policies with very low premiums | A cheap monthly payment can hide lower sub-limits or exclusions that matter more for expensive possessions. [moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/contents-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

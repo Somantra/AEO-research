@@ -1,0 +1,10 @@
+2,2da1bb59-30d0-4bb8-96d1-3110aa56124c,08080131-1126-0626-0000-d64cfa6cb962,6907395d-9db3-460a-97d5-3b25b0018a41,2026-08-08T13:03:47.592217+10:00
+Most trusted roadside assistance for commercial vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Commercial-vehicle fit | Customer-review signal |
+|---|---|---|---|
+| **RACV Business Roadside Assistance** | ⭐ Best overall for Victorian fleets | Vehicles up to **8 tonnes GVM**; 24/7; unlimited callouts | Strong local reputation; ProductReview has substantial review volume [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business.html?utm_source=chatgpt.com) |
+| **Isuzu Care Roadside Assist / NTI Truck Assist** | ⭐ Best for actual trucks | **Truck-specific**, Australia-wide, 24/7 | Excellent operational fit, particularly for Isuzu fleets; 6 years included with new trucks [www.dealer.isuzu.com.au](https://www.dealer.isuzu.com.au/isuzu-care/roadside-assist/?utm_source=chatgpt.com) |
+| **NRMA Roadside Assistance** | ⭐ Best nationwide network | Good for many commercial/light vehicles, but check GVM/vehicle eligibility | **4.5/5 from ~1,900 ProductReview reviews**; generally strong feedback on patrol staff and response [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| **24/7 Roadservices Australia** | Independent alternative | Worth considering for commercial fleets; verify vehicle/GVM limits | ProductReview comparison currently shows **4.9/5** [www.productreview.com.au](https://www.productreview.com.au/listings/national-roadside-assist?utm_source=chatgpt.com) |
+End Of Line

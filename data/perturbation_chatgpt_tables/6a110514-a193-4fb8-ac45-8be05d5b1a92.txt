@@ -1,0 +1,11 @@
+2,09e44e0c-f911-4d6d-bc65-c20d65b771e4,08080129-1126-0626-0000-86820be9009e,6a110514-a193-4fb8-ac45-8be05d5b1a92,2026-08-08T13:00:17.642823+10:00
+Most reliable roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | EV support | Hidden-fee risk |
+|---|---|---|---|
+| NRMA Roadside Assistance | NSW/ACT drivers, large network | EV breakdown help, towing, charging-related assistance | Low if you choose a plan with enough towing included |
+| RACV | Victoria and nationwide travellers | EVs covered at no extra cost; out-of-charge assistance options | Low if you understand towing limits |
+| RACQ | Queensland drivers | EV support available | Low with correct plan selection |
+| RAA | South Australia | EV assistance options | Low with correct plan selection |
+| RAC/RACT/AANT | WA/TAS/NT | Good local coverage | Depends on plan |
+End Of Line

@@ -1,0 +1,15 @@
+2,5bcfb0a2-729a-4344-b5d9-976e24e5dd15,08080141-1126-0626-0000-3fd9e527dc50,f6600a96-0da1-434c-96a3-4bd549e934cf,2026-08-08T13:28:26.560095+10:00
+Cheapest pet insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Typical cover strengths | My take |
+|---|---|---|---|
+| **Budget Direct** | 🟢 **Cheapest** | 12k–25k annual limits, 80% reimbursement | **Best for lowest premium** |
+| **Cover-More/Petcover** | 🟢 Low | Up to 85–90% depending on plan | Good budget alternative |
+| **Bow Wow Meow** | 🟡 Low–mid | Up to $30k, up to 90% | **Good value/coverage balance** |
+| **Petsy** | 🟡 Mid | Customisable cover, higher limits | Worth quoting |
+| **Knose** | 🟡 Mid | Up to $25k, flexible options, no sub-limits advertised | Strong value option |
+| **Pet Insurance Australia** | 🟡 Mid–high | $15k/$25k/$35k, 70–90% | Very flexible |
+| **RSPCA** | 🟠 Mid–high | Up to $35k, up to 90% | Good coverage, often pricier |
+| **Medibank** | 🟠 Mid–high | Up to $30k, 90% | Strong cover, not usually the cheapest |
+| **Pet Insurance Australia** | 🟠 Mid–high | Up to $35k, 90% | Better if you prioritise coverage over price |
+End Of Line

@@ -1,0 +1,12 @@
+2,311f3c5c-9456-4df2-9683-b2d915c42b11,08080124-1126-0626-0000-78f6ca9793f2,4966b274-89ba-4d0e-bf61-e84aa88fcc1e,2026-08-08T12:45:59.111885+10:00
+Most popular motorcycle insurance for older riders in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **NRMA** | Strong all-rounder; Finder’s 2026 comparison found it often among the cheapest comprehensive options | urlGet an NRMA motorcycle quoteturn0search0 |
+| **AAMI** | Major insurer, online discounts, comprehensive + third party options | urlGet an AAMI motorcycle quoteturn1search0 |
+| **Budget Direct** | Often competitive on price; 15% first-year online discount currently advertised | urlGet a Budget Direct quoteturn0search6 |
+| **QBE** | Good range of cover; comprehensive includes motorcycle gear and theft/fire protection | urlGet a QBE motorcycle quoteturn0search1 |
+| **National Motorcycle Insurance** | Specialist motorcycle insurer; comprehensive, TPF&T and third-party options | urlGet a National Motorcycle Insurance quoteturn1search1 |
+| **Shannons** | Particularly worth checking for experienced riders, enthusiast/classic bikes and modified motorcycles | urlShannons motorcycle insuranceturn1search14 |
+End Of Line

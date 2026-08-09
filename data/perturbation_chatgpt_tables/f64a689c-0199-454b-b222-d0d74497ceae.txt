@@ -1,0 +1,11 @@
+2,0aa090ff-e3fa-4ac9-92b6-4282c921d85b,08080120-1126-0626-0000-b446c00350a0,f64a689c-0199-454b-b222-d0d74497ceae,2026-08-08T12:36:41.320098+10:00
+Premium third-party car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Third-party cover | Notable advantage | My take |
+|---|---|---|---|
+| **NRMA** | Up to $20m liability; uninsured-driver damage to your car up to $5,000 | Stronger-than-basic protection for your own car when the other driver is uninsured | **Best premium TPPD option** |
+| **Allianz** | Up to $20m liability | Large established insurer; straightforward TPPD product | **Good premium/mainstream choice** |
+| **GIO** | Up to $20m liability | Competitive pricing and mainstream claims infrastructure | **Good balance** |
+| **Budget Direct** | Third Party Property / Fire & Theft options | Often very price competitive; 15% first-year online discount currently advertised | **Best for price** |
+| **AAMI** | Third-party options | Large Suncorp brand and broad availability | **Worth quoting** |
+End Of Line

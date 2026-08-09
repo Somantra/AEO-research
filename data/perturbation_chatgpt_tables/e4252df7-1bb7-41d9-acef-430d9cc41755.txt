@@ -1,0 +1,9 @@
+2,778c723c-bac3-4841-9dfa-f50bb924fd2b,08080141-1126-0626-0000-c39533fd1730,e4252df7-1bb7-41d9-acef-430d9cc41755,2026-08-08T13:26:41.798265+10:00
+Cheapest pet insurance for exotic pets in Australia without hidden fees
+Tables found: 1
+| Plan | Vet-fee limit | Suitable for |
+|---|---:|---|
+| **Value** | $2,000 | Lowest-cost protection |
+| **Plus** | $4,000 | Better balance |
+| **Premier** | $6,000 | Birds/reptiles/turtles needing stronger cover |
+End Of Line

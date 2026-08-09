@@ -1,0 +1,11 @@
+1,80c49399-e83c-4324-b177-26926e45891c,08080135-1126-0626-0000-b339c44cda4e,5bfdd2cd-639a-460e-b9b5-41adb6f1d233,2026-08-08T13:14:42.744161+10:00
+Most trusted pet insurance for multiple pets in Australia
+Tables found: 1
+| Insurer | Multi-pet discount | Why I’d consider it |
+|---|---:|---|
+| **Bow Wow Meow** | **10% off 2nd + subsequent pets for life** | Strong overall coverage, GapOnly claiming, 24/7 vet support |
+| **Petsy** | **5% off each additional pet for life** | Excellent customer reputation, direct-to-vet payments, straightforward policies |
+| **Knose** | **5% off multiple pets for life** | Well-regarded insurer with extensive coverage options |
+| **Fetch** | **5% multi-pet discount** | Broad inclusions, particularly interesting if hereditary/breed conditions are a concern |
+| **RSPCA** | Varies by product | Strong trust/reputation; current product has up to $35k annual cover |
+End Of Line

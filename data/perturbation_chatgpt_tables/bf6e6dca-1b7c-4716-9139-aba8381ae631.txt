@@ -1,0 +1,11 @@
+2,5c7b066a-2e0c-41b4-bfb4-7fbfa4f36b0d,08080140-1126-0626-0000-7e45b5557a5d,bf6e6dca-1b7c-4716-9139-aba8381ae631,2026-08-08T13:25:26.187739+10:00
+Easiest pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Provider | Ease of use | Puppy/kitten advantage | Waiting periods | Claims |
+|---|---|---|---|---|
+| **Fetch** | ⭐⭐⭐⭐⭐ | Excellent | 48h injury / 30d illness / 90d specified conditions, but can be skipped after an in-app health check | **Excellent** — app + direct-to-vet option |
+| **Petsy** | ⭐⭐⭐⭐⭐ | Excellent | Generally competitive; check PDS for breed/condition specifics | Very straightforward, strong customer support |
+| **Knose** | ⭐⭐⭐⭐½ | Excellent | **1 day injury / 14 days illness**; 14 days for specified conditions if under 1 | Simple, Australian-based support |
+| **Pet Insurance Australia** | ⭐⭐⭐⭐ | Good | 2d injury / 30d illness / 6mo cruciate | Established provider, but more traditional claims process |
+| **HCF** | ⭐⭐⭐⭐ | Good | 2d injury / 30d illness / 6mo cruciate | Straightforward, but less innovative than Fetch |
+End Of Line

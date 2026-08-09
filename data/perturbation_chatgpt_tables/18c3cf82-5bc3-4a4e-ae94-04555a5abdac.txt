@@ -1,0 +1,11 @@
+2,093e43a2-8d12-40c1-afa9-e9ac2da1006b,08080134-1126-0626-0000-be7242841d0c,18c3cf82-5bc3-4a4e-ae94-04555a5abdac,2026-08-08T13:11:16.742371+10:00
+Premium travel insurance for business trips in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Business-travel strength | Frequent travel |
+|---|---|---|---|
+| **Cover-More Corporate** | Companies with multiple employees travelling | **Excellent** — purpose-built corporate policy | **Excellent** |
+| **Cover-More Business** | Individual/frequent business travellers | **Excellent** | Unlimited trips/year |
+| **Allianz Comprehensive / Multi-Trip** | Strong mainstream insurer + broad cover | Very good | Yes, 15/30/45-day options |
+| **1Cover Frequent Traveller** | Value-conscious frequent business traveller | Good | Unlimited trips/year |
+| **Qantas Insurance** | Qantas travellers wanting a straightforward policy | Moderate | Less business-specific |
+End Of Line

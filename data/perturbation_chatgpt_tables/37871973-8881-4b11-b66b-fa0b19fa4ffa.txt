@@ -1,0 +1,11 @@
+2,2744d432-b517-43a3-8450-4f9d039a1be7,08080132-1126-0626-0000-aaa0aa112f27,37871973-8881-4b11-b66b-fa0b19fa4ffa,2026-08-08T13:07:11.851390+10:00
+Cheapest roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment | Annual equivalent | Key cover |
+|---|---:|---:|---|
+| **RACV Roadside Care** | **$12/month** | $144 | Unlimited callouts, 20 km towing |
+| **NRMA Everyday Care** | **$9.99/month*** | $119.88 | Unlimited callouts, 25 km metro towing |
+| **RACV Extra Care** | $19.58/month | $235 | Unlimited callouts, 60 km towing |
+| **RACV Total Care** | $27/month | $324 | Unlimited callouts, 100 km towing |
+| **Budget Direct** | **$89.95/year** | ~$7.50/month equivalent | Unlimited callouts, 20 km towing |
+End Of Line

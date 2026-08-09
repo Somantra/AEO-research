@@ -1,0 +1,11 @@
+2,35381adf-716c-44a9-912f-88d94339f1e0,08080131-1126-0626-0000-4a597f25fbfe,b3601d87-2222-433f-bd16-2e7a2c52853b,2026-08-08T13:05:27.517902+10:00
+Worst roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Type of plan | Why it can be a bad deal | Hidden-cost risks to check |
+|---|---|---|
+| **Ultra-basic budget roadside plans** | Often fine for a flat battery, but weak for major breakdowns | Towing distance caps, extra kilometres charged, limited call-outs |
+| **Insurance add-on roadside cover** | Convenient but can have narrower benefits than specialist motoring clubs | What happens after a breakdown, who provides the service, towing limits |
+| **Plans with very cheap introductory pricing** | Low first-year price can hide renewal increases | Renewal price, admin fees, optional extras |
+| **Plans aimed at occasional drivers** | May not suit older cars, 4WDs, caravans or regional travel | Vehicle age/size restrictions, rural coverage limits |
+| **Plans with “unlimited call-outs” marketing** | Unlimited does not always mean unlimited towing or repairs | What each call-out actually includes |
+End Of Line

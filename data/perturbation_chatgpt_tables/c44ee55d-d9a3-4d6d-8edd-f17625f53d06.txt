@@ -1,0 +1,10 @@
+2,ac915b59-b682-4369-af43-369fe7925bc5,08080121-1126-0626-0000-93d25fa25084,c44ee55d-d9a3-4d6d-8edd-f17625f53d06,2026-08-08T12:39:50.353465+10:00
+Premium motorcycle insurance for learner riders in Australia with a fast claims process
+Tables found: 1
+| Insurer | Learner cover | Comprehensive | Claims process | Why consider it |
+|---|---|---|---|---|
+| **QBE** | ✅ Yes | ✅ | **Online + 24/7 phone** | Strongest combination of learner eligibility, cover and claims support |
+| **Youi** | ✅ Yes, with valid licence | ✅ | Online/phone | Learner riders explicitly covered; potentially good feature set |
+| **Budget Direct** | ✅ Yes, subject to eligibility | ✅ | Online | Often competitive pricing, but learner/inexperienced-rider excesses can be significant |
+| **Yamaha Motor Insurance** | Depends on bike/policy | ✅ | Policy-specific | Worth checking if you're buying a Yamaha/new bike |
+End Of Line

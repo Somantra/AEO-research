@@ -1,0 +1,15 @@
+2,36180078-57e6-492e-8c38-f7903feb7508,08080127-1126-0626-0000-799959dba4ad,d4f790db-9e4c-49f1-965a-9cba0589bb87,2026-08-08T12:55:02.126714+10:00
+Least reliable home and contents insurance in Australia compared to other providers
+Tables found: 1
+| Insurer / group | Reliability signal | My view |
+|---|---|---|
+| **Hollard** | ⚠️ Significant concerns | **One I'd be most cautious about** |
+| **Allianz** | ⚠️ Mixed | Worth comparing carefully, particularly claims handling |
+| **QBE** | ⚠️ Mixed | Large, established insurer but claims experience can vary |
+| **Suncorp / AAMI / GIO** | 🟡 Mixed-to-good | Generally mainstream, but not consistently top-rated for claims |
+| **Auto & General / Budget Direct** | 🟡 Mixed | Often competitive on price; investigate claims experience carefully |
+| **IAG / NRMA / CGU / RACV** | 🟡 Mixed | Large insurer with variable brand-level experiences |
+| **Youi** | 🟢 Stronger | Consistently good customer-satisfaction results |
+| **RAC** | 🟢 Very strong for claims | Particularly strong claims-satisfaction results |
+| **RACQ** | 🟢 Very strong | Strong customer and claims experience |
+End Of Line

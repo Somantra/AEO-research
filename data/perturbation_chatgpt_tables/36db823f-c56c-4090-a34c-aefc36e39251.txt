@@ -1,0 +1,11 @@
+2,685acd02-f44f-4edd-8904-96191bf23ed7,08080130-1126-0626-0000-080819e95de5,36db823f-c56c-4090-a34c-aefc36e39251,2026-08-08T13:02:01.755082+10:00
+Cheapest roadside assistance for interstate travel in Australia with a fast claims process
+Tables found: 1
+| Provider | Cheapest useful plan | Annual price | Interstate | Fast-help features |
+|---|---|---:|---|---|
+| **RAA Standard** | Standard Road Service | **$135/yr** | Australia-wide | 24/7, 4 call-outs; affiliated clubs handle interstate service |
+| **NRMA Everyday Care** | Everyday Care | **$112/yr** | Australia-wide | 24/7 Australia-wide; online/app assistance |
+| **RAC WA Standard** | Standard | **$135.68/yr** | Australia-wide | 24/7 breakdown service |
+| **RACQ Everyday** | Everyday | **$109/yr** | Primarily QLD-based product | Online breakdown form lets you skip the phone queue |
+| **RACV Roadside Care** | Roadside Care | **$138/yr** | Australia-wide | 24/7; RACV app; metro Melbourne patrol tracking |
+End Of Line

@@ -1,0 +1,11 @@
+2,f1b072df-7f1f-4565-bc5e-36dfefdc25c0,08080130-1126-0626-0000-2ce8cbb7e118,a4c55e43-16a8-45d6-9cfd-a45f50748484,2026-08-08T13:02:17.129793+10:00
+Worst roadside assistance for interstate travel in Australia with strong customer reviews
+Tables found: 1
+| Provider | ProductReview rating | Reviews | Interstate suitability |
+|---|---:|---:|---|
+| **RAC Roadside Assistance (WA)** | ⭐ **4.8/5** | 1,221 | ⭐⭐⭐⭐⭐ |
+| **NRMA Roadside Assistance** | ⭐ **4.5/5** | 1,913 | ⭐⭐⭐⭐⭐ |
+| **RACT Roadside Assistance (Tas)** | ⭐ **3.6/5** | 23 | ⭐⭐⭐⭐ |
+| **RACQ Roadside Assistance (Qld)** | ⭐ **3.2/5** | 405 | ⭐⭐⭐⭐ |
+| **RACV Roadside Assistance (Vic)** | ⭐ **2.6/5** | 185 | ⭐⭐⭐ |
+End Of Line

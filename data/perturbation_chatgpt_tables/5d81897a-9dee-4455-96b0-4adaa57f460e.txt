@@ -1,0 +1,11 @@
+2,b4d0db03-1c8d-4554-85a5-b6c7e22152cb,08080131-1126-0626-0000-cab063e2213b,5d81897a-9dee-4455-96b0-4adaa57f460e,2026-08-08T13:03:28.328817+10:00
+Least reliable roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Commercial/heavy-vehicle suitability | Reliability assessment |
+|---|---|---|
+| **Truck Assist / NTI** | **Strongest specialist option** | ⭐⭐⭐⭐⭐ |
+| **RAC BusinessWise (WA)** | Good for light commercial/fleet vehicles | ⭐⭐⭐⭐ |
+| **RACV Business** | Good, but standard business product limited to **8t GVM** | ⭐⭐⭐⭐ |
+| **General motor-club/insurance roadside products** | Variable; often designed primarily for cars/light vehicles | ⭐⭐–⭐⭐⭐ |
+| **Generic roadside-assistance brokers/insurer add-ons** | Often weakest choice for heavy commercial work | ⭐⭐ or below |
+End Of Line

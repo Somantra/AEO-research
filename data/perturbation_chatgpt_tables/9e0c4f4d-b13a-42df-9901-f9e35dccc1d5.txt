@@ -1,0 +1,11 @@
+2,bfaeda0b-e472-455d-b238-9a4fa28e1ed9,08080122-1126-0626-0000-73c1d12988bd,9e0c4f4d-b13a-42df-9901-f9e35dccc1d5,2026-08-08T12:42:23.430802+10:00
+Worst motorcycle insurance for commuters in Australia with instant online quotes
+Tables found: 1
+| Insurer | Commuting | Online quote | My take |
+|---|---|---|---|
+| **AAMI** | Check your quoted usage | ✅ | **Often expensive** |
+| **Youi** | Available depending on policy/quote | ✅ | Can be **very expensive for higher-risk riders** |
+| **QBE** | ✅ Explicitly allows commuting | ✅ | Worth quoting |
+| **Budget Direct** | ✅ Home ↔ regular workplace | ✅ | Usually worth checking |
+| **NRMA** | Quote online | ✅ | **Strong one to compare** |
+End Of Line

@@ -1,0 +1,11 @@
+2,aabebb46-cc02-401a-beef-d9c82ad8bd90,08080129-1126-0626-0000-18c9f20afd73,e3f49fdf-574e-47dc-8b19-155715a75033,2026-08-08T13:00:36.921977+10:00
+Most trusted roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | EV support | Customer confidence |
+|---|---|---|---|
+| **NRMA** | NSW/ACT + national travel | EVs covered; can arrange mobile charging or tow to a charger | ⭐ **4.5/5 from 1,900+ reviews** on ProductReview |
+| **RACV** | Victoria | High-voltage-trained patrols; out-of-charge towing to a charger | ⭐ Strong; **2026 Canstar VIC winner** |
+| **RACQ** | Queensland | High-voltage-aware patrols; EV assistance at no extra cost | **2025 Canstar QLD winner**, though independent review scores are mixed |
+| **RAC WA** | Western Australia | EVs covered; emergency top-up charging and towing to chargers | Strong member feedback |
+| **RAA** | South Australia | EV-trained patrols; towing to nearest charging station | Established SA network |
+End Of Line

@@ -1,0 +1,12 @@
+2,34d06ad5-da4f-427c-8da3-2036143092bb,08080126-1126-0626-0000-aa2795dd5d44,861b5361-0caa-4f1e-a842-3d4879551efa,2026-08-08T12:53:20.626980+10:00
+Most popular home insurance for older properties in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it for an older home | Customer evidence |
+|---|---|---|
+| **RAC (WA)** | Excellent choice if the property is in WA; local claims team and building replacement calculator | **4.27/5 Most Loved** and **4.25/5 Most Recommended** in Finder’s 2026 WA awards [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Youi** | Strong customer satisfaction nationally; guaranteed authorised repairs for as long as you own the property | Canstar **Most Satisfied Customers – Australia, 2024 & 2025** [www.youi.com.au](https://www.youi.com.au/home-insurance?utm_source=chatgpt.com) |
+| **RACQ** | Particularly strong reputation for customer experience and claims in Queensland | CHOICE rated it #1 for customer experience and claims; 91% of customers rated it above average/excellent [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **RAA** | Worth investigating for SA properties | 86% above average/excellent customer experience in CHOICE's 2025 survey [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) |
+| **NRMA** | Large, established insurer and strong NSW option | Finder named NRMA the **Most Loved Home Insurance – NSW** in 2026 [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/home-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Australian Seniors** | Worth comparing if you're eligible; particularly interesting for older homeowners | ProductReview currently shows a **4.7/5** rating in the home/contents category, although review scores should be treated cautiously because they aren't directly comparable with satisfaction surveys. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-home-insurance?utm_source=chatgpt.com) |
+End Of Line

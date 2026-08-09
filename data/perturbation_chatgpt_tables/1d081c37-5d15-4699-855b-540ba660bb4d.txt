@@ -1,0 +1,12 @@
+2,9410f687-2e17-42ed-97d3-d05de4b4cb8f,08080121-1126-0626-0000-759885b883b8,1d081c37-5d15-4699-855b-540ba660bb4d,2026-08-08T12:39:13.690794+10:00
+Worst motorcycle insurance for learner riders in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Learner-friendly? | My take |
+|---|---|---|---|
+| **Budget Direct** | ✅ | ⚠️ | Definitely quote them, but learner excesses can be substantial |
+| **NRMA** | ✅ | ✅ | **Worth trying first**; online motorcycle quotes available |
+| **AAMI** | ✅ | ⚠️ | Can be very expensive for young/inexperienced riders |
+| **QBE** | ✅ | ⚠️ | Worth quoting; excesses can get nasty for learners |
+| **Shannons** | ❌/phone-oriented | ✅ | Often worth calling, but not an instant-quote option |
+| **Youi** | ❌ phone quote | ⚠️ | Can be expensive for young/learner riders |
+End Of Line

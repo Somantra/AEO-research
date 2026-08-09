@@ -1,0 +1,11 @@
+2,078b9d8c-e9cd-4817-ae38-a2056148c1a9,08080139-1126-0626-0000-1d2edd326568,f1492f8c-5649-4852-95c9-eacaba4e83be,2026-08-08T13:22:28.796191+10:00
+Most affordable pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Insurer/policy | New-pet age limit | Example older-pet cost* | Monthly payments |
+|---|---:|---:|---|
+| **Australian Seniors Basic Accident & Illness** | **Under 16** | ~$187/mo at 15 yrs | **Yes** |
+| **Real Premium Accident & Illness** | Up to ~15 | ~$177/mo at 15 yrs | Likely |
+| **Guardian Platinum Accident & Illness** | Up to ~15 | ~$179/mo at 15 yrs | Likely |
+| **Trupanion** | **Under 14** | Quote required | Quote required |
+| Australian Seniors Top | Under 9 | ~$187/mo at 12 yrs | **Yes** |
+End Of Line

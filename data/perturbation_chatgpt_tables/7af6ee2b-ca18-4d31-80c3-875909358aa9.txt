@@ -1,0 +1,12 @@
+2,6c68c7d3-703e-4255-97c4-bf09d2428257,08080117-1126-0626-0000-788adce6fe13,7af6ee2b-ca18-4d31-80c3-875909358aa9,2026-08-08T12:29:31.579964+10:00
+Cheapest car insurance for P-plate drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Price potential | Claims experience/features | P-plater considerations |
+|---|---|---|---|
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | **24/7 online & phone claims** | Very competitive pricing; watch the additional young-driver excess |
+| **Youi** | ⭐⭐⭐⭐ | **Online claims anytime**, strong digital process | No age-based excess on some policies; quote can vary significantly |
+| **AAMI** | ⭐⭐⭐⭐ | **24/7 online/app claims**, repair/hire-car management | Often worth quoting for young drivers |
+| **RACV** | ⭐⭐⭐ | **24/7 app/online/phone claims** | Particularly worth checking if you're in Victoria |
+| **Allianz** | ⭐⭐⭐ | **24/7 claims team + online claims** | Under-25 excess can apply |
+| **NRMA** | ⭐⭐⭐ | **24/7 online claims and phone claims** | Worth comparing, particularly in NSW/QLD |
+End Of Line

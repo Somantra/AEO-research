@@ -1,0 +1,9 @@
+2,c4f12334-80c3-4b4d-aec0-0ee79635ee3f,08080139-1126-0626-0000-5edd92252929,610ee77c-2146-4996-a801-11a5f7127a1e,2026-08-08T13:23:22.577589+10:00
+Best pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer | Multi-pet discount | Monthly payments | Why I’d consider it |
+|---|---:|---|---|
+| **Petsy** | **5% off each additional pet, for life** | Yes | Strong overall option; no sub-limits and can pay your vet directly |
+| **Fetch** | **5% off for multiple pets** | Yes | Broad coverage, including dental, behavioural treatment and hereditary conditions |
+| **Knose** | **5% off multiple pets for life** | Yes | Flexible cover and up to 90% reimbursement |
+End Of Line

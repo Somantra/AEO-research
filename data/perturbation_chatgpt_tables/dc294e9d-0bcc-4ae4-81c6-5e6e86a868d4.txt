@@ -1,0 +1,12 @@
+2,e2dc324a-178c-4619-acc3-1ccea5751e80,08080125-1126-0626-0000-a35a80d8bd8a,dc294e9d-0bcc-4ae4-81c6-5e6e86a868d4,2026-08-08T12:49:34.469469+10:00
+Worst home insurance for renters in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction* | My take for renters |
+|---|---:|---|
+| **RAC (WA)** | **78%** | ⭐ Strongest choice if you're in WA |
+| **Youi** | **67%** | ⭐ Strong national option |
+| **Suncorp** | **65%** | ⭐ Good claims reputation |
+| **NRMA** | **61%** | Solid mainstream option |
+| **AAMI** | **60%** | Reasonable all-rounder |
+| **Budget Direct** | **58%** | Cheap, but weaker claims satisfaction |
+End Of Line

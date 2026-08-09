@@ -1,0 +1,11 @@
+2,bb0188b3-03c2-41f8-9bc6-03c977b62707,08080124-1126-0626-0000-cb04f3f0f9e3,71c8f5e2-2e02-429e-bccb-243728a5ae29,2026-08-08T12:46:28.894264+10:00
+Worst motorcycle insurance for custom bikes in Australia compared to other providers
+Tables found: 1
+| Provider | Custom-bike suitability | Why |
+|---|---|---|
+| **Shannons** | 🟢 **Excellent** | Specifically caters to enthusiast bikes; agreed value can include listed modifications and accessories; choice of repairer. [www.shannons.com.au](https://www.shannons.com.au/?utm_source=chatgpt.com)[www.shannons.com.au](https://www.shannons.com.au/motorcycle-insurance.html?GetDocs=True&utm_source=chatgpt.com) |
+| **QBE** | 🟢 **Very good** | Offers agreed value and explicitly allows listed modifications/accessories. Every modification needs to be declared and accepted. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | 🟡 **Good–variable** | Has comprehensive and classic motorcycle products, but suitability depends heavily on the particular bike/modifications and valuation offered. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Swann** | 🟡/🔴 **Variable** | Can be competitive, but there are reports from riders of market-value reductions and less favourable treatment of modified bikes. Community reports also indicate Swann's motorcycle offering has changed considerably. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/vx1pz8?utm_source=chatgpt.com) |
+| **Generic mainstream/price-focused policies** | 🔴 **Potentially worst** | The danger is getting a policy that effectively values the bike as a standard factory motorcycle while your money is tied up in custom parts and labour. |
+End Of Line

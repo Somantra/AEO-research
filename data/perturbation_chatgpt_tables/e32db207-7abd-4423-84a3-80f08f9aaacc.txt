@@ -1,0 +1,10 @@
+2,216f04c8-0aee-4a4a-afa3-97004c4b57dc,08080139-1126-0626-0000-95f0975879ed,e32db207-7abd-4423-84a3-80f08f9aaacc,2026-08-08T13:24:12.907004+10:00
+Most affordable pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Pre-existing condition approach | Cost/value | My take |
+|---|---|---|---|
+| **Budget Direct** | Can reconsider a *fully cured* condition after **12 months** without signs/treatment | Generally budget-oriented | **Best low-cost starting point** |
+| **RSPCA Pet Insurance** | Temporary conditions can be reviewed; generally requires **18 months** symptom-free | Competitive | **Good if the condition may be temporary** |
+| **PetSure-backed insurers** | Some policies allow reassessment depending on the condition/policy | Varies considerably | Worth getting quotes |
+| **Trupanion** | Does **not** cover pre-existing conditions | Usually not the cheapest | Better for protecting against *new* conditions, rather than the existing one |
+End Of Line

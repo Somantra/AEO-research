@@ -1,0 +1,12 @@
+2,cf6f10ba-338e-4ab8-aea0-7f68da65b46d,08080132-1126-0626-0000-5ffe893ed1ae,01bb9947-ec9a-44b1-995a-eebc2589f55f,2026-08-08T13:07:27.793582+10:00
+Best roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Hybrid/EV support | Fast-help features | Best for |
+|---|---|---|---|
+| **RAC WA** | ✅ EVs covered; towing to charger | 24/7; says 9/10 cars are fixed on the spot | **WA / Perth** |
+| **RACQ** | ✅ Explicitly covers hybrids, PHEVs & EVs | 24/7; publishes ~35-min average response in QLD | **Queensland / fastest published response** |
+| **NRMA** | ✅ Hybrid & PHEV included | 24/7; app/network; up to 100 km towing on Ultimate | **NSW/ACT & long-distance travel** |
+| **RACV** | ✅ Hybrid & EV covered at no extra cost | 24/7 Australia-wide | **Victoria** |
+| **RAA** | ✅ Hybrid through full EV; trained EV patrols | App/online booking; 24/7 | **South Australia** |
+| **Allianz** | ✅ EV out-of-charge assistance | 24/7 Australia-wide; mobile mechanic | **Simple nationwide option** |
+End Of Line

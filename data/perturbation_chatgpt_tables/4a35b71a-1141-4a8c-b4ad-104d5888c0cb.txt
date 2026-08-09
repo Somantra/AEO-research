@@ -1,0 +1,9 @@
+2,4d977783-bbf6-480e-8071-21a252aaf1ac,08080141-1126-0626-0000-8fb5e05d84c1,4a35b71a-1141-4a8c-b4ad-104d5888c0cb,2026-08-08T13:27:31.406229+10:00
+Cheapest accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Accident-only annual limit | Reimbursement | Indicative price | Key points |
+|---|---:|---:|---:|---|
+| **PetsOnMe Accidental Plan** | $5,000 | Up to 80% | **From roughly $15–$30/month** | Very budget-focused; $100/$200/$300 excess options |
+| **PD Insurance Accident Plan** | $5,000 | Policy-dependent | **Around $20+/month historically** | Fixed excess per claimable event; third-party liability |
+| Other providers | — | — | — | Many Australian insurers don't offer true accident-only cover |
+End Of Line

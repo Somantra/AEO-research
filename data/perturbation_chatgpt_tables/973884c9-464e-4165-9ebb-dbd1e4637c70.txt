@@ -1,0 +1,12 @@
+2,0fe2cf59-fb30-4763-a0dd-40c19bad6185,08080126-1126-0626-0000-ce96124430fc,973884c9-464e-4165-9ebb-dbd1e4637c70,2026-08-08T12:52:13.117604+10:00
+Most popular home insurance for new builds in Australia with monthly payments
+Tables found: 1
+| Insurer | Monthly payment | Why consider it |
+|---|---|---|
+| **Allianz** | ✅ Yes, no extra cost | Strong all-round option; building + contents available |
+| **AAMI** | ✅ Monthly options | Very established, widely used |
+| **NRMA** | ✅ Monthly options | Large insurer with broad home cover |
+| **Suncorp** | ✅ Monthly options | Good customer satisfaction |
+| **Youi** | ✅ Monthly options | Often competitive on price |
+| **RACV** | ✅ Monthly options | Particularly worth checking if you're in Victoria |
+End Of Line

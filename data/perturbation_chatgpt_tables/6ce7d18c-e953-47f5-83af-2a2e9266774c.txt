@@ -1,0 +1,10 @@
+2,fbd3d3c0-d910-483d-ae33-a0bfc7a8076d,08080138-1126-0626-0000-38eeddfb64df,6ce7d18c-e953-47f5-83af-2a2e9266774c,2026-08-08T13:22:08.827815+10:00
+Most trusted pet insurance for dogs in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I’d consider it | Monthly payments | My take |
+|---|---|---|---|
+| **Knose** | No sub-limits, up to $25k annual cover, flexible excess/reimbursement, Australian support | Yes | ⭐ **Best overall** |
+| **Petsy** | No sub-limits, 80%/90% reimbursement options, direct-to-vet payments, Australian support | Yes | ⭐ **Best alternative** |
+| **RSPCA Pet Insurance** | Up to $35k annual cover, no sub-limits, supports RSPCA animal welfare | Yes | ⭐ **Good established option** |
+| **Budget Direct** | 80% reimbursement and generally competitive pricing | Yes | 💰 **Good budget option** |
+End Of Line

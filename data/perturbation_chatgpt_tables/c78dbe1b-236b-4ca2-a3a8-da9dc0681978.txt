@@ -1,0 +1,15 @@
+2,e516df6f-aa52-4d90-9f38-4d36bb9182a1,08080141-1126-0626-0000-ce183fa08cbe,c78dbe1b-236b-4ca2-a3a8-da9dc0681978,2026-08-08T13:27:27.801490+10:00
+Most comprehensive pet insurance for exotic pets in Australia with strong customer reviews
+Tables found: 1
+| | Petcover |
+|---|---|
+| **Species** | Birds, reptiles, turtles, rabbits & other small mammals |
+| **Maximum vet cover** | **$6,000** for birds/reptiles/turtles; **$4,000** for small mammals |
+| **Illness + accident** | ✅ |
+| **Specialist/referral vet treatment** | ✅ |
+| **MRI/CT/diagnostics** | ✅ within policy limits |
+| **Alternative/complementary treatment** | Up to $500 depending on plan |
+| **Missing-pet advertising/reward** | Up to $500 |
+| **Third-party liability** | Up to **$1 million** |
+| **Plans** | Premier, Plus, Value |
+End Of Line

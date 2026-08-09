@@ -1,0 +1,14 @@
+2,fb02cc70-1a79-4705-bc64-4d5cf83ceba5,08080130-1126-0626-0000-0fe569c2cd01,ed18ae6a-3619-4e3e-b5da-dc4088963d07,2026-08-08T13:02:43.099621+10:00
+Most trusted roadside assistance for interstate travel in Australia compared to other providers
+Tables found: 1
+| Provider | Interstate coverage | Rural/remote confidence | Overall take |
+|---|---|---|---|
+| **RACV** | Excellent | ⭐⭐⭐⭐⭐ | **Best choice from Victoria** |
+| **NRMA** | Excellent | ⭐⭐⭐⭐⭐ | **Best national alternative** |
+| **RACQ** | Excellent | ⭐⭐⭐⭐⭐ | Excellent, especially QLD |
+| **RAA** | Excellent | ⭐⭐⭐⭐½ | Excellent, especially SA |
+| **RAC WA** | Excellent | ⭐⭐⭐⭐½ | Strong for WA/long-distance trips |
+| **RACT** | Excellent | ⭐⭐⭐⭐ | Strong for Tasmania |
+| Insurer roadside assistance | Usually yes | ⭐⭐⭐ | Convenient, but check towing limits |
+| Cheap independent providers | Varies | ⭐⭐–⭐⭐⭐ | Can be good value, but less attractive for remote trips |
+End Of Line

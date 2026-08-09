@@ -1,0 +1,10 @@
+2,134cd5fa-8e6f-4f41-a01c-e9650ce7b333,08080127-1126-0626-0000-b9e5822a6fc2,bd41f483-f2c7-474d-8f68-19de9c1e9d33,2026-08-08T12:53:34.998556+10:00
+Most comprehensive home insurance for older properties in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d check it for an older property | Online quote |
+|---|---|---|
+| **Allianz** | My first check for comprehensive cover; currently recognised by Finder as its **2026 Comprehensive Home Insurance winner**. Covers fire, storm, flood and theft, with rebuilding cover and alternative accommodation. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) | urlGet an Allianz quoteturn1search2 |
+| **Youi** | Particularly worth trying because its pricing explicitly considers the **age, size and location** of the home, and it offers SA-specific home cover. [www.youi.com.au](https://www.youi.com.au/home-insurance/sa?utm_source=chatgpt.com) | urlGet a Youi quoteturn1search16 |
+| **Apia** | Strong candidate if you're **50+**; specifically markets home & contents insurance to over-50s, seniors and retirees and offers online quotes. [www.youi.com.au](https://www.youi.com.au/home-insurance/sa?utm_source=chatgpt.com)[www.apia.com.au](https://www.apia.com.au/?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/research/australias-oldest-houses.html?utm_source=chatgpt.com) | urlGet an Apia quoteturn1search1 |
+| **Budget Direct** | Very easy online process and potentially competitive pricing. It explicitly discusses older homes, although **heritage-listed homes aren't eligible**, so check this carefully if yours is heritage. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/research/australias-oldest-houses.html?utm_source=chatgpt.com) | urlGet a Budget Direct quoteturn1search12 |
+End Of Line

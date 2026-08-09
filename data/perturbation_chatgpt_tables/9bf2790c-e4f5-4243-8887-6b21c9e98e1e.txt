@@ -1,0 +1,14 @@
+2,c1e216df-d175-4d1a-abc0-da3145b58eb8,08080120-1126-0626-0000-2c4bdb052ee2,9bf2790c-e4f5-4243-8887-6b21c9e98e1e,2026-08-08T12:36:29.388138+10:00
+Most trusted third-party car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Trust / customer satisfaction | Price tendency | My take |
+|---|---|---|---|
+| **NRMA** | ⭐⭐⭐⭐½ | $$–$$$ | **Best all-rounder** |
+| **Youi** | ⭐⭐⭐⭐½ | $$–$$$ | Excellent service reputation, often pricier |
+| **AAMI** | ⭐⭐⭐⭐ | $$ | **Good balance of price & reputation** |
+| **GIO** | ⭐⭐⭐⭐ | $$ | Solid mainstream alternative |
+| **RACQ / RAC / RAA / RACV** | ⭐⭐⭐⭐½ | $$–$$$ | Very good where available, especially state-based |
+| **Allianz** | ⭐⭐⭐½ | $$$ | Established, but not my first pick for TPPD |
+| **Budget Direct** | ⭐⭐⭐ | $ | Often cheap, but weaker customer/claims satisfaction |
+| **Bingle** | ⭐⭐⭐ | $ | Cheap/basic; less attractive if service is your priority |
+End Of Line

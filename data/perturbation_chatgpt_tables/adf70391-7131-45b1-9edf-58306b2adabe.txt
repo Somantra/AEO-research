@@ -1,0 +1,9 @@
+2,b8414e4f-e6be-44cc-a3bd-6ca4432b31f7,08080118-1126-0626-0000-8ee9fff3585f,adf70391-7131-45b1-9edf-58306b2adabe,2026-08-08T12:32:06.751105+10:00
+Worst car insurance for small cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why some customers complain | My view for a small car |
+|---|---|---|
+| Budget Direct | Often chosen for low premiums, but some customers report slower or more frustrating claims disputes. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1tfkdrd/car_insurers_how_has_your_experience_been/?utm_source=chatgpt.com) | Good if price is the priority; less ideal if you want the smoothest claim experience. |
+| AAMI | Mixed feedback: some like the digital process, while others report difficult claim conversations. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1t5tr2v/car_insurance_might_be_the_financial_death_of_me/?utm_source=chatgpt.com) | A reasonable budget option, but compare service reputation. |
+| Allianz Australia | Generally established, but customer experiences vary, especially around repair timelines and claim complexity. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Worth comparing, but don’t choose purely on brand name. |
+End Of Line

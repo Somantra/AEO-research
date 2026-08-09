@@ -1,0 +1,11 @@
+2,1444b52a-9a34-49a5-994d-18e292010e0d,08080132-1126-0626-0000-88fef5e47908,aae6ae34-2a92-4da8-90e8-0877a7f0015b,2026-08-08T13:08:19.916273+10:00
+Cheapest standalone roadside assistance cover in Australia without hidden fees
+Tables found: 1
+| Provider | Current price | Standalone? | Call-outs | Main catch |
+|---|---:|---|---|---|
+| **24/7 Roadservices** | **from $79/yr** | ✅ Yes | 4 or unlimited depending on plan | Cheapest advertised plan has limited benefits |
+| **Budget Direct** | **$76.46 first year**, then $89.95/yr | ✅ Yes | Unlimited | 15% first-year online discount; 48-hour wait |
+| **RAC WA Standard** | **$128/yr** annual payment | ✅ Yes | Unlimited | Mainly attractive if you're in WA |
+| **RAA Standard** | **$135/yr** | ✅ Yes | 4/year | SA-based membership |
+| RACQ Everyday Lite | **$80/yr** | ✅ Yes | — | Queensland-focused |
+End Of Line

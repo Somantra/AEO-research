@@ -1,0 +1,10 @@
+1,959d3300-a1d5-45ac-a9bc-a2f389955e6f,08080126-1126-0626-0000-f07d1af9fdb4,03a2b00c-59c4-43a4-a752-703ebeab0c19,2026-08-08T12:53:03.354107+10:00
+Most comprehensive roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | EV-specific support | Out-of-charge | Towing / recovery | Australia-wide | My take |
+|---|---|---|---|---|---|
+| **RACV Total Care** | High-voltage trained patrols | Yes | Nearest charger or **up to 200 km** to preferred destination | Yes | 🥇 **Best overall** |
+| **RACQ** | High-voltage-aware patrols | Yes | Tow to accessible charger/destination | Primarily QLD, with broader member benefits | 🥈 Excellent EV offering |
+| **RAA** | EV-trained patrols | Yes | Towing benefit can take EV to nearest charger | SA-focused | 🥉 Excellent in SA |
+| **RAC WA** | EV roadside support | Yes | Strong WA towing network | WA-focused | **Best choice if based in WA** |
+End Of Line

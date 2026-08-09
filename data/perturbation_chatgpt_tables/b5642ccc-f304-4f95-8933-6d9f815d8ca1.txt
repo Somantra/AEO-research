@@ -1,0 +1,9 @@
+2,7ffc716b-c303-47df-a5e1-e6e36bf2c791,08080139-1126-0626-0000-c44de7f9c6ef,b5642ccc-f304-4f95-8933-6d9f815d8ca1,2026-08-08T13:22:47.603493+10:00
+Least reliable pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Older-pet suitability | My take |
+|---|---|---|---|
+| **Fetch** | ⭐⭐⭐⭐⭐ | Good, depending on age at signup | **Best for fastest claims** |
+| **Knose** | ⭐⭐⭐⭐½ | Good if already insured before age 9 | **Best balance for senior pets** |
+| **Pet Insurance Australia** | ⭐⭐⭐⭐½ | Good if enrolled before age 9 (some products before 12) | **Strong established option** |
+End Of Line

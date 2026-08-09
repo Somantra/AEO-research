@@ -1,0 +1,11 @@
+2,dcc54f57-cc9b-4f06-9e84-65975fb0bbcb,08080141-1126-0626-0000-777fdb1ba9ed,bcea6edc-2dc0-4e86-86cd-658061771f92,2026-08-08T13:27:42.580587+10:00
+Best accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Provider / policy | Accident-only? | Annual limit | Reimbursement | Main advantage | Main drawback |
+|---|---|---:|---:|---|---|
+| **PetsOnMe Accidental Plan** | **Yes** | **$5,000** | Up to **80%** | Dedicated low-cost accident cover; third-party liability; prescribed meds; hospitalisation, surgery, diagnostics | $5k limit is relatively low |
+| **Pet Insurance Australia** | Historically yes, but current product is mainly accident + illness | Current Select & Protect up to **$35k** | 70/80/90% | Much higher limits, GapOnly, flexible excess | Not a straightforward accident-only alternative under its current flagship product |
+| **Bow Wow Meow** | Not currently a standalone accident-only product | Up to **$30k** | Up to **90%** | No sub-limits on core cover; GapOnly | You pay for illness cover too |
+| **Knose** | Not a straightforward accident-only option | Varies | Varies | Strong accident + illness product and claims reputation | Less suitable if your sole objective is accident-only |
+| **Budget Direct** | No — current plans include accident + illness | $12k–$25k | Varies | Competitive mainstream option | Paying for illness cover if you don't want it |
+End Of Line

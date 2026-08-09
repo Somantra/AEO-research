@@ -1,0 +1,9 @@
+1,b4a592bd-64f2-4e25-b3c2-8ebdaff41fd5,08080131-1126-0626-0000-3aca96e44e66,3baa0f54-9857-4c71-a5a5-dab4636e703f,2026-08-08T13:03:47.269569+10:00
+Cheapest travel insurance for backpackers in Australia
+Tables found: 1
+| Insurer | Best for | Notes |
+|---|---|---|
+| **World Nomads** | Backpacking/adventure | Good for long trips and activities; Standard is generally the cheaper tier. [www.worldnomads.com](https://www.worldnomads.com/au/travel-insurance/get-a-quote?utm_source=chatgpt.com)[www.worldnomads.com](https://www.worldnomads.com/au/travel-insurance/whats-covered/online-travel-insurance?utm_source=chatgpt.com) |
+| **Cover-More** | Basic Australian cover | Has different international plans so you can avoid paying for unnecessary extras. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/compare-our-plans?utm_source=chatgpt.com) |
+| **Finder comparison** | Finding the absolute cheapest | Current Australian comparison data shows policies from about **A$2.85/day**. [www.finder.com.au](https://www.finder.com.au/travel-insurance/cheap-travel-insurance?utm_source=chatgpt.com) |
+End Of Line

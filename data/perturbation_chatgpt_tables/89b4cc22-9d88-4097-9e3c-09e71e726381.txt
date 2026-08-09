@@ -1,0 +1,12 @@
+1,a41ab023-fcef-45be-833b-70b135149777,08080137-1126-0626-0000-6f88038a2e30,89b4cc22-9d88-4097-9e3c-09e71e726381,2026-08-08T13:19:16.425621+10:00
+Best pet insurance providers in Australia
+Tables found: 1
+| Provider | Best for | What stands out |
+|---|---|---|
+| **Medibank** | ⭐ Best all-rounder | Up to **$30k annual cover**, up to 90% reimbursement, and GapOnly available |
+| **RSPCA Pet Insurance** | ⭐ High coverage | Up to **$35k**, up to 90% back and no sub-limits on its PetFlex policy |
+| **Pet Insurance Australia** | ⭐ Comprehensive cover | Up to **$35k** and up to 90% reimbursement |
+| **Bow Wow Meow** | ⭐ Customer satisfaction | Strong customer ratings; up to $30k and 90% reimbursement |
+| **Knose** | 💰 Value/flexibility | Lower-priced options with up to 90% reimbursement |
+| **Fetch** | 💰 Budget-conscious | Can offer lower premiums; up to $30k and potentially 100% reimbursement |
+End Of Line

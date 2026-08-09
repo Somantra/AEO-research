@@ -1,0 +1,16 @@
+0,8b337995-8860-447a-8206-c8a0cc825068,08080117-1126-0626-0000-9753b76490ab,f1d3f079-f5d8-498a-8e73-8e454b18ca1c,2026-08-08T12:29:11.477923+10:00
+motorcycle insurance providers in Australia
+Tables found: 1
+| Provider | Typical cover | Good for |
+|---|---|---|
+| **QBE** | Comprehensive, TPFT, Third Party | Broad motorcycle cover |
+| **Youi** | Comprehensive, TPFT, Third Party | Flexible/customisable policies |
+| **Budget Direct** | Comprehensive, TPFT, Third Party | Comparing on price |
+| **AAMI** | Comprehensive, TPFT, Third Party | Mainstream insurer |
+| **NRMA** | Comprehensive, Third Party options | Riders wanting a large established insurer |
+| **RACV** | Comprehensive, Third Party, Motorcycle | Victoria-based riders |
+| **RAA** | Comprehensive, Third Party | South Australia |
+| **Shannons** | Motorcycle/comprehensive | Enthusiast, modified and specialist bikes |
+| **National Motorcycle Insurance** | Motorcycle-focused cover | Riders wanting a specialist provider |
+| **Mi-Bike** | Motorcycle insurance | Motorcycle-specific policies |
+End Of Line

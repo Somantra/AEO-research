@@ -1,0 +1,9 @@
+2,690d1d57-b017-445e-bf9f-44d30a1264d6,08080134-1126-0626-0000-5d5e92349d21,17aea107-2bea-4e06-9fa2-2de4ea10413d,2026-08-08T13:12:54.624940+10:00
+Least reliable travel insurance for cruise holidays in Australia without hidden fees
+Tables found: 1
+| Insurer | Cruise cover | Fee transparency | Why consider it |
+|---|---|---|---|
+| **Allianz Australia** | Optional Cruise Pack | ⭐⭐⭐⭐ | Clear separate cruise-pack pricing; onboard medical, ship-to-shore evacuation, cabin confinement and shore-excursion cover. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/cruise-cover.html?utm_source=chatgpt.com) |
+| **Cover-More** | Cruise Cover | ⭐⭐⭐⭐ | Strong cruise-specific benefits; clearly states that medical-condition cover may involve an additional premium. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/cruise-travel-insurance?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/travel-insurance/cruise-cover.html?utm_source=chatgpt.com) |
+| **InsureandGo Australia** | Dedicated Cruise option | ⭐⭐⭐⭐ | Particularly straightforward because it has a dedicated cruise policy and publishes its current 2026 Cruise PDS. [www.insureandgo.com.au](https://www.insureandgo.com.au/policy-wordings/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,9 @@
+2,8aa3c8ee-9b90-4d25-bedf-24699d072525,08080140-1126-0626-0000-2d1e0668e5db,b0328ef0-3827-4c89-a72a-ee906ba861f0,2026-08-08T13:26:07.566742+10:00
+Most reliable pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims speed / convenience |
+|---|---|---|
+| **Pet Insurance Australia (PIA)** | Strong all-rounder; comprehensive policies and high claim limits | **Typically ~5 business days** for online/eClaims; GapOnly can be faster and allows eligible claims to be settled directly with the vet [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| **Fetch Pet Insurance** | **Up to $30,000 annual limit**, with 80%, 90% or 100% reimbursement options | **Direct-to-vet claims** can substantially reduce the amount you need to pay upfront; Finder named it its 2026 Best Comprehensive Pet Insurance [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **Coles Pet Insurance** | Straightforward online claims and GapOnly availability | Claims generally take **5–10 business days** once all required documents are received [www.coles.com.au](https://www.coles.com.au/insurance/pet-insurance/make-a-claim?utm_source=chatgpt.com) |
+End Of Line

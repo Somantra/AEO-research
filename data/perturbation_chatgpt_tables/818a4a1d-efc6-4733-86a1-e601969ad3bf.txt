@@ -1,0 +1,13 @@
+2,191b4bba-5dcf-4456-bece-976f2f5a027c,08080132-1126-0626-0000-7be61f0ee497,818a4a1d-efc6-4733-86a1-e601969ad3bf,2026-08-08T13:08:33.530407+10:00
+Worst standalone roadside assistance cover in Australia without hidden fees
+Tables found: 1
+| Provider | Red flag | My take |
+|---|---|---|
+| **RAC WA** | Monthly payments have a **6% admin fee**; assistance within **48 hours of joining attracts an extra fee** | 🔴 Worst for fee transparency/value |
+| **RACV** | Monthly payment includes a **$0.50/month admin fee**; plans have towing and benefit limits | 🟠 Not terrible, but not truly fee-free |
+| **RACT** | Advantage is only **6 callouts/year** and metro towing is just **15 km** | 🟠 Weak basic cover |
+| **NRMA** | Strong unlimited-callout proposition, but towing varies by tier; annual/monthly minimum commitments apply | 🟢 Generally straightforward |
+| **RAA** | Individual/person-based cover and unlimited callouts on higher tiers | 🟢 Good structure |
+| **RACQ** | Extensive terms/exclusions, but pricing and conditions are disclosed | 🟢 Reasonable |
+| **AANT** | Worth considering for NT/rural use; reciprocal coverage nationally | 🟢 Depends heavily on location |
+End Of Line

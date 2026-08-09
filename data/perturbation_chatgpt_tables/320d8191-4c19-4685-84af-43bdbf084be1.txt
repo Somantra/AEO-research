@@ -1,0 +1,10 @@
+2,a7e44d9b-047a-4acf-bc0d-9f427d9ee114,08080132-1126-0626-0000-aa374f7b2d58,320d8191-4c19-4685-84af-43bdbf084be1,2026-08-08T13:08:20.245418+10:00
+Most affordable standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Basic standalone cover | Monthly | Key point |
+|---|---|---:|---|
+| **NRMA Everyday Care** | Standalone | **$9.99/mo** promo | 25 km metro towing, unlimited call-outs |
+| **RACV Roadside Care** | Standalone | **$12/mo** | 20 km metro towing; particularly good in Victoria |
+| **RAA Standard** | Standalone | **$11.25/mo** | 10 km metro towing; Australia-wide assistance |
+| **Budget Direct** | Standalone | **No monthly option** | $89.95/year, unlimited call-outs |
+End Of Line

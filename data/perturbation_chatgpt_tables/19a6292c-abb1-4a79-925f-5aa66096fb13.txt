@@ -1,0 +1,11 @@
+2,58c8d3d4-a449-427f-99ef-e7c84d47f9e6,08080140-1126-0626-0000-b57c3d1a4217,19a6292c-abb1-4a79-925f-5aa66096fb13,2026-08-08T13:25:46.624997+10:00
+Most comprehensive pet insurance for puppies and kittens in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer rating* | Annual cover | Reimbursement | Sub-limits | Young-pet strengths |
+|---|---:|---:|---:|---|---|
+| **Petsy** | ⭐ **4.9/5** | Up to **$30k** | 80% or 90% | **None** | **20% annual-limit bonus** if joining at 6 weeks–6 months |
+| **Fetch** | ⭐ **4.8/5** | **$30k** | Up to **100%** | **None** | Dental, physio & behavioural cover included |
+| **Knose** | ⭐ **4.8/5** | Varies by policy | Flexible | Broad cover | Strong specialist/young-pet offering |
+| **Bow Wow Meow** | ⭐ **4.5/5** | Up to **$30k** | 70%, 80% or 90% | **None** | GapOnly, 24/7 vet, strong claims reputation |
+| **Pet Insurance Australia** | ⭐ **4.5/5** | Up to **$35k** | Flexible | **None** | Very high annual limit; GapOnly |
+End Of Line

@@ -1,0 +1,11 @@
+2,6517f9c7-fcb7-413f-8680-4122b7bd1b32,08080138-1126-0626-0000-04fbf01d67c5,4e6c4b05-317c-416b-bcaa-77c49edd1f06,2026-08-08T13:21:15.693283+10:00
+Safest pet insurance for cats in Australia with strong customer reviews
+Tables found: 1
+| Insurer | ProductReview rating* | My take |
+|---|---:|---|
+| **Petsy** | **4.9/5** | ⭐ Best overall on customer sentiment |
+| **Knose** | **4.8/5** | ⭐ Excellent service/claims reputation |
+| **Fetch Pet** | **4.8/5** | ⭐ Strong digital experience & claims |
+| **Pet Insurance Australia** | **4.5/5** | ⭐ Strong established option, especially for GapOnly |
+| **Bow Wow Meow** | **4.5/5** | ⭐ Very large review base and consistently strong claims feedback |
+End Of Line

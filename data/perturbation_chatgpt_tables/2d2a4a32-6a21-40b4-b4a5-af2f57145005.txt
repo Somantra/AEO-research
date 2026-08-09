@@ -1,0 +1,10 @@
+2,69aea577-56e8-4e94-b34f-cb284d5c8eb9,08080132-1126-0626-0000-1bc09a787dcb,2d2a4a32-6a21-40b4-b4a5-af2f57145005,2026-08-08T13:08:17.296760+10:00
+Cheapest standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly | Annual equivalent | Key catch |
+|---|---:|---:|---|
+| **NRMA Everyday Care** | **$9.99/month** promotional | $119.88 | 25 km metro towing |
+| **RACV Roadside Care** | **$12/month** | $144 | Monthly price includes admin fees |
+| **RACQ Everyday Lite** | **No monthly option** | **$80/year** | Cheapest overall, but billed annually and **no towing** |
+| **Budget Direct Roadside Assistance** | Monthly availability needs confirmation at checkout | $89.95 | Unlimited call-outs; standalone |
+End Of Line

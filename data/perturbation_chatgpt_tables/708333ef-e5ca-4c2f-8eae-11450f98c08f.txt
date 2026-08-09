@@ -1,0 +1,11 @@
+2,8c44bf24-5997-485c-88d0-e0995f4c2cc4,08080141-1126-0626-0000-ccbbdf0162e0,708333ef-e5ca-4c2f-8eae-11450f98c08f,2026-08-08T13:26:28.725876+10:00
+Most popular pet insurance for large dog breeds in Australia with monthly payments
+Tables found: 1
+| Insurer | Why consider it for a large dog | Typical cover |
+|---|---|---|
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | Strong high-limit option; particularly interesting for cruciate/hip issues | Up to **$30k/year**, up to **90%** back |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/pet-insurance/)** | Flexible cover and no sub-limits on its Nose-to-Tail plan | Up to **$30k/year**, up to **90%** |
+| **RSPCA Pet Insurance** | High annual limits and broad accident/illness options | Up to **$35k/year**, up to **90%** |
+| **Pet Insurance Australia** | One of the established Australian providers and commonly included in comparisons | Multiple cover levels |
+| **Petcover** | Popular comparison-site option with 70/80/90% reimbursement choices | Up to **$10k** paralysis-tick sublimit depending on plan |
+End Of Line

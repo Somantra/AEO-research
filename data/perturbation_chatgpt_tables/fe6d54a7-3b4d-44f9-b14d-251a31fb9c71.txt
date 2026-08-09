@@ -1,0 +1,11 @@
+2,e0af7bf3-a0a1-4c52-a7b5-2024225d2116,08080130-1126-0626-0000-f2d4530f9132,fe6d54a7-3b4d-44f9-b14d-251a31fb9c71,2026-08-08T13:02:02.121370+10:00
+Cheapest roadside assistance for interstate travel in Australia with strong customer reviews
+Tables found: 1
+| Provider | Cheapest relevant plan | Australia-wide? | Review score* | My take |
+|---|---:|---|---:|---|
+| **24/7 Roadservices Australia** | **$79/yr** | ✅ Yes | **4.9/5 (991)** | 🏆 Best value |
+| **NRMA** | $112/yr | ✅ Reciprocal national cover | **4.5/5 (1,913)** | Best established option |
+| **RAC WA** | $128/yr | ✅ Yes | **4.8/5 (1,221)** | Excellent reviews |
+| **RAA SA** | $135/yr | ✅ Yes | — | Good national option |
+| **RACQ QLD** | $109/yr | ✅ Reciprocal | **3.2/5 (405)** | Cheap, but reviews weaker |
+End Of Line

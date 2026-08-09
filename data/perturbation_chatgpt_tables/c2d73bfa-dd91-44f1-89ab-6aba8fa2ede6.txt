@@ -1,0 +1,13 @@
+2,d7139b97-ad8d-46a0-9603-e3dceb9b839e,08080120-1126-0626-0000-90533a06bf96,c2d73bfa-dd91-44f1-89ab-6aba8fa2ede6,2026-08-08T12:37:46.992480+10:00
+Most comprehensive car insurance for high-risk drivers in Australia with monthly payments
+Tables found: 1
+| Insurer | Comprehensive | Monthly payments | High-risk suitability |
+|---|---|---|---|
+| **QBE** | ✅ | Usually available | ⭐⭐⭐⭐⭐ |
+| **Kogan Insurance** | ✅ | Available depending on quote | ⭐⭐⭐⭐⭐ |
+| **NRMA** | ✅ | Available | ⭐⭐⭐⭐ |
+| **AAMI** | ✅ | Available | ⭐⭐⭐⭐ |
+| **RACQ** | ✅ | Available | ⭐⭐⭐⭐ if you're in QLD |
+| **Shannons** | ✅ | Available | ⭐⭐⭐ for enthusiasts/modifications |
+| **Budget Direct** | ✅ | Monthly available | ⭐⭐ — stricter underwriting |
+End Of Line

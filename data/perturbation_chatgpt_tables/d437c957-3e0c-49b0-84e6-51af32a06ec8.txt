@@ -1,0 +1,10 @@
+2,6a9822c9-25f2-47fb-8368-fb2ea72a218a,08080121-1126-0626-0000-dde25538e12c,d437c957-3e0c-49b0-84e6-51af32a06ec8,2026-08-08T12:39:42.954034+10:00
+Most popular motorcycle insurance for learner riders in Australia with a fast claims process
+Tables found: 1
+| Insurer | Learners | Claims convenience | My take |
+|---|---|---|---|
+| **QBE** | ✅ Yes | Online + 24/7 phone claims | **Best overall starting point** |
+| **AAMI** | Check quote/eligibility | 24/7 online claims for Comprehensive | **Strong claims experience** |
+| **Youi** | Quote-dependent | Online claims 24/7 | **Good service/repair setup** |
+| **NRMA** | Quote-dependent | Online claims + assistance | **Good mainstream option** |
+End Of Line

@@ -1,0 +1,11 @@
+2,51f38c75-2b16-407a-832a-50c4760595a4,08080130-1126-0626-0000-0bde1eaaa076,50e32732-c82b-4c6b-9d6e-c50dd8cd40bc,2026-08-08T13:02:00.109713+10:00
+Most comprehensive roadside assistance for motorcycles in Australia with instant online quotes
+Tables found: 1
+| Provider | Price | Towing | Callouts | Extra benefits | Instant online signup |
+|---|---:|---|---|---|---|
+| **Motorcycle Assist Australia – Premium** | **$119/yr** | 50 km metro / 100 km regional | Unlimited* | Accommodation, car hire, trailer cover, fuel, battery | **Yes** |
+| **Rider Support Australia – Premium** | **$119.95/yr** | 50 km metro / 100 km country | Unlimited* | Accommodation, rental car, onward travel, ambulance, illness cover | **Yes** |
+| **Rider Support Australia – Premium Plus** | **$179.95/yr** | 50 km metro / 100 km country | Unlimited* | **Up to 3 motorcycles + 1 car**, plus extensive travel benefits | **Yes** |
+| **RACQ Everyday Plus** | $179/yr | 50 km | — | Travel assistance >100 km from home, app tracking | **Yes** |
+| **Youi Comprehensive Motorcycle** | Quote-based | Limits apply | — | Full motorcycle insurance + roadside included | **Yes** |
+End Of Line

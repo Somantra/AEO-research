@@ -1,0 +1,10 @@
+2,0016ab36-a384-4d70-8ddf-7aa301d693e3,08080123-1126-0626-0000-742aa4761075,a9051ff9-cf17-43e1-9aaf-d88db8346a03,2026-08-08T12:44:07.233885+10:00
+Cheapest third-party motorcycle insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why check it | Online quote |
+|---|---|---|
+| **Budget Direct** | Strong low-price contender; 15% online discount on first year | urlGet Budget Direct motorcycle quoteturn1search3 |
+| **ING** | 15% online discount first year; instant/on-the-spot quote | urlGet ING motorcycle quoteturn1search2 |
+| **Youi** | Online quotes; pricing can be competitive depending on rider profile | urlGet Youi motorcycle quoteturn1search0 |
+| **QBE** | Worth checking because it can be particularly cheap for some riders | [QBE motorcycle insurance](https://www.qbe.com/au/personal-insurance/motorcycle-insurance) |
+End Of Line

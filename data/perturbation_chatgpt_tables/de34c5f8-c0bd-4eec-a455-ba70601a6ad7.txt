@@ -1,0 +1,10 @@
+2,28b17dd9-dde7-48aa-a66e-90ea0d1763ce,08080120-1126-0626-0000-d471edb67300,de34c5f8-c0bd-4eec-a455-ba70601a6ad7,2026-08-08T12:38:09.620281+10:00
+Worst car insurance providers in Australia without hidden fees
+Tables found: 1
+| Insurer | Why some customers are unhappy | What to check before buying |
+|---|---|---|
+| Budget Direct | Lower customer ratings in some surveys; complaints often focus on claims experiences and policy expectations. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Repairer choice, excess amounts, hire-car cover, discounts that expire |
+| AAMI | Rated below average for overall customer satisfaction in CHOICE’s 2025 survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Whether the cheapest quote has reduced benefits |
+| Allianz Australia | Lower customer satisfaction scores in the same survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Claim service standards, exclusions, optional extras |
+| RACV Insurance | Customer satisfaction was below the survey average. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) | Renewal increases, inclusions vs competitors |
+End Of Line

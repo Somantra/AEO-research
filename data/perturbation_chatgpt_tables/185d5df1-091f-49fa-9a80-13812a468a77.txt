@@ -1,0 +1,9 @@
+1,d7dd369c-7c8a-4302-9220-4b08317a10ee,08080133-1126-0626-0000-10655a688ca7,185d5df1-091f-49fa-9a80-13812a468a77,2026-08-08T13:09:39.208960+10:00
+Premium long-term travel insurance in Australia
+Tables found: 1
+| Provider | Best for | Long-trip suitability |
+|---|---|---|
+| **World Nomads Explorer** | Long-term travel, backpacking, adventure activities | **Excellent — up to 12 months** for Australian residents [www.worldnomads.com](https://www.worldnomads.com/au/travel-insurance/whats-covered/long-term-travel-insurance?utm_source=chatgpt.com) |
+| **Allianz Comprehensive** | Traditional premium comprehensive cover | **Strong**, but check the maximum single-trip duration for your itinerary [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **Cover-More Comprehensive** | Broad mainstream cover + optional activities | **Strong**, with single-trip and annual multi-trip options; maximum trip duration depends on the policy selected [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/comprehensive-travel-insurance?utm_source=chatgpt.com) |
+End Of Line

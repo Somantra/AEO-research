@@ -1,0 +1,9 @@
+2,11b5649e-7a8f-4868-89aa-3adb3c3cbbd4,08080140-1126-0626-0000-d8131ef7afb9,d1c97d7e-b38b-4947-bd55-895f37577078,2026-08-08T13:25:11.088262+10:00
+Worst pet insurance for puppies and kittens in Australia with a fast claims process
+Tables found: 1
+| Insurer | Overall warning | Claims speed | Puppy/kitten suitability |
+|---|---|---|---|
+| **Petcover** | ⚠️ Low CHOICE rating | **9/10 within 5 working days** | Starts from 8 weeks |
+| **Real Insurance** | ⚠️ Low CHOICE rating | Need to verify current stated timeframe | Available for dogs/cats |
+| **PetsOnMe** | ⚠️ Low CHOICE rating | Need to verify current timeframe | Available for dogs/cats |
+End Of Line

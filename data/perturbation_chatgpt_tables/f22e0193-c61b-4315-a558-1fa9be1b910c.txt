@@ -1,0 +1,10 @@
+2,4c523f33-f0c6-405e-83c5-bf70c82270d0,08080131-1126-0626-0000-7e3f13810cd0,f22e0193-c61b-4315-a558-1fa9be1b910c,2026-08-08T13:04:44.194836+10:00
+Most trusted roadside assistance for older cars in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | Approx. monthly option | Why it suits an older car |
+|---|---|---:|---|
+| RACV Roadside Assistance | Victoria drivers | From about **$12/month** | Strong coverage network, 24/7 help, towing, flat battery, tyres, fuel assistance; easy monthly payment option. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| NRMA Roadside Assistance | NSW/ACT drivers | Monthly plans available | One of Australia’s largest roadside providers; good choice if you drive long distances. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+| RACQ | Queensland drivers | Monthly options available | Large regional network, useful if an older car is driven outside cities. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+| RAA | SA drivers | Monthly options available | Long-established state provider. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+1,690d7248-4082-437b-b46c-56f49eb38b5d,08080120-1126-0626-0000-e35be5e7b3f0,9141aeb9-77ba-4f23-86c3-de4a2bfa68ea,2026-08-08T12:38:25.155599+10:00
+Cheapest third-party motorcycle insurance in Australia
+Tables found: 1
+| Insurer | Sample annual premium |
+|---|---:|
+| **AAMI** | **$153.63** |
+| **Budget Direct** | **$176.96** |
+| National Motorcycle Insurance | $279.48 |
+| NRMA | $280.93 |
+| Mi-bike | $297.00 |
+End Of Line

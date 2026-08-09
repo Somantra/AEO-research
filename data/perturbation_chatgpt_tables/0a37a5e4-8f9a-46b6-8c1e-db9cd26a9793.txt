@@ -1,0 +1,10 @@
+2,a36d9f45-ade9-48d9-805c-665aebacc4ed,08080138-1126-0626-0000-e1ab89bb89e9,0a37a5e4-8f9a-46b6-8c1e-db9cd26a9793,2026-08-08T13:21:10.900301+10:00
+Easiest pet insurance for cats in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | My take |
+|---|---|---|
+| **Pet Insurance Australia** | **GapOnly claims can be processed in ~10 minutes** at participating vets; eClaims are typically within 5 business days. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com)[www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) | ⭐ **Best for easiest/fastest claims** |
+| **Knose** | Says most claims are settled within **5 working days**. [www.knose.com.au](https://www.knose.com.au/?utm_source=chatgpt.com) | ⭐ **Best simple alternative** |
+| **HCF Happy Tails** | Uses PetSure's claims infrastructure, including online claims and GapOnly at participating vets. [www.hcf.com.au](https://www.hcf.com.au/pet-home-car/pet-insurance?utm_source=chatgpt.com) | Good mainstream option |
+| **Budget Direct** | Online claims 24/7; says it will contact you within **2–5 business days** if more information is needed. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/claims.html?utm_source=chatgpt.com) | Good if price matters more than convenience |
+End Of Line

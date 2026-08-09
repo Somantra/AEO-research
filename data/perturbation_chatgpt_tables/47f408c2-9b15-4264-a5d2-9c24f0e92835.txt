@@ -1,0 +1,10 @@
+2,7020cc5e-a8ec-4120-bf23-dc0a94fb731d,08080131-1126-0626-0000-ce4d208db35a,47f408c2-9b15-4264-a5d2-9c24f0e92835,2026-08-08T13:05:17.136515+10:00
+Best roadside assistance plans in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Speed / convenience | My take |
+|---|---|---|---|
+| **RACQ** | Fastest published response | **35-min average response** in Queensland; online/app call-outs | ⭐ **Best for speed** |
+| **RACV** | Victoria / Melbourne | Usually **within 1 hour**; app request + real-time patrol tracking in metro Melbourne | ⭐ **Best Victorian choice** |
+| **RAA** | South Australia | App booking + **real-time patrol tracking** | ⭐ Great digital experience |
+| **NRMA** | NSW/ACT + interstate travel | 24/7 assistance, large national network, multiple towing tiers | ⭐ Best broad-network option |
+End Of Line

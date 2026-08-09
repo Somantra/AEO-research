@@ -1,0 +1,12 @@
+0,2af2220b-149c-405c-b0bf-5626f78852ca,08080117-1126-0626-0000-96b46a30d57d,2dbad2eb-6357-44cc-97bb-e520c1f70bf9,2026-08-08T12:29:17.529835+10:00
+home insurance for landlords in Australia
+Tables found: 1
+| Cover | What it generally protects against |
+|---|---|
+| **Building insurance** | Damage to the structure from insured events such as fire, storms, floods (if included), and other listed events |
+| **Landlord contents** | Items you own at the property (for example carpets, curtains, appliances or furnishings supplied to tenants) |
+| **Loss of rent** | Rental income lost when the property becomes uninhabitable due to an insured event |
+| **Tenant damage / malicious damage** | Damage caused by tenants, depending on policy terms |
+| **Rent default** | Some policies offer optional cover if tenants stop paying rent or leave unexpectedly |
+| **Legal liability** | Claims if someone is injured or suffers damage connected to your property |
+End Of Line

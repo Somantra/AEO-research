@@ -1,0 +1,11 @@
+2,8be9d06d-29af-4a9d-a58c-63ecbb81b34c,08080139-1126-0626-0000-c6acb0f0ce9d,04c61386-d51e-4a6d-a4ea-1b982cd9bc4e,2026-08-08T13:22:36.434202+10:00
+Best pet insurance for older pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | New-pet age limit | Cover | Online quote | Best for |
+|---|---:|---|---|---|
+| **Real Insurance – Classic** | **Under 16** | Up to 60%, $12k/year | ✅ Quick quote | **Best for very old pets** |
+| **Guardian – Bronze** | **Up to 16** | Up to 60%, $12k/year | ✅ | Alternative for 9–15yo pets |
+| **Trupanion** | **Under 14** | 90%, **no payout limits** | ✅ ~2 min | **Best comprehensive cover** |
+| **Australian Seniors** | Up to 15 | Accident & illness | ✅ | Older-pet specialist option |
+| **Real/Guardian higher tiers** | Under 9 | Up to 75–80% | ✅ | Better cover if your pet is still under 9 |
+End Of Line

@@ -1,0 +1,10 @@
+2,4a451f24-0241-4056-8b37-4911da32861f,08080139-1126-0626-0000-db67b9ba82cd,426e1e45-c898-4990-b799-391c4937f9a3,2026-08-08T13:22:36.930353+10:00
+Worst pet insurance for older pets in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews | New-pet age limit | Why it stands out |
+|---|---:|---:|---|
+| **Petsy** | ⭐ 4.9/5 | Under 9 years | No age limit after joining; no condition sub-limits |
+| **Knose** | ⭐ 4.8/5 | Under 9 years | No maximum renewal age; no sub-limits |
+| **Pet Insurance Australia** | ⭐ 4.5/5 | Varies by policy | Strong long-term customer feedback |
+| **Seniors Pet Insurance** | ⭐ 4.7/5 | Specifically aimed at seniors | Particularly relevant if your pet is already older |
+End Of Line

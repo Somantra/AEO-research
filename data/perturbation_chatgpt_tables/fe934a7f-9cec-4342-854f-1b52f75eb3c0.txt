@@ -1,0 +1,12 @@
+1,6840a6b7-33d8-439d-a9d5-f557c63386cc,08080126-1126-0626-0000-628f6b454b2d,fe934a7f-9cec-4342-854f-1b52f75eb3c0,2026-08-08T12:52:55.188072+10:00
+Most popular roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | Best for | EV support |
+|---|---|---|
+| NRMA | NSW/ACT drivers | Large roadside network, 24/7 assistance, battery issues, towing and EV-related help. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV | Victoria (especially Melbourne) | EVs covered at no extra cost; can assist if an EV runs out of charge and arrange towing to charging facilities within cover limits. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| RACQ | Queensland | EV-specific roadside assistance, including high-voltage-aware patrols. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| RAA | South Australia | Strong local coverage and EV services. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-roadside-assistance/?utm_source=chatgpt.com) |
+| RAC Western Australia | WA | Major WA motoring club option. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-roadside-assistance/?utm_source=chatgpt.com) |
+| EV manufacturer roadside programs | New EV owners | Many EV brands include complimentary roadside assistance, but duration and EV-specific coverage vary by manufacturer. [evroadside.com.au](https://evroadside.com.au/providers/manufacturer-ev-roadside/?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

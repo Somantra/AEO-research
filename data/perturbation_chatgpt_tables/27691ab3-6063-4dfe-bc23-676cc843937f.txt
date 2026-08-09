@@ -1,0 +1,9 @@
+2,9b42c2ec-5dbb-4a0e-b190-6293825fbaac,08080141-1126-0626-0000-8529c454c44c,27691ab3-6063-4dfe-bc23-676cc843937f,2026-08-08T13:28:07.686706+10:00
+Most trusted accident-only pet insurance in Australia with a fast claims process
+Tables found: 1
+| Pick | Provider | Claims speed | Accident-only? | Why I’d consider it |
+|---|---|---|---|---|
+| 🥇 **Best for fast claims** | **Pet Insurance Australia (PIA)** | **~10 min** with eligible GapOnly claims | **Yes — accident-only product exists** | Strong claims infrastructure; GapOnly can settle eligible claims while you’re at the vet |
+| 🥈 **Best established claims network** | **PetSure-backed brands** | **~10 min GapOnly** / eClaim typically faster than standard claims | **Yes, depending on brand/product** | 1,050+ participating vets and mature claims system |
+| 🥉 **Best if you prioritise simple claims** | **Budget Direct** | Contact within **2–5 business days** | Check current quote/product options | Very straightforward online claims, but you generally pay the vet first |
+End Of Line

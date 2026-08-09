@@ -1,0 +1,9 @@
+2,19d6028f-07c3-4e68-b80c-23bbd4c923e1,08080118-1126-0626-0000-5729c2acb887,a183c0b0-bf7d-4dc5-bc4d-b90e367849cb,2026-08-08T12:32:43.029446+10:00
+Premium car insurance for small cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out |
+|---|---|
+| **[Youi](https://www.youi.com.au/car-insurance/comprehensive)** | Strong digital claims experience — claims can be lodged and tracked online 24/7. Comprehensive cover includes accidental damage, theft, storm, hail, flood and fire, plus 24/7 roadside assistance. [www.youi.com.au](https://www.youi.com.au/car-insurance/comprehensive?utm_source=chatgpt.com) |
+| **[Allianz](https://www.allianz.com.au/car-insurance/comprehensive-car-insurance.html)** | My pick if you prioritise **claims support + repair flexibility**. Allianz reports a 4.5/5 customer rating for claims experience and offers 24/7 claims support, choice of repairer, agreed value and guaranteed authorised repairs. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/nsw.html?utm_source=chatgpt.com) |
+| **[NRMA Insurance](https://www.nrma.com.au/car-insurance?Product=Premium)** | Particularly worth quoting in NSW. Its **Comprehensive Plus** is the highest level, with hire-car cover, excess-free glass cover, new-car replacement and higher benefit limits. [www.nrma.com.au](https://www.nrma.com.au/car-insurance?Product=Premium&utm_source=chatgpt.com) |
+End Of Line

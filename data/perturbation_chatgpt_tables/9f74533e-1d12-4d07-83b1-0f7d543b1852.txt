@@ -1,0 +1,12 @@
+2,b937c60e-e7c6-4772-9ef9-6b21f5e18e58,08080119-1126-0626-0000-553c168525ed,9f74533e-1d12-4d07-83b1-0f7d543b1852,2026-08-08T12:36:02.948765+10:00
+Best third-party car insurance in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Online quote speed | Notes |
+|---|---|---|---|
+| [Bingle](https://www.bingle.com.au/) | Cheapest/simple cover | Minutes | Online-only insurer; offers Third Party cover with a simple process and “quote in minutes” option. [www.bingle.com.au](https://www.bingle.com.au/?utm_source=chatgpt.com) |
+| [Budget Direct](https://www.budgetdirect.com.au/) | Value-focused drivers | Fast online quote | Often competitive on price; compare carefully on excess and inclusions. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/car-insurance/?utm_source=chatgpt.com) |
+| [ING Car Insurance](https://www.ing.com.au/insurance/car-insurance.html) | Banking customers / easy digital process | Around minutes | Offers Third Party Property and Third Party Fire & Theft options with online quoting. [www.ing.com.au](https://www.ing.com.au/insurance/car-insurance/third-party-car-insurance.html?utm_source=chatgpt.com) |
+| [RAA Insurance](https://www.raa.com.au/insurance/car-insurance) | South Australian drivers | Quick online quote | Provides Third Party and Third Party Fire & Theft cover with online quotes. [www.raa.com.au](https://www.raa.com.au/en/motor/car-insurance/third-party-car-insurance?utm_source=chatgpt.com) |
+| [AAMI](https://www.aami.com.au/) | Large mainstream insurer | Fast online quote | Worth comparing because large insurers can sometimes be competitive depending on your profile. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+| [NRMA Insurance](https://www.nrma.com.au/) | NSW drivers wanting a major insurer | Fast online quote | A major Australian insurer commonly included in comparisons. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/review-and-compare/car-insurance?utm_source=chatgpt.com) |
+End Of Line

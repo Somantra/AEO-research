@@ -1,0 +1,10 @@
+2,82a83901-d73d-406d-b25d-55e16668775c,08080132-1126-0626-0000-794358ba929a,88c67458-8082-4138-bac1-f1f454ad8e56,2026-08-08T13:07:48.551070+10:00
+Easiest roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Why it’s good for hybrids | Watch for |
+|---|---|---|---|
+| RACV | Victoria / Melbourne drivers | Covers hybrid vehicles at no extra cost; 24/7 assistance; unlimited callouts; app tracking in metro Melbourne | Check towing distance on the plan you choose [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| NRMA | NSW drivers | Large roadside network and established service | Compare towing limits and upgrades |
+| RACQ | Queensland drivers | Explicitly covers hybrids, plug-in hybrids and EVs under roadside assistance options | Higher tiers cost more [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| RAA / RAC / others | Other states | Local expertise through state auto clubs | Benefits vary by state |
+End Of Line

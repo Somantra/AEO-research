@@ -1,0 +1,17 @@
+2,b72645eb-10fa-4ec6-98f2-a5e43ba5e633,08080137-1126-0626-0000-cb2431facc16,706528b9-4a48-4aa4-8b70-03c76c55120d,2026-08-08T13:20:06.143347+10:00
+Worst travel insurance providers in Australia compared to other providers
+Tables found: 2
+| Provider | Common concerns | Compared with stronger competitors |
+|---|---|---|
+| Allianz Australia Insurance Limited (including some travel brands it underwrites) | Complex policy wording and past issues around how coverage was presented to customers. ASIC reported that Allianz and AWP Australia were fined after findings involving misleading travel insurance information about coverage limits and exclusions. [asic.gov.au](https://asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-028mr-allianz-and-awp-convicted-and-fined-16-8-million-for-making-false-or-misleading-statements/?utm_source=chatgpt.com) | Large global insurer with strong resources, but some travellers prefer providers with simpler wording and more transparent claims communication. |
+| AIG Australia Limited | Individual claim disputes can receive negative publicity, especially around medical claims and pre-existing conditions. A recent reported case involved a disputed medical claim after an overseas injury. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | Can be competitive for some travellers, but customers should be very careful declaring medical history. |
+| Budget/ultra-cheap online policies (various brands) | Lower premiums can come with lower cancellation limits, higher excesses, narrower medical coverage, or more exclusions. | Often lose out to mid-tier policies when something serious happens. |
+End Of Line
+| Provider | Strengths |
+|---|---|
+| Cover-More Insurance Services Pty Ltd | Long-established travel specialist; often chosen for stronger travel assistance services. |
+| Southern Cross Travel Insurance | Often praised by travellers for claims support and medical assistance experiences, although individual experiences vary. [www.reddit.com](https://www.reddit.com/r/AskAnAustralian/comments/1icnjwn?utm_source=chatgpt.com) |
+| World Nomads | Popular with backpackers and adventure travellers because of activity-focused cover options. |
+| NIB Travel Insurance | Competitive for some travellers, with multiple policy tiers. |
+| Allianz Australia Insurance Limited | Despite criticism in some areas, it remains one of Australia’s major insurers and may suit travellers who carefully match cover to their needs. |
+End Of Line

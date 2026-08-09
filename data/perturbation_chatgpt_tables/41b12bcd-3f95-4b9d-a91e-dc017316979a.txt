@@ -1,0 +1,9 @@
+2,ae8a0b8c-d874-4066-ac75-ae9f78107af4,08080129-1126-0626-0000-e869daa4e2f3,41b12bcd-3f95-4b9d-a91e-dc017316979a,2026-08-08T13:00:36.468598+10:00
+Most trusted roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | EV support | Monthly payment |
+|---|---|---|---|
+| NRMA | Best overall national reputation, especially NSW/ACT | EV roadside assistance included; towing, battery help, charging-related support options | From about **$9.99/month** for entry cover; higher tiers available [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV | Victoria drivers wanting strong EV coverage | EVs covered at no extra cost; can tow an EV to an accessible charger if out of charge | About **$12/month** for basic Roadside Care; higher plans available [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| RACQ | Queensland drivers | EV assistance included across plans; high-voltage-aware patrols; EV towing support | Monthly direct debit available (pricing depends on plan) [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+End Of Line

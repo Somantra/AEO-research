@@ -1,0 +1,10 @@
+2,a2a235a1-cb59-4ef4-87a2-5b4472f8fddb,08080140-1126-0626-0000-9e90a01559ab,d50ffb7f-3545-48a7-bf29-22196a43f253,2026-08-08T13:25:28.822534+10:00
+Easiest pet insurance for puppies and kittens in Australia without hidden fees
+Tables found: 1
+| Provider | Why I’d consider it | Watch-outs |
+|---|---|---|
+| **Budget Direct** | Very straightforward 80% reimbursement, $100/$200 excess choices, and three simple cover levels. Puppies/kittens can be insured from **8 weeks**. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/compare-policies.html?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/faqs.html?utm_source=chatgpt.com) | Sub-limits apply to things like cruciate, ticks and snake attacks; 6-month waiting period for cruciate conditions. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/comprehensive.html?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | Strong **value** option; Finder currently rates its Nose-to-Tail cover highly, with 70/80/90% reimbursement and up to $30,000 annual cover. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) | Still need to check the PDS for exclusions, waiting periods and excess before buying. |
+| **Petcover** | Particularly attractive if you hate sub-limits: Finder identifies its Superior plan as having **no sub-limits**, with 70/80/90/100% reimbursement options and $20,000 annual cover. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) | A higher reimbursement percentage can mean a higher premium. |
+| **Medibank Pet Insurance** | Good option if you want up to **90% back** and up to $30,000 annual cover on its higher tier; GapOnly is available. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) | The policy is administered through PetSure, so compare the actual PDS rather than relying on the Medibank brand alone. [www.riotinto.medibank.com.au](https://www.riotinto.medibank.com.au/?utm_source=chatgpt.com) |
+End Of Line

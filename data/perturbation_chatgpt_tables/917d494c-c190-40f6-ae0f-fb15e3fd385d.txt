@@ -1,0 +1,11 @@
+2,289e4052-f028-40f5-bc98-74e942d1b345,08080139-1126-0626-0000-4aeda65d6006,917d494c-c190-40f6-ae0f-fb15e3fd385d,2026-08-08T13:24:05.394366+10:00
+Cheapest pet insurance for pre-existing conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing condition | Potentially useful if… |
+|---|---|---|
+| **Budget Direct** | May be reconsidered after **12 months symptom-free** if fully cured | The condition was temporary and resolved |
+| **Knose** | Some exclusions can potentially be reviewed/waived | Condition was cured; timeframe varies by condition |
+| **RACQ** | Some temporary conditions may be reconsidered after **18 months symptom-free** | Condition isn't lifelong |
+| **Petcover** | May review temporary, cured conditions | Your pet has recovered |
+| **Other mainstream policies** | Existing conditions generally excluded | You mainly want protection against **new** illnesses/injuries |
+End Of Line

@@ -1,0 +1,11 @@
+2,9e40fe19-517e-4c9b-8caa-7d94f62eb604,08080140-1126-0626-0000-db30dec26e1d,8e2dfb4a-cf99-4dc9-914e-0cb76224eaf8,2026-08-08T13:25:13.984391+10:00
+Worst pet insurance for puppies and kittens in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer rating evidence | Main concern for puppies/kittens |
+|---|---|---|
+| **Budget Direct Pet Insurance** | **1.9/5 from 49 ProductReview reviews** | Numerous complaints about rejected claims, pre-existing-condition interpretations and slow claims |
+| **Petinsurance.com.au** | **4.1/5 from 186 reviews** overall; **4.5/5 from 26 puppy-specific reviews** | Much better customer feedback, but still worth scrutinising exclusions and waiting periods |
+| **Pet Insurance Australia (PIA)** | **4.5/5 from 2,259 reviews** | Strong overall reviews, but recent complaints about premium increases |
+| **Knose** | **4.8/5** on ProductReview | Strong customer sentiment; not a “worst” choice based on reviews |
+| **Petsy** | **4.9/5** on ProductReview | Strongest review score among the comparison set |
+End Of Line

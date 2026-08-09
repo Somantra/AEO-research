@@ -1,0 +1,9 @@
+2,8bd4a2d9-ef8b-446c-a8ca-945b9f9bd758,08080139-1126-0626-0000-d2d6be0b3ad4,bc600678-61cb-4dd2-bdd2-2963cad513cc,2026-08-08T13:24:01.709187+10:00
+Most comprehensive pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Comprehensive cover | Annual limit | Multi-pet discount | Fast claims |
+|---|---|---:|---:|---|
+| **Bow Wow Meow** | ⭐⭐⭐⭐⭐ | Up to $30k | **10%** on additional pets | ⭐⭐⭐⭐⭐ |
+| **Fetch** | ⭐⭐⭐⭐⭐ | **$30k** | 5% | ⭐⭐⭐⭐⭐ |
+| **Medibank** | ⭐⭐⭐⭐⭐ | **$30k** | 5% | ⭐⭐⭐⭐⭐ |
+End Of Line

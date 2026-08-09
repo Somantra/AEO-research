@@ -1,0 +1,10 @@
+2,cf0e64ec-a303-4ffd-9d29-75282a012df6,08080139-1126-0626-0000-1761c81048c8,7d91ba67-7a56-4df0-adc2-275dcabff6e2,2026-08-08T13:22:40.145819+10:00
+Worst pet insurance for older pets in Australia with instant online quotes
+Tables found: 1
+| Type/provider issue | Why it can be a bad choice for a senior pet |
+|---|---|
+| **Accident-only cover marketed as cheap** | May leave you exposed to the common senior-pet costs: arthritis, cancer treatment, kidney disease, dental illness, chronic medication and diagnostics. |
+| **Insurers with low new-entry age limits** | If your pet is already older, you may be unable to join or may only get limited cover. Many Australian policies restrict new enrolments around 8–9 years, although limits vary. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| **Policies with many condition sub-limits** | A policy may look affordable online but pay only capped amounts for certain illnesses or treatments. |
+| **Switching insurers late in life** | A new insurer will usually exclude pre-existing conditions, which are more common in older animals. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

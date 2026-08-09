@@ -1,0 +1,10 @@
+2,167a3436-c02a-42a7-b87e-f3b13f4dce80,08080130-1126-0626-0000-6c805d6ea14c,f039cb28-0b5d-4ccf-bcd6-3c8ec7622a2c,2026-08-08T13:03:21.305695+10:00
+Most reliable roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | Payment style | Notes |
+|---|---|---|---|
+| RACV Business Roadside Assistance | Vans, light commercial fleets (up to 8 tonnes GVM) | Monthly invoicing available | 24/7 Australia-wide support; offers business packages and fee-for-service options. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business/fee-for-service.html?utm_source=chatgpt.com) |
+| Truck Assist | Trucks and heavy commercial vehicles | Membership/service plans | Truck-focused roadside support with 24/7 availability.  |
+| FleetCard Roadside Assistance | Fleets wanting simple per-vehicle pricing | Monthly per card/vehicle fee | Offers 24/7 nationwide roadside assistance for FleetCard members; advertised pricing includes monthly fees. [www.fleetcard.com.au](https://www.fleetcard.com.au/road-assistance/?utm_source=chatgpt.com) |
+| NRMA Roadside Assistance | NSW-based fleets and businesses | Subscription options | Large roadside network and established provider.  |
+End Of Line

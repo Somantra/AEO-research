@@ -1,0 +1,11 @@
+2,63b2a4be-a9b0-485e-a36f-82f21c2a8b77,08080122-1126-0626-0000-afaeea644e21,0c4ec575-0779-4dea-b52d-76e30642c4a5,2026-08-08T12:41:28.479622+10:00
+Easiest motorcycle insurance for high-performance bikes in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Claims convenience | High-performance bike fit |
+|---|---|---|---|
+| **QBE** | Best overall starting point | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **AAMI** | Easiest digital claims | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **NRMA** | Strong all-rounder | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Budget Direct** | Price + simple claims | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Shannons** | Enthusiast/modified bikes | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+End Of Line

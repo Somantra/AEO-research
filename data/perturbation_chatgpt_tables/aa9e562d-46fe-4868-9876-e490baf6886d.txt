@@ -1,0 +1,11 @@
+2,7a99ae4b-b892-4ac8-8519-7e3849f398eb,08080133-1126-0626-0000-31b3effe2232,aa9e562d-46fe-4868-9876-e490baf6886d,2026-08-08T13:09:58.100332+10:00
+Most trusted roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Approx. monthly cost | Coverage | My take |
+|---|---|---:|---|---|
+| **NRMA** | Yes | From ~$11.65 | Australia-wide | ⭐ **Best overall** |
+| **RACV** | Yes | From $12 | Mainly VIC, with Australia-wide assistance | ⭐ **Excellent in Victoria** |
+| **RAC WA** | Yes | From ~$11.30 | Australia-wide | ⭐ **Excellent in WA** |
+| **RAA** | Yes | From $11.25 | Australia-wide | ⭐ **Excellent in SA** |
+| **RACQ** | **No** | — | Australia-wide | ⭐ **Excellent in QLD, but annual payment only** |
+End Of Line

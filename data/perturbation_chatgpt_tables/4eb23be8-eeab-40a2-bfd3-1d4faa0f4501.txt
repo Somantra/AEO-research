@@ -1,0 +1,9 @@
+2,02904029-5df1-4416-a941-123a6306f115,08080131-1126-0626-0000-adfae0fd7075,4eb23be8-eeab-40a2-bfd3-1d4faa0f4501,2026-08-08T13:04:54.202021+10:00
+Premium roadside assistance for older cars in Australia with monthly payments
+Tables found: 1
+| Provider | Premium option | Monthly price* | Towing | Older-car suitability |
+|---|---|---:|---|---|
+| **NRMA** | Ultimate Care | **$21.99/mo** | Up to 100 km | Excellent |
+| **RACV** | Total Care | **$27/mo** | Up to 100 km | Excellent |
+| **RACV** | Extra Care | **$19.58/mo** | Up to 60 km | Very good |
+End Of Line

@@ -1,0 +1,9 @@
+2,a55864bb-6c42-40cf-ba7a-742a38f7a9d1,08080131-1126-0626-0000-cb8ad01c5570,de2a2ab5-fa83-4df8-9017-239544ef66fc,2026-08-08T13:03:33.024064+10:00
+Least reliable roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider type | Why to be cautious |
+|---|---|
+| **Cheap membership-only roadside plans aimed at cars** | Many have vehicle weight limits, restricted towing distances, or exclusions that make them unsuitable for trucks/vans. |
+| **Insurance add-on roadside covers** | Often designed as a convenience benefit rather than a dedicated commercial breakdown service; check towing limits and after-hours availability. [www.finder.com.au](https://www.finder.com.au/car-insurance/aami-roadside-assistance?utm_source=chatgpt.com) |
+| **Small aggregators using subcontractors** | Some complaints in the market involve long waits, missed callouts, or difficulty getting assistance after payment. [www.productreview.com.au](https://www.productreview.com.au/listings/real-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

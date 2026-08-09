@@ -1,0 +1,11 @@
+2,2e12c000-a851-487d-8ed6-9947d4bb9e79,08080129-1126-0626-0000-31aa124a1b8b,5548013b-64b4-4a98-afca-773f7decfac6,2026-08-08T13:00:06.753986+10:00
+Best roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | EV-specific support | Online price/buy | Australia-wide | From* |
+|---|---|---|---|---:|
+| **RACV Total Care** | ⭐⭐⭐⭐⭐ High-voltage trained patrols; out-of-charge towing | Yes | Yes | $318/yr |
+| **Allianz Roadside Assistance** | ⭐⭐⭐⭐ EV out-of-charge assistance | Yes | Yes | $139/yr |
+| **RACQ** | ⭐⭐⭐⭐⭐ High-voltage-aware patrols; EV charging-station towing | Yes | Yes | $80/yr Lite |
+| **RAA** | ⭐⭐⭐⭐⭐ EV-trained patrols; towing to nearest charger | Yes | Yes | $135/yr Standard |
+| **NRMA** | ⭐⭐⭐⭐ General roadside assistance; large network | Yes | Yes | Quote online |
+End Of Line

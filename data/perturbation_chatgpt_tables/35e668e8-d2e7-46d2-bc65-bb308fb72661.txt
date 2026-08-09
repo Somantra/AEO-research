@@ -1,0 +1,11 @@
+2,53e3bf08-7b05-4f2f-a3d6-45c862987c7d,08080132-1126-0626-0000-e4af486ffd07,35e668e8-d2e7-46d2-bc65-bb308fb72661,2026-08-08T13:08:23.913518+10:00
+Most affordable standalone roadside assistance cover in Australia with instant online quotes
+Tables found: 1
+| Provider | Basic standalone price | Call-outs | Towing | Online |
+|---|---:|---|---|---|
+| **Budget Direct** | **$76.46 first year online** | Unlimited* | Up to 20 km | ✅ |
+| RAC WA | $128/year | Unlimited | 25 km metro / 80 km country | ✅ |
+| RACV Victoria | $138/year | — | Basic plan | ✅ |
+| RAA SA | $135/year | 4/year | 10 km metro | ✅ |
+| NRMA | From ~$137/year | Unlimited | Depends on plan | ✅ |
+End Of Line

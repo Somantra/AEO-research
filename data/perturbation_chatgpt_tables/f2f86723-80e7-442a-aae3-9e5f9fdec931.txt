@@ -1,0 +1,10 @@
+1,61fb8bde-21dd-4814-9acf-da490ee27dc0,08080136-1126-0626-0000-bb50feabf69b,f2f86723-80e7-442a-aae3-9e5f9fdec931,2026-08-08T13:17:17.384850+10:00
+Most trusted pet insurance for large dog breeds in Australia
+Tables found: 1
+| Insurer / policy | Why I'd consider it for a large dog | Main watch-out |
+|---|---|---|
+| **Pet Insurance Australia – Select & Protect** | **My top overall pick.** Covers hereditary/congenital conditions, hip dysplasia and cruciate conditions; up to 90% reimbursement and high annual limits. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) | 6-month cruciate waiting period; dental needs an add-on |
+| **RSPCA Pet Insurance – PetFlex** | Up to **$35,000 annual cover**, up to 90% back and no sub-limits on the promoted plan. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/dog-insurance/?utm_source=chatgpt.com) | Check the PDS carefully for breed/orthopaedic exclusions |
+| **Medibank – Pet Max** | Up to **$30,000/year**, 90% reimbursement, and GapOnly availability. Pet Max has no sub-limits for cruciate conditions or hip-joint surgery. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/dog-insurance/?utm_source=chatgpt.com) | Premium can be relatively high; waiting periods apply |
+| **Bow Wow Meow – Nose-to-Tail** | Worth quoting, particularly because hip dysplasia is specifically addressed in its current information and is especially relevant to large/giant breeds. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/pet-care/diseases-conditions/hip-dysplasia-pet-insurance-coverage-australia/?utm_source=chatgpt.com) | Need to compare its current limits/exclusions against PIA and Medibank |
+End Of Line

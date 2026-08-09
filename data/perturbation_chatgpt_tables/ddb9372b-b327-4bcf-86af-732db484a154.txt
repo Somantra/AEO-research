@@ -1,0 +1,10 @@
+2,c36e0b4a-07a4-4382-be30-64d836697dce,08080122-1126-0626-0000-568bca2aa24d,ddb9372b-b327-4bcf-86af-732db484a154,2026-08-08T12:42:30.750043+10:00
+Least reliable motorcycle insurance for commuters in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer-review signal | Why consider it |
+|---|---|---|
+| **Budget Direct** | **4.1/5** on ProductReview (63 reviews) | Strong value ratings and positive claims feedback; Finder also rates its motorcycle cover competitively. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | **4.7/5** Trustpilot (30,000+ reviews) | Particularly strong customer-service reputation, although premiums can vary substantially by rider. [www.youi.com.au](https://www.youi.com.au/about-us/youi-insurance-reviews?utm_source=chatgpt.com) |
+| **Shannons** | **4.44/5** in Finder's 2026 Most Recommended Motorcycle Insurance award | Strongest recommendation score in Finder's 2026 customer-satisfaction awards. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/motorcycle-insurance-satisfaction?utm_source=chatgpt.com) |
+| **QBE** | **2.9/5** on ProductReview | Often competitive on price, but the customer-review evidence is considerably weaker than the options above. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

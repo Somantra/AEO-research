@@ -1,0 +1,9 @@
+2,b646f0f9-6ab4-421a-9177-8a20b6f01355,08080120-1126-0626-0000-0f5ecf06e61c,d2c938d6-5b1b-4c08-85c3-396e708d27e2,2026-08-08T12:37:19.086798+10:00
+Least reliable car insurance for high-risk drivers in Australia with monthly payments
+Tables found: 1
+| Insurer/policy type | Why high-risk drivers may want to be cautious |
+|---|---|
+| **Very cheap online-only policies** | Lower premiums can sometimes mean tighter limits, higher excesses, fewer repair options, or stricter claim conditions. |
+| **Policies that accept you without clearly discussing your risk history** | A policy that is cheap but has incorrect driver details can create problems at claim time. |
+| **Any insurer with a history of complaints about claims handling** | Complaints data is often more useful than price alone when you are likely to have a complicated claim. [www.finder.com.au](https://www.finder.com.au/news/car-insurance-complaints-record-high?utm_source=chatgpt.com) |
+End Of Line

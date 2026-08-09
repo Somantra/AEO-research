@@ -1,0 +1,13 @@
+2,1f97c6b0-8084-4518-b03a-2527ab423a15,08080128-1126-0626-0000-3f528a7b3fae,b7df9519-5131-45fa-beb0-fc92e83ab311,2026-08-08T12:57:52.199624+10:00
+Most affordable home insurance for first-time homeowners in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Best for | Key point |
+|---|---|---|---|
+| **Budget Direct** | 🟢 Often cheap | Lowest upfront premium | 15% off new online building/contents policies, or **30% off combined Home & Contents** in the first year [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/combined.html?utm_source=chatgpt.com) |
+| **AAMI** | 🟢 Often cheap | Cheap mainstream cover | Rated among the cheaper insurers across NSW, VIC, QLD, SA and WA in Finder's March 2026 quotes [www.finder.com.au](https://www.finder.com.au/home-insurance/home-insurance-cost?utm_source=chatgpt.com) |
+| **GIO** | 🟢 Often cheap | NSW/VIC/WA | Finder's 2026 sample put GIO among the cheaper options in those states [www.finder.com.au](https://www.finder.com.au/home-insurance/home-insurance-cost?utm_source=chatgpt.com) |
+| **QBE** | 🟡 Low–mid | Balance of price/cover | Generally competitive, particularly in VIC/SA/WA in Finder's sample [www.finder.com.au](https://www.finder.com.au/home-insurance/home-insurance-cost?utm_source=chatgpt.com) |
+| **Youi** | 🟡 Variable | Queensland / tailored cover | More expensive in some locations, but particularly worth quoting in QLD; Youi says 78% of surveyed QLD switchers reported saving, averaging $240/year [www.youi.com.au](https://www.youi.com.au/home-insurance/qld?utm_source=chatgpt.com) |
+| **Allianz** | 🟡 Mid-range | Broad mainstream option | Generally mid-range rather than consistently cheapest [www.finder.com.au](https://www.finder.com.au/home-insurance/home-insurance-cost?utm_source=chatgpt.com) |
+| **NRMA** | 🟢/🟡 Variable | NSW/SA | Competitive in several states, but QLD was mid-range in Finder's sample [www.finder.com.au](https://www.finder.com.au/home-insurance/home-insurance-cost?utm_source=chatgpt.com) |
+End Of Line

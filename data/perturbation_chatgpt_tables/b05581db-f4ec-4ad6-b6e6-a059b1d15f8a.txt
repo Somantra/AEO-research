@@ -1,0 +1,10 @@
+2,bf02efca-35b6-4372-a36b-4409dfe73fcf,08080139-1126-0626-0000-c7eb869bfda5,b05581db-f4ec-4ad6-b6e6-a059b1d15f8a,2026-08-08T13:24:08.617865+10:00
+Cheapest pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Online quote | My take |
+|---|---|---|---|
+| **Bow Wow Meow** | Usually excluded; some temporary conditions can become eligible after 18 months | **Yes** | ⭐ Best one to investigate |
+| **Budget Direct** | Excluded, but some cured conditions may cease to be excluded after 12 months | **Yes** | ⭐ Potentially cheapest |
+| **Petinsurance.com.au** | Generally excludes pre-existing conditions | **Yes** | Worth comparing price |
+| **Trupanion** | Excluded | Quote available | Better for *future* chronic conditions, not existing ones |
+End Of Line

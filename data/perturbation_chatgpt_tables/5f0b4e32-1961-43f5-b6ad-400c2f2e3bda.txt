@@ -1,0 +1,10 @@
+2,31e8fb7d-2305-4e42-9c18-41e7b43093ab,08080139-1126-0626-0000-41d90ab60d23,5f0b4e32-1961-43f5-b6ad-400c2f2e3bda,2026-08-08T13:24:05.787444+10:00
+Cheapest pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Option | Pre-existing conditions | Claims speed | My take |
+|---|---|---|---|
+| **Petsy** | Usually excluded, but offers a pre-existing-condition assessment | **Usually 5 business days**, sometimes same day | ⭐ Best for getting exclusions clarified upfront |
+| **PetSure/GapOnly policies** | Existing/chronic conditions generally excluded | **About 5 minutes at participating vets** | ⭐ Best for fastest cash-flow/claims |
+| **Trupanion** | Existing conditions excluded | **Minutes** where direct vet payment/GapOnly is available | ⭐ Best for major future conditions, but not necessarily cheapest |
+| **Fetch** | Pre-existing conditions excluded | Pre-existing checks performed upfront | Worth getting a quote |
+End Of Line

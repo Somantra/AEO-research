@@ -1,0 +1,10 @@
+1,298915ce-a94b-4768-8ff1-ee482e98551b,08080132-1126-0626-0000-c654cd1815f1,7723ef37-8a3c-4bcb-9730-ccc5f08995fa,2026-08-08T13:07:35.008602+10:00
+Least reliable travel insurance for seniors in Australia
+Tables found: 1
+| Insurer | What I'd watch for |
+|---|---|
+| **AIG** | Recent high-profile dispute involving a 71-year-old traveller and a pre-existing spinal issue. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| **HDI Global Specialty** | AFCA has published several recent travel-insurance determinations involving rejected claims, including pre-existing medical conditions and waiting-period issues. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=8c7374b4-e369-f111-a825-70a8a5542790&utm_source=chatgpt.com) |
+| **Lloyd's Australia** | AFCA has published travel-insurance disputes involving claims and exclusions; this doesn't necessarily indicate poor overall performance, but I'd examine the specific underwriting entity and PDS carefully. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=b1a3dbb1-d957-f111-bec6-6045bdc28a56&utm_source=chatgpt.com) |
+| **Any insurer with vague medical-condition wording** | This is the biggest red flag for seniors. A cheap policy isn't useful if your heart, back, diabetes, cancer history, medications, etc. are excluded when you need the cover. |
+End Of Line

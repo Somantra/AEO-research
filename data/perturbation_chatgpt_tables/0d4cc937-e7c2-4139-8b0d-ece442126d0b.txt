@@ -1,0 +1,9 @@
+1,d33adda8-4df5-4a5a-b66c-c053fa1c8715,08080131-1126-0626-0000-c20aa1d001ce,0d4cc937-e7c2-4139-8b0d-ece442126d0b,2026-08-08T13:04:59.938620+10:00
+Least reliable travel insurance for cruise holidays in Australia
+Tables found: 1
+| Insurer / provider | Issues reported | Why cruise travellers should check carefully |
+|---|---|---|
+| AIG Australia (including some partner-branded travel insurance) | Individual disputes involving rejected claims have received media attention, including cases involving medical emergencies and travel disruption. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | Read the pre-existing medical condition rules, emergency assistance process, and cancellation/delay definitions carefully. |
+| nib Group | Some customers have reported dissatisfaction with cruise-related missed departure claims and claim outcomes on review platforms. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-cruises?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/nib-travel-insurance?utm_source=chatgpt.com) | Check whether missed cruise departure, alternative transport to join the ship, and delays are actually covered. |
+| Australia Post travel insurance | Some customers have reported long claim-handling times and frustration with settlements. [www.productreview.com.au](https://www.productreview.com.au/listings/australia-post-travel-insurance?utm_source=chatgpt.com) | For cruises, slow handling can be especially stressful if you need urgent medical or travel assistance overseas. |
+End Of Line

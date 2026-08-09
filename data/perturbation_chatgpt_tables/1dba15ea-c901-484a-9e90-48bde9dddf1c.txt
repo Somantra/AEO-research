@@ -1,0 +1,13 @@
+0,fd9c6436-6f5c-4fba-985e-67bb8d2b1400,08080118-1126-0626-0000-74ff89eab069,1dba15ea-c901-484a-9e90-48bde9dddf1c,2026-08-08T12:31:32.529509+10:00
+pet insurance for cats in Australia
+Tables found: 1
+| Feature | Why it matters |
+|---|---|
+| **Accident + illness cover** | Usually the most valuable type of cover for cats (injuries, infections, chronic illnesses, surgery) |
+| **Reimbursement percentage** | Common choices are around 70–90% of eligible vet bills |
+| **Annual benefit limit** | The maximum the insurer will pay each year |
+| **Waiting periods** | Check how long before illnesses, injuries, or specific conditions are covered |
+| **Pre-existing conditions** | Existing health issues are generally excluded |
+| **Dental illness cover** | Important because dental treatment can become expensive |
+| **Emergency vet and specialist cover** | Useful for unexpected serious conditions |
+End Of Line

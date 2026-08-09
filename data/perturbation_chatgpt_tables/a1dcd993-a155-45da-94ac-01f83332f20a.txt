@@ -1,0 +1,13 @@
+1,28c3dc7a-b0d2-4bd1-b871-7f3d4e8f07d5,08080128-1126-0626-0000-409156400f5b,a1dcd993-a155-45da-94ac-01f83332f20a,2026-08-08T12:57:54.272667+10:00
+Most popular car insurance for young drivers in Australia
+Tables found: 1
+| Insurer | Why young drivers consider it |
+|---|---|
+| **NRMA** | Strong mainstream option; covers under-25s and P-platers, with comprehensive and third-party options. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/car-insurance-young-drivers?utm_source=chatgpt.com) |
+| **Youi** | Specifically markets cover to under-25s and learner drivers; comprehensive includes roadside assistance. [www.youi.com.au](https://www.youi.com.au/car-insurance/learner-driver-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Often competitive on price; currently appears prominently in Canstar's under-25 comprehensive comparison. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/car-insurance-under-25s/?utm_source=chatgpt.com) |
+| **AAMI** | Very common Australian insurer and worth getting a quote from, particularly for young/P-plate drivers. |
+| **RAC** | Particularly worth checking if you're in **WA**; local drivers frequently compare RAC with AAMI, Budget Direct and HBF. [www.reddit.com](https://www.reddit.com/r/perth/comments/1uo30z2/comprehensive_car_insurance/?utm_source=chatgpt.com) |
+| **Allianz** | Major national insurer, although it isn't always the cheapest option for young drivers. |
+| **GIO** | Another major option, especially worth comparing if you're looking for comprehensive cover. |
+End Of Line

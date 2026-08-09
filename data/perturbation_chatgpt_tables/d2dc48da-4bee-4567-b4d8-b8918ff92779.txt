@@ -1,0 +1,10 @@
+2,b7cc1ed0-cce4-4e75-81c7-20225e6ac20e,08080139-1126-0626-0000-e96a3f97c63f,d2dc48da-4bee-4567-b4d8-b8918ff92779,2026-08-08T13:23:32.945939+10:00
+Most reliable pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Insurer | Multi-pet discount | Why I’d consider it | Watch-outs |
+|---|---:|---|---|
+| **[Bow Wow Meow](https://bowwow.com.au/)** | **10%** | Strong value, up to $30k annual cover, up to 90% reimbursement, no sub-limit on its top plan according to current comparison data | Still has the usual exclusions, waiting periods and policy conditions |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | **5%** | Excellent comprehensive cover; up to $30k, 80/90/100% reimbursement, and direct-to-vet claims are available | Premium may be higher; carefully check exclusions for your particular pets |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | **5% on each additional pet** | Very straightforward multi-pet arrangement, up to $30k/year and 90% reimbursement; GapOnly can reduce upfront out-of-pocket costs | The discount applies to the second and subsequent policies, not the first |
+| **Petcover** | **5%** | Good if you particularly want high/no sub-limit coverage and flexible reimbursement options | Fixed excess on many plans can make it less flexible |
+End Of Line

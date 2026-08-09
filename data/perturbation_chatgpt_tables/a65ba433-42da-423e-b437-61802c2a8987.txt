@@ -1,0 +1,13 @@
+2,ff6a3d8e-7cc9-4604-a060-1c8b173a27d5,08080129-1126-0626-0000-9fa83d4d822c,a65ba433-42da-423e-b437-61802c2a8987,2026-08-08T12:59:22.004466+10:00
+Least reliable home insurance providers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Customers rating experience above average/excellent | My take |
+|---|---:|---|
+| **Qantas Home Insurance** | **42%** | 🔴 Weakest |
+| **CGU** | **48%** | 🔴 Weak |
+| **CBA/Hollard** | **51%** | 🔴 Below average |
+| **Allianz** | **55%** | 🟠 Below average |
+| **GIO** | **55%** | 🟠 Below average |
+| **Everyday/Woolworths** | **57%** | 🟠 Below average |
+| **Budget Direct** | **58%** | 🟠 Mixed |
+End Of Line

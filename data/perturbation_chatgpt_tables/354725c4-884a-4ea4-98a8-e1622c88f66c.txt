@@ -1,0 +1,11 @@
+2,1e26fbe0-7598-462a-82df-99c82a243363,08080118-1126-0626-0000-a4e5d759ebee,354725c4-884a-4ea4-98a8-e1622c88f66c,2026-08-08T12:33:44.129833+10:00
+Premium car insurance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer evidence | Best for |
+|---|---|---|---|
+| **Youi** | Comprehensive EV cover; battery covered when damaged in an insured event; EV roadside assistance includes towing to the nearest charger | **77%** of surveyed Youi car-insurance customers rated their experience above average/excellent; Youi also currently displays **4.7/5 Trustpilot** | **Best overall balance** |
+| **NRMA Insurance** | Dedicated EV offering, lifetime authorised-repair workmanship guarantee, portable charging cable covered, and premium **Comprehensive Plus** option | **72%** customer satisfaction in CHOICE's 2025 survey | **Premium mainstream cover**, particularly NSW/ACT |
+| **Zurich InsureMyTesla** | Purpose-built for Tesla Model 3/Y; battery and charging equipment cover, excess-free glass, up to **4-year new-for-old** replacement in qualifying cases | Won **WeMoney 2026 Best Electric Vehicle Insurance** | **Best for Tesla owners** |
+| **Allianz** | EV-specific benefits including battery, charging cables/wall mounts, EV-certified repairers, battery-fire cover and new-EV replacement within qualifying period | **4.5/5** customer rating for claims experience over the past year; CHOICE customer rating was 61% | **Strong EV-specific coverage** |
+| **RACQ** | Excellent customer satisfaction and a strong option if you're in Queensland | **85%** of surveyed customers rated their car-insurance experience above average/excellent | **Best Queensland-focused option** |
+End Of Line

@@ -1,0 +1,8 @@
+2,fee8144d-a06c-426a-9cc2-21344c42f4b4,08080141-1126-0626-0000-eca24e5dd53a,b6c71d08-d2ce-409b-9671-08338fb431af,2026-08-08T13:26:51.206975+10:00
+Best pet insurance for exotic pets in Australia with instant online quotes
+Tables found: 1
+| Provider | Exotic pets | Online quote | Best suited for |
+|---|---|---|---|
+| [Petcover Australia](https://www.petcovergroup.com/au/) | Yes | Yes | Most exotic species in Australia |
+| Standard dog/cat insurers | Usually no | Often yes | Not generally suitable for exotics |
+End Of Line

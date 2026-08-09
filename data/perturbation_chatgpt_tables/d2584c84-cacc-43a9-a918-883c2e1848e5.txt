@@ -1,0 +1,10 @@
+2,dd6c9190-0001-40d2-8bc8-a9abd0a7d49f,08080141-1126-0626-0000-bee42a457607,d2584c84-cacc-43a9-a918-883c2e1848e5,2026-08-08T13:28:10.043444+10:00
+Most popular accident-only pet insurance in Australia with monthly payments
+Tables found: 1
+| Provider | Pet | Accident-only | Monthly payment | Indicative cost |
+|---|---|---|---|---|
+| **Ruff’n’Tumble** | 🐶 Dog | Yes | **$40/month** | $40/month flat price |
+| **9 Lives** | 🐱 Cat | Yes | **$30/month** | $30/month flat price |
+| **RSPCA Pet Insurance** | 🐶🐱 Dog & cat | Accident-only options available | **Yes** | Quote-based |
+| **Medibank Pet Insurance** | 🐶🐱 Dog & cat | Accident cover is available, but current plans are generally accident + illness | **Yes** | Quote-based |
+End Of Line

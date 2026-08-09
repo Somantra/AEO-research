@@ -1,0 +1,10 @@
+2,179a93f6-69d1-47d7-bc24-8ff1404fdb52,08080119-1126-0626-0000-5ade827a6b73,23719f3c-f347-4217-8ecd-9e7b22dec09f,2026-08-08T12:35:19.582185+10:00
+Least reliable comprehensive car insurance in Australia without hidden fees
+Tables found: 1
+| Insurer type | Why to be cautious |
+|---|---|
+| **Very cheap online-only policies** | Lower premiums can come with higher excesses, fewer repair options, stricter claim conditions, or fewer extras. Always read the PDS. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/what-is-comprehensive-car-insurance/?utm_source=chatgpt.com) |
+| **Policies with many optional add-ons** | The advertised price may exclude things you expect (hire car, windscreen cover, choice of repairer). [www.canstar.com.au](https://www.canstar.com.au/car-insurance/what-is-comprehensive-car-insurance/?utm_source=chatgpt.com) |
+| **Policies with “market value” only** | A cheaper premium may hide the risk that a total-loss payout is lower than expected. [www.canstar.com.au](https://www.canstar.com.au/car-insurance/what-is-comprehensive-car-insurance/?utm_source=chatgpt.com) |
+| **Insurers with poor complaint trends** | Rising complaints across the industry show that claim disputes and unclear information are major issues for consumers. [www.finder.com.au](https://www.finder.com.au/news/car-insurance-complaints-record-high?utm_source=chatgpt.com) |
+End Of Line

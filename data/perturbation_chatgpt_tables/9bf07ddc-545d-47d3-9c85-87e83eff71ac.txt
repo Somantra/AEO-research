@@ -1,0 +1,11 @@
+2,5b67861e-a1f7-48ed-afe7-d02be96ceeb2,08080118-1126-0626-0000-b1d8eb58a0d3,9bf07ddc-545d-47d3-9c85-87e83eff71ac,2026-08-08T12:33:18.619802+10:00
+Least reliable car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider / group | How I’d view it for an EV | Why |
+|---|---|---|
+| **Budget Direct / Auto & General** | ⚠️ **More caution** | AFCA has recently dealt with disputes involving Auto & General/Budget Direct, including claim-rejection issues. This doesn't establish that EV claims are unreliable, but it is a reason to scrutinise the PDS and claims process. [www.dailytelegraph.com.au](https://www.dailytelegraph.com.au/news/national/insurer-forced-to-pay-out-for-stolen-car-after-unattended-vehicle-claim-rejected/news-story/ef1b8b0385ae4fea53a8ee64c4131dbb?utm_source=chatgpt.com) |
+| **Allianz** | 🟡 **Mixed / check carefully** | There are individual recent complaints about claim handling, but anecdotal reports aren't enough to rank it poorly overall. [www.reddit.com](https://www.reddit.com/r/melbourne/comments/1uuwus3/not_sure_where_to_ask_need_help_please/?utm_source=chatgpt.com) |
+| **RACV/RACQ/RAA/RAC** | 🟢 **Generally stronger customer experience** | CHOICE's 2025 survey placed RAA, RACQ, Youi and RAC among the leaders for customer experience; RACQ and RACV customers were particularly happy with claims experience. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| **Youi** | 🟢 **Generally strong** | Ranked among CHOICE's customer-experience leaders. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| **AAMI** | 🟢/🟡 **Worth quoting** | EV owners report very competitive premiums, although pricing and acceptance can vary substantially by model/variant. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1s1d5z2/about_to_take_delivery_of_my_ev_who_did_you/?utm_source=chatgpt.com) |
+End Of Line

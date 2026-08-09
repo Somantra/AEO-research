@@ -1,0 +1,11 @@
+2,9fa42407-96c7-412e-9de9-b70f2e1b3462,08080139-1126-0626-0000-90d7db2436e9,3e6bf154-8c64-4377-9868-5b21a1a4edc7,2026-08-08T13:24:12.095225+10:00
+Most affordable pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Provider | Pre-existing condition approach | Value/reputation notes |
+|---|---|---|
+| Budget Direct Pet Insurance | May remove exclusions for some conditions that are fully cured and symptom-free for 12 months | Often among the cheaper options; customer experiences are mixed, especially around claim interpretation. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) |
+| Knose Pet Insurance | Can review some pre-existing conditions depending on the condition and history | Digital-first insurer with flexible options; check exclusions carefully. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Generally excludes existing conditions, but offers broad cover for new issues | Often considered a solid-value comprehensive option; compare excess and benefit limits. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| Petsy | Existing conditions generally excluded | Frequently mentioned positively by Australian pet owners, though claims experience varies. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1lgd1mc/pet_insurance_recommendations_and_reviews/?utm_source=chatgpt.com) |
+| Fetch Pet Insurance | Existing conditions generally excluded | Competitive pricing is often reported; check policy wording for your pet’s history. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1lgd1mc/pet_insurance_recommendations_and_reviews/?utm_source=chatgpt.com) |
+End Of Line

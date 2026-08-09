@@ -1,0 +1,12 @@
+2,881fd196-ad46-4b8f-b13e-958bc9c75396,08080120-1126-0626-0000-b2449ad15f9c,12fc53fd-07b4-4c47-afa4-d25b6712c938,2026-08-08T12:37:53.546867+10:00
+Cheapest car insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Cheapness | Monthly payments | Notes |
+|---|---|---|---|
+| **Bingle** | ⭐⭐⭐⭐⭐ | Yes | Often one of the cheapest for comprehensive cover |
+| **Budget Direct** | ⭐⭐⭐⭐½ | **Yes, no extra cost on some policies** | Strong value and frequent online discounts |
+| **Qantas Insurance** | ⭐⭐⭐⭐ | Yes | Competitive in some NSW profiles |
+| **Coles Insurance** | ⭐⭐⭐⭐ | Yes | Worth checking for discounts |
+| **ING** | ⭐⭐⭐½ | Yes | Can be competitive depending on driver/car |
+| **Youi** | ⭐⭐⭐½ | Yes | Particularly worth quoting because pricing is highly personalised |
+End Of Line

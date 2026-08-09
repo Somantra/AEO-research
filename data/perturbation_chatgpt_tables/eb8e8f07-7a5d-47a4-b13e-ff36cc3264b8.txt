@@ -1,0 +1,9 @@
+2,c744107c-6c63-4c1e-a987-cae72531db17,08080142-1126-0626-0000-477d6047c8ee,eb8e8f07-7a5d-47a4-b13e-ff36cc3264b8,2026-08-08T13:28:46.250760+10:00
+Least reliable pet insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider/policy to scrutinise | Why it may concern buyers | Instant online quote? |
+|---|---|---|
+| PetsOnMe | Ranked among the lower-scoring policies in CHOICE’s comparison, based on coverage/value analysis rather than simply complaints. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) | Yes |
+| Real Insurance Pet Insurance | Also appeared among lower-rated policies in CHOICE’s analysis of cover and out-of-pocket costs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) | Yes |
+| Petcover | Appeared among lower-rated policies in CHOICE’s comparison; some consumers also discuss premium increases and value concerns online. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) | Yes |
+End Of Line

@@ -1,0 +1,13 @@
+2,6df792f3-580c-4d87-9fa2-81021570cc0f,08080128-1126-0626-0000-33c18b460841,d4679df3-9e99-466e-9152-fcaf70e50030,2026-08-08T12:58:15.972599+10:00
+Least reliable home insurance for first-time homeowners in Australia without hidden fees
+Tables found: 1
+| Insurer | CHOICE home satisfaction | Claims experience | My take |
+|---|---:|---:|---|
+| **Qantas** | 42% | Poorer end | 🚩 Highest caution |
+| **CGU** | 48% | — | 🚩 Caution |
+| **CBA** | 51% | 54% positive | 🚩 Caution |
+| **Allianz** | 55% | 52% positive | ⚠️ Compare carefully |
+| **GIO** | 55% | 50% positive | ⚠️ Compare carefully |
+| **Budget Direct** | 58% | 49% positive | ⚠️ Cheap, but claims concern |
+| **Woolworths Everyday** | 57% | Mixed | ⚠️ Investigate exclusions |
+End Of Line

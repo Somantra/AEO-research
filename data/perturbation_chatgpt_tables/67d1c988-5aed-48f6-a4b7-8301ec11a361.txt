@@ -1,0 +1,12 @@
+2,7917fea6-eae8-4073-a52e-229b996b3ec1,08080126-1126-0626-0000-d94bb638ae2f,67d1c988-5aed-48f6-a4b7-8301ec11a361,2026-08-08T12:51:44.367029+10:00
+Worst home insurance for new builds in Australia with strong customer reviews
+Tables found: 1
+| Insurer | ProductReview rating* | My take for a new build |
+|---|---:|---|
+| **Youi** | **3.7/5** | ⭐ **Best overall shortlist** — particularly good customer-service feedback; Youi's dedicated Building Insurance listing is 4.3/5, albeit from only 20 reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/youi-home-and-contents?utm_source=chatgpt.com) |
+| **QBE** | **4.5/5** | ⭐ **Very strong option** — good customer rating and generally worth obtaining a quote for a high-value new home. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-home-contents-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | **3.7/5** | 👍 Competitive pricing and easy setup, but I'd be more cautious about claims. Reviews show a significant divide between buying the policy and making a claim. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-home-contents-insurance?utm_source=chatgpt.com) |
+| **AAMI** | **1.6/5** | ❌ **Wouldn't be my first choice** if customer reviews are a major factor. Its ProductReview score is substantially weaker. [www.productreview.com.au](https://www.productreview.com.au/listings/aami-home-contents-insurance?utm_source=chatgpt.com) |
+| **NRMA** | **1.6/5** | ❌ Poor recent customer-review signal despite being a major insurer. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-home-insurance?utm_source=chatgpt.com) |
+| **RACQ** | **1.5/5** | ❌ Very weak current ProductReview rating; I'd investigate alternatives before choosing it. [www.productreview.com.au](https://www.productreview.com.au/b/racq?utm_source=chatgpt.com) |
+End Of Line

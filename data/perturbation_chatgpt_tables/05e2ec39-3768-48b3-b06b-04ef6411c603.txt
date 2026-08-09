@@ -1,0 +1,11 @@
+2,9f58d996-d8e6-41d5-bd57-91420cc01aa4,08080142-1126-0626-0000-81dd7f198761,05e2ec39-3768-48b3-b06b-04ef6411c603,2026-08-08T13:28:43.337581+10:00
+Least reliable pet insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider / policy | CHOICE rating | Main concern | Monthly payments |
+|---|---:|---|---|
+| **Petcover Economy** | **25%** | No lifetime cover; benefits can fall sharply with age; chronic/recurring conditions can become excluded | Likely available, but check current quote |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only; just $5,000 annual limit; doesn't cover illness or cruciate ligament injury | **Yes** |
+| **Real Insurance Classic** | **53%** | Only 60% reimbursement; $2,000 **per-condition** limit; $12,000 annual maximum | **Yes** |
+| **Australian Seniors Basic Cover** | **53%** | Same underlying structure as Real Classic; 60% reimbursement and $2,000 per-condition limit | Monthly available |
+| **Guardian Bronze** | **53%** | Same underlying structure; relatively restrictive injury cover and low reimbursement | Monthly available |
+End Of Line

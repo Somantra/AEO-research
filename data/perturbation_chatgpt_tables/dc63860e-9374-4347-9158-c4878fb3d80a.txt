@@ -1,0 +1,9 @@
+2,06c0b1b8-f173-4b07-a34b-35e4b7776802,08080137-1126-0626-0000-fb4798e7aa39,dc63860e-9374-4347-9158-c4878fb3d80a,2026-08-08T13:19:13.641129+10:00
+Least reliable domestic travel insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed reputation | Reliability concerns / things to check |
+|---|---|---|
+| Allianz Australia / Allianz Global Assistance | Often has online claims processes and a large claims operation | Has previously been subject to ASIC action over travel insurance sales and claim-related remediation issues, although that does not mean every current claim experience is poor. [www.asic.gov.au](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2020-releases/20-264mr-asic-secures-consumer-remediation-of-over-10-million-from-allianz-for-travel-insurance/?utm_source=chatgpt.com) |
+| AIG Australia (including some airline-branded travel insurance) | Digital claims options can be convenient | Some travellers report frustration around documentation requests and claim decisions; online reviews are mixed. [www.reddit.com](https://www.reddit.com/r/australia/comments/1b20n91?utm_source=chatgpt.com) |
+| Budget/direct-sale travel insurance brands | Often promise simple online claims | The cheapest policies may have narrower cover, more exclusions, or lower service levels when claims become complex. |
+End Of Line

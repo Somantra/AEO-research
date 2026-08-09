@@ -1,0 +1,9 @@
+2,9e9ee1de-d6ec-49a8-95ba-6123cf976b5b,08080141-1126-0626-0000-beac3dae8840,122c7d2d-8002-412b-ae7a-91a28e6c4d1a,2026-08-08T13:26:28.770221+10:00
+Most popular pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims speed |
+|---|---|---|
+| **Pet Insurance Australia (PIA)** | Excellent fit for large dogs: up to **$35,000 annual cover**, up to 90% back, and no hidden sub-limits on its Select & Protect policy | **~10 min** with GapOnly; standard eClaims typically **within 5 business days** [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com)[www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/?promo=PIA202offer-details%2F&utm_source=chatgpt.com) |
+| **Trupanion** | Particularly strong for expensive/chronic conditions: **90% cover**, no annual payout limits, and hereditary/congenital conditions included | **Minutes** at participating GapOnly vets/hospitals [trupanion.com.au](https://trupanion.com.au/members/claims-faq/?utm_source=chatgpt.com) |
+| **Other PetSure-backed brands** | Several well-known Australian brands use the same PetSure/GapOnly infrastructure, so eligible claims can be processed very quickly | GapOnly can provide on-the-spot processing; availability depends on insurer, policy and vet [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/how-we-compare-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

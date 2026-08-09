@@ -1,0 +1,15 @@
+2,7ce6228c-91d9-4fc8-8644-60aef975c3fe,08080140-1126-0626-0000-ddd09d6f6ab4,716911c1-38ec-4fd2-9d0f-6b036a0b2b52,2026-08-08T13:26:03.109699+10:00
+Worst pet insurance for large dog breeds in Australia compared to other providers
+Tables found: 1
+| Provider | Large-dog suitability | Why |
+|---|---|---|
+| **Coles Ultimate** | 🟡 Good cover, but investigate carefully | Up to **$40k/year** and up to 100% reimbursement, but bilateral-condition exclusions and policy wording need careful checking. [www.coles.com.au](https://www.coles.com.au/insurance/pet-insurance/ultimate?cid=pet%3Acpc%3Abrand%3Ains-hp%3Aconversion&utm_source=chatgpt.com) |
+| **RSPCA PetFlex** | 🟢 Very good | Up to **$35k**, up to 90%, **no sub-limits**. This is particularly attractive for a large breed where one expensive procedure can consume a lot of the annual limit. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/compare-pet-insurance/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | 🟢 Very good | $15k/$25k/$35k limits, up to 90%, and **no hidden sub-limits**. Strong option for big dogs. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/dog-insurance/?utm_source=chatgpt.com) |
+| **Knose** | 🟢 Very good | Up to **$25k with no sub-limits**, so a strong option if its quote is competitive for your breed/age. [www.knose.com.au](https://www.knose.com.au/dog-and-puppy-insurance/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | 🟢 Good | Up to $30k and 70/80/90% reimbursement; Finder currently rates its Nose-to-Tail product highly for value. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **Petcover** | 🟢 Good | Up to $20k with no sub-limits and reimbursement options up to 100%. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **Petsy** | 🟡 Potentially good | High annual limit, but premium/value needs to be compared against the above options for your particular dog. |
+| **Fetch** | 🟠 Check carefully | I'd want to examine the specific PDS and quote before choosing it for a large breed. |
+| **Budget/low-cost policies** | 🔴 Often poor choice for large dogs | Low annual limits or treatment-specific sub-limits can leave you heavily exposed when a major surgery occurs. |
+End Of Line

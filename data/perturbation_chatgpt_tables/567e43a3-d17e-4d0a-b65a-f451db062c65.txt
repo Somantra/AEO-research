@@ -1,0 +1,10 @@
+2,fdd3cb13-00d2-4f77-b1e0-94b4d86df247,08080119-1126-0626-0000-eee6202f8ad1,567e43a3-d17e-4d0a-b65a-f451db062c65,2026-08-08T12:34:17.178352+10:00
+Least reliable car insurance for used cars in Australia with monthly payments
+Tables found: 1
+| Insurer | Why some customers rate them lower |
+|---|---|
+| Allianz Australia | Lower customer satisfaction scores in CHOICE’s survey compared with many competitors; some customers report frustrations around claims processes. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| Budget Direct | Scored below average for overall satisfaction and had a weaker claims-experience rating in the CHOICE survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| AAMI | Rated below average in CHOICE’s overall customer satisfaction comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/car-insurance-customer-satisfaction?utm_source=chatgpt.com) |
+| RACV Insurance | Customer satisfaction was lower than some top performers in the CHOICE comparison. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racv?utm_source=chatgpt.com) |
+End Of Line

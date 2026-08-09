@@ -1,0 +1,10 @@
+1,187fabb9-1a0d-45e5-9098-4409da47bdc7,08080127-1126-0626-0000-1307fda87b59,eba99161-e537-44e6-b73f-cba9ac051730,2026-08-08T12:54:54.477844+10:00
+Best roadside assistance for commercial vehicles in Australia
+Tables found: 1
+| Provider | Best for | Key advantage |
+|---|---|---|
+| **[Truck Assist](https://www.truckassist.com.au/roadside-assistance/roadside-assistance)** | **Trucks & commercial fleets** | Specialist truck mechanics, 24/7 Australia-wide, towing/recovery, tyres, hydraulic hoses, fuel and batteries |
+| **[RACV Business Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance/business.html)** | Light commercial vehicles | Business plans covering vehicles up to **8 tonnes GVM**, unlimited callouts |
+| **NRMA Roadside Assistance** | NSW/ACT fleets and mixed vehicles | Large national network and 24/7 assistance |
+| State motoring clubs (RACQ, RACV, NRMA, RAC, RAA, RACT, AANT) | Smaller commercial vehicles | Strong local networks, particularly for vans/utes/light trucks |
+End Of Line

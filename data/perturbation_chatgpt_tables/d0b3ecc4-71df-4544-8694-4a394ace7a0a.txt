@@ -1,0 +1,16 @@
+2,b54855dc-b705-46e7-a03d-193d67eda9d1,08080125-1126-0626-0000-3c3e38c7b715,d0b3ecc4-71df-4544-8694-4a394ace7a0a,2026-08-08T12:49:49.125714+10:00
+Least reliable home insurance for renters in Australia with instant online quotes
+Tables found: 1
+| Insurer | Customers rating experience “above average” or “excellent” | My take for renters |
+|---|---:|---|
+| **Qantas Insurance** | **42%** | ⚠️ Weakest result in the survey |
+| **CGU** | **48%** | ⚠️ Also notably weak |
+| CBA | 51% | Below average |
+| Allianz | 55% | Mixed |
+| GIO | 55% | Mixed |
+| Everyday/Woolworths | 57% | Mixed |
+| Budget Direct | 58% | Better, but not a reliability leader |
+| AAMI | 60% | Reasonably solid |
+| NRMA | 61% | Reasonably solid |
+| Youi | 67% | Stronger customer experience |
+End Of Line

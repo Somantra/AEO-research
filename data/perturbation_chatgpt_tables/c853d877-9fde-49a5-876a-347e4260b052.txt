@@ -1,0 +1,11 @@
+1,8a9206ac-393a-4d03-85f3-d9c3a7a42862,08080135-1126-0626-0000-05bcff77b902,c853d877-9fde-49a5-876a-347e4260b052,2026-08-08T13:14:51.002577+10:00
+Most comprehensive pet insurance for multiple pets in Australia
+Tables found: 1
+| Insurer / policy | Why it stands out | Multi-pet |
+|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | **Best overall for comprehensiveness** — Finder currently rates it best for comprehensive cover | 5% discount |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** — Nose-to-Tail | Excellent combination of broad cover, up to **90% reimbursement** and **$30k annual limit** | 10% discount |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** — Pet Max Cover + Extra Care | Very high limits and extensive optional benefits | Check quote/discount |
+| **[Petcover](https://www.petcovergroup.com/au/)** — Superior | Particularly interesting if you want **no sub-limits** on covered conditions | Check quote |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | Strong comprehensive option with a clearly defined **10% discount on additional pets** | 10% after first pet |
+End Of Line

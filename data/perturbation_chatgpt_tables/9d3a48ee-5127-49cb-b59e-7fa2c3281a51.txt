@@ -1,0 +1,11 @@
+2,d9b573e9-b4f8-4db8-8001-83334f30f853,08080130-1126-0626-0000-c8349c9028c1,9d3a48ee-5127-49cb-b59e-7fa2c3281a51,2026-08-08T13:01:09.852539+10:00
+Best roadside assistance for motorcycles in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Indicative price | Motorcycle-specific strengths | Main drawback |
+|---|---|---:|---|---|
+| **Rider Support Australia (RSA)** | 🥇 Motorcycle-focused cover | $119.95/yr Premium | Unlimited callouts, 50 km metro / 100 km country towing, accommodation, rental car, onward travel, illness cover | Smaller contractor network |
+| **NRMA** | 🥇 Best mainstream/all-rounder | From ~$112/yr annual | Unlimited callouts, national reciprocal coverage, towing options up to 100 km on Ultimate | Not motorcycle-specialist |
+| **RACV Total Care** | 🥇 Best if you're in Victoria / multiple vehicles | Varies | Australia-wide, 100 km towing, strong travel benefits | Motorcycle roadside help is relatively limited |
+| **Rider Support Australia Essential** | 💰 Cheapest motorcycle specialist | $69.95/yr | Australia-wide, 4 callouts, 30 km metro / 50 km country towing | Much less generous benefits |
+| **RACQ / other state motoring clubs** | Strong regional network | Varies | Large established roadside networks and reciprocal national coverage | Usually less motorcycle-specific |
+End Of Line

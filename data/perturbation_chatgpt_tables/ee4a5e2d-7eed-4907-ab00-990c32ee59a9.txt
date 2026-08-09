@@ -1,0 +1,12 @@
+2,a901caa3-9c1a-4e9c-a77d-60fd2b85b171,08080133-1126-0626-0000-7e12e5eae994,ee4a5e2d-7eed-4907-ab00-990c32ee59a9,2026-08-08T13:10:08.555344+10:00
+Most popular roadside assistance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Typical entry price | Call-outs | Key fee transparency point | Best for |
+|---|---:|---|---|---|
+| **NRMA** | $112/yr currently promoted | Unlimited | Published annual price; towing included up to selected limit | NSW/ACT & nationwide travellers |
+| **RACQ** | $80/yr Lite | Unlimited subject to fair-use/excess rules | Clear published prices and towing limits | Queensland |
+| **RACV** | Varies by plan | Generally generous | Terms clearly state what is and isn't included | Victoria |
+| **RAA** | $135/yr Standard | 4/yr Standard; unlimited higher tiers | Country-distance limits and potential additional fees are explicitly disclosed | SA |
+| **RAC** | $128/yr Standard | Unlimited | **Very transparent:** monthly-payment 6% admin fee and early-join assistance fee are explicitly disclosed | WA |
+| **RACT** | Varies | Plan-dependent | Strong choice for Tasmania | Tasmania |
+End Of Line

@@ -1,0 +1,12 @@
+2,168d4555-931c-4c7f-b66b-860d41d0934a,08080118-1126-0626-0000-7b62aedb53cb,51c01d7a-3b75-4d83-bf8c-76589a899c0c,2026-08-08T12:33:43.759346+10:00
+Premium car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV-specific strengths | Premium-cover verdict |
+|---|---|---|
+| **RACV Complete Care** | EV-qualified repairers, charging cables/adaptors, agreed value, new-car replacement up to 3 years, strong hire-car/glass benefits | **🥇 Best premium option, particularly in Victoria** |
+| **Allianz Comprehensive** | Battery damage and battery fire, charging cables/wall mounts, EV-certified repairers, agreed value, new EV replacement within 2 years | **🥈 Excellent nationwide alternative** |
+| **NRMA Comprehensive** | EVs receive the same comprehensive options as conventional cars; accidental damage, theft, fire and severe-weather protection | **🥉 Strong mainstream choice** |
+| **Youi Comprehensive** | Explicit EV insurance offering and accidental-damage cover | **Worth quoting, but price can be high** |
+| **AAMI Comprehensive** | Broad comprehensive cover and strong value positioning | **Good value rather than distinctly premium** |
+| **Budget Direct Gold Comprehensive** | Competitive pricing and broad comprehensive features | **Best considered a value alternative to premium insurers** |
+End Of Line

@@ -1,0 +1,11 @@
+2,b802e5c0-851c-41e1-9483-5f04a5bdd424,08080118-1126-0626-0000-9a1c30277c01,1af54f0d-5aea-4c2b-8621-f09628a95975,2026-08-08T12:32:06.708394+10:00
+Worst car insurance for small cars in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer experience | Claims | My take for a small car |
+|---|---|---|---|
+| **Youi** | ⭐⭐⭐⭐⭐ | Strong | **Best starting point in SA** |
+| **RAA** | ⭐⭐⭐⭐⭐ | Excellent | **Excellent SA choice** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Excellent | Excellent, but mainly relevant in QLD |
+| **RAC** | ⭐⭐⭐⭐½ | Very strong | Strong WA option |
+| **NRMA** | ⭐⭐⭐⭐ | Strong | Good national option |
+End Of Line

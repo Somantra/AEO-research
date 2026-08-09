@@ -1,0 +1,14 @@
+2,cdd19817-16b5-4e9e-9102-cc613595df05,08080130-1126-0626-0000-b17f58a7c88d,c2de7716-7afd-4580-8e7c-449f54a4a8c3,2026-08-08T13:00:55.283937+10:00
+Most comprehensive roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV-specific help | Out-of-charge solution | Towing / travel benefits | Overall EV proposition |
+|---|---|---|---|---|
+| **RACV Total Care** | High-voltage-trained patrols | Tow to charger **or preferred destination up to 200 km** | 100 km towing + up to **$2,400** travel benefits | 🥇 **Best overall** |
+| **RACQ** | High-voltage-aware patrols | Tow to accessible charger/destination; mobile chargers in fleet | Multiple premium tiers | 🥇 **Best in QLD** |
+| **RAC WA** | EV-trained capability + EV servicing ecosystem | Tow to nearest charger; mobile top-up capability | Strong long-distance tiers | 🥇 **Best in WA** |
+| **RAA SA** | EV-trained patrols | Tow to charger/home; mobile charger capability | Tier-dependent | 🥈 **Excellent in SA** |
+| **NRMA** | EV coverage + mobile charging in some situations | Mobile charger or tow to charger | Up to 100 km on top tier | 🥈 Strong |
+| **Allianz** | EV out-of-charge included on higher plan | Assistance/tow | Up to 100 km on Platinum | Good |
+| **Youi** | EV roadside included with comprehensive insurance | Transport to nearest charging station | Insurance-linked | Good, but less comprehensive |
+| **AAMI** | EV roadside available | Towing, but deliberate loss of charge isn't covered | Up to 100 km | ⚠️ Less attractive for EVs |
+End Of Line

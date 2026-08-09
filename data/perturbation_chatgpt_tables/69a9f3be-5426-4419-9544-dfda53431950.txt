@@ -1,0 +1,15 @@
+2,de85e3a5-492c-4908-8fdc-8e00996d8a6b,08080133-1126-0626-0000-6032ebe78e16,69a9f3be-5426-4419-9544-dfda53431950,2026-08-08T13:09:24.798913+10:00
+Most affordable roadside assistance providers in Australia compared to other providers
+Tables found: 1
+| Provider / plan | Approx. annual cost | Call-outs | Key point |
+|---|---:|---|---|
+| **Budget Direct Roadside Assistance** | **$89.95** | Unlimited | Cheapest mainstream option I found |
+| **NRMA Everyday Care** | $112 promotional / $137 RRP | Unlimited | Good value, 25km metro towing |
+| **RACV Roadside Care** | $138 | Unlimited | Strong value in Victoria |
+| **RACT Advantage** | $144 | 6/year | Good basic personal cover in Tasmania |
+| **RAC WA Standard** | $128 | Unlimited | Very competitive in WA |
+| **RACV Extra Care** | $229 | Unlimited | Much better for regional driving |
+| **NRMA Complete Care** | $238 | Unlimited | 50km towing |
+| **RAA Standard** | ~$135 | 4/year | SA option |
+| **RACQ Ultimate Care** | ~$310 | Unlimited | Comprehensive, but expensive |
+End Of Line

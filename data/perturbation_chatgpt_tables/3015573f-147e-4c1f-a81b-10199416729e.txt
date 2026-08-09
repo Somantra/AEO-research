@@ -1,0 +1,11 @@
+2,c11d255c-0c78-4888-9156-acef24ea5db2,08080136-1126-0626-0000-ec83651796fb,3015573f-147e-4c1f-a81b-10199416729e,2026-08-08T13:16:59.793687+10:00
+Worst travel insurance for pre-existing medical conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Instant online medical decision | My take |
+|---|---|---|---|
+| **AIG / Jetstar travel insurance** | Can be subject to exclusions/medical assessment | Online quote | ⚠️ **Use caution** if your trip depends heavily on coverage for an existing condition |
+| **InsureandGo** | Considered individually; not automatically covered | **Yes** | 🟢 Good option to quote |
+| **Cover-More** | Automatic-cover list + online assessment for other conditions | **Yes** | 🟢 Strong option |
+| **1Cover** | Medical assessment determines eligibility | **Yes, immediately** | 🟢 Worth comparing |
+| **AllClear** | Specialist in pre-existing conditions | **Yes** | 🟢 Particularly worth checking for complex conditions |
+End Of Line

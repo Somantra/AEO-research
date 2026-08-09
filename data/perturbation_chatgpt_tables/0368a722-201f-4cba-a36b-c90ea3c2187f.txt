@@ -1,0 +1,10 @@
+2,2c0ed167-fd16-41c6-b1ee-ade2f6267f7e,08080118-1126-0626-0000-0b69cbd3ff43,0368a722-201f-4cba-a36b-c90ea3c2187f,2026-08-08T12:33:57.714245+10:00
+Cheapest car insurance for used cars in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why check it | Online quote |
+|---|---|---|
+| **Bingle** | Often very competitive on price; designed as a low-cost, online-only insurer | urlGet a Bingle quoteturn0search3 |
+| **Budget Direct** | Competitive pricing and currently **15% off the first year** for new policies bought online | urlGet a Budget Direct quoteturn1search11 |
+| **Coles Insurance** | **15% online discount**; also has low-kilometre cover that can suit an older/occasionally used car | urlGet a Coles quoteturn1search1 |
+| **AAMI** | Worth checking because it currently offers a **$50 first-year online discount** and has 2026 Canstar recognition | urlGet an AAMI quoteturn1search8 |
+End Of Line

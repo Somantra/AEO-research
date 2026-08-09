@@ -1,0 +1,11 @@
+2,6a3d48eb-f4ea-4903-a544-52d082acb648,08080126-1126-0626-0000-59b61673c3a4,b41d9086-744c-4f00-b192-0e7c87147ed5,2026-08-08T12:51:26.858495+10:00
+Cheapest home insurance for new builds in Australia with monthly payments
+Tables found: 1
+| Insurer | Why consider it | Monthly payments |
+|---|---|---|
+| **Budget Direct** | Frequently among the cheaper options; **15% off first year** for new building-only policies bought online | ✅ Yes, but instalment fees can apply |
+| **AAMI** | Often rates among the cheaper insurers nationally | Check quote |
+| **NRMA** | Often competitive, particularly in some states | Check quote |
+| **Allianz** | Competitive option and **monthly payment at no extra cost** | ✅ Yes |
+| **Youi** | Can be competitive, particularly in Victoria | Check quote |
+End Of Line

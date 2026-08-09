@@ -1,0 +1,11 @@
+2,0141fa55-efe6-443f-afbf-1011bdf6c7fb,08080140-1126-0626-0000-b32921f56c99,48633d0e-7a90-44cf-8051-fdd6ea617166,2026-08-08T13:25:53.049094+10:00
+Most affordable pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Affordability | Claims speed | Why consider it |
+|---|---|---|---|
+| **Budget Direct** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Finder currently ranks it as the **cheapest pet insurer**; claims are lodged online 24/7 and they say they’ll contact you within **2–5 business days** if more information is needed. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| **Knose** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Up to **$25k annual cover**, no sub-limits, flexible options, and most claims reportedly settled within **5 working days**. [www.knose.com.au](https://www.knose.com.au/?utm_source=chatgpt.com) |
+| **Fetch** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐+ | Probably the best for **rapid claims/cash-flow**: with a participating vet, FetchPay can assess a claim in around **15 minutes** and pay the vet directly, so you don't have to front the whole bill. [www.fetchpet.com.au](https://www.fetchpet.com.au/articles/what-is-fetchpay?utm_source=chatgpt.com) |
+| **Pet Insurance Australia (PIA)** | ⭐⭐⭐ | ⭐⭐⭐⭐ | Online claims are typically processed within **5 business days**, with GapOnly available on eligible policies for faster claim settlement. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| **Coles** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Claims can be lodged 24/7, with typical processing of **5–10 business days** once documentation is complete. [www.coles.com.au](https://www.coles.com.au/insurance/pet-insurance/make-a-claim?utm_source=chatgpt.com) |
+End Of Line

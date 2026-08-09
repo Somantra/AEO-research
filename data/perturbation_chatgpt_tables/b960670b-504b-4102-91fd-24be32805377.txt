@@ -1,0 +1,10 @@
+2,24b93f85-9597-44fb-8f08-d87bd4f985d6,08080124-1126-0626-0000-4c16aa9fe390,b960670b-504b-4102-91fd-24be32805377,2026-08-08T12:45:56.558852+10:00
+Most trusted motorcycle insurance for older riders in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote |
+|---|---|---|
+| **Budget Direct** | Particularly attractive for older riders: you can restrict the policy to riders **40+ or 50+**, which can reduce the premium. Comprehensive cover also offers agreed/market value and optional riding-gear cover. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/compare-policies.html?utm_source=chatgpt.com) | urlGet a Budget Direct motorcycle quoteturn2search4 |
+| **NRMA** | Strong all-round option; comprehensive cover includes theft, fire, storm/flood and accidental damage, with a lifetime repair guarantee. Online purchase currently gets up to **10% off the first year**. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) | urlGet an NRMA motorcycle quoteturn2search3 |
+| **QBE** | One of the more established insurers, with **140 years** insuring Australians. Comprehensive cover includes up to **$4,000 motorcycle apparel**, agreed/market value and up to $30m liability. [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) | urlGet a QBE motorcycle quoteturn1search1 |
+| **National Motorcycle Insurance** | Specialist motorcycle insurer rather than a general insurer. Offers online quote-and-buy for road and off-road bikes and is backed by Zurich Australian Insurance. [www.nationalmotorcycleinsurance.com.au](https://www.nationalmotorcycleinsurance.com.au/?utm_source=chatgpt.com) | urlGet a National Motorcycle Insurance quoteturn2search9 |
+End Of Line

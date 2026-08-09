@@ -1,0 +1,12 @@
+2,8d142b18-fc65-424e-808a-652808c93607,08080122-1126-0626-0000-7c5636582516,dd5e739f-528a-4255-9b47-ac28e9838aa5,2026-08-08T12:43:18.964637+10:00
+Worst comprehensive motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | My take | Main concern |
+|---|---|---|
+| **Budget Direct** | ⚠️ **Weakest for claims/service** | CHOICE found only **52%** of customers who had made a car claim rated the claims experience above average/excellent — the lowest in its survey. This is car data, not motorcycle-specific. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/budget-direct-motorcycle-insurance?utm_source=chatgpt.com) |
+| **QBE** | ⚠️ **Mixed** | Good value and comprehensive features, but customer reviews are mixed; ProductReview currently shows **3.2/5 from 35 reviews** for its comprehensive motorcycle policy. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+| **NRMA** | 🟡 **Not bad, but watch the policy/price** | Motorcycle cover is reasonably comprehensive, but Finder notes premiums are often higher than some competitors for similar cover. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/nrma-motorcycle-insurance?utm_source=chatgpt.com) |
+| **AAMI** | 🟡 **Can be expensive** | In Finder's sample comparison, AAMI was **$2,113/year**, versus $765 for NRMA and $1,062 for Budget Direct for the same sample profile. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi** | 🟢 **Generally strong** | Finder's 2026 pick for overall motorcycle insurance; strong coverage and customer service, although you need to call for a quote and don't get choice of repairer. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+| **National Motorcycle Insurance** | 🟢 **Strong for motorcycle-specific cover** | Finder rated it best for features, with gear/personal effects and choice of repairer included as standard. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

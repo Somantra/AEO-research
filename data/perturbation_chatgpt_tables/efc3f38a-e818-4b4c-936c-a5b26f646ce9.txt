@@ -1,0 +1,9 @@
+2,8793797a-a59f-459a-b8bf-94b2eb174fbf,08080140-1126-0626-0000-f9f4d4429932,efc3f38a-e818-4b4c-936c-a5b26f646ce9,2026-08-08T13:26:14.664475+10:00
+Easiest pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed/ease | Why I’d consider it for a large dog |
+|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | ⭐⭐⭐⭐⭐ | **FetchPay** can assess eligible claims in about **15 minutes** and pay the vet directly, so you don't have to front the entire bill. [www.fetchpet.com.au](https://www.fetchpet.com.au/articles/what-is-fetchpay?utm_source=chatgpt.com) |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | ⭐⭐⭐⭐⭐ | **GapOnly** claims can be settled in around **10 minutes** at participating vets; ordinary electronic claims are typically processed within **5 business days**. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | ⭐⭐⭐⭐½ | Strong reputation for straightforward claims and flexible cover; it specifically offers breed pages for large breeds such as Labradors. [www.knose.com.au](https://www.knose.com.au/dog-breed/labrador-retriever/?utm_source=chatgpt.com) |
+End Of Line

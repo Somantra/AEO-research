@@ -1,0 +1,11 @@
+2,f0ad2f6d-6b64-444d-9354-7d36c50a2c64,08080139-1126-0626-0000-9c9e633a8eae,10a9d617-afda-496b-950a-30e44e896470,2026-08-08T13:23:53.441890+10:00
+Most popular pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Provider | Why multi-pet owners consider it | Claims speed features |
+|---|---|---|
+| Pet Insurance Australia | Offers multi-pet discounts and comprehensive cover options | Online claims process; advertised multi-pet savings of 5% per additional pet (up to a limit) [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/our-pet-insurance-cover-options/?utm_source=chatgpt.com) |
+| Fetch Pet Insurance | Strong comprehensive cover reputation and multi-pet discount availability | Offers direct payment to vets to reduce out-of-pocket costs in eligible situations [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Petcover | Often compared by multi-pet households because of discounts | Multi-pet discounts are available on some policies [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| Medibank | Popular mainstream insurer option | Offers pet insurance with multi-pet discount options through its pet cover products [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Recognisable brand for pet owners | Multi-pet discounts are available on some cover levels [www.finder.com.au](https://www.finder.com.au/pet-insurance/multiple-pet-insurance?utm_source=chatgpt.com) |
+End Of Line

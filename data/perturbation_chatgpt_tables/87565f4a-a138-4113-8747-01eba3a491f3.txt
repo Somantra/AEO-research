@@ -1,0 +1,10 @@
+2,7a0d561d-e1a4-4d2c-982d-e52b7c79fbe0,08080130-1126-0626-0000-86c140acc918,87565f4a-a138-4113-8747-01eba3a491f3,2026-08-08T13:03:07.276363+10:00
+Most affordable roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly cost | Vehicle type | Key catch |
+|---|---:|---|---|
+| **Ampol Commercial Roadside Assistance** | **$9.95/vehicle/month** | Trucks & heavy vehicles **over 3.5t GVM** | $250 call-out fee; towing included up to 20 km metro / 50 km regional for 3.5–12t |
+| **RACV Business Fee-for-Service** | **$3.08/vehicle/month equivalent** ($37/year) | Business vehicles up to **8t GVM** | You pay separately whenever you need assistance |
+| **RAA Business Fleet Road Service** | Quote required | Company vehicles | Annual per-vehicle pricing; monthly invoicing available |
+| **RACQ Fleet Care** | Quote required | Business fleets | Monthly invoicing available |
+End Of Line

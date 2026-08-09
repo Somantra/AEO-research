@@ -1,0 +1,16 @@
+2,e27ae58d-3174-489e-ac9f-679c3be3df2f,08080127-1126-0626-0000-fcf9a6f9b485,dd361417-2f14-4e4d-9337-1dee49217a31,2026-08-08T12:54:20.400430+10:00
+Most popular home insurance for apartments in Australia compared to other providers
+Tables found: 1
+| Provider | Apartment suitability | Strength |
+|---|---|---|
+| **AAMI** | ⭐⭐⭐⭐⭐ | Large mainstream insurer; broad contents options |
+| **NRMA** | ⭐⭐⭐⭐⭐ | Strong mainstream option, particularly NSW |
+| **GIO** | ⭐⭐⭐⭐ | Good range of home/contents products |
+| **Youi** | ⭐⭐⭐⭐ | Highly customised quotes |
+| **Budget Direct** | ⭐⭐⭐⭐ | Often competitive on price |
+| **QBE** | ⭐⭐⭐⭐ | Large insurer with broad coverage |
+| **RAC** | ⭐⭐⭐⭐ | Worth checking if you're in WA |
+| **RACV** | ⭐⭐⭐⭐ | Particularly relevant in Victoria |
+| **APIA** | ⭐⭐⭐⭐ | Established home/contents insurer |
+| **Coles / Real Insurance** | ⭐⭐⭐ | Can be worth checking for apartment-specific pricing |
+End Of Line

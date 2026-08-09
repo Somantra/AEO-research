@@ -1,0 +1,11 @@
+2,5ddfe670-2c96-422c-9971-0b3a1404e420,08080133-1126-0626-0000-bb3d25ce0009,998d3598-27d4-4c4d-a056-7da989c744ec,2026-08-08T13:09:21.442409+10:00
+Cheapest roadside assistance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Current price* | Online quote/buy | Cover |
+|---|---:|---|---|
+| **Budget Direct** | **$76.46 first year** | ✅ Online | Unlimited call-outs, Australia-wide |
+| **MyDriveShield** | **From $88/yr** | ✅ Instant price in ~2 min | Towing, battery, tyre, fuel, lockout |
+| **Allianz** | **From $99/yr** | ✅ Buy online | 24/7 Australia-wide, up to 50 km towing |
+| **NRMA** | From **$112/yr annually** | ✅ Online | Unlimited call-outs; 25 km towing on base plan |
+| **RACV** | From **$138/yr** | ✅ Online | 20 km metro towing, 24/7 |
+End Of Line

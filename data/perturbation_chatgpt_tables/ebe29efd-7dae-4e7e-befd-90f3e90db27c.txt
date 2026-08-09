@@ -1,0 +1,11 @@
+2,a7a4caf0-fd79-46c3-a836-c6471a11cd32,08080136-1126-0626-0000-7cf428de8e31,ebe29efd-7dae-4e7e-befd-90f3e90db27c,2026-08-08T13:17:31.293473+10:00
+Premium travel insurance for pre-existing medical conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims convenience | Best for |
+|---|---|---|---|
+| **[Cover-More](https://www.covermore.com.au/)** | Many conditions automatically covered; others assessed online | **24/7 online claims** | **Best overall balance** |
+| **[AllClear](https://www.allcleartravel.com.au/)** | Specifically focused on pre-existing conditions; says it can cover all conditions subject to assessment | Online claims + dedicated claims team | **Complex/serious conditions or older travellers** |
+| **[Allianz Travel Insurance](https://www.allianz.com.au/travel-insurance.html)** | Medical assessment required; some conditions may be covered at no extra cost | 24/7 Australian-based assistance | **Premium mainstream option** |
+| **[1Cover](https://www.1cover.com.au/)** | Online medical assessment determines eligibility | Online claims and assistance | **Good for simple, fast online processing** |
+| **[InsureandGo](https://www.insureandgo.com.au/)** | All conditions considered through medical questionnaire | Online claims | **Worth getting a comparison quote** |
+End Of Line

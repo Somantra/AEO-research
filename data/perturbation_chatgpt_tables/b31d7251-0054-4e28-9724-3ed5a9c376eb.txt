@@ -1,0 +1,10 @@
+2,83ab5a63-00ed-42fe-bcb9-b5d8d3e48edd,08080130-1126-0626-0000-ff60178a75df,b31d7251-0054-4e28-9724-3ed5a9c376eb,2026-08-08T13:02:08.658865+10:00
+Most affordable roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider | Approx. annual cost | Best for | Things to check |
+|---|---:|---|---|
+| Budget Direct Roadside Assistance | **$89.95/year** | Cheapest simple Australia-wide option | 48-hour activation period; check towing limits and remote-area exclusions [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs/getting-roadside-assistance.html?utm_source=chatgpt.com) |
+| Coles Insurance Roadside Assistance | **$89.95/year** (when added to Coles Car Insurance) | Low-cost option if already insured with them | Activation rules and service conditions apply [www.coles.com.au](https://www.coles.com.au/insurance/car-insurance/roadside-assistance?utm_source=chatgpt.com) |
+| NRMA Roadside Assistance | From about **$112/year annually for basic cover** | Frequent interstate travellers wanting a large motoring-club network | Basic plans have shorter towing allowances; higher tiers cost more [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV Roadside Assistance | Varies by plan | Good if you are Victoria-based and want a traditional motoring club | Compare interstate towing and accommodation benefits [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

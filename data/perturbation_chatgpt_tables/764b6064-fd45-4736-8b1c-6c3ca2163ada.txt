@@ -1,0 +1,12 @@
+2,d42851e8-21fa-4715-8791-30e9f2da324c,08080139-1126-0626-0000-ba07fddfddb9,764b6064-fd45-4736-8b1c-6c3ca2163ada,2026-08-08T13:22:25.848336+10:00
+Cheapest pet insurance for older pets in Australia without hidden fees
+Tables found: 1
+| Provider/policy | New pets accepted up to | Reimbursement | Key catch |
+|---|---:|---:|---|
+| **Australian Seniors Basic** | **15 years** | 60% | $2,000 annual limit **per condition** |
+| **Real Insurance Classic** | **15 years** | 60% | $2,000 annual limit **per condition** |
+| **Guardian Bronze** | **15 years** | 60% | Similar limited benefits |
+| **Pet Insurance Australia Select & Protect** | 8 years | 70–90% | Not suitable if already over 8 |
+| **PetsOnMe Accident Plan** | **11 years** | — | Accident-only |
+| Budget Direct | 9 years | 80% | New applications close before 9; can continue after 9 if renewed |
+End Of Line

@@ -1,0 +1,11 @@
+2,4f00e5fc-bb91-4da3-b384-177b7cd36fcc,08080132-1126-0626-0000-de1dbf89594d,0a6201b3-ca9c-44c2-a2b3-a27d86f312f4,2026-08-08T13:07:20.619533+10:00
+Cheapest roadside assistance for hybrid cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Current starting price | Online quote | Hybrid/EV consideration |
+|---|---:|---|---|
+| **Budget Direct** | **$76.46 first year** | ✅ | Good budget choice |
+| **NRMA** | $112/year | ✅ | EV charging network; strong option [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACV** | $138/year | ✅ | Explicitly supports EVs; useful in Victoria [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| **Allianz** | From $99/year | Online purchase | Explicitly covers EVs out of charge [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+| **AAMI** | Quote required | ✅ with car insurance | Roadside is an optional add-on [www.aami.com.au](https://www.aami.com.au/car-insurance/comprehensive/roadside-assist?utm_source=chatgpt.com) |
+End Of Line

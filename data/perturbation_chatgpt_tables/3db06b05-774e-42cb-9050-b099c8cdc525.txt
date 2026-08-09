@@ -1,0 +1,10 @@
+2,2461a423-4082-4b83-99a5-fbd40b4b7178,08080129-1126-0626-0000-e962c7cff3fd,3db06b05-774e-42cb-9050-b099c8cdc525,2026-08-08T13:00:54.500429+10:00
+Most comprehensive roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | EV-specific support | Monthly payment option | Best for |
+|---|---|---|---|
+| RACV Total Care | EV out-of-charge towing, higher towing limits, unlimited call-outs | Yes (about $27/month for 1–2 vehicles on current listed pricing) | Best overall if you want premium cover and drive long distances [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?mode=new&product=ultimateplus&product=ultimateplus%3Fmode%3Dnew&utm_source=chatgpt.com) |
+| RAC WA Ultimate Plus | Unlimited call-outs, higher-tier roadside benefits, Australia-wide service | Yes (about $36/month listed for monthly direct debit) | Strong choice for WA drivers and regional travel [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?mode=new&product=ultimateplus&product=ultimateplus%3Fmode%3Dnew&utm_source=chatgpt.com) |
+| Allianz Australia Roadside Assistance | Explicit EV “out of charge” assistance, towing, 24/7 Australia-wide support | Available as a membership (pricing varies) | Good if you want insurer-backed roadside cover [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+| NRMA roadside network (including partner services) | EV support varies by plan; strong national network | Monthly payment options may be available through plans | Good for frequent interstate travel [www.smart.com.au](https://www.smart.com.au/novated-leasing/services/roadside-assistance/?utm_source=chatgpt.com) |
+End Of Line

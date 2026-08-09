@@ -1,0 +1,10 @@
+2,bc22c7f5-94e6-4daf-9a6c-97e2ea5dcd8f,08080129-1126-0626-0000-ad3e13db16f6,b25eeba0-be55-429f-be0f-5e47342fe45f,2026-08-08T12:59:07.005201+10:00
+Worst home insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider / policy type | Common complaints to check |
+|---|---|
+| Budget Direct | Some customers report frustration around price increases, claim experiences, and monthly payment costs. Online discussions also mention large renewal increases. [www.reddit.com](https://www.reddit.com/r/aussie/comments/1rxyg71/told_insurance_company_to_take_a_flying_leap_felt/?utm_source=chatgpt.com) |
+| Allianz Australia | Customer complaints often focus on claim delays and digital/service experiences (individual experiences vary). [www.reddit.com](https://www.reddit.com/r/AusProperty/comments/1gg3um3/has_anyone_had_any_positivenegative_experience/?utm_source=chatgpt.com) |
+| QBE Insurance Australia | Worth checking claim-service feedback and policy wording carefully, particularly exclusions and repair processes. [www.reddit.com](https://www.reddit.com/r/AusProperty/comments/1gg3um3/has_anyone_had_any_positivenegative_experience/?utm_source=chatgpt.com) |
+| Low-cost “budget” policies generally | Cheaper premiums can come with lower cover limits, higher excesses, more exclusions, or stricter claim conditions. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

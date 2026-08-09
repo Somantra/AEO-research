@@ -1,0 +1,14 @@
+2,5b0a07cb-1c97-4d37-b674-101306733f38,08080131-1126-0626-0000-7951c60b0c67,fab2322a-dbd3-4c11-9a0e-eb5d02012bc7,2026-08-08T13:04:52.306364+10:00
+Most popular roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Older-car suitability | Typical current price* |
+|---|---|---|---:|
+| **NRMA** | NSW/ACT, nationwide travel | ⭐⭐⭐⭐⭐ | From ~$137 |
+| **RACV** | Victoria | ⭐⭐⭐⭐⭐ | From ~$138 |
+| **RACQ** | Queensland | ⭐⭐⭐⭐⭐ | From ~$80 |
+| **RAC WA** | Western Australia | ⭐⭐⭐⭐⭐ | From ~$128 |
+| **RAA** | South Australia | ⭐⭐⭐⭐⭐ | From ~$103 |
+| **Allianz** | Nationwide alternative | ⭐⭐⭐⭐ | From ~$139 |
+| **Budget Direct** | Cheapest/basic cover | ⭐⭐⭐ | ~$90 |
+| **AAMI / other insurer add-ons** | If already insured with them | ⭐⭐⭐ | Varies |
+End Of Line

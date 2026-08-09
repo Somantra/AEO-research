@@ -1,0 +1,10 @@
+2,1b6ff822-93f5-4792-8059-7b7f8d31ca9e,08080131-1126-0626-0000-b9bbf55b031d,bd38b2b9-5a69-4851-9c65-ebf6f5a22cbf,2026-08-08T13:04:32.677933+10:00
+Easiest roadside assistance for older cars in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. monthly cost | Best for |
+|---|---:|---|
+| NRMA | From about **$9.99/month** | Older cars in NSW/ACT; simple online signup and strong coverage network [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV | From about **$12/month** | Older cars in Victoria; basic cover includes towing and battery help [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| RACQ | Varies | Queensland drivers wanting a local club service |
+| RAA | Varies | South Australia drivers |
+End Of Line

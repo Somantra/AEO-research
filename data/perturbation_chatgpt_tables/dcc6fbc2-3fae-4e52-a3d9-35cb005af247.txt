@@ -1,0 +1,9 @@
+2,c47ea5ff-e0ea-4da9-9c76-11bf6f284984,08080141-1126-0626-0000-10591f4afcd7,dcc6fbc2-3fae-4e52-a3d9-35cb005af247,2026-08-08T13:28:15.282568+10:00
+Premium accident-only pet insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Why consider it |
+|---|---|---|
+| **Pet Insurance Australia** | ⭐ **~10 min with GapOnly** | Strongest fit for fast claims; GapOnly claims can be settled while you’re at the vet, so you pay only the gap. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com)[www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| **Medibank Pet Insurance** | ⭐ **~5 min with GapOnly** | Excellent claims technology; eligible claims at participating vets can be assessed in around 5 minutes, with only the uncovered gap payable upfront. [www.medibank.com.au](https://www.medibank.com.au/pet-insurance/gap-only/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | ⭐ Fast | Offers up to 90% reimbursement and GapOnly claiming, making it worth comparing on price and policy terms. [bowwow.com.au](https://bowwow.com.au/about-us/?utm_source=chatgpt.com) |
+End Of Line

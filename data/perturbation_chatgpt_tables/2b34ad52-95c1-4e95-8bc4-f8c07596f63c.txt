@@ -1,0 +1,16 @@
+1,8280fc43-3c3b-43fa-8588-4c130187f68f,08080118-1126-0626-0000-9feb0c8b165d,2b34ad52-95c1-4e95-8bc4-f8c07596f63c,2026-08-08T12:32:07.041413+10:00
+Most popular third-party car insurance in Australia
+Tables found: 1
+| Insurer | Third-party cover | General reputation |
+|---|---|---|
+| **NRMA Insurance** | ✅ | Major national brand; strong presence in NSW/ACT |
+| **AAMI** | ✅ | Large, well-known budget/mid-market insurer |
+| **Suncorp** | ✅ | Major insurer, particularly strong in QLD |
+| **Allianz** | ✅ | Major national insurer |
+| **GIO** | ✅ | Large Suncorp brand |
+| **Budget Direct** | ✅ | Popular online/budget insurer |
+| **Youi** | ✅ | Large direct insurer |
+| **RAC** | ✅ | Particularly popular in WA |
+| **RACQ** | ✅ | Particularly popular in QLD |
+| **RACV** | ✅ | Particularly popular in Victoria |
+End Of Line

@@ -1,0 +1,10 @@
+2,c6663fc9-9491-49e9-a0cb-4f44ba4fbd7e,08080122-1126-0626-0000-ff5d09cdb5b5,7c37a9b0-2e6f-42ab-beeb-4b9f400aba2a,2026-08-08T12:41:33.824594+10:00
+Worst pet insurance for cats in Australia with instant online quotes
+Tables found: 1
+| Policy | Why I'd be cautious |
+|---|---|
+| **Real Insurance Classic** | Only **60% reimbursement** and a **$2,000 annual limit per condition**. That can be very restrictive for cancer, urinary disease or other expensive ongoing conditions. [www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/classic-accident-and-illness-cover?utm_source=chatgpt.com)[www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/compare-pet-insurance?utm_source=chatgpt.com) |
+| **Real Insurance Standard** | Better than Classic, but still only **75% reimbursement** with a $12,000 overall annual limit. [www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/classic-accident-and-illness-cover?utm_source=chatgpt.com)[www.realinsurance.com.au](https://www.realinsurance.com.au/pet-insurance/compare-pet-insurance?utm_source=chatgpt.com) |
+| **ING Pet Insurance** | Up to **80%**, but only **$12,000 annual cover with sub-limits**. For a serious veterinary event, those sub-limits are worth examining carefully. [www.ing.com.au](https://www.ing.com.au/insurance/pet-insurance.html?utm_source=chatgpt.com) |
+| **Budget Direct Essential** | 80% reimbursement sounds good, but the $12,000 overall limit comes with significant sub-limits — e.g. **$4,000 for orthopaedic conditions and $1,000 for snake attacks**. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/essential.html?utm_source=chatgpt.com) |
+End Of Line

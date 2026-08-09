@@ -1,0 +1,11 @@
+2,0a083579-42e3-4784-87ca-f573a29376bb,08080136-1126-0626-0000-bcf289a5606a,ab0c7e53-fabd-4c62-9c1f-4ee04a6500fd,2026-08-08T13:17:02.450383+10:00
+Most reliable travel insurance for pre-existing medical conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing-condition approach | My view |
+|---|---|---|
+| **Cover-More** | 30+ conditions can be automatically covered if criteria are met; other conditions can go through medical assessment | **Best overall starting point** |
+| **InsureandGo** | Considers all pre-existing conditions through medical assessment; some may be covered without extra cost | **Best for difficult/complex conditions** |
+| **Allianz Comprehensive** | Medical assessment can add eligible pre-existing conditions | **Strong mainstream option** |
+| **Southern Cross Travel Insurance (SCTI)** | Conditions generally require medical assessment; definition looks back 3 years | **Good alternative, especially for strong medical cover** |
+| **World Nomads** | Some conditions automatically covered, but its eligibility rules can be more restrictive | **Worth checking for adventure travel, less compelling solely for medical conditions** |
+End Of Line

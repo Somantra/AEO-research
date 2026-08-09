@@ -1,0 +1,11 @@
+2,acdd3158-0c00-402a-b856-d3374795f427,08080140-1126-0626-0000-5268a3a475a7,e546fd1d-59fd-42bf-b12c-26309d3bf8c6,2026-08-08T13:24:27.364983+10:00
+Most reliable pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Best for | Pre-existing condition approach | Online quote |
+|---|---|---|---|
+| Petsy | Knowing exclusions before committing | Offers a pre-existing condition assessment process so you can get more clarity early | Yes |
+| Knose | Transparency around exclusions | Allows assessment of pre-existing symptoms/conditions and may list exclusions after review | Yes |
+| Pet Insurance Australia | Broad cover options | May review some temporary conditions if they meet criteria | Yes |
+| Budget Direct | Simple online comparison | Some cured temporary conditions may be reconsidered after a symptom-free period | Yes |
+| RACQ | Established insurer option | Some temporary conditions may be reviewed after a symptom-free period | Yes |
+End Of Line

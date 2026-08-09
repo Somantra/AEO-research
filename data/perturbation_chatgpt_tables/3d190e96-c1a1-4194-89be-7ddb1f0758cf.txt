@@ -1,0 +1,9 @@
+1,3877f121-f7be-4229-9afa-2ca726e6a18c,08080134-1126-0626-0000-77dff18a9ca4,3d190e96-c1a1-4194-89be-7ddb1f0758cf,2026-08-08T13:12:15.322883+10:00
+Premium pet insurance for cats in Australia
+Tables found: 1
+| Insurer | Why it stands out | Maximum cover |
+|---|---|---:|
+| **Trupanion** | Best for very serious/chronic conditions; **90% reimbursement**, no annual/per-condition/lifetime payout limits, and can pay participating vets directly | **Unlimited** [trupanion.com.au](https://trupanion.com.au/pet-insurance/cat-insurance/?utm_source=chatgpt.com) |
+| **Knose** | Very flexible premium-style cover; up to **$25,000 annual limit**, with no sub-limits | **$25,000** [www.knose.com.au](https://www.knose.com.au/pet-insurance-cover/?utm_source=chatgpt.com)[quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) |
+| **PetSure Gold/Platinum policies** | Broad comprehensive options; Platinum offers **$30,000 annual limit** and 80% reimbursement | **$30,000** [petsure.com.au](https://petsure.com.au/comparepetinsurance/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,908ce2e8-f9a6-4e71-93ce-2552b3fbb9d2,08080131-1126-0626-0000-beaee773e3c7,40da2d97-3c6b-4246-b48d-b263acb8c252,2026-08-08T13:04:04.720066+10:00
+Cheapest roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Basic price | Towing | Speed / convenience | My take |
+|---|---:|---|---|---|
+| **Budget Direct Roadside** | **$89.95/yr*** | 20 km | 24/7, GPS tracking in selected areas | 🥇 Cheapest |
+| **RACV Roadside Care** | **$138/yr** | 20 km metro | Typically arrives within 1 hour; app tracking in Melbourne | 🥇 Best balance |
+| **NRMA Everyday Care** | **$112/yr annual** in current offer | 25 km metro | Nationwide | Good low-cost alternative |
+| **RACQ Everyday Lite** | **$80/yr** | No towing | 35-min average response in QLD | Cheapest if you're in QLD |
+End Of Line

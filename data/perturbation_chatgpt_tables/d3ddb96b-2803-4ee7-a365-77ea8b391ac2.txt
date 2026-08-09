@@ -1,0 +1,10 @@
+2,168dbec0-9825-430d-bf23-ae74b47cdf88,08080132-1126-0626-0000-03a11ad3ccbd,d3ddb96b-2803-4ee7-a365-77ea8b391ac2,2026-08-08T13:06:51.854334+10:00
+Most trusted roadside assistance for rural areas in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Rural suitability | Towing |
+|---|---:|---|---|
+| **RACV Extra Care** | **$19.58/mo** | ⭐⭐⭐⭐ | 60 km regional |
+| **RACV Total Care** | **$27/mo** | ⭐⭐⭐⭐⭐ | 100 km regional |
+| **NRMA Ultimate Care** | **$21.99/mo** | ⭐⭐⭐⭐ | 100 km |
+| **RACV Roadside Care** | $12/mo | ⭐⭐ | Regional to nearest attending service centre |
+End Of Line

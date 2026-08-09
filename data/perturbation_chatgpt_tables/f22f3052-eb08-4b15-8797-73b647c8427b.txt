@@ -1,0 +1,9 @@
+2,9a6ce77d-d5ab-4dbe-af50-07c02cf45052,08080128-1126-0626-0000-cfa592e8e4ef,f22f3052-eb08-4b15-8797-73b647c8427b,2026-08-08T12:58:07.058729+10:00
+Worst home insurance for first-time homeowners in Australia with instant online quotes
+Tables found: 1
+| Provider | Why first-home buyers may want to check carefully |
+|---|---|
+| Youi | Some customers praise its personalised approach, but others complain that the online quote process can lead to lengthy follow-up calls and sales pressure. [www.reddit.com](https://www.reddit.com/r/AusProperty/comments/1uchlvc/online_insurance_quote_from_youi_30_mins_ill/?utm_source=chatgpt.com) |
+| Budget Direct | Often competitive on price and online discounts, but a very cheap premium can mean you need to examine the Product Disclosure Statement (PDS), excesses and exclusions carefully. [www.finder.com.au](https://www.finder.com.au/home-insurance/cheap-home-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Some customers report mixed claims and digital-service experiences; as with any insurer, check current reviews and the exact policy wording rather than relying on brand reputation. [www.reddit.com](https://www.reddit.com/r/AusProperty/comments/1gg3um3/has_anyone_had_any_positivenegative_experience/?utm_source=chatgpt.com) |
+End Of Line

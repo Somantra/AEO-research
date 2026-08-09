@@ -1,0 +1,10 @@
+2,0df29771-794f-45fe-9077-01ab354e48be,08080127-1126-0626-0000-b4d9c0a4a524,9c0e23d3-81d1-4e38-ab76-cd842dae478d,2026-08-08T12:55:57.588306+10:00
+Worst home insurance for high-value items in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | High-value-item concern |
+|---|---|---|
+| **Budget Direct** | ✅ Very fast | Standard limits are only **$1,000 per jewellery/watch item** and **$5,000 total**; art is $5,000/item and $12,000 total unless specified. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/compare-policy-options.html?segment=HOME-COMP&utm_source=chatgpt.com) |
+| **Huddle** | ✅ Quote in minutes | Basic/Comprehensive policies have fixed/flexible limits; expensive items need to be individually listed. Portable valuables are an optional extra. [www.huddleinsurance.com](https://www.huddleinsurance.com/au/contents-insurance?utm_source=chatgpt.com) |
+| **AHM** | ✅ Online | Worth scrutinising carefully if your valuables are expensive; CHOICE specifically identifies AHM Basic and Comprehensive as policies that don't provide unspecified portable-valuables cover. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/portable-valuables-home-and-contents-insurance?utm_source=chatgpt.com) |
+| **CGU Fundamentals** | Online quote availability varies | CHOICE identifies Fundamentals as not offering unspecified portable-valuables cover, making it less attractive if you have lots of valuable items that aren't individually listed. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/portable-valuables-home-and-contents-insurance?utm_source=chatgpt.com) |
+End Of Line

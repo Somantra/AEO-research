@@ -1,0 +1,11 @@
+2,a309a390-29ed-483a-8ac8-8b58b0d47851,08080123-1126-0626-0000-6c093a3203fd,f16408dc-8a50-47b0-80bd-e01bc9bd36b4,2026-08-08T12:44:49.708737+10:00
+Most popular third-party motorcycle insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Third-party motorcycle cover | Monthly payments |
+|---|---|---|
+| NRMA Insurance | Third Party Property Damage motorcycle insurance | Yes — monthly, quarterly or annual payment options are available. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| AAMI | Third Party Property Damage cover (including legal liability for damage to others’ property) | Payment options depend on quote/policy setup. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/aami-motorcycle-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Third-party motorcycle insurance | Flexible payments available; monthly instalments may involve fees compared with annual payment. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| RACV | Third Party Motorcycle Insurance | Offers monthly payment option. [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| QBE Insurance | Motorcycle insurance including third-party options | Available through motorcycle insurance products. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

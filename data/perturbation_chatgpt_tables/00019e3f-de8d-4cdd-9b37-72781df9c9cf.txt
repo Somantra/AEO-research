@@ -1,0 +1,11 @@
+2,a3e12715-471d-403b-8315-6236606cb3bb,08080118-1126-0626-0000-e6e4a4475662,00019e3f-de8d-4cdd-9b37-72781df9c9cf,2026-08-08T12:33:15.059959+10:00
+Least reliable car insurance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Insurer | EV cover | Monthly payments | My take |
+|---|---|---|---|
+| **Allianz** | Battery, charging cables & home wall charger; thermal-runaway cover | **Yes, no extra cost** | Strong EV-specific wording |
+| **Youi** | EV insurance available | Quote-dependent | Worth comparing |
+| **NRMA** | EV comprehensive policies available | Quote-dependent | Worth comparing, particularly for NSW |
+| **ROLLiN'** | Comprehensive EV cover | **Monthly premiums** | Good option if monthly payment is important |
+| **AAMI** | EVs covered | Quote-dependent | Often worth getting a quote |
+End Of Line

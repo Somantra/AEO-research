@@ -1,0 +1,9 @@
+2,d65535b9-8a7d-4e51-bce6-f2c8f485cd88,08080135-1126-0626-0000-fefc01905b03,8958e48c-b0f8-4726-94fc-7d3cb10a8a45,2026-08-08T13:13:34.239001+10:00
+Most affordable travel insurance for family holidays in Australia with a fast claims process
+Tables found: 1
+| Provider | Why families often consider it | Claims process notes |
+|---|---|---|
+| InsureandGo Australia | Family policies can include children at no extra cost (subject to conditions), with family discounts available | Offers online claims through an eClaims process and 24/7 assistance. [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/family-travel-insurance/?utm_source=chatgpt.com) |
+| Fast Cover | Often positioned as a value-focused option with family cover and customisable extras | States completed claims with required documents are generally assessed within about 10 business days. [help.fastcover.com.au](https://help.fastcover.com.au/article/628-is-your-claims-process-good?utm_source=chatgpt.com)[fastcover.com.au](https://fastcover.com.au/family-travel-insurance?utm_source=chatgpt.com) |
+| Allianz Australia | Large insurer with family travel policies and established claims infrastructure | Says travel claims are generally contacted within 10 business days after submission, depending on circumstances. [www.allianz.com.au](https://www.allianz.com.au/help-and-contact.html?utm_source=chatgpt.com) |
+End Of Line

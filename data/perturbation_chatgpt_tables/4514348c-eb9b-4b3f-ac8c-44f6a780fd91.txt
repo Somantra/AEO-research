@@ -1,0 +1,11 @@
+2,debd5baf-748d-4d40-9685-7a1a75633563,08080133-1126-0626-0000-09c645e5f73f,4514348c-eb9b-4b3f-ac8c-44f6a780fd91,2026-08-08T13:10:36.431175+10:00
+Worst travel insurance for business trips in Australia with strong customer reviews
+Tables found: 1
+| Insurer / policy | Why travellers complain | Notes |
+|---|---|---|
+| AIG Australia (including some policies sold through partners) | Claim disputes, delays, concerns around exclusions | Some high-profile complaints involve rejected medical claims; individual outcomes depend heavily on policy wording and circumstances. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| RACV Travel Insurance | Some customers report poor claims communication and delays | Review sites contain strong negative claim-handling experiences, although online reviews are not a complete measure of performance. [www.wordofmouth.com.au](https://www.wordofmouth.com.au/reviews/racv-insurance-melbourne?utm_source=chatgpt.com) |
+| RAC Insurance Travel Insurance | Complaints about slow responses and claim handling | Some customers have reported frustrating claims experiences. [au.trustpilot.com](https://au.trustpilot.com/review/rac.com.au?utm_source=chatgpt.com) |
+| World Nomads Standard | Lower independent product scores compared with some competitors | CHOICE’s comparison placed its Standard policy among lower-scoring options in its review. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Flight Centre Silver/Gold Travel Insurance | Value concerns rather than only service complaints | CHOICE rated these policies among the lowest-scoring in its comparison, largely due to price/value trade-offs. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

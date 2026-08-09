@@ -1,0 +1,13 @@
+2,1573a10d-4a7c-4641-8c87-bd3973f25b37,08080120-1126-0626-0000-65fd69ee4098,7ad5dc5d-2ddd-4bc2-b3b6-a5a8dee09980,2026-08-08T12:37:49.026866+10:00
+Most comprehensive car insurance for high-risk drivers in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited for high-risk drivers | Comprehensive cover strengths | Potential drawbacks |
+|---|---|---|---|
+| AAMI | Drivers who want a large mainstream insurer | Broad comprehensive options, repair network, optional extras | Younger/high-claim drivers may face high premiums |
+| Youi | Drivers with unusual circumstances or non-standard profiles | More personalised underwriting; considers individual details rather than only demographics | Can be expensive depending on profile |
+| Budget Direct | Price-focused drivers who can still obtain cover | Competitive pricing, comprehensive options | May not always accept severe risk profiles |
+| RAC | WA drivers seeking local insurer support | Strong WA presence, comprehensive cover options | Acceptance and pricing vary by history |
+| RACQ | Queensland drivers | Comprehensive cover and member-based service | Mainly relevant to Queensland residents |
+| NRMA Insurance | Drivers wanting a major national insurer | Large repair network and established claims process | Premiums can be higher for risky profiles |
+| QBE Insurance | Drivers with more complex situations | Large insurer with broad underwriting capability | Quote outcome varies significantly |
+End Of Line

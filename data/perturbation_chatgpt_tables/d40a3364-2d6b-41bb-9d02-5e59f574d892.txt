@@ -1,0 +1,10 @@
+1,15bae6d7-b174-4850-84be-812631007f64,08080132-1126-0626-0000-93a58425bc6b,d40a3364-2d6b-41bb-9d02-5e59f574d892,2026-08-08T13:07:12.286151+10:00
+Most comprehensive travel insurance for adventure sports in Australia
+Tables found: 1
+| Insurer | Why it stands out for adventure travellers | Best suited for |
+|---|---|---|
+| Allianz Australia | Offers an optional **Adventure Pack** on eligible comprehensive policies, expanding cover for activities not automatically included. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com) | Travellers wanting a mainstream comprehensive policy with adventure add-ons |
+| nib Travel Insurance | Covers a broad range of activities; its optional snow sports cover includes activities such as skiing/snowboarding and some backcountry options (subject to conditions). [www.nib.com.au](https://www.nib.com.au/travel-insurance/what-we-cover/activities?utm_source=chatgpt.com) | Ski trips, diving, hiking, surfing and mixed adventure holidays |
+| PassportCard Australia | Has a dedicated Adventure Activities Cover option with activities such as skydiving, paragliding, outdoor rock climbing (excluding mountaineering), Kokoda Track and high-altitude trekking options. [www.passportcard.com.au](https://www.passportcard.com.au/activity/adventure-cover/?utm_source=chatgpt.com) | Higher-adrenaline trips where standard policies often have gaps |
+| World Nomads | Known internationally for adventure-focused travel insurance options and activity lists (availability and conditions vary by policy). | Backpacking and activity-heavy travel |
+End Of Line

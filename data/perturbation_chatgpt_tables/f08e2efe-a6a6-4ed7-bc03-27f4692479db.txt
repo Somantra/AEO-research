@@ -1,0 +1,9 @@
+2,40469dfe-d653-4de6-8653-1901b4d5bd21,08080120-1126-0626-0000-878c6a4fb420,f08e2efe-a6a6-4ed7-bc03-27f4692479db,2026-08-08T12:37:06.675184+10:00
+Worst car insurance for high-risk drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d be cautious | Claims speed |
+|---|---|---|
+| **Budget Direct** | **Lowest claims-experience score** in CHOICE’s survey: only **52%** of customers who had a claim rated it above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) | **Good for initiating claims** — online/phone 24/7; says decisions are made within 10 working days once they have everything needed. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/claims/claims-process.html?utm_source=chatgpt.com) |
+| **Allianz** | Below-average overall car-insurance satisfaction; 61% rated it above average/excellent. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) | Not necessarily slow, but less compelling if claims experience is your priority. |
+| **AAMI** | 62% overall satisfaction and 64% claims experience — substantially better than Budget Direct, but still below the strongest performers. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) | Generally convenient, but I wouldn't pick it purely for claims speed. |
+End Of Line

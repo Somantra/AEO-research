@@ -1,0 +1,11 @@
+2,7a88576a-fc8e-4e31-ac20-4c39d9d7c39c,08080139-1126-0626-0000-a4ba1feeb4cf,8e040b7e-fba9-467b-8729-77c4349d7df4,2026-08-08T13:23:18.004598+10:00
+Cheapest pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | Multi-pet discount | Online quote | Cost/value take |
+|---|---:|---|---|
+| **Budget Direct** | None | Yes | **Best starting point for cheapest base premium** |
+| **Bow Wow Meow** | **10%** | Yes | **Strongest multi-pet discount** |
+| **Petsy** | **5% lifetime** per additional pet | Yes | Good balance of price + cover |
+| **Knose** | **5% lifetime** | Yes | Worth quoting, especially with current offers |
+| **Medibank** | **5%** each additional pet | Yes | Worth checking if you're a Medibank/ahm health member |
+End Of Line

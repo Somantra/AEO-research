@@ -1,0 +1,13 @@
+2,51ab097a-7a63-432e-a791-36d4d4b4c7a8,08080120-1126-0626-0000-0198e5f74014,1696c46f-b142-4960-a97a-f4ed790b1a7d,2026-08-08T12:37:39.680411+10:00
+Most popular car insurance for high-risk drivers in Australia compared to other providers
+Tables found: 1
+| Provider | High-risk suitability | Compared with others |
+|---|---|---|
+| **Youi** | ⭐⭐⭐⭐⭐ | One of the first I'd quote for a difficult driving history; explicitly prices on driving/claims history |
+| **AAMI** | ⭐⭐⭐⭐ | Worth trying, but can impose a substantial driver-history excess or decline some histories |
+| **GIO** | ⭐⭐⭐⭐ | Good mainstream alternative; pricing can be competitive depending on driver/car |
+| **NRMA** | ⭐⭐⭐ | Large mainstream insurer; worth quoting but not necessarily cheapest for high-risk drivers |
+| **Budget Direct** | ⭐⭐⭐ | Often competitive on price, but its underwriting is oriented toward safer risks |
+| **QBE / Allianz** | ⭐⭐⭐ | Worth including as additional quotes |
+| **Specialist/high-risk brokers** | ⭐⭐⭐⭐⭐ if mainstream insurers decline you | Particularly useful for serious or unusual driving histories |
+End Of Line

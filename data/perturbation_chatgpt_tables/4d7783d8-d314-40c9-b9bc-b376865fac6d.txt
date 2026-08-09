@@ -1,0 +1,10 @@
+1,a79598cb-e691-4e7c-b6aa-90a2e2aade68,08080135-1126-0626-0000-08d2c545a499,4d7783d8-d314-40c9-b9bc-b376865fac6d,2026-08-08T13:13:49.034591+10:00
+Most popular pet insurance for older pets in Australia
+Tables found: 1
+| Insurer | New-pet entry age | Once insured | Why consider it |
+|---|---:|---|---|
+| **Pet Insurance Australia** | Under 9 | Lifetime cover | Up to $35k annual limit, up to 90% reimbursement, no sub-limits on eligible conditions [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+| **Petsy** | Under 9 | No maximum renewal age | No sub-limits/condition limits; up to $25k annual limit [petsy.com.au](https://petsy.com.au/pet-insurance-faqs/?utm_source=chatgpt.com) |
+| **Knose** | Under 9 | No age limit | Up to $25k, 70/80/90% reimbursement, no sub-limits [www.knose.com.au](https://www.knose.com.au/faqs-and-resources/?utm_source=chatgpt.com) |
+| **RSPCA Pet Insurance** | Depends on current product | Check policy | New product launched April 2026, with annual cover up to $35k and no tricky sub-limits [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+End Of Line

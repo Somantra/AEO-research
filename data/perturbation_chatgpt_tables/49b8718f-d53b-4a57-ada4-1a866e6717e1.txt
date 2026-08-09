@@ -1,0 +1,11 @@
+2,43a93d17-50d9-4da8-9720-723334ca5e57,08080131-1126-0626-0000-9fb3d9de4bc8,49b8718f-d53b-4a57-ada4-1a866e6717e1,2026-08-08T13:04:39.637718+10:00
+Safest roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Older-car suitability | Speed / convenience |
+|---|---|---|---|
+| **RACQ** | Best overall for Queensland | **Excellent** — explicitly says cover applies regardless of car age | **Excellent** — app requests + live patrol tracking |
+| **NRMA** | NSW/ACT + frequent interstate travel | **Very good** | **Excellent** — 24/7, large network, app-based assistance |
+| **RACV** | Victoria | **Very good** | **Excellent** — app request, national reciprocal coverage |
+| **RAA** | South Australia | **Very good** | **Excellent** — app booking + real-time patrol tracking |
+| **RAC WA** | Western Australia | **Very good** | **Very good** — 24/7, Australia-wide assistance |
+End Of Line

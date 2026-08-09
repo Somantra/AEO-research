@@ -1,0 +1,10 @@
+1,112f5afa-7e1c-4be3-bcce-892c493bc2d0,08080128-1126-0626-0000-1245c932951b,c18534e5-f815-4400-91a2-7e6750b527ca,2026-08-08T12:56:09.524471+10:00
+Safest roadside assistance for older cars in Australia
+Tables found: 1
+| | Basic | Mid | Top |
+|---|---:|---:|---:|
+| Metro towing | 20 km | 60 km | **100 km** |
+| Regional towing | Nearest RACV centre | 60 km/centre | **100 km/centre** |
+| Call-outs | Unlimited | Unlimited | Unlimited |
+| Best for | Local driving | Older car | **Older car + travel** |
+End Of Line

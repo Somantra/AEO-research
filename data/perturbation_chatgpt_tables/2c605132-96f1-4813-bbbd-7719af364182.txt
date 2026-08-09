@@ -1,0 +1,11 @@
+1,f201c645-2bbc-4639-9b53-855b86e707fa,08080132-1126-0626-0000-36c7a64083b1,2c605132-96f1-4813-bbbd-7719af364182,2026-08-08T13:06:59.314634+10:00
+Most trusted travel insurance for adventure sports in Australia
+Tables found: 1
+| Insurer | Best for | Adventure-sports strength |
+|---|---|---|
+| **World Nomads** | Lots of different adventure activities | ⭐⭐⭐⭐⭐ |
+| **Fast Cover** | Strong Australian-focused option | ⭐⭐⭐⭐⭐ |
+| **Cover-More** | Established insurer + broad activity options | ⭐⭐⭐⭐½ |
+| **Allianz** | Mainstream insurer with optional adventure cover | ⭐⭐⭐⭐ |
+| **InsureandGo** | Value + broad adventure-activity coverage | ⭐⭐⭐⭐ |
+End Of Line

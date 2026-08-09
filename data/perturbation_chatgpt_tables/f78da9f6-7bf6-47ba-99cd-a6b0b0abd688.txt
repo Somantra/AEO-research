@@ -1,0 +1,10 @@
+2,b38162d6-91db-4d94-a9bb-6d2c0f907ea9,08080140-1126-0626-0000-8c606973387b,f78da9f6-7bf6-47ba-99cd-a6b0b0abd688,2026-08-08T13:24:23.132187+10:00
+Worst pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing conditions | Online quote | My take |
+|---|---|---|---|
+| **Petsy** | Usually excluded, but offers a **pre-existing-condition assessment upfront** | **Yes** | ⭐ Best for transparency |
+| **Medibank** | Generally excluded, but temporary conditions can potentially be reviewed after **18 symptom-free months** | **Yes** | Good if condition may be temporary |
+| **Knose** | Generally excluded; some restrictions can potentially be reviewed | **Yes — ~60 sec** | Good quote experience |
+| **Budget Direct** | Excluded, but fully cured conditions may cease being excluded after **12 months symptom-free** | **Yes** | Worth quoting if condition is resolved |
+End Of Line

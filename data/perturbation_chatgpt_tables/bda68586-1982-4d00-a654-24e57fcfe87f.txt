@@ -1,0 +1,12 @@
+1,bab63732-050e-4e08-854e-b2c33ee83ef1,08080128-1126-0626-0000-f68009a3eaed,bda68586-1982-4d00-a654-24e57fcfe87f,2026-08-08T12:57:59.589751+10:00
+Premium roadside assistance plans in Australia
+Tables found: 1
+| Provider | Premium plan | Approx. annual price | Standout features |
+|---|---|---:|---|
+| **RACQ (QLD)** | **Ultra Care** | ~ $300+ | Strong towing/travel benefits, 24/7 assistance, excellent Queensland network |
+| **NRMA (NSW/ACT)** | **Ultimate Care** | $299 RRP | Unlimited call-outs, up to 100 km free towing, nationwide reciprocal cover |
+| **RACV (VIC)** | **Total Care** | ~ $270 | Personal cover, 100 km towing, travel benefits, taxi/locksmith allowances |
+| **RAA (SA)** | **Premium** | ~ $293 | Unlimited call-outs and enhanced towing/locksmith benefits |
+| **RAC (WA)** | **Ultimate Plus** | ~ $320 | High-level towing and broader roadside/travel benefits |
+| **RACT (TAS)** | **Ultimate** | $264 | Personal cover, unlimited towing, caravan/trailer assistance, locksmith, passenger transport |
+End Of Line

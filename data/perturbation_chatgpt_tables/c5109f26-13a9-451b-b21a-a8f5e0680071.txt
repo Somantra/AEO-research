@@ -1,0 +1,9 @@
+2,ec6ab92d-feb5-4bfe-9394-cd2d389965fa,08080140-1126-0626-0000-c9c14bb989e9,c5109f26-13a9-451b-b21a-a8f5e0680071,2026-08-08T13:26:08.034374+10:00
+Worst pet insurance for large dog breeds in Australia with instant online quotes
+Tables found: 1
+| Provider | Why I’d be cautious for a large dog | Instant online quote |
+|---|---|---|
+| **Budget Direct** | Restricted/dangerous breeds are excluded, and you need to check the exact breed eligibility. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/dog.html?utm_source=chatgpt.com) | [Get a Budget Direct quote](https://www.budgetdirect.com.au/pet-insurance/dog.html) |
+| **Petcover** | Recent Australian owner reports show substantial renewal increases; one reported a jump from $110 to $165/month. That's anecdotal, but worth watching for a large dog whose premiums can already be high. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1vg301m/pet_insurance_crazy_increase/?utm_source=chatgpt.com) | Online quote available |
+| **Policies with low cruciate/orthopaedic sub-limits** | This is the biggest red flag for breeds prone to expensive joint/ligament problems. A cheap policy can become poor value if major orthopaedic treatment is heavily capped. | Varies |
+End Of Line

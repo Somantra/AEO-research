@@ -1,0 +1,12 @@
+2,f6faf25c-1c35-4917-b813-28df2eca64e7,08080134-1126-0626-0000-51b1e2ef50f7,344ada09-8527-4e65-9ffb-97e71f1fcf5d,2026-08-08T13:11:09.681157+10:00
+Most popular travel insurance for business trips in Australia with instant online quotes
+Tables found: 1
+| Provider | Why consider it | Online quote |
+|---|---|---|
+| **Cover-More** | Strong all-round option; its **International Comprehensive** plan is explicitly its most popular plan. Offers single-trip and annual multi-trip cover. [www.covermore.com.au](https://www.covermore.com.au/?utm_source=chatgpt.com) | urlGet a Cover-More quoteturn1search0 |
+| **Southern Cross Travel Insurance (SCTI)** | Very straightforward online quote process, including a specific **work/overseas** travel pathway. [scti.com.au](https://scti.com.au/?utm_source=chatgpt.com) | urlGet an SCTI quoteturn1search14 |
+| **World2Cover** | Good option if you prioritise **instant quotes**; offers international single/annual multi-trip policies and has received value/service awards. [www.world2cover.com.au](https://www.world2cover.com.au/?utm_source=chatgpt.com) | urlGet a World2Cover quoteturn1search16 |
+| **1Cover** | Quick online quote and often worth checking for competitive pricing. It currently advertises a 2026 Finder highly commended comprehensive award. [www.1cover.com.au](https://www.1cover.com.au/?utm_source=chatgpt.com) | urlGet a 1Cover quoteturn1search7 |
+| **InsureandGo** | Easy online purchase, with **business cover available as an upgrade**; also offers annual multi-trip policies. [www.insureandgo.com.au](https://www.insureandgo.com.au/?utm_source=chatgpt.com) | urlGet an InsureandGo quoteturn0search0 |
+| **Allianz** | Major Australian insurer with Basic, Comprehensive and Multi-Trip travel insurance and online quotes. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance.html?utm_source=chatgpt.com)[www.covermore.com.au](https://www.covermore.com.au/?utm_source=chatgpt.com) | urlGet an Allianz quoteturn0search1 |
+End Of Line

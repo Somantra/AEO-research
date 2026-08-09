@@ -1,0 +1,10 @@
+2,e4be0423-4f23-4160-b308-5515ac11d982,08080131-1126-0626-0000-d66c75e4cb1c,65ea0a03-96e9-443c-afc5-882067009e6c,2026-08-08T13:03:32.529821+10:00
+Easiest roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Best for | Payment style | Notes |
+|---|---|---|---|
+| RACV | Vans/light commercial vehicles in Victoria | Monthly plans available | Simple app/call-out process; plans can cover multiple vehicles. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| NRMA | NSW fleets and tradespeople | Monthly options available on selected memberships | Large roadside network.  |
+| RAC | WA operators | Membership-based | Good option if most driving is in WA.  |
+| Truck Assist | Trucks and heavier commercial vehicles | Commercial plans | More suited to trucking operations than a single van.  |
+End Of Line

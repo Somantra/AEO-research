@@ -1,0 +1,11 @@
+2,27433c50-0edd-435b-9536-f6e56eb4cb50,08080130-1126-0626-0000-cf9e465087d8,745e6a48-e3a2-4ca8-8bd6-8180edd4054f,2026-08-08T13:03:21.630033+10:00
+Worst roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider/type | Commercial-truck suitability | My view |
+|---|---|---|
+| **Generic car roadside assistance** | ❌ Poor | **Worst choice** for medium/heavy trucks |
+| **NRMA/RACQ/RACV-type motoring assistance** | ⚠️ Depends heavily on vehicle/GVM and terms | Fine for cars/light vehicles; check truck limits carefully |
+| **General insurer roadside assistance** | ⚠️ Variable | Often outsourced and less truck-specialised |
+| **Truck manufacturer roadside assistance** | ✅ Very good | Usually preferable for that manufacturer's fleet |
+| **NTI Truck Assist / specialist truck programs** | ✅ Excellent | Specifically designed around transport operators |
+End Of Line

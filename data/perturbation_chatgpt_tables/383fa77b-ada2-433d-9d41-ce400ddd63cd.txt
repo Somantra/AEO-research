@@ -1,0 +1,12 @@
+1,61fa4d75-6fed-40a0-85d8-b75f5142ddf4,08080128-1126-0626-0000-96ca27c64837,383fa77b-ada2-433d-9d41-ce400ddd63cd,2026-08-08T12:56:41.920680+10:00
+Best roadside assistance plans in Australia
+Tables found: 1
+| Provider | Best for | Example price | Standout feature |
+|---|---|---:|---|
+| **RACQ** | ⭐ Best overall in QLD | $109–$310/yr | Excellent towing options and strong QLD network |
+| **NRMA** | ⭐ Best in NSW/ACT | ~$137–$299/yr | Strong nationwide coverage and multiple tiers |
+| **RACV** | ⭐ Best in Victoria | $138–$318/yr | Good family/multiple-driver arrangements |
+| **RAC WA** | ⭐ Best in WA | $128–$410/yr | Particularly strong country/long-distance cover |
+| **RAA** | ⭐ Best in SA | $135–$293/yr | Personal rather than vehicle-based cover |
+| **Budget Direct** | 💰 Cheap option | ~$90/yr | Low-cost standalone roadside cover |
+End Of Line

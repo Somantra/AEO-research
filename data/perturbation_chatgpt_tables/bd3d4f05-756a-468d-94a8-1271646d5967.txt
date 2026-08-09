@@ -1,0 +1,11 @@
+2,c2a8c8ff-eb76-4ade-8061-a82a6ccbd8d5,08080139-1126-0626-0000-f9a32196768d,bd3d4f05-756a-468d-94a8-1271646d5967,2026-08-08T13:23:00.720150+10:00
+Most popular pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Insurer | New-pet entry age | Monthly payments | Older-pet suitability |
+|---|---|---|---|
+| **Petsy** | Under 9 years | ✅ Yes | ⭐⭐⭐⭐⭐ |
+| **Knose** | Up to 8 years 364 days | ✅ Yes | ⭐⭐⭐⭐⭐ |
+| **Pet Insurance Australia** | Under 9 for comprehensive; under 12 for Essentials | ✅ Yes | ⭐⭐⭐⭐ |
+| **RSPCA Pet Insurance** | Depends on new policy terms | Check quote | ⭐⭐⭐⭐ |
+| **Bow Wow Meow** | Generally under 9 for its comprehensive product | ✅ Monthly/fortnightly | ⭐⭐⭐⭐ |
+End Of Line

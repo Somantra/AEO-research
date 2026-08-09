@@ -1,0 +1,10 @@
+1,5d1379dd-593f-48f6-afe5-1d55b43f0e92,08080135-1126-0626-0000-27c64446fcea,96a236e1-83c9-46c6-9d12-f79823b38e09,2026-08-08T13:15:01.921533+10:00
+Most affordable pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Provider | Pre-existing condition approach | Best for |
+|---|---|---|
+| Budget Direct | Some temporary/cured conditions may be reviewed after a symptom-free period (reported as 12 months) | Lower-cost cover where the condition may resolve [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| RACQ | May review some exclusions after a symptom-free period (reported as 18 months) | Queensland customers or those wanting bundled insurance options [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| Knose | May consider lifting some exclusions depending on the condition and history | Owners willing to request underwriting review [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/pet/review-and-compare/pet-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Generally excludes known pre-existing conditions but allows some exclusions to be reviewed if circumstances change | A policy with a clear review process [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com) |
+End Of Line

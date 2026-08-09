@@ -1,0 +1,11 @@
+2,61cecf8e-1002-42ae-aae3-f1fc8e139e52,08080129-1126-0626-0000-80e5e07b9998,0b7e3fb5-7fe1-4b46-8328-0efb3ff65d34,2026-08-08T12:59:22.330904+10:00
+Least reliable home insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer sentiment | Reliability/claims concern | Verdict |
+|---|---|---|---|
+| **Budget Direct** | ⭐ Generally strong — 3.7/5 from 2,400+ ProductReview reviews; also won Finder's 2025 customer-satisfaction category | CHOICE put it among the weaker insurers for claims experience, with >45% of claimants rating the experience average/below average/poor | **Good value, but claims deserve scrutiny** |
+| **Allianz** | ⭐ Strong mainstream reputation; 2026 Finder score 9.6/10 | CHOICE similarly placed Allianz among the bottom group for claims experience | **Good policy, less convincing claims record** |
+| **Qantas Home Insurance** | ⚠️ Not actually strong overall — CHOICE only 42% above-average/excellent | Bottom of CHOICE's satisfaction table; ProductReview currently 1.3/5 | **Avoid if reliability is the priority** |
+| **CGU** | ⚠️ Weak — 48% above-average/excellent in CHOICE | Bottom-tier customer experience; ProductReview has very negative claims commentary | **Higher-risk choice** |
+| **Youi** | ⭐ Strong overall — 67% above-average/excellent | Interestingly, CHOICE found a mixed claims experience despite strong overall satisfaction | **Worth investigating, not automatically “safe”** |
+End Of Line

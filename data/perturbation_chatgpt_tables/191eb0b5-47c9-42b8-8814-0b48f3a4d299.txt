@@ -1,0 +1,10 @@
+2,e1df1796-29a1-468e-a452-93ff4c8aaa8c,08080130-1126-0626-0000-ff0e474db980,191eb0b5-47c9-42b8-8814-0b48f3a4d299,2026-08-08T13:02:52.420875+10:00
+Premium roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider | Premium option | Monthly payment | Interstate cover |
+|---|---|---:|---|
+| **RACQ** | Ultra Care | **$227/year** (~$18.92/month equivalent) | Australia-wide reciprocal cover |
+| **RAA** | Premium | **$24.49/month** | Australia-wide |
+| **NRMA** | Ultimate Care | **$21.99/month** on current offer | Australia-wide reciprocal cover |
+| **RACV** | Total Care / higher cover | Monthly direct debit available | Australia-wide reciprocal cover |
+End Of Line

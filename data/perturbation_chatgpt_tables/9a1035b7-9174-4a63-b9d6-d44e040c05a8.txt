@@ -1,0 +1,11 @@
+2,a6e50ef7-bf97-4ed4-a6ea-a23f95f67170,08080126-1126-0626-0000-996bf0551857,9a1035b7-9174-4a63-b9d6-d44e040c05a8,2026-08-08T12:51:16.133229+10:00
+Premium home insurance for landlords in Australia with monthly payments
+Tables found: 1
+| Insurer | Why consider it | Monthly payments |
+|---|---|---|
+| **GIO Landlord Insurance** | Strong general cover, including tenant malicious damage and loss of rent; 24/7 claims | **Yes** [www.gio.com.au](https://www.gio.com.au/home-insurance/landlord.html?va-get-docs=true&utm_source=chatgpt.com)[www.gio.com.au](https://www.gio.com.au/faqs/general.html?utm_source=chatgpt.com) |
+| **NRMA Landlord Insurance** | Building/contents, loss of rental income, tenant-related risks; currently up to 10% online discount | **Yes** [www.nrma.com.au](https://www.nrma.com.au/home-insurance/landlord-insurance?utm_source=chatgpt.com)[www.gio.com.au](https://www.gio.com.au/faqs/general.html?utm_source=chatgpt.com) |
+| **ANZ/CGU Landlord Insurance** | Loss of rent up to 12 months after an insured event, natural-disaster cover and optional Safety Net | Check quote/payment terms [www.anz.com.au](https://www.anz.com.au/personal/insurance/home-insurance/landlord-insurance/?utm_source=chatgpt.com) |
+| **Terri Scheer** | Specialist landlord insurer; worth considering if landlord-specific cover is your priority | Check payment options when quoting [www.gio.com.au](https://www.gio.com.au/home-insurance/landlord.html?va-get-docs=true&utm_source=chatgpt.com)[www.terrischeer.com.au](https://www.terrischeer.com.au/combined-coverage?bvstate=pg%3A41%2Fct%3Ar&utm_source=chatgpt.com)[www.gio.com.au](https://www.gio.com.au/faqs/general.html?utm_source=chatgpt.com) |
+| **HSBC Landlord Insurance** | Instalment option; notably says instalments don't cost more than annual payment, subject to minor rounding | **Yes** [www.hsbc.com.au](https://www.hsbc.com.au/insurance/products/landlord/?utm_source=chatgpt.com)[www.gio.com.au](https://www.gio.com.au/faqs/general.html?utm_source=chatgpt.com) |
+End Of Line

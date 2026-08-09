@@ -1,0 +1,10 @@
+2,0d7a8818-ab43-434c-a94c-7fd64fe002ac,08080126-1126-0626-0000-61a6b4c28a14,843b60b2-7681-49fb-9a9d-d8fc99e2173b,2026-08-08T12:52:48.922892+10:00
+Worst home insurance for older properties in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer-review signal | Older-home suitability | My take |
+|---|---|---|---|
+| **Australian Seniors** | ⭐ 4.7/5, 2,700+ reviews | **Good** | **Best starting point** |
+| **QBE** | ⭐ 4.5/5, 1,000+ reviews | **Good** | Strong alternative |
+| **Youi** | ⭐ 3.7/5, 1,500+ reviews | **Potentially good** | Worth quoting, but claims feedback is mixed |
+| **Budget Direct** | ⭐ 3.7/5, 2,400+ reviews | **Potentially good** | Competitive pricing, but I'd scrutinise exclusions |
+End Of Line

@@ -1,0 +1,10 @@
+2,4d003785-a9bb-427e-a04c-970d62d90ff5,08080138-1126-0626-0000-c46387c10d6a,4bd15186-b244-4f5b-82f8-123a077d962e,2026-08-08T13:21:18.073144+10:00
+Most trusted pet insurance for cats in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I’d consider it | Monthly payments | Key strength |
+|---|---|---|---|
+| **RSPCA Pet Insurance** | ⭐ **Best overall/value** | ✅ Yes | Up to **$35,000/year**, up to 90% back, customisable |
+| **Knose** | ⭐ **Best flexible option** | ✅ Yes | Customisable comprehensive cover, established Australian provider |
+| **Trupanion** | ⭐ **Best for major/lifetime illnesses** | ✅ Yes | **No payout limits**, 90% cover, lifetime per-condition excess |
+| **HCF Happy Tails** | ⭐ **Good mainstream alternative** | ✅ Yes | 70/80/90% reimbursement and $10k/$20k/$30k limits |
+End Of Line

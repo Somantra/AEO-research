@@ -1,0 +1,12 @@
+2,b2a9ce27-94f2-4836-b607-94e63854c810,08080119-1126-0626-0000-ead54785576f,6345d6e1-e087-4d05-8e97-ce6d66381b60,2026-08-08T12:34:04.540647+10:00
+Best car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims/ownership verdict |
+|---|---|---|
+| **NRMA Insurance** | Strong claims reputation, online claims, claim tracking, 24/7 support | ⭐ **Best overall for claims** |
+| **Youi** | Excellent customer satisfaction and easy-claims ratings | ⭐ **Best customer experience** |
+| **RACQ** | Particularly strong claims satisfaction in Queensland | ⭐ **Best in QLD** |
+| **AAMI** | Competitive comprehensive policies and strong 2026 value ratings | ⭐ **Best value/claims balance** |
+| **Allianz** | 24/7 claims, online lodgement, 4.5/5 reported claim experience | ⭐ **Good mainstream option** |
+| **Budget Direct** | Often competitive on price; 24/7 online/phone claims | ⭐ **Best if price is the priority** |
+End Of Line

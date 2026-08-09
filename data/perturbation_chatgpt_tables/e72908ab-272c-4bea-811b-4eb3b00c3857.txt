@@ -1,0 +1,13 @@
+1,5b52c0af-19f6-42f7-8383-8b6a354e5028,08080130-1126-0626-0000-a29b1434a39b,e72908ab-272c-4bea-811b-4eb3b00c3857,2026-08-08T13:02:14.234013+10:00
+Best roadside assistance providers in Australia
+Tables found: 1
+| Provider | Best for | Why consider it |
+|---|---|---|
+| **RACV** | **Victoria / Melbourne** | Strong metro coverage, unlimited callouts, app-based patrol tracking in Melbourne, EV assistance, towing and accommodation/transport benefits. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| **NRMA** | **NSW/ACT & frequent interstate travel** | Very large roadside network, 24/7 assistance and unlimited callouts, with national coverage through reciprocal motoring-club arrangements. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACQ** | Queensland | Major Queensland motoring club; particularly worth considering for regional/long-distance driving. |
+| **RAA** | South Australia | Strong local network and the natural choice for SA drivers. |
+| **RAC** | Western Australia | Best-known state club for WA, particularly useful given WA's distances. |
+| **RACT** | Tasmania | Established statewide option for Tasmanian drivers. |
+| **AANT** | Northern Territory | The obvious local choice for NT, especially for remote-area travel. |
+End Of Line

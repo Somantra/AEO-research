@@ -1,0 +1,11 @@
+2,391af629-cf9b-4945-8182-d4da7cd388c7,08080124-1126-0626-0000-a2be535ef66b,d00a92ef-d291-46c3-bdef-1211d004baac,2026-08-08T12:47:01.308704+10:00
+Most popular motorcycle insurance for custom bikes in Australia compared to other providers
+Tables found: 1
+| Provider | Custom/modified bike | Agreed value | Modifications | My take |
+|---|---|---|---|---|
+| **Shannons** | ⭐⭐⭐⭐⭐ | ✅ | ✅ Listed mods included in agreed value | **Best fit for heavily customised bikes** |
+| **QBE** | ⭐⭐⭐⭐ | ✅ | ✅ Must list each modification | Strong mainstream alternative |
+| **NRMA** | ⭐⭐⭐ | ✅ | ⚠️ Some automatic cover, but performance increases above manufacturer spec excluded | Good for moderately modified bikes |
+| **RACQ** | ⭐⭐⭐ | Policy-dependent | ⚠️ Check PDS/underwriting carefully | Worth quoting, particularly QLD |
+| **Swann** | ⭐⭐⭐ | Varies | Historically motorcycle-focused | Availability/product arrangements have changed, so verify current offering |
+End Of Line

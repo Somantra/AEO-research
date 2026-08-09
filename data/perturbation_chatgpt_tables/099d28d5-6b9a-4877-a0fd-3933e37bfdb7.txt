@@ -1,0 +1,10 @@
+2,05c0ef6c-f8a2-4153-af73-50ea1a5f0ea3,08080132-1126-0626-0000-4575bf4cb200,099d28d5-6b9a-4877-a0fd-3933e37bfdb7,2026-08-08T13:08:10.383788+10:00
+Most comprehensive roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Hybrid suitability | Claims/support speed |
+|---|---|---|---|
+| NRMA Roadside Assistance | Nationwide coverage and hybrid/EV capability | Excellent — explicitly supports hybrids and plug-in hybrids | Strong digital support; online insurance claims tracking available where applicable [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance-sa?utm_source=chatgpt.com) |
+| RAA | Best fit for SA drivers | Very suitable for hybrids; local network advantage | Good local support (worth comparing current response times and inclusions) |
+| RACV | Victoria-based drivers | Suitable | Strong membership ecosystem |
+| AAMI | Bundled insurance + roadside convenience | Suitable for hybrids | Fast digital claims via app/online, but roadside is an optional add-on and terms vary [www.aami.com.au](https://www.aami.com.au/claim/car?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/car-insurance/comprehensive/roadside-assist?utm_source=chatgpt.com) |
+End Of Line

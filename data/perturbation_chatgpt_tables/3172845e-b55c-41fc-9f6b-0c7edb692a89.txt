@@ -1,0 +1,11 @@
+2,b05291d7-516b-4ed8-aee8-4fc21f2860c1,08080142-1126-0626-0000-0f7172c63fc4,3172845e-b55c-41fc-9f6b-0c7edb692a89,2026-08-08T13:28:33.202383+10:00
+Best pet insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Why it stands out | Annual limit | Reimbursement | “Hidden fee” transparency |
+|---|---|---:|---:|---|
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | Very straightforward policy; explicitly advertises **no sub-limits or hidden costs** | Up to $25k | 70/80/90% | ⭐⭐⭐⭐⭐ |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | No sub-limits on standard eligible conditions/treatments; flexible excess | Up to $35k | 70/80/90% | ⭐⭐⭐⭐⭐ |
+| **[Petsy](https://petsy.com.au/)** | No condition/treatment sub-limits and annual rather than per-claim excess | Up to $30k | Customisable | ⭐⭐⭐⭐⭐ |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | New PetFlex product has no sub-limits and up to $35k available | Up to $35k | Up to 90% | ⭐⭐⭐⭐½ |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Strong value proposition and 70/80/90% reimbursement choices | Up to $30k | 70/80/90% | ⭐⭐⭐⭐ |
+End Of Line

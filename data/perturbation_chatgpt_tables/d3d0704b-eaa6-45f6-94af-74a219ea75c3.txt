@@ -1,0 +1,11 @@
+2,d2c2eb51-818d-4baf-9df4-b32d7bd698f3,08080132-1126-0626-0000-44ad708d2f53,d3d0704b-eaa6-45f6-94af-74a219ea75c3,2026-08-08T13:06:26.000414+10:00
+Worst roadside assistance for rural areas in Australia without hidden fees
+Tables found: 1
+| Provider | Rural suitability | My take |
+|---|---|---|
+| **RACV Extra/Total Care (Vic)** | ⭐⭐⭐⭐⭐ | Excellent for regional Victoria; 60–100 km towing depending on plan |
+| **RAA Premium (SA)** | ⭐⭐⭐⭐⭐ | Particularly strong country coverage; up to 200 km attendance + 200 km tow to a country depot |
+| **RAC WA** | ⭐⭐⭐⭐½ | 80 km country towing even on Standard |
+| **NRMA Ultimate (NSW/ACT)** | ⭐⭐⭐⭐ | 100 km towing; good interstate availability |
+| **RACQ higher-tier plans (QLD)** | ⭐⭐⭐⭐ | Worth considering for Queensland rural driving |
+End Of Line

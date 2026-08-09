@@ -1,0 +1,11 @@
+2,aaec6b29-ff7e-464b-9398-85571320febc,08080129-1126-0626-0000-87a70b3bb7f8,a2894d9b-3f9d-43f8-969f-7f515e1293fc,2026-08-08T12:59:21.875414+10:00
+Least reliable home insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Common customer concerns reported | Compared with stronger performers |
+|---|---|---|
+| Budget Direct | Competitive pricing, but some customers report frustrations around claims negotiations, repair processes, and communication | Often chosen for price rather than premium claims service |
+| AAMI | Large customer base means many complaints in absolute numbers; some customers report mixed claims experiences | Stronger than some smaller brands in scale, but not always rated highest for service |
+| Suncorp Group brands (including some regional brands) | Mixed feedback after major weather events, especially around repair delays | Large disaster-response capability, but claims pressure can affect service |
+| QBE Insurance | Some customers report slower claims experiences, particularly complex property claims | More commonly associated with commercial insurance but also offers personal products |
+| Allianz Australia | Generally solid, but some complaints relate to claim timeframes and assessment disputes | Often viewed as mid-to-upper tier rather than consistently top-ranked |
+End Of Line

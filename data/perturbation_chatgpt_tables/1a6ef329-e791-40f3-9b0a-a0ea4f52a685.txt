@@ -1,0 +1,10 @@
+2,5d4798a7-6e00-469a-88be-63b49ab33979,08080140-1126-0626-0000-54d675cdec2e,1a6ef329-e791-40f3-9b0a-a0ea4f52a685,2026-08-08T13:24:57.158008+10:00
+Most comprehensive pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing condition approach | Online quote | Overall |
+|---|---|---|---|
+| **Knose** | Can assess pre-existing conditions; temporary conditions may potentially be reviewed | **Yes — ~60 sec** | ⭐ **Best first quote** |
+| **Pet Insurance Australia** | Temporary conditions can potentially become covered after **18 symptom-free months**; chronic conditions remain excluded | **Yes** | ⭐ **Best for P.E. review pathway** |
+| **Bow Wow Meow** | Temporary P.E. conditions can be reviewed after **18 months symptom-free** | **Yes — instant online quote** | ⭐ Strong alternative |
+| **Medibank** | Similar 18-month review for qualifying temporary conditions | **Yes** | Good mainstream option |
+End Of Line

@@ -1,0 +1,14 @@
+2,097bbae6-c0bf-4d10-83ee-d00340e5adfb,08080132-1126-0626-0000-edcffee3b372,15b9c407-87da-4121-a5fb-e5a4a5a4c9a1,2026-08-08T13:08:03.099897+10:00
+Most popular roadside assistance for hybrid cars in Australia compared to other providers
+Tables found: 1
+| Provider | Hybrid/EV capability | Typical strength | My take |
+|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | Excellent EV/hybrid-specific support | **Best choice in QLD** |
+| **RACV** | ⭐⭐⭐⭐⭐ | Strong hybrid/EV support | **Best choice in VIC** |
+| **NRMA** | ⭐⭐⭐⭐ | Large network, nationwide reach | **Strong all-rounder** |
+| **Toyota Roadside Assist** | ⭐⭐⭐⭐⭐ for Toyota hybrids | Toyota-specific support | **Excellent if you own a Toyota hybrid** |
+| **RAA** | ⭐⭐⭐⭐ | Strong SA coverage/EV capability | Very good in SA |
+| **RAC (WA)** | ⭐⭐⭐⭐ | Strong WA network | Very good in WA |
+| **RACT** | ⭐⭐⭐⭐ | Strong Tasmania coverage | Good choice in TAS |
+| **AANT** | ⭐⭐⭐⭐ | NT coverage | Good choice in NT |
+End Of Line

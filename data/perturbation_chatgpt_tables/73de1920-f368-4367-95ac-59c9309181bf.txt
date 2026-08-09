@@ -1,0 +1,9 @@
+2,eef86aee-7380-43c3-95b1-549940d5b50c,08080136-1126-0626-0000-6ece7a59acb5,73de1920-f368-4367-95ac-59c9309181bf,2026-08-08T13:16:47.814004+10:00
+Best travel insurance for pre-existing medical conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims experience/process | My take |
+|---|---|---|---|
+| **Cover-More** | 30+ conditions can be automatically covered if criteria are met; other conditions can go through an online medical assessment. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/existing-medical?hc_location=ufi&utm_source=chatgpt.com) | 24/7 online claims lodgement; you can submit before all supporting documents are available. [www.covermore.com.au](https://www.covermore.com.au/claims?utm_source=chatgpt.com) | **Best overall fit** |
+| **Worldcare** | Covers a large number of pre-existing conditions, with an online medical assessment and some conditions covered at no extra cost. [www.worldcare.com.au](https://www.worldcare.com.au/?utm_source=chatgpt.com) | Online claims with document upload, or phone assistance from claims consultants. [www.worldcare.com.au](https://www.worldcare.com.au/travel-claims-process/?utm_source=chatgpt.com) | **Strong alternative**, particularly for medical-condition flexibility |
+| **Allianz** | Offers pre-existing-condition assessment, but you need to check whether your specific condition is accepted under the policy. | Online claims and tracking; Allianz says a travel-claims consultant will contact you within **10 business days**. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/claims.html?utm_source=chatgpt.com) | **Good for a clearly documented condition**, but not my first choice if speed is paramount |
+End Of Line

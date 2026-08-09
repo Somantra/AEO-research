@@ -1,0 +1,13 @@
+2,239b586e-e485-4078-b4f9-e68d2059afdc,08080141-1126-0626-0000-bfdb2c88129c,aff1a12a-d3ab-4a13-9990-0f406d51e771,2026-08-08T13:28:29.426559+10:00
+Most affordable pet insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Typical cover strengths | Main trade-off |
+|---|---|---|---|
+| **Budget Direct** | 🟢 **Cheapest** | Accident + illness, up to $12k–$25k depending on plan, 80% reimbursement | Lower limits and more sub-limits |
+| **Bow Wow Meow** | 🟢 **Very competitive** | $10k–$30k, 70/80/90% reimbursement, **no sub-limits** | Usually costs more than the cheapest Budget Direct option |
+| **Petcover** | 🟢/🟡 Competitive | Up to $20k, flexible reimbursement including 100% on some plans | Some policies/ratings aren't as strong overall |
+| **Pet Insurance Australia (PIA)** | 🟡 Mid-range/value | $15k–$35k, 70/80/90%, no sub-limits | May cost more than budget policies |
+| **Medibank** | 🟡 Mid-range | Up to $30k, up to 90%, GapOnly available | Not generally the cheapest |
+| **Fetch** | 🟡 Mid/high | Broad comprehensive cover | Premium can be higher |
+| **Premium/comprehensive providers generally** | 🔴 Higher | Higher limits and broader benefits | Considerably more expensive |
+End Of Line

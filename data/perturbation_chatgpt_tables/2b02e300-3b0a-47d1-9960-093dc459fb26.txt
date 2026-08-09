@@ -1,0 +1,12 @@
+1,149b2708-9224-40cd-8c94-de65b669f084,08080134-1126-0626-0000-8c5ce325256e,2b02e300-3b0a-47d1-9960-093dc459fb26,2026-08-08T13:12:58.538693+10:00
+Most popular pet insurance for dogs in Australia
+Tables found: 1
+| Insurer | Why people consider it |
+|---|---|
+| **RSPCA Pet Insurance** | Well-known brand; new policies from April 2026 offer up to **$35,000 annual cover** and no tricky sub-limits. [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | Long-established Australian pet insurer; frequently mentioned by pet owners. |
+| **Petsy** | Popular newer option, particularly for comprehensive accident/illness cover. |
+| **Pet Insurance Australia (PIA)** | Established specialist provider with several levels of cover. |
+| **Knose** | Known for flexible policies and is frequently mentioned in Australian pet-owner discussions. |
+| **PetSure-backed brands** | A large part of the Australian pet-insurance market is administered/underwritten through PetSure arrangements, so comparing the actual policy wording matters more than the brand name. |
+End Of Line

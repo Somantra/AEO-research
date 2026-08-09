@@ -1,0 +1,12 @@
+2,9535f0f0-8d60-4dd6-8de8-3c855f4fd678,08080118-1126-0626-0000-1a02fc4c445b,548557ce-93fe-439b-b596-db9962331823,2026-08-08T12:33:25.140880+10:00
+Easiest car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV suitability | Price tendency | Ease | My take |
+|---|---|---|---|---|
+| **Budget Direct** | ⭐⭐⭐⭐ | 💰 Often low | ⭐⭐⭐⭐⭐ | **Best starting point for price + easy online quote** |
+| **NRMA** | ⭐⭐⭐⭐⭐ | 💰💰 Often higher | ⭐⭐⭐⭐ | Strong EV-specific support/coverage |
+| **Youi** | ⭐⭐⭐⭐ | 💰💰–💰💰💰 | ⭐⭐⭐ | Good service, but quotes can be expensive |
+| **AAMI** | ⭐⭐⭐⭐ | 💰💰 | ⭐⭐⭐⭐ | Worth getting a quote, especially for mainstream EVs |
+| **RACQ** | ⭐⭐⭐⭐ | 💰💰 | ⭐⭐⭐⭐ | Particularly worth checking if you're in Queensland |
+| **Rollin** | ⭐⭐⭐⭐ | 💰 Often competitive | ⭐⭐⭐⭐ | Interesting newer option, but check telematics/terms |
+End Of Line

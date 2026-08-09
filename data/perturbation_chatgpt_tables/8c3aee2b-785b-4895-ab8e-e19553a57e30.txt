@@ -1,0 +1,12 @@
+2,81f1aa4d-e933-4eb9-bd77-b2b16754a8dc,08080129-1126-0626-0000-8f3f16b9b88d,8c3aee2b-785b-4895-ab8e-e19553a57e30,2026-08-08T13:00:13.921573+10:00
+Most reliable roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | EV capability | Customer reviews | My take |
+|---|---|---|---|
+| **RAC WA** | Excellent — EV towing plus emergency top-up charging | ⭐ **4.8/5** from 1,221 ProductReview reviews | 🥇 **Best overall where available** |
+| **NRMA** | Strong — dedicated EV roadside capability, including mobile charging in some areas | ⭐ **4.5/5** from 1,913 reviews | 🥈 **Best NSW/ACT choice** |
+| **RACV** | Excellent — EV out-of-charge towing, high-voltage-trained patrols | Mixed: ⭐ 2.6/5 on ProductReview | 🥉 **Very strong EV offering, but reviews are a concern** |
+| **RAA SA** | Excellent — EV-trained patrols and permanent mobile EV charging in metro Adelaide | Less review evidence available | **Excellent SA option** |
+| **RACQ** | Excellent — high-voltage-aware patrols, EV assistance at no extra cost | ⭐ 3.2/5 from 405 reviews | **Good QLD coverage, weaker reviews** |
+| **Allianz** | Good — Australia-wide EV out-of-charge towing | ⭐ 1.9/5 from 134 reviews | **Wouldn't choose primarily for roadside reliability** |
+End Of Line

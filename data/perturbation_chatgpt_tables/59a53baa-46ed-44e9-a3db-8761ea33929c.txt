@@ -1,0 +1,11 @@
+2,4512fb8c-4970-4aa6-8dd6-83f20912bb8b,08080121-1126-0626-0000-e48f55814015,59a53baa-46ed-44e9-a3db-8761ea33929c,2026-08-08T12:39:50.151253+10:00
+Premium motorcycle insurance for learner riders in Australia compared to other providers
+Tables found: 1
+| Provider | Learner suitability | Key strengths | Main drawback |
+|---|---|---|---|
+| **Youi** | ⭐⭐⭐⭐⭐ | Learners are explicitly covered if they hold a valid licence; flexible rider arrangements | Quote can vary substantially by rider/bike |
+| **NRMA** | ⭐⭐⭐⭐⭐ | Comprehensive cover, $20m liability, helmet cover, lifetime repair guarantee, new-for-new on eligible bikes | Undisclosed/young-rider excesses can apply |
+| **Budget Direct** | ⭐⭐⭐⭐ | Often worth quoting for price; comprehensive cover, $20m liability, new-bike replacement | **$500 extra excess** if rider hasn't held a full/open Australian motorcycle licence for 2+ years, plus age excesses |
+| **GIO** | ⭐⭐⭐⭐ | Comprehensive, lifetime repair guarantee, choice of repairer, $20m liability | Learner/experience profile can make pricing less attractive |
+| **AAMI** | ⭐⭐⭐⭐ | Comprehensive cover, riding gear included, lifetime repair guarantee | Need an individual quote to know whether pricing is competitive |
+End Of Line

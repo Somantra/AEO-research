@@ -1,0 +1,10 @@
+2,597785dd-1cd9-49bf-8673-f52ba3cfb72d,08080125-1126-0626-0000-d77aa1f89474,24e68c3a-078a-4073-a867-d9d5568e627e,2026-08-08T12:49:36.346886+10:00
+Worst home insurance for renters in Australia without hidden fees
+Tables found: 1
+| Insurer | What stands out | Fee concern |
+|---|---|---|
+| **NRMA** | Renters contents cover, temporary accommodation, landlord-property liability, new-for-old | Check the current PDS for cancellation/payment fees |
+| **Youi** | Strong renters-specific cover; flood included; up to $20m liability | **Small cancellation fee may apply** |
+| **AAMI** | Straightforward contents-only policy, online management | Check PDS for cancellation/payment conditions |
+| **Budget Direct** | Easy online cancellation and competitive pricing | **$40 early-cancellation fee** after cooling-off period |
+End Of Line

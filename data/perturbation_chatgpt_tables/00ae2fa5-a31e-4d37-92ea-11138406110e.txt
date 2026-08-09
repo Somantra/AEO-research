@@ -1,0 +1,10 @@
+2,381630fa-09fe-44c6-a034-7ed043f62bca,08080131-1126-0626-0000-83cdb86622b8,00ae2fa5-a31e-4d37-92ea-11138406110e,2026-08-08T13:04:01.480222+10:00
+Most comprehensive roadside assistance for commercial vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Commercial roadside | Heavy trucks | Claims process | Best for |
+|---|---|---|---|---|
+| **NTI / Truck Assist** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Trucks, fleets, transport operators** |
+| **Allianz** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Commercial vehicles + general business insurance |
+| **RACV Business** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Light/medium commercial fleets |
+| **NRMA** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Smaller commercial fleets |
+End Of Line

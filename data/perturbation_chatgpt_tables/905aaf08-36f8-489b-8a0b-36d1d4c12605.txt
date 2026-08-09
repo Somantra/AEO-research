@@ -1,0 +1,8 @@
+1,ca97a7f8-8f78-4671-a98e-8e8297c1203a,08080137-1126-0626-0000-e969fb1c48ff,905aaf08-36f8-489b-8a0b-36d1d4c12605,2026-08-08T13:19:01.448220+10:00
+Most popular accident-only pet insurance in Australia
+Tables found: 1
+| Provider | Accident-only cover | Annual limit | Reimbursement |
+|---|---|---:|---:|
+| **PetsOnMe – Accidental Plan** | ✅ | **$5,000** | **80%** |
+| **PD Insurance – Accident Plan** | ✅ | **$5,000** | **80%** |
+End Of Line

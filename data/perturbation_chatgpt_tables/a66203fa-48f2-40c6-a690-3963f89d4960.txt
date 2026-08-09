@@ -1,0 +1,10 @@
+2,505b2d9a-6358-46bb-9707-51c3d66c624b,08080130-1126-0626-0000-bcc3c7ef9d8b,a66203fa-48f2-40c6-a690-3963f89d4960,2026-08-08T13:00:57.846646+10:00
+Cheapest roadside assistance for motorcycles in Australia with a fast claims process
+Tables found: 1
+| Provider | Approx. price | Motorcycle cover | Speed/features | My take |
+|---|---:|---|---|---|
+| **RACQ** | **$80/year** for Everyday Lite* | ✅ Yes | **~35-min average response in QLD**, live patrol tracking, online request | 🥇 Best value in QLD |
+| **Budget Direct** | **$76.46 first year** online in QLD | ⚠️ Check motorcycle eligibility before buying | 24/7, online dispatch, GPS tracking in selected areas | 🥈 Potentially cheapest |
+| **NRMA** | From **$112/year** | ✅ Yes | 24/7, unlimited callouts, large network | Good Australia-wide option |
+| **Youi** | Included with Comprehensive Motorcycle Insurance | ✅ Yes | 24/7 roadside, online claims | Best if you already want insurance |
+End Of Line

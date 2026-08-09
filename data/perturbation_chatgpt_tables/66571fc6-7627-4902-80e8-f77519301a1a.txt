@@ -1,0 +1,11 @@
+2,95dfdf3e-de9d-4d58-9e5d-7298f352ad52,08080117-1126-0626-0000-e48511096083,66571fc6-7627-4902-80e8-f77519301a1a,2026-08-08T12:29:59.612177+10:00
+Least reliable car insurance for P-plate drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | P-plater suitability | My take |
+|---|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | Good, but QLD-focused | **Best claims reputation** |
+| **RAA** | ⭐⭐⭐⭐⭐ | Good, SA-focused | **Excellent if you're in SA** |
+| **NRMA** | ⭐⭐⭐⭐ | Good | Strong all-rounder |
+| **Youi** | ⭐⭐⭐⭐ | Good | Good service + straightforward claims |
+| **Budget Direct** | ⭐⭐ | Often competitive for young drivers | **I'd avoid if claims reliability is your priority** |
+End Of Line

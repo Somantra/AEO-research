@@ -1,0 +1,11 @@
+2,68c18f18-8b4f-4ddd-885a-a99079d73948,08080135-1126-0626-0000-1c55534e49e1,233aa86c-17f2-49fd-83fa-d186511af892,2026-08-08T13:14:11.642417+10:00
+Most trusted travel insurance for family holidays in Australia with a fast claims process
+Tables found: 1
+| Insurer | Best for | Why families consider them |
+|---|---|---|
+| Allianz Australia | **Overall family coverage & global support** | Established insurer with family policies covering options such as overseas emergency assistance, cancellations and luggage (subject to plan terms). [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/articles/travel-insurance-for-families.html?utm_source=chatgpt.com) |
+| World2Cover | **Claims experience** | Recognised by Finder’s 2025 awards as an “Easiest to Claim” travel insurer based on customer survey results. [www.finder.com.au](https://www.finder.com.au/travel-insurance/best-travel-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | **Customer recommendation & brand trust** | Scored highly in Finder’s 2025 customer survey, including recommendation and trust measures. [www.finder.com.au](https://www.finder.com.au/travel-insurance/best-travel-insurance?utm_source=chatgpt.com) |
+| Fast Cover | **Digital claims convenience** | Offers online claim lodgement and an Australian-based claims process; customer feedback highlights ease of use, though experiences can vary for complex claims. [fastcover.com.au](https://fastcover.com.au/why-choose-fastcover/fast-and-simple-claims-process?utm_source=chatgpt.com) |
+| RAC | **WA families wanting a local brand** | Worth comparing if you are based in WA, but check the travel policy wording and underwriter details carefully. [au.trustpilot.com](https://au.trustpilot.com/review/rac.com.au?utm_source=chatgpt.com) |
+End Of Line

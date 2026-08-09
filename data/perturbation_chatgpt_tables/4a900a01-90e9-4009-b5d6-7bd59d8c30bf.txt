@@ -1,0 +1,11 @@
+1,01ad817d-8051-473a-9ca1-fe9ffe8538cb,08080121-1126-0626-0000-ab80c98b65f8,4a900a01-90e9-4009-b5d6-7bd59d8c30bf,2026-08-08T12:41:40.737579+10:00
+Most comprehensive motorcycle insurance for custom bikes in Australia
+Tables found: 1
+| Insurer | Why it suits custom bikes | Best for |
+|---|---|---|
+| Shannons Insurance | Strong reputation among enthusiasts; generally geared toward modified, classic and special-interest vehicles | Café racers, choppers, restorations, one-off builds |
+| Prevail Insurance | Specialist motorcycle cover with focus on agreed value, modifications, helmet/gear protection and customised motorcycles | High-value custom bikes [prevailinsurance.com.au](https://prevailinsurance.com.au/high-net-worth-motor-motorcycles/?utm_source=chatgpt.com) |
+| QBE Insurance Australia | Comprehensive motorcycle cover; modifications/accessories can be added if declared and accepted | Modified road bikes with documented upgrades [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| National Motorcycle Insurance | Often rated highly for comprehensive features such as choice of repairer and gear cover options | Riders wanting broad everyday cover [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+| Suncorp Insurance | Can accommodate certain custom features, but major modifications need disclosure | Customised bikes with clear modification records [www.suncorp.com.au](https://www.suncorp.com.au/insurance/motorcycle.html?utm_source=chatgpt.com) |
+End Of Line

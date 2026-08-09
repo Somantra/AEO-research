@@ -1,0 +1,10 @@
+1,0673ddcf-31b1-4f08-bcc0-324e2d7e3667,08080137-1126-0626-0000-d06c3414e953,44b0f8ec-236c-438f-afcb-3b237526c7cd,2026-08-08T13:18:35.741424+10:00
+Best accident-only pet insurance in Australia
+Tables found: 1
+| Policy | Best for | Cover | Annual limit |
+|---|---|---:|---:|
+| **9 Lives Accident-Only** | 🥇 Best overall for cats | **100%** | **No maximum** |
+| **Ruff ’n’ Tumble Accident-Only** | 🥇 Best for dogs | **100%** | **No maximum** |
+| **PetsOnMe Accident Plan** | Lower-cost option | 80% | $5,000 |
+| **PD Accident Plan** | Basic budget cover | 80% | $5,000 |
+End Of Line

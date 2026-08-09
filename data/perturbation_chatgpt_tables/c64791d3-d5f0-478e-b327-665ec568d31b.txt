@@ -1,0 +1,10 @@
+2,9c3daeaf-8bc6-4dc4-a877-6ac29e3969d9,08080136-1126-0626-0000-bef8b5507e00,c64791d3-d5f0-478e-b327-665ec568d31b,2026-08-08T13:16:39.811447+10:00
+Cheapest travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I'd check it | Potential extra cost |
+|---|---|---|
+| **[Cover-More](https://www.covermore.com.au/)** | 30+ existing conditions can be automatically covered if you meet the criteria | Extra premium for conditions requiring assessment |
+| **[Fast Cover](https://fastcover.com.au/)** | Has a budget product and online medical screening; clearly tells you if an additional premium applies | Extra premium may apply |
+| **[Southern Cross Travel Insurance](https://www.scti.com.au/)** | Medical assessment lets you see whether your condition can be covered before deciding to pay the extra premium | Extra premium if you accept the cover |
+| **[Travel Insurance Direct](https://www.travelinsurancedirect.com.au/)** | Automatically covers 40+ conditions subject to criteria | Conditions outside automatic list may require assessment |
+End Of Line

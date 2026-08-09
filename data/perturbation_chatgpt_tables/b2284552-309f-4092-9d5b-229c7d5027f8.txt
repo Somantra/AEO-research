@@ -1,0 +1,11 @@
+2,e16068f0-347d-4a96-9379-6f92f6154551,08080129-1126-0626-0000-cb5ea6fb40df,b2284552-309f-4092-9d5b-229c7d5027f8,2026-08-08T12:59:56.415362+10:00
+Cheapest roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Cheapest plan | EV support | My take |
+|---|---:|---|---|
+| **RAA (SA)** | **$103/year*** | ✅ Explicit EV support, trained patrols | 🏆 **Best value** |
+| **NRMA (NSW/ACT)** | **$112/year annually** | ✅ EV breakdown support | 🥈 Best NSW option |
+| **RAC (WA)** | **$128/year** | EVs covered under roadside assistance | 🥉 Strong WA option |
+| **RACV (VIC)** | **$138/year** | ✅ Explicitly tows EVs to charging | Good VIC option |
+| **RACT (TAS)** | **$144/year** | Roadside assistance | Good Tasmania option |
+End Of Line

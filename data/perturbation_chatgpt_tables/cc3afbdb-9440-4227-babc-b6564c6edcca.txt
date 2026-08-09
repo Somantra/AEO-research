@@ -1,0 +1,10 @@
+2,a8e86847-4418-41eb-a61d-b04b562bf28b,08080126-1126-0626-0000-b432b808b260,cc3afbdb-9440-4227-babc-b6564c6edcca,2026-08-08T12:50:57.068094+10:00
+Easiest home insurance for landlords in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Review signal |
+|---|---|---|
+| **QBE** | **Best overall for ease + reviews.** Online quote/purchase is straightforward, and landlord-specific cover is well established. | **4.8/5 from 348 ProductReview reviews**; named **2026 Top Rated Landlord Insurance** by ProductReview. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-landlord-insurance?utm_source=chatgpt.com) |
+| **NRMA** | **Best for claims/service reputation.** Finder's 2026 awards named it Most Loved, Top Value, Legendary Service, Easiest to Claim and Most Recommended landlord insurer. | **4.30/5 Most Loved**, **4.37/5 service**, **4.13/5 easiest to claim** in Finder's 2026 survey. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/landlord-insurance-satisfaction?utm_source=chatgpt.com) |
+| **EBM RentCover** | Worth considering if you want a **landlord specialist**, particularly for tenant/rent-related risks. | **4.1/5 on ProductReview**. [www.productreview.com.au](https://www.productreview.com.au/c/landlord-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Easy mainstream insurer and potentially competitive pricing, but **I'd put it behind the three above** given its current landlord-insurance review profile. | **1.3/5 from 90 ProductReview reviews** — a significant red flag compared with QBE/EBM. [www.productreview.com.au](https://www.productreview.com.au/listings/aami-landlord-insurance?utm_source=chatgpt.com) |
+End Of Line

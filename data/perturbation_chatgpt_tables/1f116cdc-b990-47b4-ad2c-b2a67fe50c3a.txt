@@ -1,0 +1,9 @@
+2,44428e88-858d-4e04-b6ee-132c11685682,08080130-1126-0626-0000-5e57f2c6b165,1f116cdc-b990-47b4-ad2c-b2a67fe50c3a,2026-08-08T13:03:11.261272+10:00
+Most affordable roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Approx. cost | Key coverage | My take |
+|---|---:|---|---|
+| **[RAC BusinessWise Assist](https://rac.com.au/car-motoring/businesswise/roadside-assistance/assist)** | **$124/vehicle/year** | 24/7, Australia-wide, 25 km metro tow, 80 km country round trip | ⭐ **Best low-cost commercial option** |
+| **[RAC BusinessWise Absolute](https://rac.com.au/car-motoring/businesswise/roadside-assistance/absolute)** | **$232/vehicle/year** | 100 km metro, 200 km country, cargo/driver assistance, recovery benefits | Best for vehicles travelling long distances |
+| Standard RAC personal cover | ~$128/year | 25 km metro tow | Cheap, but **not the appropriate commercial policy** |
+End Of Line

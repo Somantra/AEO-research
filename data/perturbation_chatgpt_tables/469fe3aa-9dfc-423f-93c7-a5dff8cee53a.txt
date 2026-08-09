@@ -1,0 +1,11 @@
+2,26ce2f3c-40ca-491a-895a-99b191190aea,08080126-1126-0626-0000-a4070e06f262,469fe3aa-9dfc-423f-93c7-a5dff8cee53a,2026-08-08T12:52:18.900083+10:00
+Most popular home insurance for new builds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims |
+|---|---|---|
+| **Youi** | **Best overall for claims/service** | 24/7 lodgement, app + online tracking; won Canstar’s 2025 Most Satisfied Customers – Home Insurance nationally. [www.youi.com.au](https://www.youi.com.au/home-insurance?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/home-insurance/building?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/claiming?utm_source=chatgpt.com) |
+| **AAMI** | **Strong value + very mainstream** | 2025 Canstar Outstanding Value winner nationally and for QLD south of Rockhampton. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/home-and-contents-insurance/?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/claims.html?utm_source=chatgpt.com) |
+| **Allianz** | Strong balance of cover, price and claims infrastructure | 24/7 claims team and online lodgement; 2025 Canstar Outstanding Value winner. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/home-and-contents-insurance/?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/claims.html?utm_source=chatgpt.com) |
+| **QBE** | Good alternative for comprehensive building cover | 2025 Canstar Outstanding Value winner nationally. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/home-and-contents-insurance/?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/claims.html?utm_source=chatgpt.com) |
+| **RACQ** | Particularly worth quoting if you're in Queensland | Canstar's 2025 QLD customer-satisfaction winner for home insurance. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-insurance-qld/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,870ac195-cbd6-4944-b41b-fc5f5091f34b,08080129-1126-0626-0000-38e612c8faf3,ce0163e9-7e37-443f-ae2a-5bbb021c3b94,2026-08-08T12:58:53.414355+10:00
+Most comprehensive home insurance for first-time homeowners in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote |
+|---|---|---|
+| **Allianz** | Very comprehensive option; its home & contents policy can cover both the building and your belongings. Allianz says it won the **2026 Finder Comprehensive Home Insurance** award. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) | urlGet an Allianz quoteturn0search5 |
+| **ANZ / CGU** | Offers **Standard and Plus** building & contents levels, with Plus designed for higher limits and additional benefits. [www.anz.com.au](https://www.anz.com.au/personal/insurance/home-insurance/?utm_source=chatgpt.com) | urlGet an ANZ quoteturn0search0 |
+| **NRMA** | Straightforward online quoting for combined **Building & Contents**, plus building-only and contents-only policies. [www.nrma.com.au](https://www.nrma.com.au/home-insurance?utm_source=chatgpt.com) | urlGet an NRMA quoteturn0search9 |
+| **Coles Insurance** | Combined home & contents cover with online purchasing; currently advertises **30% off the first year** for eligible new online policies. [www.coles.com.au](https://www.coles.com.au/insurance/home-insurance/home-and-contents?utm_source=chatgpt.com) | urlGet a Coles quoteturn0search6 |
+| **Westpac / Allianz** | Home & contents, building-only and contents-only options, with online quotes; underwritten/provided by Allianz. [www.westpac.com.au](https://www.westpac.com.au/personal-banking/insurance/home-insurance/?utm_source=chatgpt.com) | urlGet a Westpac quoteturn0search8 |
+End Of Line

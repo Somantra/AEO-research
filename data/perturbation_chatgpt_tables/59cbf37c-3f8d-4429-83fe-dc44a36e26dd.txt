@@ -1,0 +1,10 @@
+2,452656a5-9573-45b5-b511-bd8162aeff70,08080142-1126-0626-0000-67961ef63317,59cbf37c-3f8d-4429-83fe-dc44a36e26dd,2026-08-08T13:28:57.588000+10:00
+Least reliable pet insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer reviews | Reliability concern |
+|---|---:|---|
+| **Petcover** | **3.0/5 (1,229)** | **High** — large volume of complaints about claim delays, exclusions, premiums and difficulty getting claims paid. |
+| **Coles Pet Insurance** | **2.1/5 (43)** | **Very high** — complaints focus heavily on narrow illness coverage and denied claims. |
+| **PetsOnMe** | **4.0/5 (18)** | **Medium** — generally strong reviews, but some serious complaints about exclusions/transparency. |
+| **Real Pet Insurance** | **4.4/5 (413)** | **Medium** — lots of positive claim experiences, but some long-term customers report substantial premium increases. |
+End Of Line

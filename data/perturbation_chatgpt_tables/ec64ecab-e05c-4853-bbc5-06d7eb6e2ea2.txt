@@ -1,0 +1,11 @@
+2,8375d471-bb78-4a29-979e-f58ad0b95bef,08080133-1126-0626-0000-dcdd99550d2f,ec64ecab-e05c-4853-bbc5-06d7eb6e2ea2,2026-08-08T13:11:05.088706+10:00
+Most popular travel insurance for business trips in Australia with monthly payments
+Tables found: 1
+| Provider | Business-trip cover | Annual multi-trip | Monthly payment |
+|---|---|---|---|
+| **InsureandGo** | ✅ Business cover available as an option | ✅ | Check quote/payment options |
+| **Cover-More** | ✅ | ✅ | Check current quote |
+| **1Cover** | ✅ | ✅ | Check current quote |
+| **Southern Cross Travel Insurance** | ✅ | ✅ | Check current quote |
+| **Allianz Australia** | Travel/business options | ✅ | Depends on product |
+End Of Line

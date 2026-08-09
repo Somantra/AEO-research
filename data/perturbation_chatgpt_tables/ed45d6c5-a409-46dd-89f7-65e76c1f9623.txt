@@ -1,0 +1,11 @@
+2,383d4c2a-1c3f-4552-bf6e-9210905fe57a,08080140-1126-0626-0000-7d5b53330811,ed45d6c5-a409-46dd-89f7-65e76c1f9623,2026-08-08T13:24:42.704641+10:00
+Most trusted pet insurance for pre-existing conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing conditions | Monthly payments | My take |
+|---|---|---|---|
+| **Pet Insurance Australia** | Some temporary conditions can become eligible after **18 months symptom-free**; chronic conditions remain excluded | **Yes** | ⭐ **Best overall for flexible pre-existing-condition rules** |
+| **Bow Wow Meow** | Similar **18-month review** for eligible temporary conditions | Yes | ⭐ Strong alternative |
+| **Knose** | Some pre-existing conditions can be reviewed; certain curable conditions may become eligible after a symptom-free period | Yes | ⭐ Worth comparing |
+| **Fetch** | Pre-existing conditions **not covered**, but they do an upfront medical-history check so you know exclusions before claiming | **Yes — monthly plan** | ⭐ Best for transparency |
+| **Trupanion** | Pre-existing conditions excluded | Yes | Excellent insurance generally, but **not ideal if your priority is existing conditions** |
+End Of Line

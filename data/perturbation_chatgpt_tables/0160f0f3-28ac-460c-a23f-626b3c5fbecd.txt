@@ -1,0 +1,11 @@
+2,4e86ed18-c0e4-470d-9ff6-6e46d13ea2a7,08080131-1126-0626-0000-ea60a44b3f5e,0160f0f3-28ac-460c-a23f-626b3c5fbecd,2026-08-08T13:03:50.741919+10:00
+Most popular roadside assistance for commercial vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Review signal | Commercial suitability |
+|---|---|---:|---|
+| **Truck Assist** | Trucks, vans/utes >3.5t, fleets | Strong specialist reputation, but fewer independent reviews than motoring clubs | ⭐⭐⭐⭐⭐ |
+| **RAC BusinessWise** | Business vehicles & fleets, particularly WA | RAC has a large established customer base; current QLD RAC reviews are 4.8/5 | ⭐⭐⭐⭐⭐ |
+| **NRMA Roadside Assistance** | Broad national coverage, lighter commercial vehicles | **4.5/5 from 1,913 reviews** | ⭐⭐⭐⭐ |
+| **RACQ / other state motoring clubs** | Light commercial vehicles and fleets | Generally strong consumer-service reputation | ⭐⭐⭐⭐ |
+| **National Roadside Assist** | Cost-conscious general/business vehicles | **4.9/5 from 161 reviews** | ⭐⭐⭐, depending on vehicle/GVM |
+End Of Line

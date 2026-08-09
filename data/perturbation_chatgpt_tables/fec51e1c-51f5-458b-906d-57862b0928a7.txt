@@ -1,0 +1,11 @@
+2,ca061822-e076-44ab-84ab-f58f03585b74,08080130-1126-0626-0000-9f5c679948de,fec51e1c-51f5-458b-906d-57862b0928a7,2026-08-08T13:02:14.251518+10:00
+Best roadside assistance for interstate travel in Australia with strong customer reviews
+Tables found: 1
+| Provider | Review signal | Interstate suitability | My take |
+|---|---:|---|---|
+| **NRMA Roadside Assistance** | **4.5/5 from ~1,900 reviews** | Excellent | **Best overall national choice** |
+| **RAC Roadside Assistance (WA)** | **4.8/5 from ~1,220 reviews** | Good nationally via reciprocal clubs | **Best customer-review score** |
+| **RACV Roadside Assistance** | Strong | Excellent via reciprocal state clubs | **Excellent for VIC-based travellers** |
+| **RACQ Roadside Assistance** | 3.2/5 from ~400 reviews | Excellent | Strong network, but reviews are mixed |
+| **Allianz Roadside Assistance** | Mixed/poor independent reviews | National | I wouldn't choose it primarily for roadside service |
+End Of Line

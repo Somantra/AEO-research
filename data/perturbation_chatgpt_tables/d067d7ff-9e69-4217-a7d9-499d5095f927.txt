@@ -1,0 +1,10 @@
+2,1d601ceb-720b-415d-9c0e-d7e27cc5bda4,08080120-1126-0626-0000-28030a4aca57,d067d7ff-9e69-4217-a7d9-499d5095f927,2026-08-08T12:38:07.494290+10:00
+Worst car insurance providers in Australia with monthly payments
+Tables found: 1
+| Insurer | Overall satisfaction | Claims experience |
+|---|---:|---:|
+| **Allianz** | 61% | 69% |
+| **AAMI** | 62% | 64% |
+| **Budget Direct** | 62% | **52%** |
+| **RACV** | 64% | 66% |
+End Of Line

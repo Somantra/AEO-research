@@ -1,0 +1,11 @@
+2,4f9c2e2d-c68f-4cf8-9fdf-2b611acdfd61,08080128-1126-0626-0000-4a057f7eef80,56e3d810-7deb-4b88-9c2f-d90c455012b5,2026-08-08T12:56:27.958041+10:00
+Most popular home insurance for high-value items in Australia compared to other providers
+Tables found: 1
+| Provider | Best suited to | High-value items | Overall view |
+|---|---|---|---|
+| **Chubb Masterpiece** | High-net-worth homes & collections | Excellent | ⭐⭐⭐⭐⭐ |
+| **QBE** | High-value contents within mainstream insurance | Good | ⭐⭐⭐⭐ |
+| **Allianz** | Mainstream cover + individually listed valuables | Good | ⭐⭐⭐⭐ |
+| **AAMI / Suncorp** | Mainstream home & contents | Moderate–good | ⭐⭐⭐ |
+| **Budget Direct / similar** | Price-focused cover | Moderate | ⭐⭐⭐ |
+End Of Line

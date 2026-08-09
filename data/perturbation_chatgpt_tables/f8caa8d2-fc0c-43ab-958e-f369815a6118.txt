@@ -1,0 +1,10 @@
+1,f5a13088-69f0-4555-825e-778475c42e1e,08080135-1126-0626-0000-05040e4246fc,f8caa8d2-fc0c-43ab-958e-f369815a6118,2026-08-08T13:15:31.620062+10:00
+Most trusted pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer | Pre-existing-condition approach | My take |
+|---|---|---|
+| **[Trupanion Australia](https://trupanion.com.au/)** | Won't cover pre-existing conditions, but assesses whether a future condition is medically related to an earlier one. | **Best if you're worried about related/overlapping conditions** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Temporary conditions may become eligible after **18 months symptom-free**; chronic conditions remain excluded. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com) | **Strong option for a previously cured problem** |
+| **[Knose](https://www.knose.com.au/)** | Can assess pre-existing conditions before your first claim; some cured conditions may become eligible after a symptom-free period. [www.knose.com.au](https://www.knose.com.au/faqs-and-resources/?utm_source=chatgpt.com) | **Good for transparency before claiming** |
+| **[Budget Direct Pet Insurance](https://www.budgetdirect.com.au/pet-insurance.html)** | A fully cured condition may cease to be excluded after **12 months** symptom/treatment-free, subject to exclusions. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance.html?utm_source=chatgpt.com) | **Worth comparing if the condition was temporary** |
+End Of Line

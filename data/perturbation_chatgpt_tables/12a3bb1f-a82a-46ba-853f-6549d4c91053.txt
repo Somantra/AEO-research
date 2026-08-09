@@ -1,0 +1,10 @@
+1,b371834a-64dc-4889-9e3e-0f6915061bb3,08080127-1126-0626-0000-a8708a4f5c63,12a3bb1f-a82a-46ba-853f-6549d4c91053,2026-08-08T12:55:01.772868+10:00
+Most reliable roadside assistance for commercial vehicles in Australia
+Tables found: 1
+| Provider | Best for | Why I’d consider it |
+|---|---|---|
+| **Truck Assist / NTI** | **Trucks, heavy vehicles & fleets** | Specifically truck-focused, 24/7 Australia-wide, specialist mobile providers, towing/recovery, hydraulic hose repairs, tyres, batteries and fuel. Fleet solutions are available for 10+ trucks. [www.truckassist.com.au](https://www.truckassist.com.au/roadside-assistance/roadside-assistance?utm_source=chatgpt.com) |
+| **NTI** | **Transport businesses & larger fleets** | Australia-focused transport insurer with extensive heavy-vehicle expertise, nationwide repair/towing networks and specialist incident management. [www.nti.com.au](https://www.nti.com.au/insurance/truck-and-transport/fleet?utm_source=chatgpt.com) |
+| **Allianz Partners** | **Mixed commercial fleets / lighter vehicles** | Large national roadside network covering metro and regional Australia, operating 24/7. [www.allianz-partners.com](https://www.allianz-partners.com/en_AU/products/mobility.html?utm_source=chatgpt.com) |
+| **Allianz Roadside Assistance** | **Light commercial vehicles** | 24/7 Australia-wide roadside assistance and mobile mechanics, but its standard roadside product is more car/light-vehicle oriented than Truck Assist. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

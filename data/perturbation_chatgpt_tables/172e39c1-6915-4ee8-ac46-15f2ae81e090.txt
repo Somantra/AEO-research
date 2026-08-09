@@ -1,0 +1,10 @@
+2,ea4a1b99-b468-4323-8731-7ba9d904ce29,08080121-1126-0626-0000-5a1693a0110c,172e39c1-6915-4ee8-ac46-15f2ae81e090,2026-08-08T12:39:49.760294+10:00
+Premium motorcycle insurance for learner riders in Australia with monthly payments
+Tables found: 1
+| Insurer | Learner riders | Monthly payments | Comprehensive |
+|---|---|---|---|
+| **Budget Direct** | ✅ Learners can be listed | ✅ Monthly | ✅ |
+| **Youi** | ✅ Validly licensed learners covered | Likely available subject to quote | ✅ |
+| **RACV** | Check eligibility for your circumstances | ✅ Monthly | ✅ |
+| **NRMA** | Rider eligibility subject to policy/quote | Check quote | ✅ |
+End Of Line

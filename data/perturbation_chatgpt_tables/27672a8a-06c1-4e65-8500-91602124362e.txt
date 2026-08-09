@@ -1,0 +1,10 @@
+2,e8e265db-e8c0-4ec5-9906-c801a1830a32,08080139-1126-0626-0000-f188d72bbf80,27672a8a-06c1-4e65-8500-91602124362e,2026-08-08T13:23:08.783363+10:00
+Premium pet insurance for older pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | Older-pet entry | Cover | Online quote |
+|---|---|---|---|
+| **Guardian** | Up to **16** on Bronze | Up to 80%; $12k annual limit on all plans | urlGet a quoteturn1search1 |
+| **Real Insurance** | Up to **16** on Classic | Up to 60% on Classic; $12k annual limit | urlGet a quick quoteturn1search5 |
+| **Australian Seniors** | Up to **16** | Accident & illness options | urlOnline quoteturn1search3 |
+| **Petcover** | Depends on policy/pet | Up to $20k vet fees; multiple cover levels | urlGet a quoteturn1search8 |
+End Of Line

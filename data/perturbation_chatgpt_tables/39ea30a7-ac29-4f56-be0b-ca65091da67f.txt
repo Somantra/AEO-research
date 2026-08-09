@@ -1,0 +1,11 @@
+1,69288185-b957-403c-9d15-7fcd359e9198,08080135-1126-0626-0000-22a0edd99a23,39ea30a7-ac29-4f56-be0b-ca65091da67f,2026-08-08T13:15:47.174578+10:00
+Cheapest pet insurance for puppies and kittens in Australia
+Tables found: 1
+| Provider | Why it stands out | Typical positioning |
+|---|---|---|
+| **Budget Direct** | Finder currently identifies its Plus Cover as the **cheapest insurer** in its research; online new-customer discounts may apply | 💰 Cheapest |
+| **Cover-More / CoverMy** | Lower-cost cover with accident + illness and up to $8,000 annual benefit on its High Cover | 💰 Budget |
+| **Bow Wow Meow** | More generous coverage, including up to $30,000/year and up to 90% reimbursement | 💰–💰💰 |
+| **Petcover** | Flexible reimbursement options and relatively competitive entry-level cover | 💰–💰💰 |
+| **Medibank** | More comprehensive options, including up to $30,000/year and 90% reimbursement | 💰💰 |
+End Of Line

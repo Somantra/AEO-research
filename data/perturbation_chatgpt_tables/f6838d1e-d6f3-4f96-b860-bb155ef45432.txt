@@ -1,0 +1,13 @@
+2,de241b92-5e1b-4e64-909c-c726e32245ad,08080120-1126-0626-0000-810b8f199163,f6838d1e-d6f3-4f96-b860-bb155ef45432,2026-08-08T12:38:47.373892+10:00
+Premium car insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction* | My take |
+|---|---:|---|
+| **Youi** | **77%** | ⭐ Best overall national pick for customer satisfaction |
+| **NRMA Insurance** | **72%** | Strong established option, particularly NSW/ACT |
+| **Shannons** | **74%** | ⭐ Excellent for enthusiast, classic and special-interest cars |
+| **GIO** | **75%** | Strong satisfaction and worth quoting nationally |
+| **RACQ** | **85%** | ⭐ Excellent if you're in Queensland |
+| **RAC** | **77%** | ⭐ Excellent if you're in Western Australia |
+| **RAA** | **91%** | ⭐ Highest satisfaction, but South Australia-focused |
+End Of Line

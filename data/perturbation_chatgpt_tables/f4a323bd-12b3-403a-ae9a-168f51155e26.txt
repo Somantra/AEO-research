@@ -1,0 +1,10 @@
+2,bd9e56f0-92c5-4dd9-a8eb-8d51a5c5cc85,08080120-1126-0626-0000-0d27933a3196,f4a323bd-12b3-403a-ae9a-168f51155e26,2026-08-08T12:36:24.009514+10:00
+Safest third-party car insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Third-party cover | My take |
+|---|---|---|---|
+| **NRMA Insurance** | **78%** rated claims experience above average/excellent | Up to **$20m** liability; uninsured-driver damage included | **Best overall pick for NSW** |
+| **Youi** | **73%** | Up to **$20m** liability; uninsured-driver benefit up to $5k | **Best for digital/fast service** |
+| **GIO** | **76%** | Up to **$20m** | Strong alternative |
+| **RACQ** | **85%** | Strong claims reputation | Excellent, but primarily relevant if you're in QLD |
+End Of Line

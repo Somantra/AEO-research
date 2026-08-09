@@ -1,0 +1,8 @@
+2,820d5ebd-7fa2-41fb-aa8c-64d1e872ca3a,08080141-1126-0626-0000-c48546c98634,b3839f78-40ac-4eab-b15a-8cb8c73c760d,2026-08-08T13:27:03.125181+10:00
+Least reliable pet insurance for exotic pets in Australia without hidden fees
+Tables found: 1
+| Provider | Why to check carefully |
+|---|---|
+| Petcover Australia | One of the few Australian options for exotic animals, including some birds, reptiles and small mammals, but you should read the PDS closely for limits, exclusions and benefit caps before buying. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/exotic-pet-insurance/?utm_source=chatgpt.com) |
+| General dog/cat pet insurers | Many advertise “pet insurance” but may not cover exotic species at all, meaning you could pay premiums expecting cover that does not exist. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/exotic-pet-insurance/?utm_source=chatgpt.com) |
+End Of Line

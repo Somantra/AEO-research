@@ -1,0 +1,13 @@
+2,a7634e64-418f-4ef3-9df2-d1a899b87854,08080120-1126-0626-0000-c3f720085ff0,64cf51b4-a841-4052-9bc7-e1501e2c5769,2026-08-08T12:36:34.750978+10:00
+Most popular third-party car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reputation | Best for |
+|---|---|---|
+| **Youi** | ⭐⭐⭐⭐⭐ Strong | Customer service & claims experience |
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ Strong | Established insurer / NSW |
+| **RACV** | ⭐⭐⭐⭐½ Strong | Victoria & member benefits |
+| **GIO** | ⭐⭐⭐⭐½ Good | All-rounder |
+| **AAMI** | ⭐⭐⭐⭐ Good | Large mainstream insurer |
+| **Budget Direct** | ⭐⭐⭐⭐ Good | Price-focused shoppers |
+| **Woolworths Everyday Insurance** | ⭐⭐⭐⭐ Good | Value/rewards |
+End Of Line

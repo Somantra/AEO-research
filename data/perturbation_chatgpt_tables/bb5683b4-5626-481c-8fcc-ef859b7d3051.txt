@@ -1,0 +1,9 @@
+2,e7ca79ab-05fe-4d74-945e-37590b25b020,08080141-1126-0626-0000-a62ac74e5ca5,bb5683b4-5626-481c-8fcc-ef859b7d3051,2026-08-08T13:26:48.958055+10:00
+Best pet insurance for exotic pets in Australia with monthly payments
+Tables found: 1
+| Plan | Vet-fee limit | Best for |
+|---|---:|---|
+| **Premier** | Up to **$6,000** | Maximum cover for birds/reptiles/turtles |
+| **Plus** | Up to **$4,000** | ⭐ Best balance |
+| **Value** | Up to **$2,000** | Lower-cost protection |
+End Of Line

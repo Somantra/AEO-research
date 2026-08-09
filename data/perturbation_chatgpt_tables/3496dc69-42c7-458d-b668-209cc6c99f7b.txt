@@ -1,0 +1,10 @@
+2,d1bd92f3-e5ef-4de2-8624-b4f1e971819d,08080133-1126-0626-0000-e91583948db5,3496dc69-42c7-458d-b668-209cc6c99f7b,2026-08-08T13:08:44.839049+10:00
+Easiest standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Approx. monthly | Standout |
+|---|---:|---|
+| **NRMA Everyday Care** | **$9.99 promo / $11.65 RRP** | Cheapest/easiest, unlimited callouts |
+| **RACV Roadside Care** | **$12** | Simple monthly option, 20 km towing |
+| **NRMA Complete Care** | **$17.99 promo / $21.99 RRP** | Better towing, up to 50 km |
+| **RACV Total Care** | **$27** | Premium cover, 100 km towing |
+End Of Line

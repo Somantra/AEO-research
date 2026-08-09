@@ -1,0 +1,10 @@
+2,c47014fa-397a-4dcb-96d7-86bbe0510899,08080119-1126-0626-0000-c5a69fb44330,f36a686c-4115-4af0-a70b-ba0a17ca2e5b,2026-08-08T12:34:07.001301+10:00
+Worst car insurance for used cars in Australia with monthly payments
+Tables found: 1
+| Insurer type | Why it can be a bad choice for a used car |
+|---|---|
+| Very cheap online-only policies | Lower premiums may come with fewer extras, lower agreed values, or stricter conditions |
+| Policies with unclear vehicle value | Your payout after a write-off may be less than you expect |
+| Monthly plans with fees | Some insurers charge more overall for monthly payments |
+| Basic third-party cover on an expensive-to-repair car | You may be exposed if your own car is damaged |
+End Of Line

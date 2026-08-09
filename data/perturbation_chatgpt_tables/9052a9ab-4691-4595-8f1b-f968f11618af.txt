@@ -1,0 +1,10 @@
+2,f6ecaaf4-7549-403b-be3d-544c46822209,08080139-1126-0626-0000-80bb247993a5,9052a9ab-4691-4595-8f1b-f968f11618af,2026-08-08T13:23:29.278855+10:00
+Worst pet insurance for multiple pets in Australia with strong customer reviews
+Tables found: 1
+| Insurer/policy | Why it may be a poor fit for multiple pets | Review pattern |
+|---|---|---|
+| Petcover | Has appeared among lower-ranked policies in comparisons; some customers complain about claims experiences and decreasing cover/value over time | Mixed-to-negative complaints about claims and cover changes [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance pet policies | Ranked poorly in some Australian policy comparisons, meaning price/coverage balance may not be competitive | Worth comparing closely against alternatives [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| PetsOnMe | Lower-ranked in CHOICE’s comparison of pet policies | May not provide the strongest value depending on your pets and needs [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Has many positive claim stories, but some customers report premium increases and service frustrations | Very mixed: some praise gap-only claims and support; others complain about rising premiums and communication [www.trustpilot.com](https://www.trustpilot.com/review/petinsuranceaustralia.com.au?utm_source=chatgpt.com) |
+End Of Line

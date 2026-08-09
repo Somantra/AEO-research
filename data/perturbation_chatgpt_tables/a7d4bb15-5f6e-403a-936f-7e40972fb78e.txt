@@ -1,0 +1,10 @@
+2,6f9caf4d-f901-4004-a021-67057975ecc0,08080141-1126-0626-0000-bc949fda699d,a7d4bb15-5f6e-403a-936f-7e40972fb78e,2026-08-08T13:26:44.708510+10:00
+Most affordable pet insurance for exotic pets in Australia compared to other providers
+Tables found: 1
+| Exotic pet | From | Approx. annual starting cost |
+|---|---:|---:|
+| 🐦 Birds / parrots | **$21/month** | **$252/year** |
+| 🐢 Turtles / tortoises | **$23/month** | **$276/year** |
+| 🦎 Reptiles | **$26/month** | **$312/year** |
+| 🐰 Small mammals incl. rabbits | **$31/month** | **$372/year** |
+End Of Line

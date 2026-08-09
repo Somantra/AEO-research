@@ -1,0 +1,11 @@
+2,32fd35fa-189b-4556-a96b-ece742a2e496,08080123-1126-0626-0000-fd1d67ddd88d,6372a868-9dab-40d9-9dff-91415e311be8,2026-08-08T12:44:57.465614+10:00
+Premium third-party motorcycle insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Third-party cover highlights | Online quote |
+|---|---|---|
+| Youi | Third Party Property Only and Third Party Fire & Theft options; legal liability cover up to $20 million (subject to policy terms) | Available online [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/third-party-cover?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Third Party Property Only motorcycle cover; online quote process | Available online [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| QBE Insurance | Third Party Only motorcycle insurance with legal liability cover options | Available online [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com) |
+| RACV | Third Party Motorcycle Insurance covering damage you cause to another person’s vehicle/property, with optional benefits depending on policy | Available online [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| GIO General Insurance | Third Party Property Damage motorcycle cover options | Available online [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

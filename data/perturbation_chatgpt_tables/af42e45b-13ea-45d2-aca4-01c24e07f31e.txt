@@ -1,0 +1,10 @@
+2,ed5d2f56-0686-4b6c-81d1-5a36a8a1e074,08080141-1126-0626-0000-8732a43c623e,af42e45b-13ea-45d2-aca4-01c24e07f31e,2026-08-08T13:27:20.378899+10:00
+Most popular pet insurance for exotic pets in Australia compared to other providers
+Tables found: 1
+| Provider | Exotic pets | Typical strength | My take |
+|---|---|---|---|
+| **Petcover** | 🐰 Rabbits, 🦜 birds, 🦎 reptiles, 🐢 turtles, small mammals | Specialist exotic cover; up to $6k vet fees | **Best/most relevant choice** |
+| **Bow Wow Meow** | Primarily dogs & cats | Strong mainstream pet insurance | ❌ Not a comparable exotic-pet option |
+| **Knose** | Primarily dogs & cats | Customisable mainstream cover | ❌ Not suitable for most exotics |
+| **Budget Direct / Coles / Medibank etc.** | Mainly dogs & cats | Price/availability for conventional pets | ❌ Generally not alternatives for exotics |
+End Of Line

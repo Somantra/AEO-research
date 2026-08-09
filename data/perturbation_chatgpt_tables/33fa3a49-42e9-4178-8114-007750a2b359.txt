@@ -1,0 +1,9 @@
+2,32e08392-3c8c-43bb-8905-4cf782f71309,08080132-1126-0626-0000-fffe069cc3bc,33fa3a49-42e9-4178-8114-007750a2b359,2026-08-08T13:07:34.822622+10:00
+Most reliable roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Hybrid/EV support | Towing | My take |
+|---|---:|---|---|---|
+| **NRMA** | From **$9.99/mo** | Yes | 25–100 km depending on plan | ⭐ **Best overall for NSW** |
+| **RACV** | From **$12/mo** | Yes, explicitly including hybrids | 20–100 km depending on plan | ⭐ **Best if you travel Australia-wide** |
+| **RACQ** | Monthly options available | Yes | Depends on plan | ⭐ **Strong choice in QLD** |
+End Of Line

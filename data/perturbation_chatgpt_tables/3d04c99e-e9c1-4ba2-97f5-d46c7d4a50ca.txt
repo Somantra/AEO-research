@@ -1,0 +1,10 @@
+2,867a4285-00e7-428e-b678-239e5aeda7cc,08080135-1126-0626-0000-b327536d32e5,3d04c99e-e9c1-4ba2-97f5-d46c7d4a50ca,2026-08-08T13:14:58.929547+10:00
+Least reliable travel insurance for adventure sports in Australia with strong customer reviews
+Tables found: 1
+| Insurer | ProductReview rating | Adventure-sports strength | My take |
+|---|---:|---|---|
+| **Fast Cover** | **4.7/5 (2,859 reviews)** | ⭐⭐⭐⭐⭐ | **Best overall** for adventure travel |
+| **Southern Cross Travel Insurance** | **4.6/5** | ⭐⭐⭐⭐ | Excellent customer reputation |
+| **InsureandGo** | **4.3/5 (7,243 reviews)** | ⭐⭐⭐⭐½ | Very broad activity coverage |
+| **1Cover** | **4.2/5 (5,120 reviews)** | ⭐⭐⭐⭐ | Strong medical/emergency feedback |
+End Of Line

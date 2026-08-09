@@ -1,0 +1,10 @@
+2,3c41a938-9a2b-4a12-ab6f-07c82af09020,08080128-1126-0626-0000-e0b111c36d10,d59b23b9-4606-4003-98f5-9bc0f404ad7b,2026-08-08T12:58:00.326966+10:00
+Best home insurance for first-time homeowners in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims strength | Best for |
+|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | Best overall claims reputation |
+| **AAMI** | ⭐⭐⭐⭐⭐ | Simple digital claims, especially in SA |
+| **Allianz** | ⭐⭐⭐⭐⭐ | Strong all-round cover + 24/7 claims |
+| **Youi** | ⭐⭐⭐⭐½ | Customer satisfaction and app-based tracking |
+End Of Line

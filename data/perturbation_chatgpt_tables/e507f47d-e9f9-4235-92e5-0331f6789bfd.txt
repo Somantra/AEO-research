@@ -1,0 +1,11 @@
+2,d3b64b0e-c616-426a-a18e-f575b60b5256,08080131-1126-0626-0000-526427582e24,e507f47d-e9f9-4235-92e5-0331f6789bfd,2026-08-08T13:04:16.278899+10:00
+Best roadside assistance for older cars in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Current entry price* | Why I like it for an older car |
+|---|---|---:|---|
+| **RACV** | Victoria | $138/yr | Unlimited call-outs; 20 km metro towing on basic cover, 60 km on Extra Care, 100 km on Total Care. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| **NRMA** | NSW/ACT + national travel | $112/yr annual | Unlimited 24/7 call-outs and national reciprocal coverage; up to 100 km towing on Ultimate Care. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACQ** | Queensland | $109/yr | Unlimited assistance; higher tiers provide 50–100 km towing and substantial additional benefits. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance?utm_source=chatgpt.com) |
+| **RAC WA** | Western Australia | $128/yr annual | Unlimited call-outs; 25 km metro/80 km country towing on Standard, with up to 300 km on Ultimate Plus. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/standard?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/compare?utm_source=chatgpt.com) |
+| **RAA** | South Australia | $103/yr | Covers **you rather than a particular car**, which is useful if you occasionally drive different older vehicles. [www.raa.com.au](https://www.raa.com.au/en/component-library/compare-alt-bg?utm_source=chatgpt.com) |
+End Of Line

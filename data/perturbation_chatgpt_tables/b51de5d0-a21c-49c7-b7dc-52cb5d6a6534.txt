@@ -1,0 +1,12 @@
+2,6ddb43fa-2ac6-439a-bc19-661cbaedd330,08080140-1126-0626-0000-4249db381f94,b51de5d0-a21c-49c7-b7dc-52cb5d6a6534,2026-08-08T13:25:36.782657+10:00
+Most popular pet insurance for puppies and kittens in Australia with monthly payments
+Tables found: 1
+| Provider | Why consider it | Monthly payments | Young pet eligibility |
+|---|---|---|---|
+| **Bow Wow Meow** | Strong value; comprehensive options | ✅ | Puppies/kittens |
+| **Petcover** | Very flexible cover, including up to 100% reimbursement | ✅ | From 8 weeks |
+| **Petsy** | High annual limits and customisable cover | ✅ | Puppies/kittens |
+| **Pet Insurance Australia** | Established Australian specialist | ✅ | Puppies/kittens |
+| **RSPCA Pet Insurance** | Well-known brand with customisable policies | ✅ | Puppies/kittens |
+| **Fetch** | Popular newer option with multiple-pet discounts | ✅ | Puppies/kittens |
+End Of Line

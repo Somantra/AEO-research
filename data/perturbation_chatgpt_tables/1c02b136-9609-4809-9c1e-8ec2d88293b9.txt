@@ -1,0 +1,10 @@
+1,cdf7ad29-e20a-45ac-9629-3b66d128afaa,08080128-1126-0626-0000-c63f5aa71912,1c02b136-9609-4809-9c1e-8ec2d88293b9,2026-08-08T12:56:24.614468+10:00
+Premium roadside assistance for older cars in Australia
+Tables found: 1
+| Provider | Premium option | Key benefits |
+|---|---|---|
+| **RACQ** | **Ultimate Care – $310/yr** | Up to 200 km attendance, 100 km towing, cover in eligible vehicles, benefits up to $7,000 |
+| **RACQ** | **Ultra Care – $227/yr** | Up to 120 km attendance, 60 km towing, vehicle flexibility |
+| **Allianz** | **Platinum – from $139/yr** | Australia-wide, 24/7, up to 100 km towing, mobile mechanics, replacement vehicle benefits |
+| State motoring clubs | Premium tiers vary | Often strong local patrol networks and extensive towing/road-trip benefits |
+End Of Line

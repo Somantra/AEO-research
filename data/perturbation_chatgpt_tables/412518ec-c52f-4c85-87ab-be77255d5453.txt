@@ -1,0 +1,10 @@
+2,c052f41c-c3f1-4de2-86f3-af64db064312,08080121-1126-0626-0000-60f2b6fb7d03,412518ec-c52f-4c85-87ab-be77255d5453,2026-08-08T12:40:52.988068+10:00
+Premium motorcycle insurance for scooters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims convenience |
+|---|---|---|
+| **AAMI** | Specifically covers a wide range of scooters and offers comprehensive cover, lifetime repair guarantees, riding-gear cover and hire-car options | **24/7 paperless claims**, online tracking and fast-repair focus [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance/comprehensive?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **GIO** | Explicitly covers **city scooters**; comprehensive cover includes accidental damage, theft, fire and vandalism | **24/7 Australia-wide claims**, online claims in minutes, instant claim number and tracking [www.gio.com.au](https://www.gio.com.au/motorcycle-insurance.html?va-get-docs=true&utm_source=chatgpt.com) |
+| **NRMA** | Strong option, particularly in NSW; comprehensive cover includes theft, crash, storm, flood and fire, plus lifetime authorised-repair guarantee | **24/7 online claims**, authorised repairer booking and 24/7 urgent claims line [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance?utm_source=chatgpt.com) |
+| **QBE** | Worth quoting if you want higher-end comprehensive cover; Finder currently lists lifetime repair guarantee and agreed/market-value options | Claims process should be compared directly with the above; premiums can vary substantially by rider/bike [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,86b9a4e9-1a16-486e-807e-6b4b92d47e13,08080129-1126-0626-0000-d8727f366e3e,8ecbaa06-0c3d-4444-83c3-2705089137d1,2026-08-08T12:59:55.702778+10:00
+Cheapest roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Approx. annual cost | EV suitability | Key points |
+|---|---:|---|---|
+| Budget Direct Roadside Assistance | ~$90–$100 | Good for basic EV needs | Often among the cheapest standalone options; check EV charging/towing limits. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| NRMA Everyday Care | ~$112–$120 yearly (annual payment) | Very good | Includes EV-related support such as charging network benefits; entry plan has metro towing up to 25 km. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACQ Everyday Lite | From about $80/year (before discounts) | Good (especially QLD) | Cheapest option among major state motoring clubs if eligible. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com)[www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/compare-roadside?utm_source=chatgpt.com) |
+| RACV Roadside Care | ~$138/year | Good | Entry-level Victorian option; higher tiers add towing benefits. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| RAA Standard | ~$135/year | Good | Competitive if you live in SA. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

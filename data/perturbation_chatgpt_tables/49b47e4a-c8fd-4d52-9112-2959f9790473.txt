@@ -1,0 +1,10 @@
+2,0b6f0f54-b4a3-4478-9e4d-ec78e191cd97,08080139-1126-0626-0000-2f55367cece1,49b47e4a-c8fd-4d52-9112-2959f9790473,2026-08-08T13:24:01.002661+10:00
+Premium pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Provider | Strongest point | Multi-pet discount | Premium-level cover |
+|---|---|---:|---|
+| **Bow Wow Meow** | Strong multi-pet offering + GapOnly | **10%** off 2nd & subsequent pets | Nose-to-Tail cover; online quote |
+| **Medibank** | High annual limits + GapOnly | **5%** off additional pets | Up to **$30,000/year** and 90% reimbursement |
+| **RSPCA Pet Insurance** | High limits + no-excess option | **10%** off additional pets | Up to **$35,000/year** |
+| **Fetch** | Very comprehensive cover | **5%** | Up to **$30,000/year**, with 80/90/100% reimbursement |
+End Of Line

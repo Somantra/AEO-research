@@ -1,0 +1,14 @@
+2,234d2dea-606e-4c90-9f2e-4c191e5e1884,08080125-1126-0626-0000-a885b0756a89,7accc3de-2de9-46cf-b3e7-12858c787645,2026-08-08T12:49:19.414525+10:00
+Cheapest home insurance for renters in Australia compared to other providers
+Tables found: 1
+| Provider | Price position | Worth considering for |
+|---|---|---|
+| **Budget Direct** | 🟢 Often very competitive | Lowest-price focus |
+| **Huddle** | 🟢 Often competitive | Basic contents cover |
+| **Honey** | 🟢 Competitive | Simple contents policies |
+| **AAMI** | 🟡 Competitive | Price + established insurer |
+| **Suncorp** | 🟡 Competitive | Broader cover |
+| **NRMA** | 🟡 Competitive | Price/coverage balance |
+| **Youi** | 🟡 Varies considerably | More tailored underwriting |
+| **Allianz** | 🟡 Varies | Broader mainstream option |
+End Of Line

@@ -1,0 +1,12 @@
+2,0a76ef92-8054-4e5a-ac8a-0dd61d7b56c8,08080129-1126-0626-0000-5e54ee6535e3,083e11a0-1b7e-48d4-baa9-b575d10075fc,2026-08-08T13:00:47.940329+10:00
+Premium roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV strengths | Potential limitations | Best for |
+|---|---|---|---|
+| NRMA | EVs covered across roadside plans; strong EV focus, including mobile charging capability and EV charging infrastructure initiatives | Premium plans cost more than basic cover | NSW drivers, frequent travellers, people wanting EV-specific capability |
+| RACV | Large Victorian network, established roadside operation | EV-specific features vary by service level | Victorian EV owners wanting a major provider |
+| RACQ | Strong regional Queensland coverage; premium tiers include broad roadside benefits | EV charging response capability should be checked for your area | Queensland drivers, regional travellers |
+| RAA | Covers EVs on roadside plans and operates EV charging infrastructure initiatives | Mainly attractive for SA residents | SA EV owners |
+| RAC | Good WA coverage and EV support options | Regional WA distances can still affect response times | WA drivers |
+| Manufacturer roadside programs (Tesla, BYD, Hyundai, Kia, MG, Polestar etc.) | Often free with new EV purchase; familiar with the vehicle | Usually time-limited and may have narrower coverage rules | New EV owners during warranty period |
+End Of Line

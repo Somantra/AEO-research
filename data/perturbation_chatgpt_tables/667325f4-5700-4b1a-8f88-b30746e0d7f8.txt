@@ -1,0 +1,12 @@
+2,7b5044e0-6898-407c-8c2e-f88375b856f5,08080131-1126-0626-0000-31e3e0ff8a92,667325f4-5700-4b1a-8f88-b30746e0d7f8,2026-08-08T13:03:48.047855+10:00
+Most trusted roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Commercial focus | Heavy trucks | Australia-wide | Best for | My view |
+|---|---|---:|---:|---|---|
+| **[NTI / Truck Assist](https://www.nti.com.au/)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Fleets, trucks, transport operators | **Best overall commercial specialist** |
+| **Isuzu Care / NTI Truck Assist** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Isuzu fleets | **Excellent if you run Isuzu** |
+| **Hino Roadside Assist** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Hino fleets | **Excellent if you run Hino** |
+| **[RACV Business Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance/business.html)** | ⭐⭐⭐⭐ | Up to 8t GVM | ⭐⭐⭐⭐ | Vans/light trucks/fleets | **Best mainstream alternative** |
+| **[NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance)** | ⭐⭐⭐ | Limited by vehicle eligibility | ⭐⭐⭐⭐⭐ | Mixed vehicle fleets | Good network, less truck-specialised |
+| **[Allianz Roadside Assistance](https://www.allianz.com.au/car-insurance/roadside-assistance.html)** | ⭐⭐ | Mainly car-oriented | ⭐⭐⭐⭐⭐ | Cars/light commercial | Not my first choice for trucks |
+End Of Line

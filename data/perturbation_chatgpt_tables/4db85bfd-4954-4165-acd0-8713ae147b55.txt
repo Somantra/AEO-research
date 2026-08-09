@@ -1,0 +1,10 @@
+2,d5810b1b-b263-489a-8d36-eded77ab5652,08080131-1126-0626-0000-c6cd8644a56f,4db85bfd-4954-4165-acd0-8713ae147b55,2026-08-08T13:05:23.601156+10:00
+Worst roadside assistance plans in Australia with a fast claims process
+Tables found: 1
+| Provider | Speed / hassle | Why I’d be cautious |
+|---|---|---|
+| **RACQ** | 🟠 Mixed | Current terms have a **48-hour waiting period** for roadside assistance unless you pay an immediate-service surcharge. Customer reviews are also quite mixed: ProductReview currently shows 3.2/5, with 51% negative reviews. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/~/link.aspx?_id=D94ED432A5034FD3B09F44205AEE3922&_z=z&utm_source=chatgpt.com) |
+| **RACV** | 🟠 Generally reasonable | RACV says assistance is usually within **an hour**, but its 2025 car-insurance claims satisfaction was below average, with 66% rating the claims process above average/excellent. That's insurance claims rather than roadside callouts, so don't treat the figures as directly comparable. [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| **NRMA** | 🟡 Usually fast, but contractual issues | Roadside reviews are actually strong overall (4.5/5), and many customers report 15–30-minute arrivals. However, reviewers frequently complain about the **12-month membership commitment**, battery pricing and some contractor issues. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?utm_source=chatgpt.com) |
+| **RAC WA** | 🟢 Not one I'd call “worst” | Current customer feedback is substantially stronger: ProductReview shows 4.8/5 and 94% positive reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

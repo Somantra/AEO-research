@@ -1,0 +1,10 @@
+2,08124a5d-18a8-4b9e-9330-408fc154f8fb,08080140-1126-0626-0000-81eece7990de,3a5a6c4f-da47-4497-a707-cc50eed02f64,2026-08-08T13:24:57.603481+10:00
+Most comprehensive pet insurance for pre-existing conditions in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Pre-existing condition approach | Comprehensive cover | Customer reviews | My take |
+|---|---|---|---|---|
+| **Petsy** | Temporary conditions can be reviewed and potentially have exclusions removed after the specified symptom-free period | **Excellent** — up to $30k, no condition sub-limits, 80/90% options | **4.9/5, 323 reviews** | 🥇 **Best overall fit** |
+| **Knose** | Some pre-existing conditions can be reviewed after **12 months symptom-free** | **Excellent** — no sub-limits on standard treatments | **4.8/5, 747 reviews** | 🥈 **Best established/review-backed option** |
+| **Pet Insurance Australia** | Temporary conditions may become eligible after **18 months** without signs/symptoms; chronic conditions remain excluded | Very comprehensive | **4.5/5** | 🥉 **Strong traditional option** |
+| **Trupanion** | Doesn't cover the pre-existing condition itself, but importantly assesses whether a *new* condition is medically related to the old one | **Outstanding** — very broad cover and no annual/lifetime payout limit | Reviews are more mixed/smaller sample | **Best for unusual/new unrelated conditions** |
+End Of Line

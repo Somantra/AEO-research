@@ -1,0 +1,11 @@
+2,3664b206-3309-4923-a951-14d5e3b4298a,08080124-1126-0626-0000-ace3c183b1bd,4d36fe6f-b0a8-4dce-b09e-dc840b2bb8ae,2026-08-08T12:47:59.925802+10:00
+Most popular long-term motorcycle rental insurance in Australia with strong customer reviews
+Tables found: 1
+| Provider/product | Motorcycle rental? | Customer/reputation signal | My take |
+|---|---|---|---|
+| **Youi** | Mainly insurance for an owned motorcycle | **4.7/5 Trustpilot, 30k+ reviews**; strong customer-service feedback [www.youi.com.au](https://www.youi.com.au/about-us/youi-insurance-reviews?utm_source=chatgpt.com) | ⭐ Strong insurer, but **not my first choice for a hired bike** |
+| **NRMA** | Motorcycle insurance for owned bikes | Large established insurer; commonly recommended by Australian riders [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/nrma-motorcycle-insurance?utm_source=chatgpt.com) | Worth asking about your specific rental arrangement |
+| **QBE** | Motorcycle insurance | Mixed overall reviews, but frequently competitive on price [www.productreview.com.au](https://www.productreview.com.au/c/motorcycle-insurance/l/south-australia_au?utm_source=chatgpt.com) | Worth quoting, but verify rental eligibility |
+| **Rental company’s own damage/excess cover** | **Yes, generally** | Depends heavily on rental company | **Most practical for a long-term rental** |
+| **Travel insurance with motorcycle cover** | Often covers *you* medically, but not necessarily the bike | Varies | Useful as a second layer, not a substitute for bike insurance |
+End Of Line

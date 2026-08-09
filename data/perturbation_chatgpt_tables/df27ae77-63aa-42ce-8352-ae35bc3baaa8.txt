@@ -1,0 +1,9 @@
+2,cbae6b3a-7090-4622-bcbe-c97b00c913ea,08080139-1126-0626-0000-aee9df88d598,df27ae77-63aa-42ce-8352-ae35bc3baaa8,2026-08-08T13:24:15.464207+10:00
+Best pet insurance for pre-existing conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing conditions | Monthly payments | My take |
+|---|---|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Some **temporary** conditions can become eligible after 18 months symptom-free; chronic conditions remain excluded | Yes | ⭐ **Best fit for many pre-existing conditions** |
+| **[RSPCA Pet Insurance](https://rspcapetinsurance.org.au/)** | Temporary conditions may be reviewed after 18 months; chronic conditions generally excluded | **Yes** — monthly, fortnightly or annually | ⭐ **Very good alternative** |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | No pre-existing conditions | Monthly plan | Good insurance generally, **not good if PE coverage is your priority** |
+End Of Line

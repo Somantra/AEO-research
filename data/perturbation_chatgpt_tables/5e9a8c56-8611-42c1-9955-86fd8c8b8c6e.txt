@@ -1,0 +1,12 @@
+2,e3f2dafc-aacb-4da3-bcb3-edd550ae53ad,08080133-1126-0626-0000-c7d5dd3245db,5e9a8c56-8611-42c1-9955-86fd8c8b8c6e,2026-08-08T13:10:34.436189+10:00
+Best travel insurance for business trips in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Business-specific cover | Key strengths | Main drawback |
+|---|---|---|---|---|
+| **Chubb** | **Large companies / executives** | ⭐⭐⭐⭐⭐ | Medical, evacuation, crisis assistance, alternative employee, kidnap & ransom, political/natural-disaster evacuation, workers comp | Usually broker/corporate-oriented rather than simple online purchase |
+| **QBE** | **Australian SMEs & corporates** | ⭐⭐⭐⭐⭐ | Unlimited overseas medical, business/leisure combination, baggage without item limits, replacement staff, K&R, search & rescue | Generally arranged through a broker |
+| **Cover-More** | **Small business / frequent individual travellers** | ⭐⭐⭐⭐ | Annual business plan, business equipment, alternative staff, business money, K&R; easy consumer-facing offering | Corporate plan isn't available for direct online purchase |
+| **Allianz** | **Individual business travellers** | ⭐⭐⭐ | Strong mainstream travel cover and 12-month multi-trip option | Less business-specific than Chubb/QBE |
+| **1Cover** | **Value-conscious frequent traveller** | ⭐⭐⭐ | Annual multi-trip covers both leisure and business travel | Not as extensive a corporate-risk proposition |
+| **World Nomads** | **Business + adventure/longer trips** | ⭐⭐ | Excellent activity coverage and flexible online purchasing | Primarily designed around individual travellers rather than corporate risk |
+End Of Line

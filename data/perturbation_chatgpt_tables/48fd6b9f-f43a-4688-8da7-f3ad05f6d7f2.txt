@@ -1,0 +1,11 @@
+2,66b863a1-4b0e-4dac-90bb-c1911c5b0976,08080133-1126-0626-0000-4b4ca085d8b9,48fd6b9f-f43a-4688-8da7-f3ad05f6d7f2,2026-08-08T13:09:31.756417+10:00
+Best roadside assistance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Published pricing / fee transparency | My take |
+|---|---|---|---|
+| **[RACV](https://www.racv.com.au/cars-transport/roadside-assistance.html)** | Victoria / Melbourne | From **$138/year**; monthly payment includes a disclosed $0.50 admin fee | ⭐ **Best overall in Victoria** |
+| **[NRMA](https://www.nrma.com.au/roadside-assistance)** | NSW/ACT & nationwide travel | Plans and prices are published; no joining fee on listed plans | ⭐ **Best nationwide option** |
+| **[RACQ](https://www.racq.com.au/car/roadside-assistance/compare-roadside)** | Queensland | 2026 pricing published; important immediate-service surcharge is explicitly disclosed | ⭐ **Best in QLD** |
+| **[RAC](https://rac.com.au/car-motoring/roadside-assistance/compare)** | Western Australia | Prices include the disclosed **6% admin fee** | ⭐ **Best in WA for transparency** |
+| **[RACT](https://www.ract.com.au/cars-and-driving/roadside-assistance)** | Tasmania | $144–$264/year for the two main plans, with benefits clearly listed | ⭐ **Best in Tasmania** |
+End Of Line

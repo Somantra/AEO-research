@@ -1,0 +1,9 @@
+1,aee8bcc6-38df-4037-98ed-c431054ddc42,08080118-1126-0626-0000-ca5caff1597a,a3d1139f-7d66-471f-8f63-be9931da47bc,2026-08-08T12:32:09.628425+10:00
+Premium third-party car insurance in Australia
+Tables found: 1
+| Insurer | Why consider it |
+|---|---|
+| **NRMA** | TPPD covers damage to others up to **$20 million**, plus up to **$5,000** damage to your car if an uninsured driver is at fault. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/third-party-property-damage-car-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Similar **$20 million** liability cover, with uninsured-driver protection up to **$5,000**; Fire & Theft can be added. [www.aami.com.au](https://www.aami.com.au/car-insurance/third-party-property?utm_source=chatgpt.com) |
+| **Allianz** | Offers TPPD alongside its comprehensive products and is worth getting a quote from if you want a mainstream insurer. [www.allianz.com.au](https://www.allianz.com.au/car-insurance.html?utm_source=chatgpt.com) |
+End Of Line

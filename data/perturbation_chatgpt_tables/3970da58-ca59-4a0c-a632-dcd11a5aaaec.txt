@@ -1,0 +1,11 @@
+2,2a766aeb-cfed-4135-b817-dd0d5619c6ea,08080130-1126-0626-0000-b42d82a13fa0,3970da58-ca59-4a0c-a632-dcd11a5aaaec,2026-08-08T13:03:04.513652+10:00
+Cheapest roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Price | Vehicle limit | Key catch |
+|---|---:|---|---|
+| **urlAmpolCard Roadside Assistanceturn1search6** | **$5.25/month** ($63/yr) for ≤3.5t | Up to 3.5t; separate commercial cover >3.5t | Requires an AmpolCard |
+| **urlRACQ Business Roadsideturn1search2** | **$121/vehicle/yr** | Normally ≤4.5t | Towing limits; some services are driver-paid |
+| **urlRAC WA BusinessWise Assistturn1search0** | **$124/vehicle/yr** | Business vehicles | 25 km metro / 80 km country towing |
+| **urlRACV Business Fee-for-Serviceturn1search3** | **$37/vehicle/yr + call-out fees** | Up to 8t GVM | Particularly cheap if breakdowns are rare; service is Australia-wide |
+| **urlFleetCard Roadside Assistanceturn1search1** | **$4.99–$6.99/month per card** | Commercial fleet | Requires FleetCard; terms determine towing/service limits |
+End Of Line

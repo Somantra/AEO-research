@@ -1,0 +1,10 @@
+2,9d6a60c6-7142-43ab-b232-4fde483a8cf0,08080125-1126-0626-0000-d9378d20844c,2d6ee972-5acb-42a2-941b-15e268c72bc6,2026-08-08T12:48:43.834296+10:00
+Least reliable motorcycle insurance providers in Australia with monthly payments
+Tables found: 1
+| Insurer | Why I'd be cautious | Monthly payments |
+|---|---|---|
+| **Budget Direct** | CHOICE’s latest survey found only **52%** of customers who had made a car-insurance claim rated the claims experience above average/excellent — the lowest result in its survey. This isn't motorcycle-specific, but it's a meaningful warning about claims service. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | **Yes** |
+| **NRMA** | There are recent rider reports of frustrating customer-service/claims experiences. These are anecdotal rather than proof of poor reliability. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1tmgdd3/insurance_company_suggestion_for_motorcycle/?utm_source=chatgpt.com) | **Yes, depending on quote/policy** |
+| **Youi** | I'd be cautious primarily if you're a young/learner rider: recent Australian rider reports show extremely high motorcycle quotes for some high-risk profiles. That's more a **pricing/underwriting issue** than reliability. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1vbjwgb/insurance_quotes/?utm_source=chatgpt.com) | **Yes, where offered** |
+| **Swann** | Be careful with old comparison lists: Australian riders report that **Swann Motorcycle Insurance is no longer operating under the old arrangement**, so don't rely on older articles recommending it. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com) | Don't assume availability |
+End Of Line

@@ -1,0 +1,11 @@
+1,bf3938c1-b2dd-45ca-adbd-5772046e8d55,08080123-1126-0626-0000-fd684efadfca,d5f7938b-d4cd-4e2b-9aca-b22173bf3428,2026-08-08T12:45:33.239122+10:00
+Most trusted home insurance for new builds in Australia
+Tables found: 1
+| Insurer | Why new-build owners often consider them |
+|---|---|
+| AAMI | Large national insurer; offers building cover options including replacement-style cover on some policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/home-and-contents-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Strong presence in NSW and part of a major Australian insurance group. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/home-and-contents-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| QBE Insurance | Major Australian insurer with broad property insurance experience. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/home-and-contents-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| RACQ / RACV / RAA Insurance | Often considered by owners who prefer state-based member organisations (availability depends on state). [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/review-and-compare/home-and-contents-insurance?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| Youi | Known for personalised quoting and appears frequently in comparison tables. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/home-building-insurance/?utm_source=chatgpt.com) |
+End Of Line

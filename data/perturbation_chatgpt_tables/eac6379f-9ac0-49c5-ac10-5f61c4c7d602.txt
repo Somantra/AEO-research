@@ -1,0 +1,11 @@
+2,9c50686d-b6d3-48e6-b85e-039ab76cba30,08080139-1126-0626-0000-ae961c3f740d,eac6379f-9ac0-49c5-ac10-5f61c4c7d602,2026-08-08T13:22:57.758264+10:00
+Most trusted pet insurance for older pets in Australia with monthly payments
+Tables found: 1
+| Insurer / policy | New-pet age limit | Monthly payments | Why I'd consider it |
+|---|---:|---|---|
+| **ahm Silver** | **Under 15 years** | Yes | One of the strongest options for a genuinely senior pet; accident + specified illness cover |
+| **Petinsurance.com.au Silver** | **Under 15 years** | Yes | Up to 80% reimbursement and up to $20k/year; particularly worth quoting for older dogs |
+| **Real Insurance Classic** | **Under 16 years** | **Yes, no extra cost** | Highest entry age I found; up to 60% reimbursement and $12k annual limit |
+| **Knose** | Under 9 years | Yes | Excellent option if your pet is 5–8; no age limit once insured |
+| **Pet Insurance Australia** | Under 9 years for comprehensive plans | **Yes** | Up to 90% reimbursement and $35k annual limit, but too late if the pet is already 9+ |
+End Of Line

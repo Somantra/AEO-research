@@ -1,0 +1,10 @@
+2,9694bb69-9e43-4909-8535-36784dfccf91,08080121-1126-0626-0000-94abc090a60b,9bbe8d49-56b0-4ca2-99b4-8b03eb155679,2026-08-08T12:40:25.310990+10:00
+Least reliable motorcycle insurance for scooters in Australia with monthly payments
+Tables found: 1
+| Insurer | Monthly payments | Notes to check before buying |
+|---|---|---|
+| Budget Direct | Often available depending on policy | Some riders report higher quotes for motorcycles/scooters; compare excess and inclusions. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com) |
+| QBE Insurance | Available on some policies | Often competitive on price, but check what is included (e.g., gear, accessories, agreed value). [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1ayipk4/best_motorbike_insurance/?utm_source=chatgpt.com) |
+| Swann Insurance | Available depending on policy | Motorcycle-focused, but riders have mixed experiences, especially around valuation and included extras. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1icjdm7?utm_source=chatgpt.com) |
+| NRMA Insurance | Yes — monthly, quarterly or annual payment options are available | A large mainstream insurer; check the motorcycle-specific wording and excess. [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

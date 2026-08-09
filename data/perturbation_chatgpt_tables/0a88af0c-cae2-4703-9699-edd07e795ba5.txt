@@ -1,0 +1,10 @@
+2,63fcb894-cc2d-4477-a75e-1c4c01a388af,08080129-1126-0626-0000-e693b68f5dfd,0a88af0c-cae2-4703-9699-edd07e795ba5,2026-08-08T13:00:33.634346+10:00
+Safest roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | EV strengths | Customer feedback signal |
+|---|---|---|---|
+| NRMA | Best overall in NSW and broad coverage | Large patrol network, EV support, app tracking, established towing network | Very strong review volume and generally positive roadside feedback; ProductReview shows 4.5/5 from 1,900+ reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| RACQ | Best EV-specific support in QLD | High-voltage-aware patrols, EV roadside assistance included, EV-focused support | Award recognition for customer satisfaction in Queensland; EV service highlights trained patrols. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| RACV | Best-known option in Victoria | EV roadside services through a major motoring organisation | Mixed public review results compared with NRMA/RACQ, so worth comparing coverage details. [www.productreview.com.au](https://www.productreview.com.au/listings/racv-roadside-assistance?utm_source=chatgpt.com) |
+| 24/7 Roadservices Australia | Independent alternative | Strong towing reputation and broad roadside services | High review scores in local search results and community discussions, though it has a smaller EV-specialist footprint than state motoring clubs. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+End Of Line

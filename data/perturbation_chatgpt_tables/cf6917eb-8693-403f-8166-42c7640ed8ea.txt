@@ -1,0 +1,12 @@
+2,a430e564-c18c-4f91-9a62-ff881e9a369d,08080120-1126-0626-0000-e1b7269c74f3,cf6917eb-8693-403f-8166-42c7640ed8ea,2026-08-08T12:36:50.014071+10:00
+Cheapest car insurance for high-risk drivers in Australia with monthly payments
+Tables found: 1
+| Insurer | Why check it | Monthly payments |
+|---|---|---|
+| **QBE** | Particularly worth checking if you have a licence suspension; Finder found it among the few insurers returning quotes for that profile | **Yes, instalments available** [www.finder.com.au](https://www.finder.com.au/car-insurance/high-risk-car-insurance?utm_source=chatgpt.com) |
+| **Kogan Insurance** | Also returned quotes for suspended-licence drivers in Finder's current comparison | Check quote |
+| **ROLLiN'** | Often competitive for budget-conscious drivers; monthly payment is the standard arrangement | **Monthly, no extra payment cost** [www.canstar.com.au](https://www.canstar.com.au/car-insurance/compare/pay-by-the-month-car-insurance/?utm_source=chatgpt.com) |
+| **Bingle** | Low-cost, online-focused insurer worth getting a quote from | **Monthly available** [www.canstar.com.au](https://www.canstar.com.au/car-insurance/high-risk-car-insurance/?utm_source=chatgpt.com) |
+| **Budget Direct** | Often worth comparing for comprehensive cover, including monthly payment options | **Monthly available** [www.canstar.com.au](https://www.canstar.com.au/car-insurance/high-risk-car-insurance/?utm_source=chatgpt.com) |
+| **YOUI** | Worth checking because pricing is more individually tailored | **Monthly available** [www.canstar.com.au](https://www.canstar.com.au/car-insurance/high-risk-car-insurance/?utm_source=chatgpt.com) |
+End Of Line

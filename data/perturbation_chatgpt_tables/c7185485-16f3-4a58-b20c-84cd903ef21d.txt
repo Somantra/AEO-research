@@ -1,0 +1,9 @@
+2,bb774eb2-f93d-47c6-b6ed-7cc491c280d7,08080118-1126-0626-0000-50dc2d196ebf,c7185485-16f3-4a58-b20c-84cd903ef21d,2026-08-08T12:31:40.627774+10:00
+Premium car insurance for older drivers in Australia without hidden fees
+Tables found: 1
+| Insurer | Why consider it |
+|---|---|
+| **Apia** | Specifically targets over-50s and retirees; currently advertises a **10% first-year online discount** on comprehensive car insurance. [www.apia.com.au](https://www.apia.com.au/?utm_source=chatgpt.com) |
+| **Australian Seniors** | Designed for over-50s, with comprehensive cover and a **5% Seniors Card discount** subject to conditions. [www.seniors.com.au](https://www.seniors.com.au/car-insurance?utm_source=chatgpt.com) |
+| **RACV** | Particularly worth comparing if you're in Victoria. It offers comprehensive and higher-level Complete Care cover, with options such as agreed value, choice of repairer and hire-car benefits. [www.racv.com.au](https://www.racv.com.au/insurance/car-insurance/seniors.html?utm_source=chatgpt.com) |
+End Of Line

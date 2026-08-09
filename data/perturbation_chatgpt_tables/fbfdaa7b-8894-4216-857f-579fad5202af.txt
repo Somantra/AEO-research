@@ -1,0 +1,11 @@
+2,3c5e7e9d-5d23-41b9-9baf-0700250e6491,08080129-1126-0626-0000-c61a5e16a311,fbfdaa7b-8894-4216-857f-579fad5202af,2026-08-08T12:59:14.307400+10:00
+Worst home insurance providers in Australia with instant online quotes
+Tables found: 1
+| Provider | Why some customers are unhappy | Instant online quote? |
+|---|---|---|
+| AAMI | Common complaints across the market tend to focus on claim disputes, assessment delays, and renewal price increases (experiences vary). | Yes |
+| Budget Direct | Often very price-competitive, but cheaper policies may involve checking limits, excesses and optional extras carefully. | Yes |
+| Youi | Some customers dislike the detailed quoting process and pricing differences between customers; others rate service highly. | Yes |
+| QBE Insurance | Large insurer with mixed customer experiences, particularly around claims complexity. | Yes |
+| Suncorp Group brands | Large-scale insurers can receive complaints simply because they have many customers; claim experience can vary. | Yes |
+End Of Line

@@ -1,0 +1,11 @@
+1,8e0c4b58-0dfc-4734-b246-2bb2e057368b,08080126-1126-0626-0000-d6b10adab496,4725bf8e-77d3-4c50-8b15-0f6b813b7ac6,2026-08-08T12:52:40.832232+10:00
+Easiest roadside assistance for electric vehicles in Australia
+Tables found: 1
+| Provider | Best for | EV-specific help |
+|---|---|---|
+| NRMA | NSW drivers | Large NSW network; EV assistance including support for flat batteries/charging issues is available through roadside services. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+| RACV | Victoria | EVs covered at no extra cost; includes out-of-charge support and towing to charging options on eligible plans. [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| RACQ | Queensland | EV roadside cover included; patrols are trained to assist EVs, with towing to accessible charging locations under cover limits. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| RAA | South Australia | Good local network for SA drivers. |
+| AANT | Northern Territory | Has introduced mobile EV charging assistance in Darwin as part of roadside support. [www.couriermail.com.au](https://www.couriermail.com.au/news/northern-territory/aant-introduces-mobile-charging-van-for-greater-darwin-members-who-drive-electric-vehicles/news-story/1de0379c1d07e9c73f9511e40a6c0fae?utm_source=chatgpt.com) |
+End Of Line

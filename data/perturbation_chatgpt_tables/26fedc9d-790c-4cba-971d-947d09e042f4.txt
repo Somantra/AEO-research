@@ -1,0 +1,11 @@
+2,1b99fb5b-9727-4073-a750-1e5aba0590d2,08080124-1126-0626-0000-921f406a89b4,26fedc9d-790c-4cba-971d-947d09e042f4,2026-08-08T12:47:25.536071+10:00
+Best long-term motorcycle rental insurance in Australia compared to other providers
+Tables found: 1
+| Option | Best for | Key point |
+|---|---|---|
+| **Rental company’s own damage/excess cover** | Long-term Australian rental | Usually the most practical because it is attached directly to the hired motorcycle |
+| **Cover-More** | Rental excess + travel insurance | Its current policies can cover **motorcycles/mopeds** for rental-vehicle excess, subject to conditions and a suitable motorcycle/moped benefit. Limits shown are up to $5,000/$10,000 depending on plan. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/benefits/rental-car-insurance-excess?utm_source=chatgpt.com) |
+| **1Cover** | Travel insurance generally | **Not suitable for an Australian motorcycle rental excess** — 1Cover explicitly excludes scooters and motorcycles from its rental-vehicle excess benefit. [www.1cover.com.au](https://www.1cover.com.au/car-rental-excess-insurance/?utm_source=chatgpt.com) |
+| **NRMA / QBE / Suncorp / AAMI** | Motorcycle you own | Strong conventional motorcycle policies, but generally **not a substitute for insurance on a motorcycle you're renting**. |
+| **Specialist rental arrangement** | Several months / unusual hire | Worth discussing directly with the rental company or a commercial/specialist broker because ordinary personal motorcycle policies can exclude hire/business use. |
+End Of Line

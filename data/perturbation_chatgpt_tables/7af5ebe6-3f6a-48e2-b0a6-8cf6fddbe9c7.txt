@@ -1,0 +1,14 @@
+2,3466f6c3-8ecc-4a1e-a4c1-0f9db536586d,08080120-1126-0626-0000-d21dae8dd11b,7af5ebe6-3f6a-48e2-b0a6-8cf6fddbe9c7,2026-08-08T12:38:36.125408+10:00
+Most trusted car insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Trust / service | Claims | Value | My view |
+|---|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | **Best overall for trust** |
+| **Youi** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐ | **Excellent service/features** |
+| **AAMI** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Strong mainstream choice** |
+| **Allianz** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Strong established insurer** |
+| **Budget Direct** | ⭐⭐⭐½ | ⭐⭐⭐½ | ⭐⭐⭐⭐⭐ | **Best for value/price** |
+| **RACQ** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐ | **Excellent in Queensland** |
+| **RAA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Excellent in SA** |
+| **Suncorp** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐½ | **Good mainstream alternative** |
+End Of Line

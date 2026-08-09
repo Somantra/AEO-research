@@ -1,0 +1,9 @@
+2,6d35df21-2313-4b62-9a12-0069eb8715dc,08080139-1126-0626-0000-6f9974efe78e,342fa706-fb03-4641-bd12-c092b982dac4,2026-08-08T13:22:22.374640+10:00
+Most comprehensive pet insurance for dogs in Australia without hidden fees
+Tables found: 1
+| Insurer | Max annual cover | Reimbursement | Sub-limits | Standout |
+|---|---:|---:|---|---|
+| **Knose** | $25,000 | 70/80/90% | **None** | Strongest transparency |
+| **Bow Wow Meow** | $30,000 | 70/80/90% | **None** | Highest limit + GapOnly |
+| **Pet Insurance Australia** | $35,000 | 70/80/90% | **None** | Highest maximum cover |
+End Of Line

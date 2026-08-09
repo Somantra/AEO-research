@@ -1,0 +1,11 @@
+1,18119f41-12e7-43c0-b198-953e3fb77d9e,08080126-1126-0626-0000-66d196fec142,398c0ac5-af9f-4697-a1dc-27b9ee50658f,2026-08-08T12:53:10.222907+10:00
+Cheapest roadside assistance for motorcycles in Australia
+Tables found: 1
+| Provider | Motorcycle cover | Approx. annual cost | Notes |
+|---|---|---:|---|
+| **Rider Support Australia – Essential** | ✅ | **$69.95** | Cheapest dedicated motorcycle option |
+| **Motorcycle Assist Australia (MCAA)** | ✅ | ~**$119** | Unlimited call-outs; 50 km metro / 100 km regional towing according to recent rider comparisons |
+| **Rider Support Australia – Premium** | ✅ | **$119.95** | Unlimited call-outs, broader benefits |
+| **RACQ Everyday/basic** | ✅ | ~**$100–$180** depending on current plan | Strong option if you're in QLD |
+| **NRMA Everyday Care** | Motorcycle availability needs checking | **$137** | Nationwide roadside option |
+End Of Line

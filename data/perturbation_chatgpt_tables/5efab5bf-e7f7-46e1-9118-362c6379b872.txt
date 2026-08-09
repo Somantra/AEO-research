@@ -1,0 +1,11 @@
+2,af0fce4a-d9dd-4b6f-b35a-4aaa62b1dd5d,08080127-1126-0626-0000-ed096703014f,5efab5bf-e7f7-46e1-9118-362c6379b872,2026-08-08T12:55:31.657915+10:00
+Most comprehensive home and contents insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | My take | Customer-review signal | Comprehensive cover |
+|---|---|---|---|
+| **Allianz** | ⭐ **Best overall starting point** | Strong satisfaction in independent awards | ⭐⭐⭐⭐⭐ |
+| **QBE** | ⭐ **Best alternative for broad cover/value** | 4.5/5, 1,085 reviews on ProductReview | ⭐⭐⭐⭐⭐ |
+| **Youi** | ⭐ **Best for customer service** | 3.7/5, 1,568 reviews | ⭐⭐⭐⭐½ |
+| **Australian Seniors** | ⭐ **Best review score** if eligible | 4.7/5, 2,713 reviews | ⭐⭐⭐⭐ |
+| **AAMI** | Strong mainstream option | Poorer recent ProductReview sentiment | ⭐⭐⭐⭐⭐ |
+End Of Line

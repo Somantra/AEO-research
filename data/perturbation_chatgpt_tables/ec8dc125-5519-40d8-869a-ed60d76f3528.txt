@@ -1,0 +1,10 @@
+2,8b395bfa-b314-4ad8-9e0e-0cc1cc7974d0,08080126-1126-0626-0000-6dec0142999c,ec8dc125-5519-40d8-869a-ed60d76f3528,2026-08-08T12:52:44.603208+10:00
+Best home insurance for older properties in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I'd consider it for an older home | Claims convenience |
+|---|---|---|
+| **AAMI** | Strong digital claims process and dedicated claims specialists | **24/7 online/app**, track claim and upload documents [www.aami.com.au](https://www.aami.com.au/claim/home-landlord?utm_source=chatgpt.com) |
+| **Allianz** | Strong overall option; currently highlights its claims support and extensive home-claims experience | **24/7 claims team** and online claims; Allianz says online is the fastest way to lodge [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| **RACV** | Particularly worth checking if you're in Victoria | **24/7 online/app claims**, claim tracking and phone support [www.racv.com.au](https://www.racv.com.au/insurance/claims.html?utm_source=chatgpt.com) |
+| **Budget Direct** | Good option if price is important while retaining a straightforward claims process | **24/7 online/phone claims** and authorised repair network [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/claims/claims-process.html?utm_source=chatgpt.com) |
+End Of Line

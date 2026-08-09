@@ -1,0 +1,11 @@
+2,30905021-a96f-4925-9d12-ab123f513805,08080129-1126-0626-0000-b881468f2030,c2c3970e-86d1-4cd7-8e88-21921c7151d8,2026-08-08T13:00:47.759981+10:00
+Most popular roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | EV support | Online pricing / purchase | Standout |
+|---|---|---|---|
+| **NRMA Roadside Assistance** | ✅ Yes | ✅ Join online | Very large network; EVs included, with mobile EV charging or towing if you run out of charge [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance-sa?utm_source=chatgpt.com) |
+| **RACV Roadside Assistance** | ✅ Yes | ✅ Prices online | Unlimited callouts; EV assistance at no extra cost; app-based assistance/tracking [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| **RACQ** | ✅ Yes | ✅ Buy online | Strong EV-specific offering; high-voltage-aware patrols and charging-station towing [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+| **RAC Roadside Assistance** | ✅ Yes | ✅ Online | Major WA motoring club; worth comparing if you're in WA |
+| **RAA** | ✅ EV assistance available | ✅ Online | Particularly relevant in South Australia |
+End Of Line

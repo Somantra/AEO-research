@@ -1,0 +1,14 @@
+0,de1a713e-4f89-4949-a107-9bf8e68ad2e5,08080117-1126-0626-0000-3e32df8f3044,df0a552f-f5a4-429a-9eea-394d74155ded,2026-08-08T12:30:24.498019+10:00
+roadside assistance plans in Australia
+Tables found: 1
+| Provider | Typical positioning | Example current pricing |
+|---|---|---:|
+| **NRMA** | Strong all-round option; nationwide reciprocal coverage | From ~$137/yr for Everyday Care |
+| **RACQ** | Excellent choice in QLD; several coverage levels | $80–$310/yr for Everyday–Ultimate |
+| **RAA** | South Australia | From ~$135/yr |
+| **RACV** | Victoria | Varies by plan |
+| **RAC** | Western Australia | Varies by plan |
+| **AANT** | Northern Territory | Varies by plan |
+| **RACT** | Tasmania | Varies by plan |
+| **Budget Direct** | Low-cost standalone option | ~$90/yr listed currently |
+End Of Line

@@ -1,0 +1,11 @@
+2,15acb69f-1f20-42bc-88e4-c6af483f8182,08080118-1126-0626-0000-76991accefb9,b3377821-7e8d-4808-89c0-a2c1db10aa75,2026-08-08T12:31:39.971664+10:00
+Premium car insurance for older drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why consider it | Customer-review signal |
+|---|---|---|
+| **Youi** | Excellent all-rounder; comprehensive cover includes 24/7 roadside assistance and a repair-quality guarantee. Particularly strong for customer service. | **4.7/5 on Trustpilot from 30,000+ reviews**; Youi also won/received several 2025 customer-service awards. [www.youi.com.au](https://www.youi.com.au/car-insurance/comprehensive?utm_source=chatgpt.com) |
+| **Australian Seniors** | Specifically marketed toward older Australians; comprehensive cover can be agreed or market value. | **4.8/5 from 4,690 ProductReview reviews**, with 4.7/5 for customer service and value. [www.productreview.com.au](https://www.productreview.com.au/listings/seniors-comprehensive-car-insurance?utm_source=chatgpt.com) |
+| **GIO** | Strong mainstream option with good customer satisfaction and potentially competitive pricing depending on your profile. | **75% above average/excellent** customer satisfaction in CHOICE's 2025 survey.  |
+| **Australian insurer** | Worth quoting if you value a large established insurer and broad servicing network. | **72% above average/excellent** in the CHOICE survey.  |
+| **Australian insurer for over-50s** | Specifically aimed at Australians 50+, so worth comparing for an older driver. | **68% above average/excellent** in CHOICE's survey.  |
+End Of Line

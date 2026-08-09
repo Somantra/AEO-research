@@ -1,0 +1,12 @@
+2,276732ab-4437-4657-95d1-f9511bd1dc34,08080131-1126-0626-0000-466be7610990,7221b6f0-2fa4-49d5-a833-a453f3a170ea,2026-08-08T13:03:41.069108+10:00
+Safest roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Commercial/heavy-vehicle suitability | Safety/recovery capability | My view |
+|---|---|---|---|---|
+| **NTI Truck Assist** | Trucks, transport fleets, heavy vehicles | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best overall for heavy commercial vehicles** |
+| **Isuzu Care / NTI Truck Assist** | Isuzu trucks | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Excellent if your fleet is Isuzu** |
+| **RACV Business** | Vans/light trucks up to 8t GVM | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Strong light-commercial option |
+| **RACQ Business/Fleet** | QLD fleets, lighter commercial vehicles | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Strong Queensland network |
+| **NRMA/business roadside** | NSW/light commercial fleets | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Good network, but check vehicle limits |
+| **Allianz Roadside** | Cars/light commercial use | ⭐⭐⭐ | ⭐⭐⭐ | Good general assistance, less compelling for trucks |
+End Of Line

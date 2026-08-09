@@ -1,0 +1,10 @@
+2,f81f98f0-5ab6-4347-8a1d-2f25ca583f4b,08080117-1126-0626-0000-5a664ddf4ff0,7b56b37e-59e0-44ff-a69a-3aebdf509ae8,2026-08-08T12:31:10.532833+10:00
+Least reliable car insurance for older drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d be cautious | Online quote? |
+|---|---|---|
+| **Budget Direct** | CHOICE’s 2025 survey found only **52%** of customers who had made a car claim rated the claims experience above average/excellent — the lowest result in its survey. Its overall car-insurance satisfaction was 62%. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | **Yes** |
+| **Allianz** | 61% rated their car-insurance experience above average/excellent in CHOICE's survey, putting it near the bottom of the insurers measured. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/budget-direct?utm_source=chatgpt.com) | **Yes** |
+| **AAMI** | 62% overall satisfaction in the same CHOICE survey — not terrible, but considerably below the stronger performers. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/aami?utm_source=chatgpt.com) | **Yes** |
+| **Bingle** | Worth considering for price, but it is positioned as a more stripped-back/online-focused insurer, so I'd scrutinise the PDS and claims arrangements rather than choosing it purely on price. Finder currently rates its comprehensive product highly for seniors. [www.finder.com.au](https://www.finder.com.au/car-insurance/seniors-car-insurance?utm_source=chatgpt.com) | **Yes** |
+End Of Line

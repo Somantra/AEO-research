@@ -1,0 +1,13 @@
+1,fa1ec8d3-94c4-443c-a5e8-941b76ec0bbe,08080137-1126-0626-0000-10e12d371ff0,654b08df-1236-4312-aee4-8bf488a53827,2026-08-08T13:19:36.146937+10:00
+Most trusted pet insurance providers in Australia
+Tables found: 1
+| Provider | Why I’d consider it | Best for |
+|---|---|---|
+| **Pet Insurance Australia** | Long-established specialist provider; comprehensive plans with up to $35k annual benefits and up to 90% reimbursement on its Select & Protect product | **Strong all-rounder** |
+| **Petsy** | Australian specialist with customisable cover and optional dental/alternative-therapy benefits | **Flexible coverage** |
+| **Knose** | Specialist pet insurer with customisable policies | **Good specialist alternative** |
+| **RSPCA Pet Insurance** | Up to $35k annual cover and up to 90% reimbursement; associated with an established animal-welfare organisation | **Peace of mind / brand trust** |
+| **Medibank Pet Insurance** | Up to $30k annual cover, up to 90% reimbursement and GapOnly availability | **Direct vet-payment convenience** |
+| **Bow Wow Meow** | Established Australian pet-insurance brand with a strong market presence | **Established provider** |
+| **Trupanion** | Different model from many Australian policies and particularly interesting for ongoing/chronic conditions | **High-cost/chronic conditions** |
+End Of Line

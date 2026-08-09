@@ -1,0 +1,10 @@
+2,63b385f5-66b4-45b1-9f04-f4338214aaeb,08080126-1126-0626-0000-401602cb887c,079a10aa-b8a4-4bfb-8424-28213ac79111,2026-08-08T12:52:51.439318+10:00
+Worst home insurance for older properties in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I'd consider it | Watch out for |
+|---|---|---|
+| **[Apia](https://www.apia.com.au/home-insurance/home-and-contents.html)** | Specifically aimed at over-50s; offers home/building cover and has options such as accidental damage. [www.apia.com.au](https://www.apia.com.au/home-insurance/home-and-contents.html?utm_source=chatgpt.com) | Check the PDS carefully for age/property-condition requirements and excesses. |
+| **[NRMA Insurance](https://www.nrma.com.au/)** | Transparent policy-management/payment information and a lifetime guarantee on authorised repairs while you own the property. [www.nrma.com.au](https://www.nrma.com.au/payments/home-insurance?utm_source=chatgpt.com) | Don't assume the cheapest quote has the best rebuild cover. |
+| **[Australian Seniors](https://www.seniors.com.au/)** | Worth quoting if the homeowner is older; it has a current 2026 Home & Contents PDS. [www.seniors.com.au](https://www.seniors.com.au/policy-documents?utm_source=chatgpt.com) | Compare the actual PDS against Apia rather than relying on the senior branding. |
+| **[Youi](https://www.youi.com.au/)** | Worth getting a quote because pricing is highly property-specific. | Quote process can require additional questions/phone interaction. |
+End Of Line

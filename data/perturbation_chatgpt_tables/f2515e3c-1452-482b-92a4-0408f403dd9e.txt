@@ -1,0 +1,11 @@
+1,a28e4850-231f-4d8e-bec8-5a62fb87e5b1,08080132-1126-0626-0000-455930e3fa66,f2515e3c-1452-482b-92a4-0408f403dd9e,2026-08-08T13:07:07.407799+10:00
+Premium travel insurance for adventure sports in Australia
+Tables found: 1
+| Provider | Adventure sports approach | Good for |
+|---|---|---|
+| Allianz Australia | Comprehensive policies can add an **Adventure Pack** for selected higher-risk activities. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/adventure.html?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/travel-insurance/adventure-travel-insurance/?utm_source=chatgpt.com) | Travellers wanting a mainstream insurer with optional adventure upgrades |
+| InsureandGo Australia | Offers sports/activity cover with options such as an Adventure Plus upgrade and winter sports upgrade. [www.insureandgo.com.au](https://www.insureandgo.com.au/we-cover/sports-and-activities/?utm_source=chatgpt.com) | Ski, snow, and broader activity travellers |
+| nib Travel Insurance | Covers a range of activities depending on plan, including some water and adventure activities; exclusions apply. [www.nib.com.au](https://www.nib.com.au/travel-insurance/what-we-cover/activities?utm_source=chatgpt.com) | Surfing, diving, hiking and activity-based holidays |
+| Fast Cover | Offers sports/activity cover and an Adventure Pack option for additional activities. [fastcover.com.au](https://fastcover.com.au/sports-cover?utm_source=chatgpt.com) | Adventure-focused travellers |
+| Travel Protect | Markets travel insurance for adventure sports, with policy conditions and exclusions applying. [travelprotect.au](https://travelprotect.au/travel-insurance/trip-type/adventure-sports/?utm_source=chatgpt.com) | Comparing adventure-specific options |
+End Of Line

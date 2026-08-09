@@ -1,0 +1,12 @@
+2,1d2eae95-2403-415a-85a9-4103416e9ead,08080139-1126-0626-0000-eb02a1cabca1,db34e461-f8fd-4571-8a72-1ff93e7b4296,2026-08-08T13:23:35.888618+10:00
+Least reliable pet insurance for multiple pets in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews | Multi-pet discount | My take |
+|---|---:|---:|---|
+| **Petsy** | ~4.9/5 | 5% | ⭐ Strongest review profile |
+| **Fetch** | 4.8/5 (562 reviews) | 5% | ⭐ Excellent claims/service reputation |
+| **Knose** | ~4.8/5 | 5% | ⭐ Very strong customer satisfaction |
+| **Bow Wow Meow** | 4.5/5 (3,237 reviews) | **10%** | ⭐ Best established multi-pet option |
+| **Pet Insurance Australia** | 4.5/5 (2,259 reviews) | Varies | ⭐ Particularly strong long-term customer feedback |
+| **RSPCA** | Strong satisfaction/reliability | **10%** | Good mainstream alternative |
+End Of Line

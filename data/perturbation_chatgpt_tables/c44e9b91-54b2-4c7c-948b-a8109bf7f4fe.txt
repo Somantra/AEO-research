@@ -1,0 +1,11 @@
+2,314db211-4cf5-4cc2-a699-2a23d346197e,08080138-1126-0626-0000-4ca4f15f7afe,c44e9b91-54b2-4c7c-948b-a8109bf7f4fe,2026-08-08T13:21:43.885751+10:00
+Best pet insurance for dogs in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer rating* | Best for | Key strengths |
+|---|---:|---|---|
+| **[Petsy](https://petsy.com.au/)** | ⭐ **4.9/5** (323 reviews) | **Best overall for reviews + coverage** | Up to 90% back, $25k annual limit, no sub-limits, $0 excess option |
+| **[Knose](https://www.knose.com.au/)** | ⭐ **4.8/5** (747 reviews) | **Best comprehensive alternative** | Up to 90%, $25k limit, no sub-limits, optional dental/behavioural/therapy cover |
+| **[Fetch Pet](https://fetchpet.com.au/)** | ⭐ **4.8/5** (562 reviews) | **Best for claims/customer service** | Very strong recent feedback for fast claims and responsive staff |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | ⭐ **4.5/5** (3,237 reviews) | **Best established option** | Huge review base, GapOnly claims, 24/7 vet service |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | ⭐ **4.5/5** (2,259 reviews) | **Best long-established insurer** | Lots of long-term customer/claims history |
+End Of Line

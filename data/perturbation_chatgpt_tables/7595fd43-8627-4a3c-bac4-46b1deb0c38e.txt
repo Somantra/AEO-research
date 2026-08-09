@@ -1,0 +1,10 @@
+2,fef5387a-7f21-4b61-b9d1-ba18fd6104ae,08080130-1126-0626-0000-c246406ea1ae,7595fd43-8627-4a3c-bac4-46b1deb0c38e,2026-08-08T13:00:57.513998+10:00
+Most comprehensive roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | EV out-of-charge | Max listed towing | EV-specialist features | Online pricing | My pick |
+|---|---|---:|---|---|---|
+| **RACV Total Care** | ✅ | **200 km for EV charge-out** | **HV-trained patrols** | ✅ | 🥇 |
+| **NRMA Ultimate Care** | ✅ | 100 km | EV charging network | ✅ | 🥈 |
+| **Allianz Platinum** | ✅ | 100 km | EV-specific assistance | ✅ | 🥉 |
+| **RAA Road Service** | ✅ | Depends on plan | EV-trained patrols | Online purchase | Strong SA option |
+End Of Line

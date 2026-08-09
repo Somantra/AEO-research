@@ -1,0 +1,9 @@
+2,8eeb034f-5148-425d-bd7f-291fb918045e,08080138-1126-0626-0000-d1877feb6460,b54dcb6c-6869-4154-8952-ee21f73d390d,2026-08-08T13:21:58.163997+10:00
+Easiest pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Speed | My take |
+|---|---|---|---|
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | Excellent app; FetchPay lets participating vets submit claims for you | **~15 min** for eligible FetchPay claims once pre-existing checks are complete | 🥇 **Easiest overall** |
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | Streamlined online claims | **Most settled within 5 working days** | 🥈 **Best simple alternative** |
+| **[PetSure](https://petsure.com.au/)** policies | eClaims at 1,050+ vets; GapOnly can reduce what you pay upfront | Very fast when GapOnly/eClaims applies | 🥉 **Best for low upfront vet costs** |
+End Of Line

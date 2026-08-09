@@ -1,0 +1,11 @@
+2,7ca01bb3-d5ec-4693-998b-2de49f236b00,08080135-1126-0626-0000-0e23d2b0580c,d7922a05-0d65-4d95-8225-f2eed0ea62db,2026-08-08T13:13:44.301810+10:00
+Worst travel insurance for family holidays in Australia with strong customer reviews
+Tables found: 1
+| Insurer/policy | Why I’d be cautious | Customer reviews |
+|---|---|---|
+| **World Nomads Standard** | CHOICE rates it only **54%**, among its lowest-rated policies. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-policies-to-avoid?utm_source=chatgpt.com) | **1.2/5** for the Standard plan on ProductReview, with 93% negative reviews. [www.productreview.com.au](https://www.productreview.com.au/listings/world-nomads-travel-insurance-standard-plan?utm_source=chatgpt.com) |
+| **World Nomads overall** | Customer-service and claims concerns are particularly prominent. | **2.4/5 from 291 reviews**, with 59% negative. [www.productreview.com.au](https://www.productreview.com.au/listings/world-nomads?utm_source=chatgpt.com) |
+| **Flight Centre Silver Travel Insurance** | CHOICE's **lowest-rated policy to avoid**, at just **50%**. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-policies-to-avoid?utm_source=chatgpt.com) | I'd prioritise the policy wording/claims record over its retail presence. |
+| **Flight Centre Gold Travel Insurance** | Also on CHOICE's avoid list, scoring **52%**. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **1Cover Medical Only** | CHOICE gives it **54%**; importantly, it's medical-only, so it isn't a sensible substitute for comprehensive family holiday cover. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+End Of Line

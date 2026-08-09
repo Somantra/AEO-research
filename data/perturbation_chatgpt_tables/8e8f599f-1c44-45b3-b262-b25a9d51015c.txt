@@ -1,0 +1,10 @@
+2,f757cde6-3a2f-4a3c-a1bc-e0ee1296af40,08080129-1126-0626-0000-9eedf7102fcf,8e8f599f-1c44-45b3-b262-b25a9d51015c,2026-08-08T13:00:06.400313+10:00
+Best roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer reviews* | EV support | Best for |
+|---|---:|---|---|
+| **NRMA** | ⭐ **4.5/5** (1,900+ reviews) | EV roadside assistance and towing | **Best overall nationwide** |
+| **RAC** | ⭐ **4.8/5** (1,200+ reviews) | EV roadside assistance | **Best-rated**, especially WA |
+| **RACQ** | ⭐ 3.2/5 (400+ reviews) | Dedicated EV assistance; high-voltage-aware patrols | **Best Queensland option** |
+| **RACV** | ⭐ 2.6/5 (185+ reviews) | Strong EV provisions; high-voltage-trained patrols | **Best Victoria option** |
+End Of Line

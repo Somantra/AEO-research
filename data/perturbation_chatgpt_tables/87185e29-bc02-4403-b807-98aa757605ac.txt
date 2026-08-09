@@ -1,0 +1,10 @@
+2,f2dc2f96-774a-47f9-8333-31355f524e88,08080127-1126-0626-0000-02648650db10,87185e29-bc02-4403-b807-98aa757605ac,2026-08-08T12:54:50.443261+10:00
+Worst home and contents insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why some customers complain | Why some customers still like them |
+|---|---|---|
+| Qantas Insurance | Lower customer satisfaction scores in CHOICE’s survey; many customers rate experience as average or below average. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) | Backed by a major brand; some customers value convenience and bundled offers. |
+| CGU Insurance | Ranked near the bottom of CHOICE’s customer experience survey, with more than half of customers not rating it above average. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) | Long-established insurer with broad product offerings. |
+| Budget Direct | Some customers report large renewal price increases and frustration around premiums. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1qe0sgj/my_home_and_contents_insurance_has_increased_71/?utm_source=chatgpt.com) | Often competitive on price; some claimants report good experiences. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1uojn7f/home_insurance_recommendations/?utm_source=chatgpt.com) |
+| GIO | Mixed satisfaction results; claims experiences vary widely between customers. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-insurer-satisfaction?utm_source=chatgpt.com) | Large insurer with established claims infrastructure. |
+End Of Line

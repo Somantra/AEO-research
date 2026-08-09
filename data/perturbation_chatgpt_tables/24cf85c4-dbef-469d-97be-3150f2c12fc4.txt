@@ -1,0 +1,10 @@
+2,02e2da7a-e062-4691-81d0-fe80e2460efa,08080127-1126-0626-0000-f8b8a8ec345d,24cf85c4-dbef-469d-97be-3150f2c12fc4,2026-08-08T12:55:30.878703+10:00
+Premium home and contents insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote | Notable features |
+|---|---|---|
+| **Allianz** | Yes | Comprehensive home + contents, flood/storm/fire/theft cover, 24/7 claims; up to 10% off when combined. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-and-contents.html?utm_source=chatgpt.com) |
+| **QBE** | Yes | Home & contents, up to $30m legal liability, 24/7 claims; 10% online-purchase discount currently advertised. [www.qbe.com](https://www.qbe.com/au/home-insurance/home-contents-insurance?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-and-contents.html?utm_source=chatgpt.com) |
+| **Budget Direct** | Yes | Strong price-focused option; currently advertises **30% off the first year** for new combined home & contents policies bought online. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance.html?utm_source=chatgpt.com) |
+| **NRMA** | Yes | New-for-old contents replacement and up to 10% off contents bought online. [www.nrma.com.au](https://www.nrma.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) |
+End Of Line

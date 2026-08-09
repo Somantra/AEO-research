@@ -1,0 +1,11 @@
+2,151c69a1-36f1-4b10-977f-b0d016937fad,08080139-1126-0626-0000-e60e7a9705c4,4873a8fa-1185-46e0-add6-b3548bafdd95,2026-08-08T13:23:17.810214+10:00
+Most affordable pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Provider | Multi-pet discount | Claims speed | My take |
+|---|---:|---|---|
+| **Medibank Pet Insurance** | **5% off each additional pet** | **~5 min with GapOnly** | ⭐ **Best overall balance** |
+| **RSPCA Pet Insurance** | **10% off each additional pet** | GapOnly; 99.43% of claims were processed within 5 days in its latest published stats | ⭐ **Best discount** |
+| **Petsy** | **5% off each additional pet for life** | Usually **5 business days**, sometimes faster | ⭐ **Good non-PetSure alternative** |
+| **Bow Wow Meow** | **10% multi-pet discount** | GapOnly available | ⭐ **Strong value if quote is competitive** |
+| **Knose** | **5% off additional pets for life** | Electronic claims; generally good reputation | Worth quoting |
+End Of Line

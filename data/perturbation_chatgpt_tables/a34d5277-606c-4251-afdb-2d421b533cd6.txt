@@ -1,0 +1,9 @@
+2,e8507ba3-95a7-4c13-91a4-22053ec60661,08080125-1126-0626-0000-613737d33e6b,a34d5277-606c-4251-afdb-2d421b533cd6,2026-08-08T12:50:10.662239+10:00
+Premium home insurance for renters in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment option | Premium-style features |
+|---|---|---|
+| Allianz Australia | Yes — monthly instalments available (conditions apply) | Contents cover for events such as theft, fire, storm and other insured losses; optional extras may be available. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/renters.html?utm_source=chatgpt.com) |
+| Suncorp Group | Yes — monthly payments available | Higher levels of contents cover, optional accidental damage, valuables cover, motor burnout and new-for-old replacement options. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/home/renters.html?utm_source=chatgpt.com) |
+| QBE Insurance | Often offers instalment payment options depending on product | Broad Australian insurance provider; compare policy wording and extras carefully. |
+End Of Line

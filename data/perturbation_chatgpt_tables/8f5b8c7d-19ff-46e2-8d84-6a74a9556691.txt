@@ -1,0 +1,9 @@
+2,a26d8b1d-839e-4c54-85ca-6022e3483fbc,08080140-1126-0626-0000-8945309b63eb,8f5b8c7d-19ff-46e2-8d84-6a74a9556691,2026-08-08T13:24:42.416641+10:00
+Most trusted pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Provider | Pre-existing conditions | Claims speed | My take |
+|---|---|---|---|
+| **[Petinsurance.com.au](https://petinsurance.com.au/)** | Temporary conditions may become eligible after **18 months without signs/symptoms**; chronic conditions generally remain excluded | **Excellent** — GapOnly claims can be assessed in about **5 minutes** at participating vets; normal claims generally 5–10 business days | ⭐ **Best overall for your priorities** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Similar **18-month** pathway for qualifying temporary conditions; chronic conditions remain excluded | GapOnly available; eClaims also available | ⭐ **Very strong alternative** |
+| Other PetSure-administered policies | Generally use the same PetSure claims infrastructure and temporary-condition approach, but policy wording/benefits differ | GapOnly can be extremely fast | Worth comparing on price, excess and exclusions |
+End Of Line

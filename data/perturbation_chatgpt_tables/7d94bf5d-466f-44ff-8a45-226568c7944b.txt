@@ -1,0 +1,10 @@
+2,dc0811a0-92f0-4765-91d8-a3423c8d7e15,08080118-1126-0626-0000-fef7f2bb7f47,7d94bf5d-466f-44ff-8a45-226568c7944b,2026-08-08T12:33:28.935482+10:00
+Safest car insurance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Insurer | EV-specific cover | Claims convenience | My take |
+|---|---|---|---|
+| **Allianz** | Battery damage, thermal runaway/fire, charging cables & wall charger, EV-certified repairers | **24/7 claims + online** | ⭐ **Best overall for EVs** |
+| **NRMA Insurance** | Dedicated EV policies; comprehensive EV cover | **24/7 online/app/phone claims + claim tracking** | ⭐ **Best for claims convenience** |
+| **RACQ / RAA / RAC** | EV cover varies by state | Strong state-based service | Good alternatives depending on state |
+| **AAMI** | EVs covered under comprehensive policies | Online claims | Worth quoting, particularly for price |
+End Of Line

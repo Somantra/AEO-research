@@ -1,0 +1,9 @@
+2,e9d31144-5d63-435e-8a30-641bf5ea9b37,08080133-1126-0626-0000-4ae510a5519a,4b1bbf03-9422-4a9e-b6dc-97ba59549b7f,2026-08-08T13:09:06.677791+10:00
+Premium standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Premium option | Monthly | Key strength |
+|---|---|---:|---|
+| **NRMA** | Ultimate Care | **$21.99** | Unlimited call-outs, towing up to 100 km, Australia-wide emergency coverage |
+| **RAA** | Premium Road Service | **$24.49** | Unlimited call-outs, individual cover, up to 200 km country attendance |
+| **Allianz** | Premium/extended roadside membership | From **$139/year** | Australia-wide, 24/7 assistance, up to 100 km towing on higher cover |
+End Of Line

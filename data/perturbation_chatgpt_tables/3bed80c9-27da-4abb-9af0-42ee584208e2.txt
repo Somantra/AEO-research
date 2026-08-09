@@ -1,0 +1,13 @@
+2,9d745888-aee1-4c05-b170-e86e9622bfff,08080121-1126-0626-0000-be611afbaa8f,3bed80c9-27da-4abb-9af0-42ee584208e2,2026-08-08T12:39:53.139747+10:00
+Most comprehensive motorcycle insurance for learner riders in Australia compared to other providers
+Tables found: 1
+| Provider | Learner eligible | Key strengths | Gear cover | Liability | My take |
+|---|---|---|---|---|---|
+| **QBE** | ✅ Yes | Agreed/market value, strong gear cover, new-bike replacement | **$4,000** | **$30m** | 🥇 Best overall feature set |
+| **Shannons** | ✅ Yes | Agreed value, enthusiast-focused, modifications/accessories | **$3,000** | Check PDS | 🥇 Excellent for enthusiasts |
+| **Youi** | ✅ Quote-dependent | Roadside included, broad extras, emergency assistance | **$1,000** standard | **$20m** | 🥈 Very comprehensive |
+| **NRMA** | ✅ | Strong mainstream cover, new-for-new, $20m liability | Included | **$20m** | 🥈 Excellent all-rounder |
+| **RACV** | ✅ | Choice of repairer, new replacement, $2k protective gear | **$2,000** | **$20m** | 🥉 Excellent, especially VIC |
+| **AAMI** | ✅ Quote-dependent | $20m liability, gear, emergency expenses, new-bike replacement | **$1,000** | **$20m** | Good mainstream option |
+| **Budget Direct** | ⚠️ Quote-dependent | Often competitive price, agreed/market value | Less generous | Standard | Best checked for price |
+End Of Line

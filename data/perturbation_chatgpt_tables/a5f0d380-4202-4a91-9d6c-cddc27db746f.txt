@@ -1,0 +1,11 @@
+2,ffbd2769-0088-48f3-ae86-12b7de741e44,08080139-1126-0626-0000-264138c6c6bb,a5f0d380-4202-4a91-9d6c-cddc27db746f,2026-08-08T13:22:50.211232+10:00
+Easiest pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Provider | Best for older pets | Pros | Watch-outs |
+|---|---|---|---|
+| Pet Insurance Australia | Owners wanting broad pet-specialist cover | Established pet-only insurer; multiple cover options | Check age entry limits and exclusions carefully |
+| RSPCA Pet Insurance | Owners who value straightforward options | Customisable cover; recognised brand | Premiums can become expensive as pets age |
+| Medibank Pet Insurance | Existing Medibank customers | Simple online management; high annual benefit options on some plans | New pet age limits may apply |
+| Australian Seniors | Older owners/pet owners looking for senior-focused products | Offers discounts for eligible seniors | Compare cover limits and exclusions |
+| Petsy | Owners wanting customisable cover | Flexible options | Check whether it accepts your pet’s current age |
+End Of Line

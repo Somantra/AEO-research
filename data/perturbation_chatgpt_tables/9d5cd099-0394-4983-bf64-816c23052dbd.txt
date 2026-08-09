@@ -1,0 +1,11 @@
+2,a7e4d6a8-f647-43e7-8b9e-de6ef94b81e8,08080136-1126-0626-0000-94052eb901d8,9d5cd099-0394-4983-bf64-816c23052dbd,2026-08-08T13:17:16.856316+10:00
+Safest travel insurance for pre-existing medical conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Best for | Pre-existing conditions | Hidden-cost risk |
+|---|---|---|---|
+| **AllClear Travel Insurance** | **Complex/serious conditions** | Specialist product; says it covers 1,300+ conditions, including cancer, heart conditions, diabetes and stroke | Medical screening determines the actual premium; excess still applies |
+| **Medibank Travel Insurance** | **Common, stable conditions** | Many conditions can be automatically included; others assessed online | Extra premium may apply after assessment |
+| **Cover-More** | **Strong all-round option** | Automatic cover for some conditions; others medically assessed | Additional premium can apply |
+| **Insure&Go** | **Broad medical assessment** | Considers pre-existing conditions through its medical questionnaire | Condition may attract an additional fee |
+| **Allianz Australia** | **Established mainstream insurer** | Medical assessment required; accepted conditions confirmed in writing | Medical excess can apply in addition to/alongside policy excess depending on circumstances |
+End Of Line

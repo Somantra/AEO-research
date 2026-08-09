@@ -1,0 +1,11 @@
+2,af9e03ef-7316-4c66-8ac1-edeb5abf0b7e,08080118-1126-0626-0000-eed3e46dbd47,631db6c0-77a6-4d0b-b276-9d77833f2ce9,2026-08-08T12:31:32.929209+10:00
+Most popular car insurance for older drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims/ease |
+|---|---|---|
+| **RAC** | Particularly strong choice in WA | **Excellent** — RAC was the 2026 WA winner for “Easiest to Claim” car insurance. Its online claims service is available 24/7. [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/car-insurance-satisfaction?utm_source=chatgpt.com) |
+| **Youi** | Specifically markets insurance to seniors | **Excellent** — 24/7 claims lodgement, with Youi saying it aims to answer calls in around 30 seconds. It also won awards for claims experience. [www.youi.com.au](https://www.youi.com.au/car-insurance/seniors-car-insurance?utm_source=chatgpt.com) |
+| **NRMA Insurance** | Large, established insurer with straightforward claims | **Very good** — claims can be lodged online 24/7 or by phone, and you can track the claim online. [www.nrma.com.au](https://www.nrma.com.au/claims?utm_source=chatgpt.com) |
+| **AAMI** | Good if you value simple digital claims | **Very good** — 24/7 online/app claims, with eligible customers able to arrange repairs and hire cars during the process. [www.aami.com.au](https://www.aami.com.au/claim/car?utm_source=chatgpt.com) |
+| **Allianz Australia** | Worth getting a quote, particularly for comprehensive cover | Good claims-review scores, although customer experience varies by situation. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/reviews.html?utm_source=chatgpt.com) |
+End Of Line

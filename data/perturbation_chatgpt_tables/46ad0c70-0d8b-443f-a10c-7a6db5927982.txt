@@ -1,0 +1,9 @@
+2,fbf73ef3-8116-4a7b-963b-264a5211992a,08080117-1126-0626-0000-b41569d4aa2e,46ad0c70-0d8b-443f-a10c-7a6db5927982,2026-08-08T12:29:44.337997+10:00
+Best car insurance for P-plate drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims experience |
+|---|---|---|
+| **Youi** | Best overall claims/customer experience of the national insurers in the latest CHOICE data | **73%** of customers with a claim rated the process above average/excellent |
+| **NRMA Insurance** | Strong claims record + explicitly accommodates P-platers | **69%** rated claims above average/excellent |
+| **AAMI** | Very convenient digital claims process; potentially competitive for some young drivers | **64%** rated claims above average/excellent |
+End Of Line

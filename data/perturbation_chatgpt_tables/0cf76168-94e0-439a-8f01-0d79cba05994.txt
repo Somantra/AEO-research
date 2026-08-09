@@ -1,0 +1,11 @@
+2,4c95aa24-8c0f-48a3-bc94-a0e58416326a,08080132-1126-0626-0000-affe7fd408b4,0cf76168-94e0-439a-8f01-0d79cba05994,2026-08-08T13:07:41.571034+10:00
+Least reliable roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Hybrid suitability | Speed/service evidence | Overall |
+|---|---|---|---|
+| **NRMA** | Good basic coverage | Mixed recent customer reports | ⚠️ More variable |
+| **RACV** | **Explicitly covers hybrids** | Says assistance is usually within an hour | ✅ Stronger choice |
+| **RACQ** | **Explicitly covers hybrids** | Advertises ~35-min average response in QLD | ✅ Stronger choice |
+| **AAMI roadside assist** | Depends on policy/network | Some recent users report <1-hour waits | ⚠️ Worth comparing |
+| **Budget Direct** | Available as roadside add-on | Customer experiences are mixed | ⚠️ Price-focused option |
+End Of Line

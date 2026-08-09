@@ -1,0 +1,14 @@
+2,a86949e4-de62-4fd4-8a93-1f1fe26b7f89,08080131-1126-0626-0000-836ec085422f,858681cf-0c9e-457b-9390-0c7146811b0c,2026-08-08T13:05:21.004836+10:00
+Best roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider | Typical annual price | Best for | Key strength |
+|---|---:|---|---|
+| **RACQ** | $80–$310 | QLD drivers | Excellent range of cover; strong long-distance options |
+| **NRMA** | $112–$245 | NSW/ACT drivers | Unlimited callouts; strong national reciprocal coverage |
+| **RAA** | $135–$293 | SA drivers | Personal cover follows you, not the car |
+| **RAC** | $128–$410 | WA drivers | Excellent range, including long-distance/country cover |
+| **RACV** | ~$301 for Extra Care | VIC drivers | Strong family/vehicle options and towing |
+| **Allianz** | $99–$139 | Simple standalone cover | Cheap entry point; 50–100 km towing |
+| **Youi** | Included with Comprehensive | People already insured with Youi | Roadside included rather than an extra membership |
+| **AAMI** | Optional with Comprehensive | AAMI customers | Unlimited callouts, Australia-wide |
+End Of Line

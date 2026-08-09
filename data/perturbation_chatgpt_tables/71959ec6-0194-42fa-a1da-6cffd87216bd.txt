@@ -1,0 +1,13 @@
+2,e631bc95-3261-46cd-8bc7-3ae08263d9b7,08080120-1126-0626-0000-3ca8fb1cc3ed,71959ec6-0194-42fa-a1da-6cffd87216bd,2026-08-08T12:37:18.903275+10:00
+Least reliable car insurance for high-risk drivers in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | My take for high-risk + fast claims |
+|---|---:|---|
+| **Budget Direct** | **52%** rated claims above average/excellent | ⚠️ **Avoid if claims service is your priority** |
+| **AAMI** | 64% | 🟡 Middle of the pack |
+| **Allianz** | 69% | 🟡 Better than Budget Direct, but overall satisfaction is low |
+| **Youi** | 73% | 🟢 Strong option |
+| **GIO** | 76% | 🟢 Strong option |
+| **NRMA** | 69% | 🟢 Reasonably strong |
+| **Suncorp** | 75% | 🟢 Strong claims experience |
+End Of Line

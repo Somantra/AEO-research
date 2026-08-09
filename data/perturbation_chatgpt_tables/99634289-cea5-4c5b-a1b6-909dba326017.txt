@@ -1,0 +1,10 @@
+2,bd224a2e-75be-49a5-9ad1-8fb8aa6c7f95,08080139-1126-0626-0000-659dbc03b9f7,99634289-cea5-4c5b-a1b6-909dba326017,2026-08-08T13:23:39.607286+10:00
+Easiest pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer | Multi-pet discount | Monthly payments | Why I’d consider it |
+|---|---:|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | **10%** off 2nd+ pets | Yes | Strongest combination of multi-pet discount + easy claims |
+| **[Petsy](https://petsy.com.au/)** | **5%** off each additional pet | Yes | Very straightforward online management |
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | **5%** off additional pets | Yes | Good if you already use Medibank/ahm; GapOnly available |
+| **[Knose](https://www.knose.com.au/)** | **5%** lifetime discount | Yes | Good coverage and simple online quoting |
+End Of Line

@@ -1,0 +1,11 @@
+2,5e14b4d8-64f7-4cb1-bcda-283c3a166016,08080117-1126-0626-0000-6fffd5d78f3d,18913353-8f39-4822-8400-d82096d282b6,2026-08-08T12:28:43.376474+10:00
+Worst car insurance for young drivers in Australia without hidden fees
+Tables found: 1
+| Policy | Why I’d be cautious under 25 |
+|---|---|
+| **AHM Comprehensive** | High additional young-driver excess; repairs chosen by insurer |
+| **Bupa Comprehensive** | Same underlying Huddle policy; **$800 age excess (21–24) / $1,200 under 21** |
+| **Huddle Comprehensive** | Same policy family; high young-driver excess and no choice of repairer |
+| **TrueCover Comprehensive** | Particularly harsh: **$1,000 additional excess for drivers under 35** |
+| **Real Insurance Comprehensive** | High additional excess for younger drivers |
+End Of Line

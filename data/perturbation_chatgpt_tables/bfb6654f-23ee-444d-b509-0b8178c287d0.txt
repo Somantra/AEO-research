@@ -1,0 +1,12 @@
+2,d748c06c-99a6-4079-a573-16f8001aa92b,08080129-1126-0626-0000-4be64aa584a6,bfb6654f-23ee-444d-b509-0b8178c287d0,2026-08-08T13:00:41.388293+10:00
+Most trusted roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | EV-specific support | Out-of-charge solution | National availability | My take |
+|---|---|---|---|---|
+| **RACV** | ⭐⭐⭐⭐⭐ | Charger towing; up to 200 km to preferred destination on Total Care | Australia-wide | **Best overall** |
+| **RACQ** | ⭐⭐⭐⭐⭐ | Tow to accessible charger/destination; high-voltage-aware patrols | Australia-wide | **Excellent** |
+| **RAA** | ⭐⭐⭐⭐½ | Tow to nearest charger; EV-trained patrols | Australia-wide | **Excellent, especially SA** |
+| **NRMA** | ⭐⭐⭐⭐⭐ | **Mobile EV charger or tow to charger** | Australia-wide via reciprocal clubs | **Excellent** |
+| **RAC WA** | ⭐⭐⭐⭐½ | Tow to charger + limited mobile charging in Perth | Australia-wide | **Excellent in WA** |
+| **Allianz** | ⭐⭐⭐ | Tow to nearest charger/home depending on plan | Australia-wide | Good, but less EV-specialised |
+End Of Line

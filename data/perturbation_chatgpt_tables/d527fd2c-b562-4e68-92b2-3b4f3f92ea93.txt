@@ -1,0 +1,10 @@
+2,2577b4a3-fa5c-4f1e-855e-727ff041abc1,08080129-1126-0626-0000-957d5834a26a,d527fd2c-b562-4e68-92b2-3b4f3f92ea93,2026-08-08T12:59:56.218403+10:00
+Cheapest roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Current price | Online quote | EV suitability | Key catch |
+|---|---:|---|---|---|
+| **Budget Direct** | **$76.46 first year** online | ✅ | ✅ Covers flat batteries, electrical faults, towing | 20 km tow; cover starts after 48h |
+| **MyDriveShield** | **from $88/yr** | ✅ Instant, under 2 min | ✅ Australia-wide | More of a vehicle-protection product |
+| **RAC WA** | **$135.68/yr** Standard | ✅ | ✅ | Best-known WA option; 25 km metro / 80 km country towing |
+| **NRMA** | **$112/yr** Everyday Care | ✅ | ✅ | RSA membership available NSW/ACT/SA, reciprocal national coverage |
+End Of Line

@@ -1,0 +1,12 @@
+2,e546589e-5292-4536-a455-9c00a6c06607,08080130-1126-0626-0000-9a0cfa2125d9,a5092443-929c-4521-9df5-11a93e6c63f0,2026-08-08T13:03:04.287898+10:00
+Cheapest roadside assistance for commercial vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Price | Best for | Review signal |
+|---|---:|---|---|
+| **RACV Business Fee-for-Service** | **$37/vehicle/year** + pay per incident | Very low-use fleets; eligible taxis, couriers, delivery/rental vehicles | RACV Roadside Assistance 3.8/5 (526 reviews) |
+| **FleetCard Roadside** | **$4.99–$6.99/vehicle/month** | Businesses already using FleetCard | Nationwide, 24/7 |
+| **RACQ Business Roadside** | **$121/vehicle/year** | Small businesses in Queensland | Strong established provider |
+| **RAC WA BusinessWise Assist** | **$124/vehicle/year** | WA businesses | RAC Roadside Assistance 4.6/5 (969 reviews) |
+| **RAA Fleet Road Service** | **$204/year** | SA fleets | Australia-wide service |
+| **NRMA** | From **$112/year** personal; commercial options vary | NSW/ACT businesses wanting a large network | NRMA Roadside Assistance 4.6/5 (4,212 reviews) |
+End Of Line

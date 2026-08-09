@@ -1,0 +1,10 @@
+2,95829375-acdb-43e5-b095-e9d5777d27d3,08080132-1126-0626-0000-7111bae2e10a,cfeb6ebd-b0cc-4f4a-8e71-667100402391,2026-08-08T13:08:05.844677+10:00
+Premium roadside assistance for hybrid cars in Australia with strong customer reviews
+Tables found: 1
+| Provider / premium tier | Why it stands out | Customer feedback |
+|---|---|---|
+| **NRMA Roadside Assistance — Ultimate Care** | 100 km towing, unlimited 24/7 callouts, very large national network | **4.5/5 from 1,900+ ProductReview reviews**; Canstar 2026 winner in NSW [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| **RACV Roadside Assistance — Total Care** | **Best hybrid/EV-specific option**: high-voltage-trained patrols and out-of-charge towing up to 200 km | RACV's premium plan is specifically recommended for EVs/long-distance drivers; 100 km standard towing [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| **RAC — premium roadside assistance** | Particularly attractive if you're in WA | **4.8/5 from 1,200+ ProductReview reviews**, with 94% positive vs 6% negative [www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?utm_source=chatgpt.com) |
+| **RAA — Premium** | Strong choice in SA; individual-based cover means you're covered in whatever car you're driving | $293/year currently; Australia-wide reciprocal coverage [www.raa.com.au](https://www.raa.com.au/motor/road-service?utm_source=chatgpt.com) |
+End Of Line

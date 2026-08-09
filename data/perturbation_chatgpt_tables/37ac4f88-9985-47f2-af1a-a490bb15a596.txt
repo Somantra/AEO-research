@@ -1,0 +1,9 @@
+2,2c3033b6-f971-4524-a630-83f5c5be8078,08080140-1126-0626-0000-3c92e894c8f5,37ac4f88-9985-47f2-af1a-a490bb15a596,2026-08-08T13:24:20.181474+10:00
+Worst pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer type | Why it can be a poor fit for pre-existing conditions |
+|---|---|
+| **Budget/basic accident-only policies** | They may look cheap and process simple claims quickly, but they usually won’t help with your pet’s existing medical issue. |
+| **Policies with strict underwriting/exclusions** | A claim can be delayed or declined if the insurer decides the current problem is linked to earlier symptoms. Vet records are commonly reviewed. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/pet-insurance-pre-existing-conditions/?utm_source=chatgpt.com) |
+| **Switching insurers after a diagnosis** | The diagnosed condition (and sometimes related symptoms) is likely to become excluded under the new policy. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1sesg31/how_does_preexisting_conditions_work_when/?utm_source=chatgpt.com) |
+End Of Line

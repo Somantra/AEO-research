@@ -1,0 +1,12 @@
+2,bd2b6a17-c1b0-4653-93ee-e00d6fb8568f,08080131-1126-0626-0000-29cf5731f288,1950bef0-f603-4e41-ae1b-18ea41ae18c4,2026-08-08T13:05:54.250039+10:00
+Most popular roadside assistance plans in Australia with monthly payments
+Tables found: 1
+| Provider | Popular monthly option | Monthly price* | Key benefit |
+|---|---|---:|---|
+| **NRMA** | Everyday Care | **$9.99/mo** | 25 km metro towing, unlimited callouts |
+| **RACV** | Roadside Care | **$12/mo** | 20 km towing, EV assistance |
+| **RAC WA** | Classic — *most popular* | **$19.43/mo** | Unlimited callouts, stronger towing/extended benefits |
+| **RAA SA** | Plus | **$17.87/mo** | Cover follows the person, Australia-wide |
+| **RACV** | Extra Care | **$19.58/mo** | 60 km towing, caravan/trailer assistance |
+| **RACV** | Total Care | **$27/mo** | 100 km towing, broader benefits |
+End Of Line

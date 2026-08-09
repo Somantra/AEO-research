@@ -1,0 +1,11 @@
+2,5687145c-d018-4189-8dd3-298ba5a152e1,08080139-1126-0626-0000-6ed0a158d69c,3611de76-8c05-4d38-9f39-c4a3eb3abdd3,2026-08-08T13:22:26.144881+10:00
+Cheapest pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | New-pet age limit | Claims speed | My take |
+|---|---:|---|---|
+| **Pet Insurance Australia (PIA)** | Before 9th birthday | **88% within 1 day; 98% within 5 days** | ⭐ **Best for fast claims** |
+| **Knose** | Before 9th birthday | Most claims within **5 working days** | ⭐ Good balance |
+| **Budget Direct** | Before 9th birthday | Online claims 24/7; reimbursement after assessment | 💰 Worth quoting for price |
+| **RSPCA Pet Insurance** | Varies by product | GapOnly available | Worth checking for senior pets |
+| **Australian Seniors** | Senior-focused products | Standard claims process | Worth quoting if eligible for discount |
+End Of Line

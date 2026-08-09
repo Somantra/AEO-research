@@ -1,0 +1,12 @@
+2,f1eebbee-f71f-4752-aecb-bf9159149bd0,08080138-1126-0626-0000-d6401b247495,e12aa1f8-542d-4d69-bd72-c384a307dbf9,2026-08-08T13:21:11.211087+10:00
+Easiest pet insurance for cats in Australia compared to other providers
+Tables found: 1
+| Provider | Ease of claiming | Why I’d consider it | Main drawback |
+|---|---|---|---|
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | ⭐⭐⭐⭐⭐ | GapOnly claims at participating vets; you can pay only the gap. Claims are often assessed within ~10 minutes. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/make-a-claim/?utm_source=chatgpt.com)[bowwowinsurance.com.au](https://bowwowinsurance.com.au/gaponly-pet-insurance/?utm_source=chatgpt.com) | Not every vet uses GapOnly |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | ⭐⭐⭐⭐⭐ | Very app-focused; FetchPay can let participating vets receive payment directly. It also offers upfront pre-existing-condition checks. [www.fetchpet.com.au](https://www.fetchpet.com.au/cat-insurance?utm_source=chatgpt.com) | Newer option, so I'd read the PDS carefully |
+| **[Trupanion Australia](https://trupanion.com.au/)** | ⭐⭐⭐⭐⭐ | Particularly simple for large bills: 90% cover and participating vets can be paid directly. No annual payout limit/sub-limits. [trupanion.com.au](https://trupanion.com.au/pet-insurance/cat-insurance/?utm_source=chatgpt.com) | Usually a **premium-priced** option |
+| **[Petsy](https://petsy.com.au/)** | ⭐⭐⭐⭐ | One comprehensive policy rather than a confusing range of plans; you customise percentage, annual limit and excess. Up to $25k annual cover. [petsy.com.au](https://petsy.com.au/cat-insurance/?utm_source=chatgpt.com) | Direct-vet-payment convenience isn't as strong as Trupanion/GapOnly |
+| **[RSPCA Pet Insurance](https://www.rspca.org.au/pet-insurance/)** | ⭐⭐⭐⭐ | New policy launched in 2026 with customisable cover and up to $35k annual cover, with no tricky sub-limits advertised. [www.rspca.org.au](https://www.rspca.org.au/pet-insurance/?utm_source=chatgpt.com) | Important: policies from before April 2026 are under the old arrangement |
+| **[Budget Direct Pet Insurance](https://www.budgetdirect.com.au/pet-insurance/)** | ⭐⭐⭐ | Straightforward and potentially cheaper | You generally pay the **whole vet bill first**, then submit the claim for reimbursement. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/claims.html?utm_source=chatgpt.com) |
+End Of Line

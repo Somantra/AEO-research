@@ -1,0 +1,9 @@
+2,59c25da9-0e0c-4335-bf4f-1d325e73d564,08080137-1126-0626-0000-eed6a3c6dac9,1b223d08-f4b1-4b1f-a022-d34e91904f60,2026-08-08T13:19:30.686607+10:00
+Safest domestic travel insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why I’d consider it | Online quote |
+|---|---|---|
+| **Allianz** | Strong established insurer; domestic cover includes cancellation, luggage, rental-car excess and travel delays. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/domestic.html?utm_source=chatgpt.com) | [Get an Allianz quote](https://www.allianz.com.au/travel-insurance/domestic.html) |
+| **NRMA** | Domestic Comprehensive option, plus Cancellation and Annual Multi-Trip policies. [www.nrma.com.au](https://www.nrma.com.au/travel-insurance/domestic-travel-insurance?utm_source=chatgpt.com) | [Get an NRMA quote](https://www.nrma.com.au/travel-insurance/domestic-travel-insurance) |
+| **Qantas Insurance** | Includes cancellation, luggage and rental-car excess; useful if you value Qantas Points. [insurance.qantas.com](https://insurance.qantas.com/travel-insurance/australian?utm_source=chatgpt.com) | [Get a Qantas quote](https://insurance.qantas.com/travel-insurance/australian) |
+End Of Line

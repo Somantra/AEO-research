@@ -1,0 +1,9 @@
+2,fca3d07a-c4ad-49bd-9444-37eaba1ff608,08080131-1126-0626-0000-cbeb3923a05a,ad2847e6-327c-4f29-a3db-bea18ce09f2e,2026-08-08T13:04:59.974781+10:00
+Premium roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Why it may suit an older car |
+|---|---|
+| RACV | Strong choice in Victoria, with 24/7 roadside help, app-based assistance in metro Melbourne, patrol tracking, and many issues fixed on the spot. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| NRMA | Large roadside network, useful for drivers who travel across NSW and Australia; its broader insurance ecosystem also supports online claim tracking. [www.nrma.com.au](https://www.nrma.com.au/claims?utm_source=chatgpt.com) |
+| Allianz Australia | Offers 24/7 roadside assistance with mobile mechanics and Australia-wide technician/towing networks. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

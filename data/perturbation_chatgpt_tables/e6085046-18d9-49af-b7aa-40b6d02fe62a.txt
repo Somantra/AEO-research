@@ -1,0 +1,14 @@
+2,160809fa-6b99-4ed5-a1b7-5d7fecdaf295,08080127-1126-0626-0000-f929089e86aa,e6085046-18d9-49af-b7aa-40b6d02fe62a,2026-08-08T12:53:59.897225+10:00
+Least reliable home insurance for apartments in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims reputation | Apartment suitability |
+|---|---|---|
+| **RACQ** | ⭐⭐⭐⭐⭐ | Excellent if available in your state |
+| **RAC / RACV** | ⭐⭐⭐⭐½ | Strong regional options |
+| **NRMA** | ⭐⭐⭐⭐½ | Strong option, especially NSW |
+| **Suncorp** | ⭐⭐⭐⭐ | Worth quoting |
+| **Youi** | ⭐⭐⭐⭐ | Good claims reputation, but experiences vary |
+| **Budget Direct** | ⭐⭐½ | I'd prioritise others if claims service is your main concern |
+| **GIO** | ⭐⭐½ | I'd compare carefully before choosing |
+| **Allianz** | ⭐⭐½ | Not my first choice if fast claims is the priority |
+End Of Line

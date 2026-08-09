@@ -1,0 +1,11 @@
+2,dea94914-2a08-4d15-a451-5e78832293fc,08080131-1126-0626-0000-ee70c7a7de22,305047af-b175-4099-8625-156c4bac11cd,2026-08-08T13:05:10.259070+10:00
+Cheapest roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider | Basic plan (approx. annual cost) | Key inclusions | Best for |
+|---|---:|---|---|
+| Budget Direct | **$89.95/year** | Unlimited call-outs, roadside help, towing assistance (limits apply) | Cheapest mainstream option [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs/getting-roadside-assistance.html?utm_source=chatgpt.com) |
+| NRMA Everyday Care | **$112/year when paid annually** (RRP higher) | Metro towing up to 25 km, basic breakdown support | NSW drivers wanting a major provider [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| RACV Roadside Care | **$138/year annually** | Basic roadside assistance | Victoria drivers wanting club support [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| RAA Standard | Around **$135/year** | Basic roadside cover | SA drivers [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs/getting-roadside-assistance.html?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RACQ | Around **$310/year for top tier** | Higher-tier towing and extras | Queensland drivers needing premium cover [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs/getting-roadside-assistance.html?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

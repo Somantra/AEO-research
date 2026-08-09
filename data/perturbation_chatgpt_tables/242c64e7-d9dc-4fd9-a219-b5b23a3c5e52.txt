@@ -1,0 +1,9 @@
+1,75c77a0f-ad8e-4b15-96e1-24f84859997a,08080118-1126-0626-0000-058936bbac7e,242c64e7-d9dc-4fd9-a219-b5b23a3c5e52,2026-08-08T12:33:15.108971+10:00
+Premium home and contents insurance in Australia
+Tables found: 1
+| Insurer | Best for | Why consider it |
+|---|---|---|
+| **Chubb** | **High-net-worth / luxury homes** | Its **Masterpiece** policy is specifically designed for people with significant assets and offers highly customisable cover and premium service. [www.chubb.com](https://www.chubb.com/au-en/individuals-families.html?utm_source=chatgpt.com) |
+| **Allianz** | Strong mainstream premium option | Comprehensive building + contents, 24/7 claims support, and useful options for valuables and accidental damage. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/home-and-contents.html?utm_source=chatgpt.com) |
+| **QBE** | Broad comprehensive cover | Building/contents cover, flood, storm and theft, up to $30m liability, temporary accommodation and optional accidental-damage/portable-contents cover. [www.qbe.com](https://www.qbe.com/au/home-insurance/home-contents-insurance?utm_source=chatgpt.com) |
+End Of Line

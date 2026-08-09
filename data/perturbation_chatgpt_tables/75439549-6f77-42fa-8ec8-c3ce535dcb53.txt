@@ -1,0 +1,10 @@
+2,4b05afa2-7075-49f1-933f-0a335f902645,08080140-1126-0626-0000-7ef10816886c,75439549-6f77-42fa-8ec8-c3ce535dcb53,2026-08-08T13:25:21.094115+10:00
+Least reliable pet insurance for puppies and kittens in Australia with monthly payments
+Tables found: 1
+| Provider/policy area | Why to be cautious for puppies & kittens |
+|---|---|
+| Petcover Australia | Ranked among the lower-scoring policies in CHOICE’s comparison; check exclusions, benefit limits and out-of-pocket costs carefully. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Real Insurance pet policies | CHOICE identified Real Insurance among lower-rated policies based on policy features and likely customer out-of-pocket costs. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| PetsOnMe | Also appeared among CHOICE’s lower-rated policies; review the product disclosure statement (PDS) before buying. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| Very cheap “accident-only” or low-limit plans from any insurer | They may look attractive monthly, but can leave large gaps for common puppy/kitten issues such as surgery, hereditary conditions, dental illness, or chronic disease. [moneysmart.gov.au](https://moneysmart.gov.au/add-on-insurance/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

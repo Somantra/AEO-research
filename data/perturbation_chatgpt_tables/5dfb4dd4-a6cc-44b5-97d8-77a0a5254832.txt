@@ -1,0 +1,10 @@
+2,c98018ab-d6ed-4c08-a075-4c768991ddbb,08080124-1126-0626-0000-bd86dfb3be53,5dfb4dd4-a6cc-44b5-97d8-77a0a5254832,2026-08-08T12:46:07.564223+10:00
+Best pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Why consider it |
+|---|---|---|
+| **Bow Wow Meow** | ⭐⭐⭐⭐⭐ | GapOnly in-clinic claims; **88% of claims processed within 1 day** once required documents are received |
+| **Medibank** | ⭐⭐⭐⭐⭐ | GapOnly can process eligible claims **same day at participating vets** |
+| **Knose** | ⭐⭐⭐⭐ | Says most claims are settled within **5 working days**; no sub-limits |
+| **Other GapOnly providers** | ⭐⭐⭐⭐⭐ | The biggest advantage is paying only the uncovered “gap” at participating vets |
+End Of Line

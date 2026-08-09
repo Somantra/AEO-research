@@ -1,0 +1,11 @@
+2,12d730dc-c8c3-4e7a-829e-99ea423c5d9a,08080121-1126-0626-0000-963f058cc5f0,d86df940-c2ff-4dd6-8841-27294df97c98,2026-08-08T12:39:13.251811+10:00
+Worst motorcycle insurance for learner riders in Australia compared to other providers
+Tables found: 1
+| Provider | Often criticised by learners for | Compared with others |
+|---|---|---|
+| AAMI | Can be very expensive for young/inexperienced riders; some riders report high quotes | Often loses on price for high-risk learner profiles |
+| Youi | Pricing can vary massively; some learner riders receive “walk-away” quotes | Can be competitive for some profiles but poor for others |
+| Budget Direct | May not suit riders wanting agreed value, specialist motorcycle features, or certain bikes | Often cheaper, but check policy details carefully |
+| QBE Insurance | Excesses can stack up (age/inexperience/training excesses depending on policy) | Frequently competitive on price according to rider discussions |
+| Shannons | Usually not the cheapest | Often liked by enthusiasts for motorcycle-focused service and cover options |
+End Of Line

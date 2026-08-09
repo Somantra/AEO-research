@@ -1,0 +1,10 @@
+2,464ca2d1-d043-401c-8f4b-f3f109625387,08080133-1126-0626-0000-7a7c2b4b1a35,1350abb6-f255-44c5-b1ee-b564aafc7287,2026-08-08T13:09:09.880777+10:00
+Premium standalone roadside assistance cover in Australia without hidden fees
+Tables found: 1
+| Provider / premium plan | Approx. annual price | Key premium benefit | Main catch |
+|---|---:|---|---|
+| **NRMA Ultimate Care** | **$299/yr** | Unlimited call-outs, **100 km free towing**, national emergency coverage | Beyond included towing/add-ons can cost extra |
+| **RACV Total Care** | **$318/yr** | Unlimited call-outs, **100 km towing**, up to $2,400 travel benefits | Monthly payment includes $6/yr admin fee |
+| **RACQ Ultra Care** | **$227/yr** | **120 km attendance**, 60 km towing, travel benefits | Primarily Queensland-oriented |
+| **RAA Premium** | **$293/yr** | Unlimited call-outs, Australia-wide, premium long-distance cover | Some country-distance charges can apply |
+End Of Line

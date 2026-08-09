@@ -1,0 +1,10 @@
+2,59fe88dc-3f0e-43ae-a792-3eb788e7107b,08080141-1126-0626-0000-3b6b26052ad8,2da799c8-1edc-43e9-8516-a659c6e672d6,2026-08-08T13:27:41.743882+10:00
+Worst accident-only pet insurance in Australia with monthly payments
+Tables found: 1
+| Type of policy | Why it can be poor value |
+|---|---|
+| Very cheap accident-only plans | Low premiums can hide high excesses, low benefit limits, or narrow definitions of “accident” |
+| Plans with no illness cover for older pets | Older animals are more likely to develop illnesses rather than only accidents |
+| Policies with high excess + low reimbursement | You may still pay a large share of an emergency vet bill |
+| Policies with many exclusions | A claim can be rejected if the condition falls outside the accident definition |
+End Of Line

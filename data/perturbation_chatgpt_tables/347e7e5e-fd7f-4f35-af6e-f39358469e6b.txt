@@ -1,0 +1,11 @@
+2,ce8aea32-8076-4bd0-8293-061e21b1731f,08080139-1126-0626-0000-17872a8cbe9e,347e7e5e-fd7f-4f35-af6e-f39358469e6b,2026-08-08T13:23:00.878823+10:00
+Most trusted pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Provider | New-pet entry age | Cover after becoming senior | Standout feature | My take |
+|---|---:|---|---|---|
+| **Petsy** | Under 9 | **Yes, no maximum renewal age** | No sub-limits/condition limits on its core cover | ⭐ **Best overall for senior longevity** |
+| **Bow Wow Meow** | Under 9 | **Yes, lifetime renewal** | Strong comprehensive cover; up to 90% reimbursement | ⭐ **Excellent all-rounder** |
+| **Knose** | Under 9 | **Yes, no upper renewal age** | No sub-limits; up to $25k annual limit | ⭐ **Excellent for high vet bills** |
+| **Pet Insurance Australia** | Under 9 for major/comprehensive | **Yes, if continuously insured** | Long-established Australian specialist | Good alternative |
+| **RSPCA Pet Insurance** | Varies by product | Generally ongoing once insured | Broad range of cover | Worth quoting, particularly if already insured |
+End Of Line

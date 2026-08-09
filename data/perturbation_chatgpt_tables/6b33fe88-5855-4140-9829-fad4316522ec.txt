@@ -1,0 +1,17 @@
+1,6ca4e30d-a56a-41ea-9cec-626b843a38e2,08080117-1126-0626-0000-85f7de8b3627,6b33fe88-5855-4140-9829-fad4316522ec,2026-08-08T12:29:00.378798+10:00
+Least reliable car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | Customer satisfaction |
+|---|---:|
+| RAA | 91% |
+| RACQ | 85% |
+| Youi | 77% |
+| RAC | 77% |
+| GIO | 75% |
+| NRMA | 72% |
+| Suncorp | 68% |
+| RACV | 64% |
+| **AAMI** | **62%** |
+| **Budget Direct** | **62%** |
+| **Allianz** | **61%** |
+End Of Line

@@ -1,0 +1,11 @@
+1,26f009d7-2907-48fc-a58b-3dc5e9875fa3,08080133-1126-0626-0000-55040093af7e,23245e24-a9ec-4811-939a-98120af249ed,2026-08-08T13:08:40.298326+10:00
+Most popular travel insurance for pre-existing medical conditions in Australia
+Tables found: 1
+| Insurer | Why travellers consider them for pre-existing conditions |
+|---|---|
+| Cover-More | A large Australian travel insurer; offers assessment processes for medical conditions and has multiple levels of cover. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| Medibank | Provides travel insurance with some automatically covered conditions and an online medical assessment for other conditions. [www.medibank.com.au](https://www.medibank.com.au/travel-insurance/help/existing-medical-conditions/?utm_source=chatgpt.com) |
+| Bupa | Listed among Australian insurers offering policies where some pre-existing conditions may be covered subject to criteria. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| FastCover | Another insurer compared in the Australian market for policies involving existing conditions. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/travel-insurance-for-pre-existing-medical-conditions?utm_source=chatgpt.com) |
+| Allianz Australia | A major travel insurance provider often considered by Australian travellers. [www.reddit.com](https://www.reddit.com/r/ThailandTourism/comments/qwfbbl?utm_source=chatgpt.com) |
+End Of Line

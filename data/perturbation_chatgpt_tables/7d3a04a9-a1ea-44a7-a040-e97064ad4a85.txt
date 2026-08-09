@@ -1,0 +1,13 @@
+2,3146c9af-e5f4-4fd5-b532-e59be81ac2bc,08080120-1126-0626-0000-ac08a347c77c,7d3a04a9-a1ea-44a7-a040-e97064ad4a85,2026-08-08T12:37:19.097143+10:00
+Least reliable car insurance for high-risk drivers in Australia compared to other providers
+Tables found: 1
+| Insurer | Reliability signal | My take |
+|---|---|---|
+| **Budget Direct** | 🔴 Weakest | **One I'd be most cautious about** if claims service is your priority |
+| **Allianz** | 🟠 Below average | Customer satisfaction is low, although claims experience is better than Budget Direct |
+| **AAMI** | 🟠 Below average | Mixed reputation; not disastrous, but not a standout |
+| **Suncorp** | 🟢/🟠 Above average | Reasonably solid claims experience |
+| **NRMA** | 🟢 Good | Stronger claims/customer results |
+| **Youi** | 🟢 Strong | One of the better national options |
+| **RAA (SA)** | 🟢🟢 Excellent | Particularly strong if you're in South Australia |
+End Of Line

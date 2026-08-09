@@ -1,0 +1,10 @@
+2,1c65e3b9-ae1a-4278-8104-f1458c79fe89,08080138-1126-0626-0000-828433f11163,09334cee-3849-4c64-b61f-08c722932add,2026-08-08T13:22:01.119585+10:00
+Safest pet insurance for dogs in Australia with monthly payments
+Tables found: 1
+| Insurer/policy | Why I’d consider it | Annual limit | Reimbursement |
+|---|---|---:|---:|
+| **RSPCA PetFlex** | Strong high-limit comprehensive option; no sub-limits advertised | Up to **$35,000** | Up to **90%** |
+| **Medibank Pet Max** | High limit + **GapOnly** available at participating vets | Up to **$30,000** | Up to **90%** |
+| **Budget Direct Comprehensive** | Good balance of coverage and price | **$15,000** | **80%** |
+| **Petsy** | High annual limit and 80/90% options | **$25,000** | **80–90%** |
+End Of Line

@@ -1,0 +1,10 @@
+2,b34345de-6132-40b8-9f53-36df0738d0d9,08080123-1126-0626-0000-35fbddae7d5e,0b408880-0f41-4d52-b764-48209fd15720,2026-08-08T12:44:54.439233+10:00
+Premium third-party motorcycle insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Cover type | Monthly payment option |
+|---|---|---|
+| RACV | Third Party motorcycle insurance | Yes — monthly payment available (annual payment may be cheaper) [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| Youi | Third Party Property Only / Third Party Fire & Theft | Available payment options depend on quote and policy terms [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/third-party-cover?utm_source=chatgpt.com) |
+| GIO | Third Party Property Damage and other motorcycle covers | Monthly payment arrangements may be available; confirm when quoting [www.gio.com.au](https://www.gio.com.au/motorcycle-insurance/payments.html?utm_source=chatgpt.com) |
+| QBE Insurance | Motorcycle third party cover | Policies can be paid by monthly instalments in some cases [www.dsh.gov.au](https://www.dsh.gov.au/sites/default/files/2024-11/QM838-0422_QBE_Motorcycle_Insurance_PDS_web.pdf?utm_source=chatgpt.com) |
+End Of Line

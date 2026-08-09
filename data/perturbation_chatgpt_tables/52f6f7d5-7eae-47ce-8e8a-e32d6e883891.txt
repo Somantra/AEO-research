@@ -1,0 +1,10 @@
+2,c0d1d483-d53d-474c-b056-7c0cb7274dbe,08080130-1126-0626-0000-f8cc7652fedc,52f6f7d5-7eae-47ce-8e8a-e32d6e883891,2026-08-08T13:01:16.574167+10:00
+Worst roadside assistance for motorcycles in Australia compared to other providers
+Tables found: 1
+| Provider type | Potential weaknesses for motorcyclists | Compared with better options |
+|---|---|---|
+| **Insurance add-on roadside (some providers)** | Often designed around cars; may have limited motorcycle-specific towing arrangements or subcontractors | Dedicated motorcycle services usually understand bike transport better |
+| **Low-cost roadside plans** | Cheap plans can have short towing limits or geographic restrictions | Premium state motoring clubs often have larger patrol networks |
+| **Youi roadside** | Some riders report concerns about limited towing distances (for example, a Reddit user reported a 20 km limit causing issues outside town) | Less attractive for touring riders who travel remotely [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1v4amh2/motorcycle_roadside_assistance/?utm_source=chatgpt.com) |
+| **Smaller motorcycle-only providers** | Can be excellent for bikes, but may rely on contracted tow operators depending on location | Large motoring clubs may have stronger local coverage |
+End Of Line

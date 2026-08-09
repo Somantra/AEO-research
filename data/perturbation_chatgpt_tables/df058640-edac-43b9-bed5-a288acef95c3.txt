@@ -1,0 +1,11 @@
+2,1facab3f-4938-43f5-adb4-565b9ae543d3,08080120-1126-0626-0000-34681ea5a171,df058640-edac-43b9-bed5-a288acef95c3,2026-08-08T12:37:07.558423+10:00
+Worst car insurance for high-risk drivers in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer reviews | High-risk suitability | My take |
+|---|---|---|---|
+| **Youi** | ⭐ **3.9/5**, 8,351 reviews | **Good** | **Best overall starting point** |
+| **Budget Direct** | ⭐ **3.6/5**, 9,540 reviews | **Good–moderate** | Often competitive on price |
+| **AAMI** | Mixed/poor recent reviews | **Moderate** | Worth quoting, but claims feedback is concerning |
+| **NRMA** | ⭐ **1.6/5**, 1,761 reviews | Moderate | **Wouldn't prioritise** based on reviews |
+| **Suncorp** | Mixed | Moderate | Quote it, but don't assume loyalty = better price |
+End Of Line

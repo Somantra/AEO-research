@@ -1,0 +1,12 @@
+1,c4bd6c7a-3946-4cf0-8d6b-7f66f86ee828,08080118-1126-0626-0000-92b243467ee5,bd52dd13-3788-4d23-b91f-3649ccc518c0,2026-08-08T12:33:37.525285+10:00
+Least reliable car insurance providers in Australia
+Tables found: 1
+| Insurer | Customers rating experience above average/excellent | Claims experience* |
+|---|---:|---:|
+| **Allianz** | **61%** | 69% |
+| **AAMI** | **62%** | 64% |
+| **Budget Direct** | **62%** | **52%** |
+| **RACV** | **64%** | 66% |
+| Suncorp | 68% | 75% |
+| Apia | 68% | 70% |
+End Of Line

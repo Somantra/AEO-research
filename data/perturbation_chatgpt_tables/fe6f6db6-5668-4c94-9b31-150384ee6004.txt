@@ -1,0 +1,11 @@
+2,5f8a2de0-9c9d-4b1e-8d47-5a441900e05e,08080126-1126-0626-0000-d8d0cf81cadd,fe6f6db6-5668-4c94-9b31-150384ee6004,2026-08-08T12:53:03.085705+10:00
+Least reliable home insurance for older properties in Australia with instant online quotes
+Tables found: 1
+| Check | Why it matters |
+|---|---|
+| Claim satisfaction history | Older homes often involve complex repair disputes |
+| “Accidental damage” included? | Important for many older fixtures and fittings |
+| Roof/plumbing/electrical exclusions | Common claim friction points |
+| Sum insured calculation | Underinsurance is a major risk |
+| Excess level | Cheap premiums may hide very high excesses |
+End Of Line

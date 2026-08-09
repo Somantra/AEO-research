@@ -1,0 +1,13 @@
+1,89667da8-71f9-4402-9429-19c23a0d1fce,08080130-1126-0626-0000-ac0e44b9712e,3019e6d9-a2db-496c-97ff-6fc7015a914c,2026-08-08T13:00:56.836659+10:00
+Most popular roadside assistance for hybrid cars in Australia
+Tables found: 1
+| Provider | Main area | Hybrid support | My take |
+|---|---|---|---|
+| **RAC (WA)** | Western Australia | ✅ Yes | **Best choice in WA** |
+| **NRMA** | NSW, ACT, SA | ✅ Hybrid & plug-in hybrid | Excellent national network |
+| **RACV** | Victoria | ✅ Hybrid | Excellent, especially VIC |
+| **RACQ** | Queensland | ✅ Hybrid & EV | Excellent, with high-voltage-aware patrols |
+| **RAA** | South Australia | ✅ Hybrids & BEVs | Very strong EV/hybrid support |
+| **RACT** | Tasmania | ✅ | Strong local coverage |
+| **AANT** | NT | ✅ | Best-established NT option |
+End Of Line

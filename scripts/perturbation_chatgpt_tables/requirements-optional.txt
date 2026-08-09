@@ -1,0 +1,12 @@
+# Only needed if you pass --score-sentiment and/or --score-embeddings to
+# perturbation_chatgpt_brand_position.py. The base pipeline (word-diff + Jaccard distance +
+# HTML report) does not require anything in this file.
+
+# --score-sentiment (local model, no API key)
+torch
+transformers
+numpy
+
+# --score-embeddings (calls the OpenAI API, requires your own OPENAI_API_KEY)
+openai
+python-dotenv

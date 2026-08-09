@@ -1,0 +1,10 @@
+2,ec3ae415-9302-45b9-a768-23297fa3ec28,08080138-1126-0626-0000-05c165db8910,ce7aee16-19e9-42a3-928c-31dcea46ef68,2026-08-08T13:21:43.170129+10:00
+Most affordable pet insurance for dogs in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why check it | Online quote |
+|---|---|---|
+| **Budget Direct** | Finder currently identifies its **Plus Cover as the cheapest insurer** in its research; online purchase currently gets **15% off the first year** (T&Cs apply). [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com) | urlGet a Budget Direct quoteturn0search5 |
+| **Petsy** | Up to **$25,000/year**, no sub-limits, and $0 annual excess available. [petsy.com.au](https://petsy.com.au/dog-insurance/?utm_source=chatgpt.com) | urlGet a Petsy quoteturn0search2 |
+| **Knose** | Very quick quote process — advertised as **60 seconds** — with flexible annual limits/excesses and up to $25,000 cover. [quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) | urlGet a Knose quoteturn0search4 |
+| **Canstar comparison** | Useful for comparing multiple Australian insurers rather than getting quotes one-by-one. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/?utm_source=chatgpt.com) | urlCompare pet insurance on Canstarturn0search0 |
+End Of Line

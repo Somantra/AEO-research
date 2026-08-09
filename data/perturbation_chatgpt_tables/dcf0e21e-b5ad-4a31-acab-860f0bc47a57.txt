@@ -1,0 +1,11 @@
+2,dea40e07-3aef-4a51-9487-cf6a95e94832,08080139-1126-0626-0000-5b2819c89efb,dcf0e21e-b5ad-4a31-acab-860f0bc47a57,2026-08-08T13:23:36.312049+10:00
+Least reliable pet insurance for multiple pets in Australia with monthly payments
+Tables found: 1
+| Insurer/policy | My caution level | Why |
+|---|---|---|
+| **Petcover** | 🔴 High | CHOICE currently lists Petcover among its lowest-rated policies; customer reviews are also considerably weaker than several competitors. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Real Insurance Classic** | 🔴 High | CHOICE lists it among policies to avoid, with a 53% Expert Rating for the group of identical PetSure policies. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **PetsOnMe Accident Plan** | 🔴 High | CHOICE specifically flags this as a low-rated policy, including concerns around having to pay the entire vet bill upfront. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/pet-insurance-policies-to-avoid?utm_source=chatgpt.com) |
+| **Everyday Pet Insurance** | 🟠 Moderate–high | ProductReview currently shows 3.4/5 from 840 reviews, with relatively low scores for transparency, customer service and value. [www.productreview.com.au](https://www.productreview.com.au/listings/everyday-pet-insurance?utm_source=chatgpt.com) |
+| **PetSure-branded policies generally** | 🟠 Check carefully | PetSure underwrites a huge number of Australian brands. ASIC previously intervened over 67 PetSure products because of concerns about target-market suitability and upfront vet-payment requirements. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/articles/asic-takes-action-against-petsure-brands?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,f8a9e712-3970-4e77-93a8-b85210321311,08080131-1126-0626-0000-9a0bb44f2d71,e9523f27-6a5e-4ef2-8dea-bceda6a229dd,2026-08-08T13:05:14.188830+10:00
+Most affordable roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider | Basic annual price* | Key cover | Fee / catch to watch |
+|---|---:|---|---|
+| **NRMA Everyday Care** | **$112/yr offer** or $137 RRP | Unlimited callouts, 25km metro towing | Discount is tied to eligible NRMA Insurance customers; published pricing is noted as Sept 2025 |
+| **RACV Roadside Care** | **$144/yr** | Unlimited callouts, 20km metro towing | Monthly payments include $6/yr admin fee |
+| **AANT Standard** | **$139/yr** | 8 callouts, 8km metro / 32km regional towing | Additional charges can apply within first 48 hours |
+| **RAA Standard** | **$135/yr** | 4 callouts, basic cover | **$154 fee for new members** in certain early/pre-existing breakdown situations |
+| **RAC WA Standard** | **$128/yr** | Unlimited callouts | Mainly relevant to WA residents |
+End Of Line

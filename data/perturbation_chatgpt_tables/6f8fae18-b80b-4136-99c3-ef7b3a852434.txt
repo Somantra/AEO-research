@@ -1,0 +1,18 @@
+2,03bd2063-7511-49bf-96c5-21044e8816dd,08080129-1126-0626-0000-47cdc245fdbb,6f8fae18-b80b-4136-99c3-ef7b3a852434,2026-08-08T12:58:53.545796+10:00
+Most comprehensive home insurance for first-time homeowners in Australia without hidden fees
+Tables found: 1
+| Cover | My view |
+|---|---|
+| **Building replacement** | Essential |
+| **Contents replacement/new-for-old** | Strongly recommended |
+| **Storm** | Essential |
+| **Fire** | Essential |
+| **Flood** | Essential if there's any meaningful flood exposure |
+| **Theft/burglary** | Essential |
+| **Escape of water** | Essential |
+| **Temporary accommodation** | Very important |
+| **Legal liability** | Essential |
+| **Accidental damage** | Worth adding if affordable |
+| **Motor burnout/electrical** | Useful |
+| **Fusion/contents away from home** | Depends on your possessions |
+End Of Line

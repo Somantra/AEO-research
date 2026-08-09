@@ -1,0 +1,11 @@
+2,1b6a4498-d412-421e-b023-7e8e8ead6a01,08080119-1126-0626-0000-18844c1554e9,100c1a62-7543-4d15-b477-ca1ac56608ff,2026-08-08T12:36:14.420649+10:00
+Least reliable third-party car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer / third-party policy | Customer-review signal | My take |
+|---|---|---|
+| **NRMA Third Party / Third Party Fire & Theft** | Very poor: **1.2/5** for Third Party Property Damage (54 reviews) and **1.5/5** for Fire & Theft (37 reviews) | 🔴 **Avoid if reliability is your priority** |
+| **Youi Third Party Property Only** | **2.9/5** (73 reviews), 54% positive | 🟠 Mixed — better overall insurer reputation, but third-party-specific reviews aren't strong |
+| **Budget Direct Third Party Property Only** | **3.5/5** (233 reviews) | 🟢 Reasonably strong value/service signal |
+| **Budget Direct Third Party Fire & Theft** | **3.8/5** (214 reviews), 78% positive | 🟢 One of the stronger third-party options from the review data |
+| **QBE Third Party Only** | Reviews are generally positive, but sample size appears small | 🟡 Worth quoting, but less confidence in the review evidence |
+End Of Line

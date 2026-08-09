@@ -1,0 +1,11 @@
+2,0526100f-c37c-46a4-b45a-14089ee1f026,08080130-1126-0626-0000-f6855296311e,7662b9ab-65c8-4b38-8d02-ca5b6007ad3b,2026-08-08T13:02:59.975453+10:00
+Most comprehensive roadside assistance for interstate travel in Australia without hidden fees
+Tables found: 1
+| Provider / plan | Annual price* | Interstate | Towing | Long-distance extras | Hidden-fee risk |
+|---|---:|---|---|---|---|
+| **[RACQ Ultimate Care](https://www.racq.com.au/car/roadside-assistance/ultimate-care)** | $310 | Australia-wide | **100 km** | Strong travel benefits | **Low** |
+| **[RAA Premium Road Service](https://www.raa.com.au/motor/road-service)** | $293 | Australia-wide | **200 km country depot + 50 km further towing** | Excellent away-from-home benefits | Medium |
+| **[RACV Total Care](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html)** | $318 | Australia-wide | **100 km** | Up to $2,400 accommodation/rental/taxi | Low–medium |
+| **[RAC WA Ultimate](https://rac.com.au/car-motoring/roadside-assistance)** | ~$350 | Australia-wide | Strong country cover | Good overall package | Medium |
+| **[NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance)** | varies | Australia-wide | Depends on plan | Unlimited callouts | Medium |
+End Of Line

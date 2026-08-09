@@ -1,0 +1,9 @@
+1,f5065521-fba7-41e9-b390-73b6445a2ea9,08080136-1126-0626-0000-009c9c95c47a,b5fee1df-b5e3-4a5a-8493-770f028751d5,2026-08-08T13:16:32.811713+10:00
+Premium pet insurance for puppies and kittens in Australia
+Tables found: 1
+| Insurer | Why it stands out | Maximum cover |
+|---|---|---:|
+| **[Trupanion Australia](https://trupanion.com.au/)** | Best for very high-cost or lifelong conditions; **90% cover with no annual payout limit or sub-limits** | Unlimited |
+| **[Petsy](https://petsy.com.au/)** | Excellent option specifically for young pets; up to **$30,000**, 80% or 90% reimbursement, no sub-limits | $30,000 |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Strong all-round comprehensive cover; up to $30,000, 70/80/90% reimbursement and GapOnly | $30,000 |
+End Of Line

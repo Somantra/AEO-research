@@ -1,0 +1,11 @@
+2,b80f629c-48b1-4d37-9c3e-590335b46559,08080119-1126-0626-0000-a80a0464c676,7bf88531-f0f7-494e-9161-aa9197129f1a,2026-08-08T12:34:38.780932+10:00
+Most popular car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Popularity / reputation | My take |
+|---|---|---|---|
+| **NRMA Insurance** | ⭐⭐⭐⭐⭐ | Very strong, especially NSW | **Best overall for NSW** |
+| **Youi** | ⭐⭐⭐⭐⭐ | Strong nationally | **Best for claims/service** |
+| **AAMI** | ⭐⭐⭐⭐ | Very large mainstream insurer | Good all-rounder |
+| **Budget Direct** | ⭐⭐⭐⭐ | Popular value insurer | Good if price matters |
+| **Allianz** | ⭐⭐⭐ | Major national insurer | Worth quoting, but not my first choice for claims |
+End Of Line

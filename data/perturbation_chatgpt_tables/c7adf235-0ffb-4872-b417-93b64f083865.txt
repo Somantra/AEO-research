@@ -1,0 +1,11 @@
+2,fea8453a-7f06-4ebe-af08-374b83143aa6,08080142-1126-0626-0000-75886a1f7b0a,c7adf235-0ffb-4872-b417-93b64f083865,2026-08-08T13:28:46.292295+10:00
+Easiest pet insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Why it’s easy | Monthly payment | Standout |
+|---|---|---|---|
+| **Fetch** | Simple policy, 24/7 vet advice | Yes | Claims can be paid directly to your vet |
+| **Pet Insurance Australia (PIA)** | Established, broad range of cover | Yes | Good all-rounder |
+| **Petsy** | Simple policy structure | Yes | Up to $25k annual cover |
+| **Budget Direct** | Easy online quoting, generally cheaper | Yes | Strong budget option |
+| **Medibank Pet Insurance** | Familiar insurer, online management | Yes | GapOnly available on eligible policies |
+End Of Line

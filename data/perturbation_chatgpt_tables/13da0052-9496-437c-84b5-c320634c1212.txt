@@ -1,0 +1,10 @@
+2,bc7dfbce-48c0-45d8-beba-662d5a11084a,08080140-1126-0626-0000-ab4c48f2dfab,13da0052-9496-437c-84b5-c320634c1212,2026-08-08T13:24:30.354272+10:00
+Least reliable pet insurance for pre-existing conditions in Australia without hidden fees
+Tables found: 1
+| Insurer | Pre-existing conditions | Fee/coverage transparency | My take |
+|---|---|---|---|
+| **Petinsurance.com.au** | Temporary conditions can be reviewed after **18 months** symptom-free; chronic pre-existing conditions remain excluded | Good — PDS and review process are publicly documented | **Best fit if the old condition was temporary** |
+| **Knose** | No initial cover for pre-existing conditions, but some curable conditions may become eligible after **12 months symptom-free** | **Very good** — no sub-limits and clearly stated excess/benefit structure | **Strongest transparency option** |
+| **Fetch** | **No pre-existing conditions covered**, including related/bilateral conditions | Good — contribution/excess structure is clearly explained | Good for **new problems**, poor for an existing condition |
+| **Medibank / RSPCA PetFlex** | Pre-existing exclusions still apply | Competitive coverage limits, but you'll need to check the specific PDS/exclusions | Worth quoting, but **don't assume the existing condition is covered** |
+End Of Line

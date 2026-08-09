@@ -1,0 +1,10 @@
+1,a1b36914-464b-4ec8-9dbd-4f446aa32f90,08080130-1126-0626-0000-e1ffd1d84262,e00df43c-782e-41f5-bc8e-4ef98c12c9cb,2026-08-08T13:03:25.927769+10:00
+Safest travel insurance for business trips in Australia
+Tables found: 1
+| Option | Best for | Why I’d consider it |
+|---|---|---|
+| **Cover-More Business** | Frequent individual business traveller | Specifically designed for business travel and available as an annual multi-trip policy. [www.covermore.com.au](https://www.covermore.com.au/pds?utm_source=chatgpt.com) |
+| **Cover-More Corporate** | Employees travelling on behalf of a company | Designed specifically for organisations covering employees' business travel; the current Corporate PDS is dated from April 2026. [www.covermore.com.au](https://www.covermore.com.au/pds?utm_source=chatgpt.com) |
+| **Allianz / Worldcare comprehensive** | Individual trips | Major Australian insurer with comprehensive international options; worth comparing against Cover-More. CHOICE includes Allianz/Worldcare among the major insurers it reviews. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/articles/how-we-compare-travel-insurance?utm_source=chatgpt.com) |
+| **1Cover Comprehensive / Frequent Traveller** | Comparing price/value | CHOICE currently lists both comprehensive single-trip and frequent-traveller options, although its latest review advises avoiding 1Cover Medical Only. [www.choice.com.au](https://www.choice.com.au/travel/money-travel/travel-insurance/review-and-compare/international-travel-insurance?utm_source=chatgpt.com) |
+End Of Line

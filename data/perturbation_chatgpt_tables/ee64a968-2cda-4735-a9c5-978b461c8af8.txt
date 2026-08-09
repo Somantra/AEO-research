@@ -1,0 +1,9 @@
+2,9e7c7853-c4c4-407f-9126-e840f8508804,08080141-1126-0626-0000-9d72122220ab,ee64a968-2cda-4735-a9c5-978b461c8af8,2026-08-08T13:26:35.641619+10:00
+Premium pet insurance for large dog breeds in Australia without hidden fees
+Tables found: 1
+| Insurer | Annual limit | Reimbursement | Sub-limits | Excess | My take |
+|---|---:|---:|---|---|---|
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | **Up to $35k** | Up to 90% | **None on standard cover** | $0–$600 | 🥇 Best for maximum cover |
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | Up to $25k | Up to 90% | **None** | $0–$200 | 🥇 Excellent transparency |
+| **[Petsy](https://petsy.com.au/)** | Up to $25k | High-cover options | **None** | $0 available | Strong alternative |
+End Of Line

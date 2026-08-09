@@ -1,0 +1,13 @@
+2,1a802bde-5e64-4edc-871d-4d59ee61ce54,08080131-1126-0626-0000-c9f1512305d6,e5bc358a-07e6-4c84-b942-2abf1d17c928,2026-08-08T13:04:47.722650+10:00
+Most trusted roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Older-car suitability | Key strengths |
+|---|---|---|---|
+| **NRMA** | NSW/ACT, frequent driving | ⭐⭐⭐⭐⭐ | Very large network, unlimited callouts, Australia-wide assistance |
+| **RACQ** | Queensland | ⭐⭐⭐⭐⭐ | Large Queensland patrol network, 24/7 assistance, multiple cover levels |
+| **RACV** | Victoria | ⭐⭐⭐⭐⭐ | Strong Victorian network; interstate assistance through other motoring clubs |
+| **RAC (WA)** | Western Australia | ⭐⭐⭐⭐⭐ | Excellent choice for WA/country driving; unlimited callouts |
+| **RAA** | South Australia | ⭐⭐⭐⭐⭐ | Personal cover follows the member, rather than a particular car |
+| **Allianz Roadside** | Australia-wide, simple standalone cover | ⭐⭐⭐⭐ | Australia-wide, 24/7, up to 100 km towing on Platinum |
+| Budget/insurer roadside products | Cheapest basic cover | ⭐⭐⭐ | Can be good value, but I'd prioritise a motoring club for a troublesome old car |
+End Of Line

@@ -1,0 +1,10 @@
+2,00dbc8db-4439-4adc-b9f3-e66d1d16fc0a,08080132-1126-0626-0000-6224370e9015,e9e71c48-0356-4e1c-89a0-065997a66264,2026-08-08T13:08:02.982978+10:00
+Most popular roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Hybrid/EV support | Speed / convenience | Best for |
+|---|---|---|---|
+| **RACV** | ✅ Hybrid + EV | **Typically within 1 hour**; app request + real-time patrol tracking in metro Melbourne; 8/10 issues fixed on the spot | **Best overall, especially Victoria** |
+| **RAC WA** | ✅ EVs and all vehicle types | **9/10 cars fixed on the spot**; 24/7 Australia-wide assistance | Best in WA |
+| **NRMA** | ✅ Broad vehicle coverage | 24/7, unlimited callouts, large national network | Best in NSW/ACT |
+| **AAMI Roadside Assist | ✅ Battery/tyre/towing support | App lets you **track the mechanic**; roadside callout isn't treated as an insurance claim | Best if you already have AAMI insurance |
+End Of Line

@@ -1,0 +1,11 @@
+2,ec5102d3-2096-4d07-8f5d-bdf94bb431c9,08080125-1126-0626-0000-2d1310670f84,8dfc1dac-36f0-46ce-aad2-0bdd00f9f1b1,2026-08-08T12:50:48.810971+10:00
+Least reliable home insurance for landlords in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims/reliability view | Landlord suitability |
+|---|---|---|
+| **QBE** | ⭐⭐⭐⭐½ — 24/7 claims service; strong landlord-specific offering | **Excellent** |
+| **Suncorp** | ⭐⭐⭐⭐ — good mainstream option and broad landlord cover | **Very good** |
+| **RACQ** | ⭐⭐⭐⭐½ — ranked best for claims experience in CHOICE’s 2025 survey | **Good, availability varies** |
+| **NRMA** | ⭐⭐⭐⭐ — strong claims/customer experience in CHOICE survey | **Good** |
+| **Terri Scheer** | ⭐⭐⭐⭐ — specialist landlord insurer; commonly recommended by landlords | **Excellent for rental-specific risks** |
+End Of Line

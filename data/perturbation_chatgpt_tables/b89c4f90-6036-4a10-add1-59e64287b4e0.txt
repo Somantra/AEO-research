@@ -1,0 +1,11 @@
+2,b6e42301-0fef-4dd6-97f7-9cf12681cd8c,08080139-1126-0626-0000-cad9aa030ece,b89c4f90-6036-4a10-add1-59e64287b4e0,2026-08-08T13:23:43.908760+10:00
+Easiest pet insurance for multiple pets in Australia compared to other providers
+Tables found: 1
+| Provider | Multi-pet discount | Why it stands out | My take |
+|---|---:|---|---|
+| **Pet Insurance Australia** | **5% 2nd, 10% 3rd, 15% 4th+** | Strong multi-pet discount; flexible cover; GapOnly at participating vets | 🥇 **Best overall for multiple pets** |
+| **Knose** | **5% off for life** | Simple online-focused experience; discount applies to multiple pets | 🥈 **Best for simplicity** |
+| **Medibank Pet Insurance** | **5% off each additional pet** | Straightforward multi-pet setup; GapOnly; potentially useful if you're already a Medibank member | 🥉 **Good mainstream option** |
+| **Petinsurance.com.au** | Multi-pet discount available | Up to $30k annual cover, up to 80% back, GapOnly, 24/7 vet support | **Good all-rounder** |
+| **Real Pet Insurance** | I couldn't verify a current multi-pet discount | No fixed excess; up to 80% back and $12k/year | **Worth quoting, but less compelling for multiples** |
+End Of Line

@@ -1,0 +1,10 @@
+2,8139df5f-b46b-4097-9537-f1c1e0ab83e1,08080135-1126-0626-0000-7305f8f1f7fc,9733db19-f1d3-4831-ad85-178988143250,2026-08-08T13:13:30.958413+10:00
+Cheapest travel insurance for family holidays in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why consider it | Claims speed/process |
+|---|---|---|
+| **Insure&Go** | **Best value pick**; 10% family discount and kids under 18 can be included at no extra cost | Online claims; says it aims to respond within **10 business days** after receiving documentation [www.insureandgo.com.au](https://www.insureandgo.com.au/travel-insurance/family-travel-insurance/?utm_source=chatgpt.com) |
+| **1Cover** | Worth checking for a low quote; specifically promotes a **fast claims service** | Online claim assessment and resolution [www.1cover.com.au](https://www.1cover.com.au/cover/family-emergency/?utm_source=chatgpt.com) |
+| **Allianz** | Good if you prioritise an established claims process and 24/7 assistance | Online claims and tracking; says a travel-claims consultant will contact you within **10 business days** [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/claims.html?utm_source=chatgpt.com) |
+| **Cover-More** | Strong assistance and easy online claims | Online claims available 24/7, but its claims portal currently says a team member may contact you within **30 working days**, so I wouldn't choose it specifically for speed [www.covermore.com.au](https://www.covermore.com.au/claims?utm_source=chatgpt.com) |
+End Of Line

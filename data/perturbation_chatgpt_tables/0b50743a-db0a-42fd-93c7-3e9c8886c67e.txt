@@ -1,0 +1,9 @@
+2,c8d98039-d8d9-4a92-8879-67067ab2d6dc,08080136-1126-0626-0000-eafcef89e716,0b50743a-db0a-42fd-93c7-3e9c8886c67e,2026-08-08T13:17:13.889122+10:00
+Safest travel insurance for pre-existing medical conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims convenience | My take |
+|---|---|---|---|
+| **Cover-More** | 30+ conditions can be automatically covered if criteria are met; other conditions can go through an online medical assessment | Online claims, document upload and tracking | **Best overall starting point** |
+| **Allianz** | Comprehensive plans allow you to apply for cover after a medical assessment | Online claims + tracking; aims to contact travel claimants within **10 business days** | **Strong choice for claims support** |
+| **SCTI** | Medical assessment required; its definition looks back **3 years** for relevant medical help | Established online claims process | **Worth comparing, especially for complex conditions** |
+End Of Line

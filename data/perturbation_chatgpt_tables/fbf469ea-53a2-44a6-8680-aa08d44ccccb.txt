@@ -1,0 +1,11 @@
+2,225b9320-5008-46d4-adf5-1b59a1a291fd,08080142-1126-0626-0000-728669b0bd54,fbf469ea-53a2-44a6-8680-aa08d44ccccb,2026-08-08T13:28:36.695842+10:00
+Worst pet insurance providers in Australia compared to other providers
+Tables found: 1
+| Policy | CHOICE Expert Rating | Main problem |
+|---|---:|---|
+| **Petcover Economy** | **25%** | No lifetime cover; benefits fall as your pet ages |
+| **PetsOnMe Accident Plan** | **30%** | Accident-only, only $5,000 annual limit, no illness cover |
+| **Australian Seniors Basic Cover** | **53%** | Only 60% reimbursement; $2,000 per-condition limit |
+| **Guardian Bronze** | **53%** | Same underlying policy/limitations as above |
+| **Real Insurance Classic** | **53%** | Same underlying policy/limitations as above |
+End Of Line

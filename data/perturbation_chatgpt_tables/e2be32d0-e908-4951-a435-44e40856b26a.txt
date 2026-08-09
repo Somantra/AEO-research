@@ -1,0 +1,11 @@
+2,414d3b0c-5974-40e6-b9d5-38d49895c8bd,08080118-1126-0626-0000-975625a4a8f7,e2be32d0-e908-4951-a435-44e40856b26a,2026-08-08T12:33:01.559383+10:00
+Best car insurance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why I’d consider it | Claims/EV strengths |
+|---|---|---|
+| **RAC** | **Best for fast claims, especially in WA** | 24/7 online claims, described as the fastest way to claim; local WA claims team; strong EV/roadside capability. [rac.com.au](https://rac.com.au/products/insurance/make-a-claim/car-insurance-claims?utm_source=chatgpt.com) |
+| **Allianz Australia** | **Best overall EV-focused option** | Comprehensive EV cover includes battery, charging cables/wall chargers and battery-fire damage. Customers rated its claims experience **4.5/5**. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com) |
+| **Youi** | **Best for responsive service** | EV comprehensive cover, EV roadside assistance including transport to a charging station, guaranteed authorised repairs, and Youi says calls are answered in around 30 seconds. [www.youi.com.au](https://www.youi.com.au/car-insurance/ev-car-insurance?utm_source=chatgpt.com) |
+| **NRMA Insurance** | **Good mainstream alternative** | EV-specific information and comprehensive cover includes portable charging cables as an accessory. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com) |
+| **RACV** | **Worth checking in Victoria** | EVs covered under standard policies; Complete Care includes EV battery and supplied charging accessories. [www.racv.com.au](https://www.racv.com.au/royalauto/transport/electric-vehicles/insurance-guide-for-evs.html?utm_source=chatgpt.com) |
+End Of Line

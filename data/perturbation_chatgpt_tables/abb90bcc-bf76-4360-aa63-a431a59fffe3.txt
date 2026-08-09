@@ -1,0 +1,11 @@
+2,08c88dd4-1267-4b74-9954-8d8df0ce9d7a,08080130-1126-0626-0000-cebb279f505e,abb90bcc-bf76-4360-aa63-a431a59fffe3,2026-08-08T13:02:06.163634+10:00
+Most affordable roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider / cover | Monthly | Annual equivalent | Interstate cover |
+|---|---:|---:|---|
+| **RAA Standard** | **$11.25** | $135 | ✅ Australia-wide |
+| **RAA Plus** | **$17.87** | $214 | ✅ Australia-wide |
+| **RAA Premium** | **$24.49** | $293 | ✅ Australia-wide |
+| RACV Roadside Care | $12 | $144 | ✅ Reciprocal arrangements |
+| RACV Total Care | Higher | $318+ | ✅ Reciprocal arrangements |
+End Of Line

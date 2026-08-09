@@ -1,0 +1,10 @@
+2,bec1613b-b1fc-4e40-ad24-ceea0b7c0e5d,08080119-1126-0626-0000-56c63b0302d6,5d96eca8-0afa-429c-bdc3-48076b016f9a,2026-08-08T12:34:45.555049+10:00
+Premium car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out |
+|---|---|
+| **[Allianz](https://www.allianz.com.au/)** | Strong claims proposition: 24/7 claims support, online claims, choice of repairer, and a reported **4.5/5 claims experience** among Comprehensive customers. It explicitly covers newer and second-hand cars. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/qld.html?utm_source=chatgpt.com) |
+| **[AAMI](https://www.aami.com.au/)** | Very convenient digital claims process. AAMI says online/app lodging is the **fastest way to make a claim**, with eligible customers able to arrange repairs, hire cars and excess payments online. [www.aami.com.au](https://www.aami.com.au/claim/car?utm_source=chatgpt.com) |
+| **[NRMA Insurance](https://www.nrma.com.au/)** | Worth quoting if you're prioritising a more established, full-service insurer and repair network. |
+| **[QBE](https://www.qbe.com/au)** | Another strong option to quote, particularly if its premium is competitive for your vehicle and location. |
+End Of Line

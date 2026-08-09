@@ -1,0 +1,10 @@
+2,8fc88a94-475d-4fda-918c-9c94712dd115,08080129-1126-0626-0000-924712cee42b,ac9f5207-cc99-4536-a32e-4d1e138ed91a,2026-08-08T13:00:47.332222+10:00
+Premium roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Premium option | Monthly payment | EV-specific support |
+|---|---|---:|---|
+| **RACV** | Total Care | **$27/month** | Out-of-charge towing, high-voltage-trained patrols, unlimited callouts, Australia-wide assistance [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html?utm_source=chatgpt.com) |
+| **NRMA** | Ultimate Care | **$21.99/month** | EV support plus up to 100 km free towing; charging-network benefits [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACV** | Extra Care | **$19.58/month** | EV assistance included, 60 km towing, unlimited callouts [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/extra-care.html?utm_source=chatgpt.com) |
+| **RACQ** | Ultimate Care | **~$25.83/month equivalent** | EV assistance included, up to 100 km towing; high-voltage-aware patrols [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+End Of Line

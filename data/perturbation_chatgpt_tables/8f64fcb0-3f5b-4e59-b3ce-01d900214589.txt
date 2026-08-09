@@ -1,0 +1,10 @@
+2,0dbc6dca-acaa-4e0b-9f34-7494e74ee509,08080130-1126-0626-0000-3dd6868ec0eb,8f64fcb0-3f5b-4e59-b3ce-01d900214589,2026-08-08T13:01:02.747861+10:00
+Cheapest roadside assistance for motorcycles in Australia with instant online quotes
+Tables found: 1
+| Provider | Price | Motorcycle? | Online signup/quote | Key point |
+|---|---:|---|---|---|
+| **Rider Support Australia** | **$69.95/yr** | ✅ | ✅ | Cheapest dedicated motorcycle option |
+| **Motorcycle Assist Australia (MCAA)** | $119/yr | ✅ | ✅ | Motorcycle specialist; 50 km metro / 100 km regional towing |
+| **Rider Support Australia Premium** | $119.95/yr | ✅ | ✅ | More comprehensive; unlimited call-outs |
+| **Budget Direct Roadside** | $76.46/yr first year | ❌ | ✅ | **Doesn't cover motorcycles** |
+End Of Line

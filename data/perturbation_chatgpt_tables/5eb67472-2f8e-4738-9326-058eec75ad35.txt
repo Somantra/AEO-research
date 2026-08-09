@@ -1,0 +1,11 @@
+2,cce2bb38-ca8d-423b-b4ea-2723e4e11de8,08080141-1126-0626-0000-dba3b549c86f,5eb67472-2f8e-4738-9326-058eec75ad35,2026-08-08T13:28:09.816953+10:00
+Most popular accident-only pet insurance in Australia with a fast claims process
+Tables found: 1
+| Provider | Accident-only option | Claims speed | Why consider it |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | **Yes** | ⭐⭐⭐⭐⭐ | Strongest combination of accident-only cover and fast claims |
+| **Medibank Pet Insurance** | Accident-focused options | ⭐⭐⭐⭐⭐ | **GapOnly** can process eligible claims at the vet on the spot |
+| **Bow Wow Meow** | Accident cover available depending on plan | ⭐⭐⭐⭐⭐ | GapOnly + online claims; advertises very fast processing |
+| **Coles Pet Insurance** | Accident cover | ⭐⭐⭐⭐ | Simple online claims; typically **5–10 business days** once documents are complete |
+| **Budget Direct** | Accident-only coverage | ⭐⭐⭐ | Online claims 24/7, but less compelling if speed is your main criterion |
+End Of Line

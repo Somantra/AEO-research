@@ -1,0 +1,10 @@
+1,cef12f82-f957-47b9-a0fa-66528081deef,08080123-1126-0626-0000-cc74d82f5264,5f50fcaa-9caa-41ea-a3c9-7db53cbc694c,2026-08-08T12:44:01.339822+10:00
+Most comprehensive home insurance for renters in Australia
+Tables found: 1
+| Insurer | Why I’d consider it | Key limitation / consideration |
+|---|---|---|
+| **Allianz Renter Insurance** | **Best overall for comprehensive renter-specific cover**. $20m liability, temporary accommodation, pets, storage, debris removal, moving-house cover and optional accidental damage + portable contents. [www.allianz.com.au](https://www.allianz.com.au/home-insurance/renters.html?utm_source=chatgpt.com) | Accidental damage and portable contents are optional, so add them for genuinely comprehensive cover. |
+| **Youi Contents Insurance** | Excellent breadth: flood included, $20m liability, tenants liability, escaping water, temporary accommodation, moving cover and several additional benefits. [www.youi.com.au](https://www.youi.com.au/home-insurance/renters-contents-insurance?utm_source=chatgpt.com)[www.youi.com.au](https://www.youi.com.au/home-insurance/contents-insurance?utm_source=chatgpt.com) | Temporary accommodation for a tenant is limited to additional rent for up to 1 month / 1% of contents sum insured. |
+| **Suncorp Contents Insurance – Classic Advantages** | **Very comprehensive feature set**. Accidental damage and motor burnout included at the highest tier, plus flood, temporary accommodation, portable benefits, storage and other extras. [www.suncorp.com.au](https://www.suncorp.com.au/insurance/home/contents-only/comparison.html?utm_source=chatgpt.com) | Compare the premium against Allianz/Youi; the highest tier may not be worth the extra cost for everyone. |
+| **AAMI Contents Insurance** | Strong mainstream option with new-for-old replacement, $20m liability, temporary accommodation and optional accidental damage. [www.aami.com.au](https://www.aami.com.au/home-insurance/renters?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/home-insurance/accidental-damage.html?utm_source=chatgpt.com) | Some of the broader protection requires optional covers or flexible limits. |
+End Of Line

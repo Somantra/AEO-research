@@ -1,0 +1,12 @@
+2,f71d1409-b701-4c91-ad5b-eb7e862ac28d,08080129-1126-0626-0000-9199cf28628e,75027fa9-74bd-416c-b170-98d5e8a30d84,2026-08-08T12:59:42.025047+10:00
+Most popular home insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Why consider it | Fee transparency |
+|---|---|---|
+| **RACQ** | Highest customer satisfaction in CHOICE’s latest survey (91%); particularly relevant in Queensland | Good — check the PDS for applicable fees |
+| **Youi** | Strong customer satisfaction (67%) and flexible, personalised quoting | Good — PDS is the key document |
+| **Suncorp** | Large, established insurer; 65% of surveyed customers rated home insurance above average/excellent | Good |
+| **NRMA** | Major national provider; straightforward PDS and premium/excess documentation | Good — its PDS states a possible $25 cancellation fee |
+| **AAMI** | Large, popular option with broad availability | Good — its current PDS explicitly lists a $30 cancellation fee in applicable circumstances |
+| **Budget Direct** | Often competitive on price and clearly publishes its fees | Very good — explicitly discloses a possible $40 early-cancellation fee and instalment-processing fees |
+End Of Line

@@ -1,0 +1,13 @@
+2,ea79e9f7-e941-4a55-9834-ce1d5c1cf981,08080126-1126-0626-0000-47574639d5e5,42f07ca6-86ac-4254-b5d7-e795c8ac46c2,2026-08-08T12:51:33.912831+10:00
+Most affordable home insurance for new builds in Australia with monthly payments
+Tables found: 1
+| Insurer | Current indication | Monthly payments |
+|---|---|---|
+| **AAMI** | ⭐ Often among the cheapest | Yes |
+| **GIO** | ⭐ Often cheap in NSW/WA/VIC | Yes |
+| **NRMA** | ⭐ Competitive in NSW/SA | Yes |
+| **Apia** | ⭐ Competitive in several states | Yes |
+| **Budget Direct** | 💰 Often competitive | Yes |
+| **Youi** | 💰 Can be very cheap depending on property | Yes |
+| **Allianz** | Mid-range, but worth quoting | **Yes, at no extra cost** |
+End Of Line

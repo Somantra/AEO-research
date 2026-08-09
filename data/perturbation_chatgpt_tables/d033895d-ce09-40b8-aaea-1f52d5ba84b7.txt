@@ -1,0 +1,9 @@
+1,3ff050d0-d907-4581-8b3f-6f3e3b4d680d,08080132-1126-0626-0000-74414d01e75c,d033895d-ce09-40b8-aaea-1f52d5ba84b7,2026-08-08T13:06:25.592430+10:00
+Most affordable travel insurance for adventure sports in Australia
+Tables found: 1
+| Provider | Best for | Adventure sports notes |
+|---|---|---|
+| InsureandGo Australia | Budget-focused travellers | Often competitive on price; covers 150+ sports/activities as standard, with upgrades available for higher-risk activities such as some diving, trekking and similar activities. [www.insureandgo.com.au](https://www.insureandgo.com.au/we-cover/sports-and-activities/?utm_source=chatgpt.com)[www.worldnomads.com](https://www.worldnomads.com/au/travel-insurance/whats-covered/online-travel-insurance?utm_source=chatgpt.com) |
+| World Nomads | Backpacking/adventure-heavy trips | Covers 220+ adventure activities, including examples like scuba diving, mountain biking, surfing and bungee jumping; some activities may require extra premium. [www.worldnomads.com](https://www.worldnomads.com/au/travel-insurance/whats-covered/online-travel-insurance?utm_source=chatgpt.com) |
+| Cover-More | Broad travel protection | Often considered by travellers who want a more comprehensive policy, but compare the activity exclusions and add-ons. [www.news.com.au](https://www.news.com.au/best-of/best-cover-more-coupons-discount-codes/news-story/9abfb9294e91f144149bfddd139e4665?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,35b806d6-9b61-4c08-b225-d126a66d1d62,08080129-1126-0626-0000-08aac87e01ab,e4b7094b-4823-42c3-a231-ee2010cc111e,2026-08-08T13:00:50.326929+10:00
+Premium roadside assistance for electric vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | EV support | Premium price* | Key advantage |
+|---|---|---:|---|
+| **RACV Total Care** | ✅ High-voltage trained patrols | $318/yr | Up to **200 km** towing when your EV runs out of charge; unlimited call-outs |
+| **RAA Premium** | ✅ EVs & BEVs | $293/yr | Australia-wide cover, unlimited call-outs, EV towing to charging stations |
+| **MyDriveShield** | ✅ EV roadside available | From $154/yr | **Instant online pricing** and online purchase |
+| **NRMA** | ✅ EV roadside options | Varies | Strong nationwide roadside network |
+End Of Line

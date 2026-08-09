@@ -1,0 +1,12 @@
+2,28ef761e-10f2-4816-a50e-25201af827fa,08080125-1126-0626-0000-f972f4cf2ebe,f7ed2dd5-92bf-4a3a-9048-0b2da8f410b7,2026-08-08T12:50:51.529601+10:00
+Least reliable home insurance for landlords in Australia compared to other providers
+Tables found: 1
+| Provider | Current reliability signal | My take for landlords |
+|---|---|---|
+| **Allianz** | CHOICE found only **55%** of home-insurance customers rated their experience above average/excellent, below several major competitors. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) | **Below average** |
+| **QBE** | Strong landlord-specific results: Canstar award winner and ProductReview's **2026 Top Rated Landlord Insurance**. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/landlord-insurance/?utm_source=chatgpt.com) | **Good** |
+| **Suncorp** | CHOICE found **65%** above-average/excellent satisfaction; Canstar also gives Suncorp landlord awards in several categories. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/landlord-insurance/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/suncorp?utm_source=chatgpt.com) | **Above average** |
+| **AAMI** | 60% above-average/excellent in CHOICE; received several 2026 Canstar landlord awards and Finder recognition. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/suncorp?utm_source=chatgpt.com) | **Reasonably good** |
+| **NRMA** | Finder's **2026 Most Trusted, Easiest to Claim and Most Recommended** landlord insurer. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/suncorp?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/landlord-insurance-satisfaction?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) | **One of the stronger choices** |
+| **CGU** | Only **48%** of CHOICE respondents rated its home-insurance experience above average/excellent—the lowest among the insurers listed in that survey. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/suncorp?utm_source=chatgpt.com) | **Potential red flag** |
+End Of Line

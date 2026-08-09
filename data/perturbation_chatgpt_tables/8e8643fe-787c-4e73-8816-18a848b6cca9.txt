@@ -1,0 +1,16 @@
+1,d3694aa1-f564-42bc-8794-01d6497ac891,08080116-1126-0626-0000-e3bd84a466da,8e8643fe-787c-4e73-8816-18a848b6cca9,2026-08-08T12:28:25.889920+10:00
+Least reliable car insurance for small cars in Australia
+Tables found: 1
+| Insurer | Above-average/excellent overall experience |
+|---|---:|
+| **Allianz** | **61%** |
+| **AAMI** | **62%** |
+| **Budget Direct** | **62%** |
+| **RACV** | **64%** |
+| Suncorp | 68% |
+| NRMA Insurance | 72% |
+| Youi | 77% |
+| RAC | 77% |
+| RACQ | 85% |
+| RAA | 91% |
+End Of Line

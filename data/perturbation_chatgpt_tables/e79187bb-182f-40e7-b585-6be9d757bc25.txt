@@ -1,0 +1,10 @@
+2,528f81c5-95a0-4095-953d-f80095cd6442,08080139-1126-0626-0000-2ba40f662245,e79187bb-182f-40e7-b585-6be9d757bc25,2026-08-08T13:23:02.736598+10:00
+Most popular pet insurance for older pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Older pet suitability | Notes |
+|---|---|---|---|
+| Australian Seniors Insurance Agency | Older owners/pets needing accessible cover | ⭐⭐⭐⭐ | Offers pet insurance options with higher entry ages on some products; its Basic Accident & Illness cover allows pets under 16 to apply. [www.seniors.com.au](https://www.seniors.com.au/pet-insurance?utm_source=chatgpt.com) |
+| Petcover Australia | Older pets where age limits matter | ⭐⭐⭐⭐ | Appears among comparison listings for senior pets; check specific plan entry ages and exclusions. [www.finder.com.au](https://www.finder.com.au/pet-insurance/seniors-pet-insurance?utm_source=chatgpt.com) |
+| Medibank | Higher benefit limits | ⭐⭐⭐⭐ | Some plans offer high annual benefit limits and are listed among senior-pet comparison options. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Broad cover options | ⭐⭐⭐⭐ | Often considered by owners wanting comprehensive accident/illness cover; check age eligibility for new policies. [www.canstar.com.au](https://www.canstar.com.au/pet-insurance/old-dog-cat-insurance/?utm_source=chatgpt.com) |
+End Of Line

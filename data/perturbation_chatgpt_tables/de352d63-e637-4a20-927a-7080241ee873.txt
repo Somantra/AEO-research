@@ -1,0 +1,11 @@
+2,5b3db2b1-991f-4c15-9920-08f0b42f20c1,08080123-1126-0626-0000-bb4438c7c375,de352d63-e637-4a20-927a-7080241ee873,2026-08-08T12:44:58.020850+10:00
+Premium third-party motorcycle insurance in Australia without hidden fees
+Tables found: 1
+| Insurer | Why consider it | Fee transparency |
+|---|---|---|
+| **AAMI** | Up to **$20m** third-party property liability; up to $5,000 uninsured-driver damage to your bike | Strong — current PDS explicitly states monthly instalments have additional costs [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance/third-party-property?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/assets/documents/aami/motor/motorcycle/pds-motorcycle.pdf?utm_source=chatgpt.com) |
+| **NRMA** | TPPD motorcycle cover; **monthly, quarterly or annual payments at no extra cost** | **Best fit if avoiding payment fees is your priority** [www.aami.com.au](https://www.aami.com.au/motorcycle-insurance/third-party-property?utm_source=chatgpt.com)[www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance?utm_source=chatgpt.com)[www.aami.com.au](https://www.aami.com.au/assets/documents/aami/motor/motorcycle/pds-motorcycle.pdf?utm_source=chatgpt.com) |
+| **Budget Direct** | Competitive TPPD; guaranteed authorised repairs; adjustable excess | Good, but **annual payment is cheaper because instalment processing fees apply** [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| **National Motorcycle Insurance** | Motorcycle-focused insurer; dedicated Third Party Only option | Worth quoting, particularly for riders wanting motorcycle-specific cover [insure.nationalmotorcycleinsurance.com.au](https://insure.nationalmotorcycleinsurance.com.au/insure/?utm_source=chatgpt.com) |
+| **Mi-bike** | Motorcycle-focused option that appears in current Australian TPPD comparisons | Worth getting a quote alongside the larger insurers [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/third-party-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

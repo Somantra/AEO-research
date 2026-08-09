@@ -1,0 +1,9 @@
+2,69b897a8-8079-4f75-8998-b3fbe2b2fe29,08080141-1126-0626-0000-c83700bf559a,517b4ca0-ca21-431d-815a-967fa21e6b42,2026-08-08T13:27:52.983819+10:00
+Least reliable accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Provider / plan | My view | Main concern |
+|---|---|---|
+| **PetsOnMe Accident Plan** | 🔴 **Weakest** | Only $5,000 annual limit; CHOICE ranks PetsOnMe among the lowest-rated policies overall |
+| **Petcover accident cover** | 🟠 Below average | CHOICE also identifies Petcover among the lowest-rated policies overall |
+| **Other accident-only products** | 🟡 Varies | Need to compare limits, exclusions and reimbursement carefully |
+End Of Line

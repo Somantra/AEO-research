@@ -1,0 +1,9 @@
+1,70ed07e2-341f-4905-b389-05f075a815ee,08080130-1126-0626-0000-c28e976caa3b,625d2572-282d-4e48-844a-8075e89dd0f3,2026-08-08T13:01:02.321620+10:00
+Premium roadside assistance for hybrid cars in Australia
+Tables found: 1
+| Provider | Premium option | Hybrid/EV support | Key premium benefit |
+|---|---|---|---|
+| **[NRMA](https://www.nrma.com.au/roadside-assistance)** | Ultimate Care | Yes | Up to **100 km towing**; national reciprocal coverage |
+| **[RACV](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html)** | Total Care | Yes | **Unlimited callouts**, 100 km standard towing, EV-specific support |
+| **[RACQ](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles)** | Higher-tier plans | Yes | High-voltage-aware patrols and charging/towing assistance |
+End Of Line

@@ -1,0 +1,12 @@
+2,6aef0c97-ab9b-4bdd-bd7a-a6332754368a,08080119-1126-0626-0000-5ba663b3505a,7dacd99a-d57f-49db-8676-b123bba0379b,2026-08-08T12:34:41.287506+10:00
+Most popular car insurance for used cars in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it | Online quote |
+|---|---|---|
+| **Budget Direct** | Often competitive on price; strong option to check for an older/used car | Yes |
+| **NRMA** | Major insurer, comprehensive and third-party options; up to 10% online discount currently advertised | Yes [www.nrma.com.au](https://www.nrma.com.au/car-insurance/comprehensive-car-insurance?mid=ms15758626i32648591&utm_source=chatgpt.com) |
+| **RACQ** | Particularly worth checking if you're in Queensland; 750,000+ RACQ car-insurance customers and online quotes | Yes [www.racq.com.au](https://www.racq.com.au/car/car-insurance/comprehensive-car-insurance?utm_source=chatgpt.com) |
+| **AAMI** | Large mainstream insurer and commonly worth including in price comparisons | Yes |
+| **Youi** | Quotes are highly personalised, so it can be surprisingly cheap for some drivers | Yes |
+| **Allianz** | Major national insurer; worth getting a comparison quote | Yes |
+End Of Line

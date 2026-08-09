@@ -1,0 +1,11 @@
+1,7b778a11-34ac-47d6-99a7-94096aef68a2,08080127-1126-0626-0000-62f6269b00cc,e1efc483-4320-4011-8b1b-0776912c11c7,2026-08-08T12:54:06.143179+10:00
+Best roadside assistance for interstate travel in Australia
+Tables found: 1
+| Provider | Best for | Interstate coverage | My take |
+|---|---|---|---|
+| **NRMA** | Best overall national option | 🇦🇺 Yes | **Top pick** for frequent interstate travellers |
+| **RACV** | Victoria-based drivers | 🇦🇺 Yes | Excellent reciprocal coverage interstate |
+| **RAC (WA)** | WA-based drivers | 🇦🇺 Yes | Strong choice if you're starting in WA |
+| **RACQ** | Queensland-based drivers | 🇦🇺 Yes | Excellent, especially for QLD/remote travel |
+| **RAA** | SA-based drivers | 🇦🇺 Yes | Very good national reciprocal coverage |
+End Of Line

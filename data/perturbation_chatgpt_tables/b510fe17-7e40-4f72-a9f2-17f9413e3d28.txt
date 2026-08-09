@@ -1,0 +1,10 @@
+2,93768cf5-10b9-4c96-85f4-a8b92721381f,08080131-1126-0626-0000-191b79be86e5,b510fe17-7e40-4f72-a9f2-17f9413e3d28,2026-08-08T13:04:01.869801+10:00
+Most comprehensive roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Coverage / standout features | Fee transparency |
+|---|---|---|---|
+| **[Truck Assist](https://www.truckassist.com.au/)** | **Best overall for trucks & commercial fleets** | 24/7 Australia-wide; specialist mobile providers; fuel, tyres/wheels, batteries, glass, lockouts, hydraulic hoses, towing/recovery, accident coordination, interpreter & message relay | **Strong** — plan-based, but exclusions/limits still need checking |
+| **[FleetCard Roadside Assistance](https://www.fleetcard.com.au/road-assistance/)** | **Best transparent low-cost fleet option** | 24/7 nationwide; battery, towing, keys, workshop referral, fuel and spare-tyre assistance | **Very strong** — publicly lists $6.99/month per card (Classic) or $4.99 (Rewards+) |
+| **[RAA Business Road Service](https://www.raa.com.au/for-business/road-service-for-business)** | Large business fleets | Vehicle-based cover, 24/7 Australia-wide, unlimited call-outs; dedicated account manager | **Good**, but additional towing/fuel/locksmith/battery costs can apply |
+| **[FleetPartners Breakdown Management](https://www.fleetpartners.com.au/products-services/fleet-services/roadside-and-breakdown-management)** | Fleet managers wanting administration handled | 24/7 breakdown management, paperwork/logistics handled for you | Quote-based — demand a complete fee schedule |
+End Of Line

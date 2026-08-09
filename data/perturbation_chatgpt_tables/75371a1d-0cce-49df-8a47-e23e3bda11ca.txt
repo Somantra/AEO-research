@@ -1,0 +1,11 @@
+2,bb55a52e-82fb-4de1-a767-77a22a129b8c,08080139-1126-0626-0000-433ece953b76,75371a1d-0cce-49df-8a47-e23e3bda11ca,2026-08-08T13:23:15.229442+10:00
+Cheapest pet insurance for multiple pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Multi-pet discount | Customer reviews | My take |
+|---|---:|---:|---|
+| **Bow Wow Meow** | **10% off** 2nd + subsequent pets | **4.5/5, 3,237 reviews** | ⭐ **Best overall balance** |
+| **Petsy** | **5% off** additional pets | **4.9/5** on ProductReview | ⭐ Best for reviews |
+| **Budget Direct** | Very competitive pricing | **1.8/5** on ProductReview | 💰 Cheapest-looking, but I'd be cautious |
+| **Pet Insurance Australia** | Varies by policy | **4.5/5** on ProductReview | 👍 Strong alternative |
+| **Knose** | Varies | **4.8/5** on ProductReview | 👍 Strong customer satisfaction |
+End Of Line

@@ -1,0 +1,10 @@
+2,c19893da-edae-4c39-bd05-7795e7adfa74,08080140-1126-0626-0000-ae4d831907aa,16b79785-03e0-4d0e-ab2b-8a5890b790dc,2026-08-08T13:25:52.606533+10:00
+Cheapest pet insurance for large dog breeds in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it | Main catch |
+|---|---|---|
+| **Pet Insurance Australia** | Strong value; current benchmark quotes show it among the cheapest. Offers **$15k/$25k/$35k limits, 70–90% reimbursement and $0–$600 annual excess**, with **no condition/treatment sub-limits** on its core cover. [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com)[www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/our-pet-insurance-cover-options/?utm_source=chatgpt.com) | Optional extras cost more; premiums can still rise with age/underwriting |
+| **Bow Wow Meow** | Also very competitive on price; a current 2026 comparison put it only ~$10/year above PIA at a broadly comparable coverage level. [insu.au](https://insu.au/compare/cheapest-pet-insurance-australia/?utm_source=chatgpt.com) | Need to check the specific quote/PDS for exclusions and limits |
+| **Petsy** | Transparent, flexible plans and good published example pricing. A 1-year-old Golden Retriever in Sydney was quoted at **$69.77/month for $25k cover, 80% reimbursement and $500 excess** in April 2026. [petsy.com.au](https://petsy.com.au/pet-insurance-quote/?utm_source=chatgpt.com) | Not the cheapest in the like-for-like comparison; lower excess substantially increases premium |
+| **Budget Direct** | Worth quoting, particularly while its **15% first-year online discount** applies. Offers up to $25k annual cover on Plus. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/comprehensive.html?utm_source=chatgpt.com) | Has important sub-limits—for example, cruciate, tick paralysis and snake-attack limits—so the headline annual limit isn't the whole story. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/pet-insurance/compare-policies.html?utm_source=chatgpt.com) |
+End Of Line

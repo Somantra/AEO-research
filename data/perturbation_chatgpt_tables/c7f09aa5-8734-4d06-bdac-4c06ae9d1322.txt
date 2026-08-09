@@ -1,0 +1,14 @@
+2,6004079d-a1bc-4221-80b6-5338434f72f9,08080117-1126-0626-0000-0382bc9f90eb,c7f09aa5-8734-4d06-bdac-4c06ae9d1322,2026-08-08T12:29:49.583778+10:00
+Worst car insurance for P-plate drivers in Australia compared to other providers
+Tables found: 1
+| Provider | P-plater value | My take |
+|---|---|---|
+| **Bingle** | 🟢 Excellent | Often one of the cheapest comprehensive options |
+| **NRMA** | 🟢/🟡 Good | Can be surprisingly competitive for young drivers |
+| **Youi** | 🟢/🟡 Good | Often strong features, but quotes vary considerably |
+| **Budget Direct** | 🟡 Good | Frequently competitive, but compare excesses carefully |
+| **AAMI** | 🟡 Average | Can be expensive for young drivers depending on profile |
+| **Allianz** | 🟡 Average | Worth quoting, but not automatically cheap for Ps |
+| **Suncorp/GIO** | 🟡/🔴 Variable | Can be expensive for younger drivers |
+| **QBE / other major insurers** | 🟡/🔴 Variable | Quote-dependent; don't assume they're competitive |
+End Of Line

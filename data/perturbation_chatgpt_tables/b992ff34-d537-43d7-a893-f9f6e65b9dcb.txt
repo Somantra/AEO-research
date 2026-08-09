@@ -1,0 +1,9 @@
+1,493366e4-8679-4cef-a6f0-98a5b90c667f,08080127-1126-0626-0000-81ac601f5ee3,b992ff34-d537-43d7-a893-f9f6e65b9dcb,2026-08-08T12:54:20.405140+10:00
+Least reliable roadside assistance for interstate travel in Australia
+Tables found: 1
+| Provider type | Why travellers report problems |
+|---|---|
+| **Cheap third-party roadside add-ons (often bundled with insurance)** | They may rely on outsourced contractors, which can mean slower response in rural areas and less specialised support. |
+| **Basic entry-level memberships** | Often have shorter towing distances, fewer inclusions, and more restrictions that become important hundreds of kilometres from home. |
+| **Small regional-only services** | They may be excellent locally but have limited interstate networks. |
+End Of Line

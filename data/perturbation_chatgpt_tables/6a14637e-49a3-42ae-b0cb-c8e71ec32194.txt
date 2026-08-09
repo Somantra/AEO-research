@@ -1,0 +1,10 @@
+2,b529ecf0-7d79-428e-8c40-9f21a2a83312,08080139-1126-0626-0000-b19f10dbc3ed,6a14637e-49a3-42ae-b0cb-c8e71ec32194,2026-08-08T13:24:05.812275+10:00
+Most comprehensive pet insurance for multiple pets in Australia without hidden fees
+Tables found: 1
+| Provider | Comprehensive cover | Multi-pet discount | Annual/payout limits | Fee transparency | My take |
+|---|---|---|---|---|---|
+| **Pet Insurance Australia** | Excellent | **5% 2nd, 10% 3rd, 15% 4th+** | **$15k/$25k/$35k** | Good, but instalment fee | **Best overall for multiple pets** |
+| **Knose** | Excellent | **5% lifetime** | $7.5k/$12.5k/$25k | **Very transparent**; up to $5/month policy fee | **Best for transparency** |
+| **Trupanion** | Exceptional | No obvious multi-pet discount | **No payout limits** | Simple structure, but potentially expensive | **Best catastrophic/lifetime cover** |
+| **Bow Wow Meow** | Excellent | **10% on additional pets** | $10k/$20k/$30k | Good, but instalment fee | **Strong alternative** |
+End Of Line

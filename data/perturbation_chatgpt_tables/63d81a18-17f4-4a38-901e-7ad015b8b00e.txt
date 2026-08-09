@@ -1,0 +1,10 @@
+2,ddefc434-b251-471f-911f-ac3bcfed9623,08080139-1126-0626-0000-215ae66a5481,63d81a18-17f4-4a38-901e-7ad015b8b00e,2026-08-08T13:24:15.743571+10:00
+Best pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims speed | My take |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | Some temporary conditions can become eligible after **18 months symptom-free**; chronic conditions generally remain excluded | **GapOnly claims can settle in ~10 min** at participating vets; eClaims typically ~5 business days | ⭐ **Best overall for fast claims + potential review** |
+| **Petsy** | Can insure the pet, but existing conditions are generally excluded; some temporary conditions can have exclusions reviewed | Usually **5–10 business days**; potentially faster if pre-existing assessment is done upfront | ⭐ **Best for upfront medical-history assessment** |
+| **Fetch** | Existing conditions generally excluded, but its pre-existing-condition assessment establishes exclusions upfront | **FetchPay can pay the vet directly** after the pre-existing check | ⭐ **Best for direct-to-vet claims** |
+| **Trupanion** | **Does not cover pre-existing conditions** | Direct vet payment available at participating hospitals | Excellent for *new* conditions, but not your priority if the existing condition is important |
+End Of Line

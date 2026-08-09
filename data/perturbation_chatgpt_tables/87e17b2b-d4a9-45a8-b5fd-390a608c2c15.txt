@@ -1,0 +1,11 @@
+2,81543998-51de-48fc-b16e-1fd7b7bf9c48,08080137-1126-0626-0000-0ce76bc9b9a5,87e17b2b-d4a9-45a8-b5fd-390a608c2c15,2026-08-08T13:20:07.060016+10:00
+Worst travel insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider/policy type | What I'd be cautious about | My take |
+|---|---|---|
+| **AIG/Jetstar travel insurance** | Recent dispute over a major medical claim and alleged pre-existing-condition interpretation | ⚠️ **High caution** |
+| **Allianz** | Claims/customer-service complaints exist; policy sub-limits and exclusions need careful checking | ⚠️ **Compare carefully** |
+| **1Cover** | Explicit administration fee of up to **$25** when cancelling after the 14-day cooling-off period | ⚠️ **Not “no-fee”** |
+| **Credit-card travel insurance** | Often looks free/cheap but can have higher excesses, activation requirements and different coverage than the insurer's retail policy | ⚠️ **Read the PDS** |
+| **Any policy sold through an airline/travel agent** | May be a white-label policy where the insurer, excess and benefits differ from the insurer's direct product | ⚠️ **Compare the actual PDS** |
+End Of Line

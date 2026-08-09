@@ -1,0 +1,14 @@
+2,0a23950e-ee28-45ad-8cd1-250c37b183af,08080122-1126-0626-0000-687c0b7379b4,9f99359a-35aa-401b-90d7-f12db50a1542,2026-08-08T12:41:15.913378+10:00
+Worst motorcycle insurance for high-performance bikes in Australia compared to other providers
+Tables found: 1
+| Provider/type | High-performance-bike suitability | Main issue |
+|---|---|---|
+| **AAMI** | 🔴 Often poor value | Can be very expensive for bikes; Finder's 2026 comparison found it the most expensive of its sample |
+| **GIO** | 🔴/🟠 Variable | Can quote aggressively high for motorcycles depending on rider |
+| **NRMA** | 🟢 Price / 🟠 features | Often cheap, but cheaper doesn't necessarily mean the best high-performance-bike coverage |
+| **QBE** | 🟢🟢 Strong value | Competitive pricing and good overall cover |
+| **Budget Direct** | 🟢 Price | Worth quoting, but scrutinise limits/exclusions |
+| **Youi** | 🟢🟢 Coverage/service | Often strong coverage, but quote is highly individual |
+| **National Motorcycle Insurance** | 🟢🟢🟢 Excellent for serious riders | Particularly strong motorcycle-specific features |
+| **Shannons / specialist insurers** | 🟢🟢🟢 Potentially excellent | Particularly worth investigating for enthusiast/high-value bikes, but eligibility/storage requirements matter |
+End Of Line

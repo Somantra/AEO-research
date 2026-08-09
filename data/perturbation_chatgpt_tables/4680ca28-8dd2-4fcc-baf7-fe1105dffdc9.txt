@@ -1,0 +1,11 @@
+2,6a7ebef6-fa76-4601-a25a-ea23406d75cb,08080128-1126-0626-0000-9abc656d09db,4680ca28-8dd2-4fcc-baf7-fe1105dffdc9,2026-08-08T12:57:00.292733+10:00
+Worst home insurance for flood-prone areas in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Flood suitability | Customer reputation | My take |
+|---|---|---|---|
+| **NRMA Insurance** | ✅ Flood included on listed policy | ⭐ Strong | **Best overall starting point** |
+| **RACQ** | ✅ Strong flood-market presence in QLD | ⭐ Excellent | **Excellent for Queensland** |
+| **QBE** | ✅ Flood cover available | ⭐ Good | **Best flood-focused option** |
+| **Youi** | ✅ Flood included on listed policy | ⭐ Very strong | Good service/value contender |
+| **AAMI** | ✅ Flood available | ⭐ Strong | Worth quoting alongside NRMA/QBE |
+End Of Line

@@ -1,0 +1,9 @@
+2,db8208d0-5b47-4d63-82d3-3f6fb6a953e0,08080139-1126-0626-0000-953bd91d8b3b,e3c5bcab-dd48-42a4-a2a3-e62e6e9b4322,2026-08-08T13:23:39.965647+10:00
+Easiest pet insurance for multiple pets in Australia with strong customer reviews
+Tables found: 1
+| Provider | Customer reviews | Multi-pet discount | Why I’d consider it |
+|---|---:|---:|---|
+| **Petsy** | ⭐ 4.9/5 (323 reviews) | Check quote | Best customer-service reputation |
+| **Knose** | ⭐ 4.8/5 (747 reviews) | **5%** | Excellent mix of easy claims + multi-pet support |
+| **Fetch** | ⭐ 4.8/5 (562 reviews) | **5%** | Strongest overall coverage/value combination |
+End Of Line

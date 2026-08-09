@@ -1,0 +1,10 @@
+2,a57652f9-fa54-4964-88bf-1baf5b508499,08080132-1126-0626-0000-e2b7621d9fb9,0ac5473b-d8cb-4d9a-a7ec-d30c2ddedafe,2026-08-08T13:08:30.524313+10:00
+Worst standalone roadside assistance cover in Australia with monthly payments
+Tables found: 1
+| Provider | Basic monthly price | Basic towing | My view |
+|---|---:|---:|---|
+| **RAA Standard** | $11.25 | 10 km metro | ⚠️ Weakest basic towing |
+| **RAC WA Standard** | $11.30 | 25 km metro | ⚠️ Limited |
+| **RACV Roadside Care** | $12 | 20 km metro | ⚠️ Limited |
+| **NRMA Everyday Care** | $9.99 promotional | 25 km metro | 👍 Better basic value |
+End Of Line

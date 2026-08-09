@@ -1,0 +1,12 @@
+2,f6dfaf98-cd5a-4f68-b7fb-2fac07f3603e,08080130-1126-0626-0000-125857ed4628,6906e9c3-f7b8-4012-9a01-3f79dad88a4e,2026-08-08T13:01:52.585619+10:00
+Premium roadside assistance for motorcycles in Australia compared to other providers
+Tables found: 1
+| Provider / premium option | Approx. annual price | Towing | Call-outs | Motorcycle-specific? | Strongest feature |
+|---|---:|---|---|---|---|
+| **Rider Support Australia – Premium** | **$119.95** | 50 km metro / 100 km country | Unlimited | **Yes** | Accommodation, rental car, onward travel, illness cover |
+| **Recover My Ride – Premium** | **$149** | **Unlimited** metro & regional* | Unlimited | **Yes** | Best towing proposition |
+| **RACQ – Ultra Care** | **$227** | 60 km | Premium cover | No, but motorcycles eligible | Large network + covers you in other eligible vehicles |
+| **RACQ – Ultimate Care** | **$310** | **100 km** | Premium cover | No, but motorcycles eligible | Excellent for frequent long-distance touring |
+| **NRMA – Ultimate Care** | **~$299** | Higher-tier towing/benefits | Unlimited | Motorcycles included | Nationwide club network |
+| **Basic specialist plans** | ~$60–100 | Typically 25–100 km | Limited/unlimited | **Yes** | Cheapest motorcycle-focused option |
+End Of Line

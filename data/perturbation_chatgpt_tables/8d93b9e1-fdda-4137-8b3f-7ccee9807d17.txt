@@ -1,0 +1,11 @@
+2,0af6e8bf-0ca1-4636-89da-449d2ac37f55,08080131-1126-0626-0000-b063d2aa886f,8d93b9e1-fdda-4137-8b3f-7ccee9807d17,2026-08-08T13:05:54.262002+10:00
+Most popular roadside assistance plans in Australia with a fast claims process
+Tables found: 1
+| Provider | Why it stands out | Indicative price* | Speed / convenience |
+|---|---|---:|---|
+| **RACQ** | Excellent response performance in QLD | $80–$227/yr | **35-min average** response in QLD; online/app requests [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance?utm_source=chatgpt.com) |
+| **RACV** | Strong VIC option, excellent app | Plan-dependent | Usually **within 1 hour**; app offers real-time patrol tracking in metro Melbourne [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| **NRMA** | Huge network, particularly attractive in NSW/ACT | From ~$137/yr | 24/7, unlimited callouts Australia-wide; Australia's largest roadside network [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **Allianz** | Good lower-cost nationwide alternative | $99–$139/yr | 24/7 Australia-wide mobile mechanics; 48-hour waiting period [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com)[www.raa.com.au](https://www.raa.com.au/en/component-library/compare-alt-bg?utm_source=chatgpt.com) |
+| **RAA** | Very strong SA option | $103–$200/yr | 24/7 Australia-wide; 350+ patrols; Premium is its most popular plan [www.raa.com.au](https://www.raa.com.au/en/component-library/compare-alt-bg?utm_source=chatgpt.com) |
+End Of Line

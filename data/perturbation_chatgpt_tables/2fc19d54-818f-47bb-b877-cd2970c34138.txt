@@ -1,0 +1,10 @@
+1,a329e83a-4574-46ac-a290-380f43645dc9,08080131-1126-0626-0000-9a1f324e8103,2fc19d54-818f-47bb-b877-cd2970c34138,2026-08-08T13:04:01.185981+10:00
+Worst travel insurance for backpackers in Australia
+Tables found: 1
+| Policy | CHOICE Expert Rating | Why avoid? |
+|---|---:|---|
+| **Flight Centre Silver** | **50%** | Very poor value; expensive relative to cover |
+| **Flight Centre Gold** | **52%** | Good cover, but one of the most expensive |
+| **1Cover Medical Only** | **54%** | Medical cover only; little/no protection for baggage, missed flights etc. |
+| **World Nomads Standard** | **54%** | Average cover at an average price; cheaper policies offer more |
+End Of Line

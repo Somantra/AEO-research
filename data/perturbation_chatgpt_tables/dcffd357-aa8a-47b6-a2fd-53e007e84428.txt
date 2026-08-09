@@ -1,0 +1,11 @@
+2,10b1d881-3886-40c6-9213-92ce1447f70d,08080130-1126-0626-0000-dee22a938453,dcffd357-aa8a-47b6-a2fd-53e007e84428,2026-08-08T13:00:54.468069+10:00
+Most comprehensive roadside assistance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | EV strengths | Customer sentiment |
+|---|---|---|---|
+| NRMA | Best national-style coverage (especially NSW) | EV-capable patrol network, towing, battery/charging-related assistance options | Very strong reviews; ProductReview shows around 4.5/5 from many reviews, with praise for professionalism and response times. [www.productreview.com.au](https://www.productreview.com.au/listings/nrma-roadside-assistance?utm_source=chatgpt.com) |
+| RAC Western Australia | Best choice in WA | EV roadside support, strong local network | Among the highest-rated major providers; ProductReview lists RAC Roadside Assistance around 4.8/5 with strong comments on service quality. [www.productreview.com.au](https://www.productreview.com.au/listings/rac-roadside-assistance?utm_source=chatgpt.com) |
+| RACQ | Best for Queensland EV owners | Specifically advertises EV roadside assistance with high-voltage-aware patrols and EV support. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) | Mixed-to-good reviews; Canstar recognised RACQ for customer satisfaction in Queensland. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-roadside-assistance/?utm_source=chatgpt.com) |
+| RACV | Best for Victoria | EV assistance available through its roadside network | Canstar recognised RACV for Victorian customer satisfaction, though independent review scores are more mixed. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-roadside-assistance/?utm_source=chatgpt.com) |
+| 24/7 Roadservices Australia | Value-focused alternative | General EV capability varies by contractor/location | Very high online review scores in some channels, but coverage depth may not match major motoring clubs. [www.productreview.com.au](https://www.productreview.com.au/listings/racq-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

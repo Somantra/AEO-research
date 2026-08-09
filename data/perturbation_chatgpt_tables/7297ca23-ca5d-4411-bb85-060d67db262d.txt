@@ -1,0 +1,10 @@
+2,f70ce2a6-6613-41dc-98ba-1f4df93fa6a6,08080132-1126-0626-0000-b89184d04dc0,7297ca23-ca5d-4411-bb85-060d67db262d,2026-08-08T13:08:02.855767+10:00
+Most popular roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Current basic price* | Hybrid suitability | Fee transparency | My take |
+|---|---:|---|---|---|
+| **RAC (WA)** | $128/yr | ✅ Good | ⭐⭐⭐⭐ | **Best if you're in WA** |
+| **NRMA (NSW/ACT)** | $112/yr annual promo | ✅ Good | ⭐⭐⭐⭐ | Excellent value |
+| **RACQ (QLD)** | $109/yr | ✅ Good | ⭐⭐⭐⭐ | Strong QLD option |
+| **RACV (VIC)** | varies by cover | ✅ Good | ⭐⭐⭐⭐ | Strong VIC option |
+End Of Line

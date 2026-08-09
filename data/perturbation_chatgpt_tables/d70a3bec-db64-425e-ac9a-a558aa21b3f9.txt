@@ -1,0 +1,15 @@
+1,17588b40-ffdc-4076-a766-b8addb7c6f2b,08080126-1126-0626-0000-a6f12b5e9612,d70a3bec-db64-425e-ac9a-a558aa21b3f9,2026-08-08T12:52:02.952594+10:00
+Most popular home insurance providers in Australia
+Tables found: 1
+| Provider | Known for |
+|---|---|
+| NRMA Insurance | One of Australia’s largest home insurers; strong presence in NSW and part of the Insurance Australia Group network. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/articles/allianz-nrma-qbe-aami-gio-and-suncorp-insurance-compared?utm_source=chatgpt.com) |
+| AAMI | Large direct insurer; often compared for value and bundled insurance discounts. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| Suncorp Group | Major Australian insurer with home, contents and landlord insurance products. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| Allianz Australia | Large global insurer with a significant Australian home insurance business. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| QBE Insurance Group | Australian-founded insurer offering home insurance among other products. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| Youi | Known for personalised pricing and customer-focused marketing. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/articles/allianz-nrma-qbe-aami-gio-and-suncorp-insurance-compared?utm_source=chatgpt.com) |
+| GIO General | Established insurer, part of Suncorp’s Australian insurance brands. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/articles/allianz-nrma-qbe-aami-gio-and-suncorp-insurance-compared?utm_source=chatgpt.com) |
+| Budget Direct | Popular online-focused insurer, often competing on price. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com) |
+| RACV / state motoring clubs (RACQ, RAC, RAA, etc.) | Strong regional customer bases and often competitive for local risks. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/providers/?utm_source=chatgpt.com)[www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/articles/allianz-nrma-qbe-aami-gio-and-suncorp-insurance-compared?utm_source=chatgpt.com) |
+End Of Line

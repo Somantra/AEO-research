@@ -1,0 +1,10 @@
+2,47e745d7-ab6d-4ce8-ac57-463e5f182fcf,08080131-1126-0626-0000-5134e9ac865d,868b4007-6f64-4f85-9870-ac6a21f0f6fe,2026-08-08T13:05:35.320881+10:00
+Least reliable roadside assistance plans in Australia with a fast claims process
+Tables found: 1
+| Provider | Reliability signal | Speed/process | My take |
+|---|---|---|---|
+| **RACV** | **Poorer** — 2.6/5, 64% negative reviews on ProductReview | Usually within **1 hour**; app tracking in metro Melbourne | **Biggest caution** if reliability is your priority |
+| **RACQ** | **Mixed/poor** — 3.2/5, 51% negative | Large Queensland network; generally straightforward callout | Worth scrutinising before buying |
+| **NRMA** | **Generally good**, 4.5/5 | Often 15–30 min in reviews, but some regional waits of 3+ hours | Not one I'd call unreliable overall |
+| **RAC WA** | **Very good**, 4.8/5 | Generally quick, although isolated long-wait reports exist | **Not a poor-reliability choice** |
+End Of Line

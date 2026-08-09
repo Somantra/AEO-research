@@ -1,0 +1,10 @@
+0,718f3e27-2d12-46ef-a88f-661acd4532cf,08080118-1126-0626-0000-74373abfd8af,ed64f8fe-b657-464f-a10e-9a9814c08a37,2026-08-08T12:31:40.312517+10:00
+pet insurance for dogs in Australia
+Tables found: 1
+| Cover type | Usually covers | Best for |
+|---|---|---|
+| **Accident only** | Injuries from accidents (e.g., fractures, swallowed objects) | Lower-cost protection |
+| **Accident + illness** | Accidents plus illnesses (e.g., cancer, infections, hereditary conditions if eligible) | Most dog owners |
+| **Comprehensive** | Accident + illness plus optional extras (varies) | Owners wanting broader protection |
+| **Routine care add-ons** | Vaccinations, flea/worm treatments, some preventative care | Budgeting routine costs (often limited value) |
+End Of Line

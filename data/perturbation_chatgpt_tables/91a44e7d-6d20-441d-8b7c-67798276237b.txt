@@ -1,0 +1,11 @@
+2,a331a965-9e9d-44e9-b46d-84bca45ec328,08080131-1126-0626-0000-f5c37d955529,91a44e7d-6d20-441d-8b7c-67798276237b,2026-08-08T13:04:08.461371+10:00
+Most affordable roadside assistance for older cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Approx. annual cost | Call-outs | Towing | Older-car suitability |
+|---|---:|---|---|---|
+| **Budget Direct** | **$89.95** | Unlimited | Up to 20 km | ⭐⭐⭐⭐ |
+| **Allianz** | **From $99** | — | Up to 50 km | ⭐⭐⭐⭐ |
+| **NRMA** | **$112** | Unlimited | 25 km metro | ⭐⭐⭐⭐⭐ |
+| **RACV** | **$138** | — | 20 km metro | ⭐⭐⭐⭐ |
+| **RAA** | **$103** | 4/year | Varies | ⭐⭐⭐⭐ |
+End Of Line

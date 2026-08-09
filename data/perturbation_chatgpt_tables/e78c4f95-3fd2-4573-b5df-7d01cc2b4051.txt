@@ -1,0 +1,10 @@
+2,c4c61dce-175a-49bd-892a-2aef22568bd5,08080131-1126-0626-0000-fda9f8fc2008,e78c4f95-3fd2-4573-b5df-7d01cc2b4051,2026-08-08T13:03:47.957375+10:00
+Most popular roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Commercial vehicles | Monthly payment | Key point |
+|---|---|---|---|
+| **RACV Business Roadside Assistance** | ✅ Up to 8-tonne GVM | **Ask about monthly billing** | Strong option for Victorian businesses |
+| **Isuzu Roadside Assist** | ✅ Trucks | Not monthly for roadside itself | Excellent if you operate Isuzu trucks |
+| **NRMA** | ⚠️ Depends on vehicle/weight | ✅ Monthly membership available | Very large roadside network |
+| **RACQ / RAC / RAA / RACT** | ⚠️ Depends on state & vehicle | Some monthly options | Useful if operating primarily in their home states |
+End Of Line

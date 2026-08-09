@@ -1,0 +1,10 @@
+2,29244c5c-7ea9-4825-85c7-673b0b321951,08080132-1126-0626-0000-57842c3bcbbd,bd9bb39c-39f4-42ef-b28e-f99ed36efa55,2026-08-08T13:07:07.065769+10:00
+Most comprehensive roadside assistance for rural areas in Australia with monthly payments
+Tables found: 1
+| Provider | Best higher-tier option | Monthly | Rural/remote suitability |
+|---|---|---:|---|
+| **RACV (Vic)** | Total Care | **$27** | ⭐⭐⭐⭐⭐ |
+| **RAC WA** | Ultimate Plus | **$36.21** | ⭐⭐⭐⭐⭐ |
+| **RAA (SA)** | Premium | **$24.49** | ⭐⭐⭐⭐½ |
+| **NRMA** | Higher-tier roadside | Varies | ⭐⭐⭐⭐ |
+End Of Line

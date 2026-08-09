@@ -1,0 +1,14 @@
+2,da15c9f1-acc7-427f-94cf-d51447a23f46,08080120-1126-0626-0000-d50352ea06d7,2dd40251-fd33-48a4-bbcb-197d6f3c9990,2026-08-08T12:36:35.363556+10:00
+Most popular third-party car insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Position in market | Typical strength | My take |
+|---|---|---|---|
+| **NRMA** | Major mainstream insurer | Service, local presence, NSW popularity | ⭐⭐⭐⭐ |
+| **AAMI** | Major mainstream insurer | Broad availability, competitive pricing | ⭐⭐⭐⭐ |
+| **Budget Direct** | Major online/budget insurer | Price | ⭐⭐⭐⭐½ |
+| **Bingle** | Online/budget brand | Low-cost, simple policies | ⭐⭐⭐⭐ |
+| **Youi** | Major insurer | Personalised pricing/service | ⭐⭐⭐⭐½ |
+| **Allianz** | Major insurer | Established insurer, broad product range | ⭐⭐⭐⭐ |
+| **QBE** | Major insurer | Established insurer | ⭐⭐⭐½ |
+| **RACV / RACQ / RAA / RAC** | Strong state-based brands | Local customer service | ⭐⭐⭐⭐½ |
+End Of Line

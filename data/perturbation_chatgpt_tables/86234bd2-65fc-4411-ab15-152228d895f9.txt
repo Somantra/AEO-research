@@ -1,0 +1,18 @@
+2,cd1697ed-692b-46b3-88ea-e14f155299c8,08080126-1126-0626-0000-5998ed48e837,86234bd2-65fc-4411-ab15-152228d895f9,2026-08-08T12:53:03.491245+10:00
+Least reliable home insurance for older properties in Australia compared to other providers
+Tables found: 1
+| Insurer | 2025 home satisfaction | Claims experience | My take for an older property |
+|---|---:|---:|---|
+| **Qantas Insurance** | 42% | Not in published claims table | 🔴 Caution |
+| **CGU** | 48% | Not published | 🔴 Caution |
+| **CBA/CommBank** | 51% | 54% positive | 🔴 Caution |
+| **Allianz** | 55% | 52% positive | 🔴 Caution, particularly claims |
+| **GIO** | 55% | 50% positive | 🟠 Caution |
+| **Everyday/Woolworths** | 57% | 65%+ | 🟠 Mixed |
+| **Budget Direct** | 58% | 49% positive | 🟠 Claims concern |
+| **AAMI** | 60% | 57% positive | 🟡 Middle of the pack |
+| **NRMA** | 61% | 69% positive | 🟢 Better |
+| **Suncorp** | 65% | 66% positive | 🟢 Better |
+| **Youi** | 67% | 65%+ | 🟢 Better |
+| **RAC/RACV/RAA/RACQ** | 72–91% | Generally strong | 🟢 Strong where available |
+End Of Line

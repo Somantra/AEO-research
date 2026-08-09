@@ -1,0 +1,9 @@
+2,0836aa2d-26ba-47f2-9738-cd8b20810d1c,08080124-1126-0626-0000-be171b566a29,01a6472d-ccb3-429d-b3ca-4f3c71d99b2f,2026-08-08T12:46:40.556691+10:00
+Least reliable motorcycle insurance for custom bikes in Australia compared to other providers
+Tables found: 1
+| Provider type | Why custom-bike owners can have issues |
+|---|---|
+| **Large mainstream insurers with generic motorcycle policies** | They may insure the bike based on standard market value, not the money spent on custom work, unless modifications and agreed value are specifically accepted. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1t18i79/insurance_for_custom_bikes/?utm_source=chatgpt.com) |
+| **Cheap online-only policies** | Lower premiums can come with tighter definitions around accessories, modifications, repair options, and valuation. |
+| **Insurers that don’t specialise in enthusiast vehicles** | Claims assessors may treat a café racer, bobber, chopper, tracker, or restomod as an ordinary older motorcycle. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1t18i79/insurance_for_custom_bikes/?utm_source=chatgpt.com) |
+End Of Line

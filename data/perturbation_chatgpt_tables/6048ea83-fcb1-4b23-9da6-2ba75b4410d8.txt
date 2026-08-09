@@ -1,0 +1,11 @@
+2,80150acb-cd9e-4caf-82cf-0929eb40f35f,08080124-1126-0626-0000-8e66eb968031,6048ea83-fcb1-4b23-9da6-2ba75b4410d8,2026-08-08T12:46:25.904520+10:00
+Best motorcycle insurance for custom bikes in Australia compared to other providers
+Tables found: 1
+| Insurer | Best for | Strengths | Weaknesses |
+|---|---|---|---|
+| Shannons | **Custom, classic, modified, enthusiast bikes** | Usually the strongest fit for heavily modified bikes; understands restorations, accessories and enthusiast values; strong reputation among riders | Can be more expensive; underwriting can be stricter depending on storage, modifications and usage |
+| QBE Insurance | **Good all-round cover/value** | Offers agreed or market value and allows accessories/modifications to be included; competitive pricing | Less enthusiast-focused than Shannons; check repairer and extras carefully | [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | **Mainstream cover and competitive pricing** | Often competitive premiums; broad Australian insurer | Custom builds may need careful disclosure and checking of modification limits | [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/nrma-motorcycle-insurance?utm_source=chatgpt.com) |
+| AAMI | **Value-focused riders** | Often competitive on price; recognised for motorcycle insurance value | May not be the first choice for highly personalised builds | [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/motorcycle-insurance-satisfaction?utm_source=chatgpt.com) |
+| Budget Direct | **Lower-cost modified bikes** | Can cover listed modifications/accessories under comprehensive policies | Usually less tailored to show bikes or major builds | [www.budgetdirect.com.au](https://www.budgetdirect.com.au/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+End Of Line

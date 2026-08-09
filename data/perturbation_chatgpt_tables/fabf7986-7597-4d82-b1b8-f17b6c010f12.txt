@@ -1,0 +1,10 @@
+2,b5335e69-531f-4e69-ac35-921cc7381b4c,08080118-1126-0626-0000-d4ffffffc42a,fabf7986-7597-4d82-b1b8-f17b6c010f12,2026-08-08T12:33:03.870406+10:00
+Best car insurance for electric vehicles in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer satisfaction / EV strengths |
+|---|---|---|
+| **AAMI** | **Best overall value/features** | Canstar’s 2026 national Outstanding Value winner; explicitly covers EV batteries, charging cables, wall boxes and adapters. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/car-insurance/?utm_source=chatgpt.com) |
+| **Youi** | **Best for customer satisfaction, especially WA** | Youi won Canstar’s 2026 Most Satisfied Customers award in WA. Its EV comprehensive cover includes the battery, and roadside assistance can tow you to a charger if you run out of charge. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-car-insurer-award-2/?utm_source=chatgpt.com) |
+| **RAC** | **Excellent WA-specific choice** | CHOICE reports 77% of RAC customers rated satisfaction above average/excellent. RAC also has EV-trained technicians, EV servicing and roadside assistance for EVs. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/rac?utm_source=chatgpt.com) |
+| **Bupa** | **Strong customer satisfaction nationally** | Bupa won Canstar's 2026 national Most Satisfied Customers award, although EV eligibility needs checking for your particular model. [www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/car-insurance/?utm_source=chatgpt.com)[www.canstar.com.au](https://www.canstar.com.au/star-ratings-awards/most-satisfied-customers-car-insurer-award-2/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+1,bc6b20aa-f7f5-49de-8849-f817864ca4ab,08080123-1126-0626-0000-e1456e2d3aac,3a9258cc-0121-4a7c-99a2-d167d8b8ccf5,2026-08-08T12:45:05.727878+10:00
+Best home insurance for new builds in Australia
+Tables found: 1
+| Insurer | Why I’d consider it for a new build |
+|---|---|
+| **AAMI** | Good mainstream option; worth quoting for standard detached homes |
+| **Youi** | Often worth comparing because pricing is highly risk/location dependent |
+| **NRMA** | Strong option to quote, particularly in NSW |
+| **Suncorp** | Worth checking for comprehensive home/building cover |
+| **QBE** | Major insurer with broad home insurance offering |
+End Of Line

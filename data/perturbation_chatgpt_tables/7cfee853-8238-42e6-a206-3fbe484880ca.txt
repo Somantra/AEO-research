@@ -1,0 +1,9 @@
+2,cee3258f-8a9c-4455-834e-533996883d18,08080137-1126-0626-0000-af1bc645f51d,7cfee853-8238-42e6-a206-3fbe484880ca,2026-08-08T13:19:42.167187+10:00
+Premium domestic travel insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Domestic option | Claims process | My take |
+|---|---|---|---|
+| **[Allianz Domestic Travel Insurance](https://www.allianz.com.au/travel-insurance/domestic.html)** | Domestic | Online claims; says it will contact you within **10 business days** | **Best balance of premium cover + claims transparency** |
+| **[Qantas Travel Insurance](https://insurance.qantas.com/travel-insurance/australian)** | Australian Comprehensive | Online 24/7; says it will review and contact you within **10 business days** | **Very good for a straightforward digital claims experience** |
+| **[Cover-More Domestic Comprehensive+](https://www.covermore.com.au/travel-insurance/domestic-travel-insurance)** | Domestic Comprehensive+ | Online portal with document upload and claim tracking | **Best for higher-end cover, but slower stated claims contact** |
+End Of Line

@@ -1,0 +1,9 @@
+1,8dfb47dd-462f-4ba6-aa80-530eb030e235,08080127-1126-0626-0000-f83fb6e531f8,4d59d48c-a19e-48a0-8235-4878abbefad3,2026-08-08T12:55:38.548463+10:00
+Cheapest roadside assistance for older cars in Australia
+Tables found: 1
+| Provider | Approx. cost | Good for |
+|---|---:|---|
+| [Budget Direct Roadside Assistance](https://www.budgetdirect.com.au/roadside-assistance-australia.html) | **From about $76–$90/year** (promotional/standard pricing varies) | Cheapest basic cover for an older car that mainly needs battery, tyre, lockout or tow help [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs/getting-roadside-assistance.html?utm_source=chatgpt.com) |
+| [NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance) | About **$112/year for basic annual cover** (pricing varies) | Strong network, especially NSW/ACT; good if reliability matters [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| [RACV Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance.html) | About
+End Of Line

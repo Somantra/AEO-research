@@ -1,0 +1,11 @@
+2,a6fd98fa-8fa5-472f-abb6-108383b05f40,08080129-1126-0626-0000-318cda7ade4d,61498059-80e5-446d-a35c-f119ec6fd514,2026-08-08T12:59:09.560557+10:00
+Worst home insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider/policy type | Why to be cautious |
+|---|---|
+| Woolworths Insurance home insurance | Some policies have scored poorly in independent comparisons due to coverage limitations and value concerns. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/choosing-home-insurance?utm_source=chatgpt.com) |
+| Bupa home insurance | Has appeared among lower-scoring policies in CHOICE comparisons, largely due to features/value rather than a claim that all customers have bad experiences. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/choosing-home-insurance?utm_source=chatgpt.com) |
+| AHM home insurance | Similar concerns have been raised about some white-label policies and coverage/value comparisons. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/choosing-home-insurance?utm_source=chatgpt.com) |
+| Huddle Insurance | Some products have been flagged as lower-value compared with alternatives in independent reviews. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/choosing-home-insurance?utm_source=chatgpt.com) |
+| Budget-focused “barebones” policies generally | Cheap premiums can come with higher excesses, lower limits, more exclusions, or less generous claim conditions. [www.choice.com.au](https://www.choice.com.au/money/insurance/home-and-contents/articles/home-and-content-insurance-policies-to-avoid?utm_source=chatgpt.com)[moneysmart.gov.au](https://moneysmart.gov.au/home-insurance/choosing-home-insurance?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,75df1e37-491e-436c-b7cf-a932077c7a2a,08080117-1126-0626-0000-fd9827bf2d18,904625e3-7a30-4c6b-8272-0aa7c71a1b0d,2026-08-08T12:30:30.489363+10:00
+Premium car insurance for P-plate drivers in Australia without hidden fees
+Tables found: 1
+| Insurer/policy | Why consider it | P-plate catch |
+|---|---|---|
+| **ROLLiN' Comprehensive** | Specifically targets younger drivers; no separate age/inexperience excess | $800 excess for a listed P-plater; **$3,000 if unlisted**; insurer chooses repairer [origin.rollininsurance.com.au](https://origin.rollininsurance.com.au/contact?utm_source=chatgpt.com) |
+| **AAMI Comprehensive** | Broad cover, flexible excess, established insurer | Under-25 age excess applies; being unlisted can substantially increase the excess [www.aami.com.au](https://www.aami.com.au/aami-informed/on-the-road/tips-for-young-drivers-car-buying-guide?utm_source=chatgpt.com) |
+| **RACT Comprehensive** | Strong feature set and clear PDS; particularly worth checking if you're in Tasmania | Availability/pricing depends on your location [www.ract.com.au](https://www.ract.com.au/insurance-and-finance/related-articles/more-cover-less-confusion?utm_source=chatgpt.com) |
+| **RAC / RACQ / TIO** | CHOICE's January 2026 analysis ranked these among the cheapest insurers for young drivers on average | Quote individually—your vehicle and location can completely change the result [www.choice.com.au](https://www.choice.com.au/money/insurance/car/articles/young-driver-car-insurance?utm_source=chatgpt.com) |
+End Of Line

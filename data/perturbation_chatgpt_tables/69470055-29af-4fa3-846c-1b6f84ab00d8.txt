@@ -1,0 +1,12 @@
+2,2b09195f-0eac-472e-a32c-16f2dc2a97e5,08080140-1126-0626-0000-465b32284836,69470055-29af-4fa3-846c-1b6f84ab00d8,2026-08-08T13:24:30.291024+10:00
+Least reliable pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Existing condition | If temporary/cured | My take |
+|---|---|---|---|
+| **Fetch** | ❌ Excluded | Generally no cover for pre-existing conditions | **Less favourable** |
+| **Trupanion** | ❌ Excluded | Generally excluded if it existed before cover/waiting period | **Less favourable** |
+| **Budget Direct** | ❌ Excluded | ✅ May become coverable after **12 months** symptom/treatment-free, subject to exclusions | **Better** |
+| **Petsy** | ❌ Usually excluded | ✅ Review possible after recovery; provides a **Pre-Existing Condition Assessment** | **Very good for transparency** |
+| **Pet Insurance Australia (PIA)** | ❌ Chronic conditions excluded | ✅ Temporary conditions can cease being excluded after **18 months** without signs/symptoms | **Good, but longer wait** |
+| **RACQ / PetSure-backed policies** | ❌ Chronic conditions excluded | ✅ Some conditions potentially reviewable after **18 months** | **Moderate–good** |
+End Of Line

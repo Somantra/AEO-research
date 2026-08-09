@@ -1,0 +1,11 @@
+2,53149dd1-2cb0-4f1b-b313-6cfa7582ad35,08080118-1126-0626-0000-0653d008f9a2,343b952b-900c-4ebf-8775-ae5b13bba961,2026-08-08T12:33:25.116754+10:00
+Easiest car insurance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Insurer | Why I’d consider it for an EV | Fee/complexity impression |
+|---|---|---|
+| **Youi** | EV-specific cover, roadside assistance includes transport to a charging station if you run out of charge | ⭐⭐⭐⭐⭐ |
+| **RACV** | Strong EV support, including charging cables/adaptors and an EV-qualified repair network | ⭐⭐⭐⭐⭐ |
+| **Allianz** | EV battery, charging cables and owned wall charger covered; monthly payment has no extra cost | ⭐⭐⭐⭐ |
+| **Budget Direct** | Often competitive on price and highly rated for value | ⭐⭐⭐⭐ |
+| **AAMI** | Worth quoting because pricing can be surprisingly competitive for some EVs | ⭐⭐⭐⭐ |
+End Of Line

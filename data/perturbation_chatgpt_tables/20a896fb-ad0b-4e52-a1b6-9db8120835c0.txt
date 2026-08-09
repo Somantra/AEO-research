@@ -1,0 +1,11 @@
+2,87a344fc-c84e-4f8e-853d-90902de68d68,08080130-1126-0626-0000-34bca0273e12,20a896fb-ad0b-4e52-a1b6-9db8120835c0,2026-08-08T13:03:18.779288+10:00
+Worst roadside assistance for commercial vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payment | Commercial vehicle suitability |
+|---|---:|---|
+| **FleetCard Roadside Assistance** | **$6.99/month per vehicle/card** | Good for fleets; 24/7 nationwide |
+| **Ampol Commercial Roadside Assistance** | Pricing by quote | **Trucks/heavy vehicles >3.5t GVM**, powered by NRMA |
+| **RACV Business Roadside** | Varies | Business vehicles up to **8t GVM**; monthly invoicing available |
+| **RACV Total Care** | From about **$27/month** | Better suited to lighter commercial vehicles |
+| **Isuzu Care Roadside Assist** | Included with eligible new Isuzu trucks | Truck-specific; 24/7 Australia-wide for up to 6 years |
+End Of Line

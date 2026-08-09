@@ -1,0 +1,11 @@
+2,c85b7b23-1aac-49a0-8509-fda75215a22b,08080131-1126-0626-0000-2f9ad33519f3,05ed0873-c094-4a80-9f79-0e706f8843f5,2026-08-08T13:05:58.391750+10:00
+Most popular roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider / plan | Approx. annual price | Call-outs | Key towing | Fee watch-outs |
+|---|---:|---|---|---|
+| **Budget Direct Roadside Assistance** | **$89.95** | Unlimited | Up to $125 | $110 service charge if you need help within 48h or for a pre-existing condition [www.budgetdirect.com.au](https://www.budgetdirect.com.au/roadside-assistance-australia/roadside-assistance-faqs/getting-roadside-assistance.html?utm_source=chatgpt.com) |
+| **RACQ Everyday Plus** | **$179** | Unlimited | Up to 50 km | Terms/exclusions apply; particularly good value in QLD [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance?utm_source=chatgpt.com) |
+| **NRMA Everyday Care** | **$137** | Unlimited | Up to 25 km metro | Add-on charges can apply for things such as extra towing, key replacement and larger vehicles [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACV Roadside Care** | **$138** | — | 20 km metro | Monthly payment includes a $0.50/month admin fee; annual payment is clearer [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com)[rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/compare?utm_source=chatgpt.com) |
+| **RAC WA Standard** | **$128** advertised annually* | Unlimited | 25 km metro / 80 km country | Assistance within 48h of joining attracts an extra fee; monthly direct debit has a 6% admin fee [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/compare?utm_source=chatgpt.com) |
+End Of Line

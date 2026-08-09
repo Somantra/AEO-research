@@ -1,0 +1,11 @@
+2,4e70b756-d64b-4cd2-9b91-e9febba0775a,08080130-1126-0626-0000-f63af1af52b2,137330fb-fb63-4b21-a7a7-b31acce50805,2026-08-08T13:02:46.053079+10:00
+Most popular roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | Interstate coverage | Best for |
+|---|---:|---|---|
+| **RAC WA – Ultimate Plus** | **$33.56/mo*** | Australia-wide | ⭐ Long-distance/highway travel |
+| **RAC WA – Ultimate** | **$27.82/mo*** | Australia-wide | Frequent interstate travel |
+| **NRMA – Ultimate Care** | **$21.99/mo** | Australia-wide service | Good value |
+| **RACV – Roadside Care** | **$12/mo** | Australia-wide via network | Basic/cheaper cover |
+| **RAA – Road Service** | Monthly direct debit | Australia-wide | SA-based drivers |
+End Of Line

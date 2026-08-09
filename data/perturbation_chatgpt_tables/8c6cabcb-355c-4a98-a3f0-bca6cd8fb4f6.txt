@@ -1,0 +1,11 @@
+2,8683b437-4aeb-4f4e-8338-50c6ec8a39b6,08080132-1126-0626-0000-b031372c187b,8c6cabcb-355c-4a98-a3f0-bca6cd8fb4f6,2026-08-08T13:07:23.586591+10:00
+Best roadside assistance for hybrid cars in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly price | Hybrid/EV support | Australia-wide | My take |
+|---|---:|---|---|---|
+| **RAA Road Service** | From **$11.25/mo** | ✅ Explicitly covers hybrids | ✅ | **Best overall value** |
+| **RACV Roadside Care** | **$12/mo** | ✅ EV assistance | ✅ | **Best low-cost option** |
+| **RACV Total Care** | **$27/mo** | ✅ Excellent EV support | ✅ | **Best for long trips** |
+| **RACQ** | Mainly annual pricing | ✅ Explicitly covers hybrids | ✅ | **Excellent if you're in QLD** |
+| **RAC WA** | From **$11.30/mo** | Check vehicle-specific terms | ✅ | Good WA option |
+End Of Line

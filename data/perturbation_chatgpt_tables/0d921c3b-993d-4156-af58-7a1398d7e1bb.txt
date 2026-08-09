@@ -1,0 +1,9 @@
+2,829022db-bc15-4b58-9059-93cfb15a02ec,08080129-1126-0626-0000-83950d0d28ed,0d921c3b-993d-4156-af58-7a1398d7e1bb,2026-08-08T13:00:33.584393+10:00
+Safest roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | EV-specific help | Key towing allowance | Hidden-fee risk |
+|---|---|---|---|
+| **RACV Total Care** | High-voltage-trained patrols; out-of-charge EV towing | **Up to 200 km** to a charger/preferred destination | **Low**, but excess towing can still be chargeable |
+| **RAA Premium** | EV-trained patrols; EVs covered at no extra call-out cost | **Up to 50 km metro**, with higher country benefits | **Low–moderate** because excess towing can cost extra |
+| **NRMA Ultimate Care** | EVs included; mobile charger or tow when out of charge | **Up to 100 km** | **Low–moderate**, mainly due to towing limits |
+End Of Line

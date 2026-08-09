@@ -1,0 +1,11 @@
+2,fcdc6306-0282-4bc3-bef6-c7c19d591951,08080125-1126-0626-0000-dbfe955b8464,1de9f1f2-0f68-495a-973d-d574dd352967,2026-08-08T12:50:02.926047+10:00
+Most popular home insurance for renters in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience | Renter cover | My take |
+|---|---|---|---|
+| **Youi** | ⭐⭐⭐⭐☆ 65% rated claims above average/excellent | Yes | **Best overall for fast/easy claims** |
+| **RAC** (WA) | ⭐⭐⭐⭐½ 71% | Yes | **Excellent choice in WA** |
+| **NRMA** | ⭐⭐⭐⭐☆ 69% | Yes | Strong claims reputation |
+| **AAMI** | ⭐⭐⭐½ 57% | Yes | Good mainstream option |
+| **Coles Insurance** | ⭐⭐⭐⭐½ 82% | Yes | Very strong claims score |
+End Of Line

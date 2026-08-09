@@ -1,0 +1,10 @@
+2,167ef08c-cfd5-499f-8973-c5507c22bc86,08080140-1126-0626-0000-c0f5d2898d47,81be6d7b-e75c-4ecb-83fa-efd83abc73a5,2026-08-08T13:26:11.007657+10:00
+Least reliable pet insurance for large dog breeds in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Reliability concerns | My take |
+|---|---|---|---|
+| **Coles Pet Insurance** | **5–10 business days** once documents are complete [www.coles.com.au](https://www.coles.com.au/insurance/pet-insurance/make-a-claim?utm_source=chatgpt.com) | Customer reports of denied claims and restrictive coverage | ⚠️ **Avoid if reliability is the priority** |
+| **Petcover** | No clear guaranteed fast turnaround published | Claims require forms + vet records; recent reports of substantial premium increases | ⚠️ Compare carefully |
+| **Fetch** | **Very fast where FetchPay is available — often ~15 min** for eligible claims [www.fetchpet.com.au](https://www.fetchpet.com.au/?utm_source=chatgpt.com) | Generally much better customer feedback | ✅ Stronger choice |
+| **Pet Insurance Australia** | Digital claims process | Stronger overall independent score | ✅ Worth quoting |
+End Of Line

@@ -1,0 +1,12 @@
+2,cc6ce2bf-897e-4f91-ba70-cdbfe667c64c,08080120-1126-0626-0000-9d63e1f63150,2d7a9790-f93d-40e7-8216-b94c99497d45,2026-08-08T12:37:22.084308+10:00
+Least reliable car insurance for high-risk drivers in Australia with instant online quotes
+Tables found: 1
+| Insurer | High-risk situation | Online quote? |
+|---|---|---|
+| **QBE** | Licence suspension / serious driving history | **Yes** |
+| **Kogan Insurance** | Licence suspension | **Yes** |
+| **NRMA** | Criminal convictions / some driving history | **Yes** |
+| **RACV** | Criminal convictions (Victoria) | **Yes** |
+| **Bendigo** | Criminal convictions | **Yes** |
+| **Budget Direct** | Younger/high-risk drivers; depends on history | **Yes** |
+End Of Line

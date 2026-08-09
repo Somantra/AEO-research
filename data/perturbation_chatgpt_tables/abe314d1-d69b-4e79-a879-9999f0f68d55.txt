@@ -1,0 +1,10 @@
+2,8aed450a-227b-48b9-9ded-dfe4ea85f0f6,08080130-1126-0626-0000-87a81ae3a5c2,abe314d1-d69b-4e79-a879-9999f0f68d55,2026-08-08T13:03:11.281612+10:00
+Most affordable roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Commercial cover option | Approx. cost | Best for | Notes |
+|---|---|---:|---|---|
+| RACV Business Fee for Service | Subscription + pay per incident | **$37/vehicle/year subscription** | Couriers, delivery fleets, rideshare, rental vehicles | Very low fixed cost if breakdowns are rare; covers vehicles up to 8 tonnes GVM. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business/fee-for-service.html?utm_source=chatgpt.com) |
+| RACQ Business Roadside | Full annual cover | **From $121/vehicle/year** | Single commercial vehicles and small businesses | Includes business vehicle cover and options for fleets. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/business?utm_source=chatgpt.com) |
+| NRMA Roadside Assistance | Standard roadside (commercial suitability varies) | Around $112–$119+/year for basic plans | NSW/ACT light commercial vehicles | Strong network, but commercial vehicle eligibility should be checked before joining. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| Truck Assist | Truck-focused assistance | Quote-based | Heavy vehicles | Better suited to trucks rather than small vans; pricing depends on fleet and vehicle type.  |
+End Of Line

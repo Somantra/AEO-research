@@ -1,0 +1,11 @@
+1,0698ed24-1baa-4f2e-ae4b-f4bc0d1623ec,08080128-1126-0626-0000-39545a82c67c,8d677c13-2667-4eb7-afdc-24a651c31ac5,2026-08-08T12:56:33.053076+10:00
+Cheapest roadside assistance plans in Australia
+Tables found: 1
+| Provider | Cheapest plan | Annual price | Key limitation |
+|---|---:|---:|---|
+| **NRMA** | Everyday Care | **$112/yr** | 25 km metro towing |
+| **RACV** | Roadside Care | **$138/yr** | 20 km towing |
+| **RAA SA** | Standard | **$135/yr** | 4 call-outs/year |
+| **RAC WA** | Standard | **$135.68/yr** | 25 km metro / 80 km country |
+| **AANT NT** | Standard | **$133/yr** | 8 km metro / 32 km regional |
+End Of Line

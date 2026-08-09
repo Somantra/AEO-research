@@ -1,0 +1,11 @@
+2,e78cf049-77fe-4926-97ee-2967d62fc4b5,08080141-1126-0626-0000-3168e0ab09df,74e513e7-ff39-43db-8cba-146b1e9e64ff,2026-08-08T13:28:15.095836+10:00
+Premium accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Accident-only position | Approx. cost / value | Key consideration |
+|---|---|---|---|
+| **RSPCA Pet Insurance** | Strong budget option | ~**$18–32/month** for a typical 3-year-old dog | Good customisation; up to 90% reimbursement on eligible vet bills |
+| **Pets On Me** | Straightforward accident plan | One of the few specifically marketed accident-only products | $5,000 annual benefit and 80% reimbursement reported by Finder |
+| **Petcover** | Broad range of policies | Potentially more expensive depending on configuration | Large range of policy options; useful if you want to compare accident-only against higher cover |
+| **PetSure-branded products** | Accident-only available through some brands | Often competitive | Important to compare the *actual PDS*, because several Australian brands use PetSure underwriting |
+| **Petsy** | **No accident-only policy currently** | — | Instead focuses on accident + illness, which can be a better-value alternative for some pets |
+End Of Line

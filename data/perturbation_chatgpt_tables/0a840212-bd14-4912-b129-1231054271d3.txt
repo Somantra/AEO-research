@@ -1,0 +1,9 @@
+2,bbc4641d-650a-4ece-b40a-c604a1e4495d,08080129-1126-0626-0000-921e55919349,0a840212-bd14-4912-b129-1231054271d3,2026-08-08T13:00:10.602924+10:00
+Worst roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Potential concern for EV owners | Claims/process speed notes |
+|---|---|---|
+| RACV Roadside Assistance | Mixed customer satisfaction; some insurance claim satisfaction results have declined compared with earlier surveys. EV owners should confirm towing distance, battery-flat procedures and charging support. | RACV supports online claims and claim tracking for insurance products. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racv?utm_source=chatgpt.com) |
+| Volkswagen Australia Roadside Assistance | Dealer-branded roadside programs can vary because assistance may rely on contracted providers; check EV-specific escalation procedures. | Manufacturer programs can be convenient, but speed depends heavily on local contractor availability.  |
+| Smaller outsourced roadside providers | Quality can vary widely by region, especially for EV-specific issues such as flat 12V batteries, locked vehicles, or high-voltage system faults. | Some may have quick call handling but weaker EV capability. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/racv?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1c8mdbu?utm_source=chatgpt.com) |
+End Of Line

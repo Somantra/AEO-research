@@ -1,0 +1,12 @@
+2,58bd5b58-ff45-434f-a9e0-2cd3e50fea02,08080140-1126-0626-0000-dce3e105bc0a,f5bb8be8-9ceb-427f-91fb-8ff1e536bfa2,2026-08-08T13:25:43.332028+10:00
+Premium pet insurance for puppies and kittens in Australia compared to other providers
+Tables found: 1
+| Provider | High-end cover | Reimbursement | Key advantage | Main trade-off |
+|---|---:|---:|---|---|
+| **Petsy** | Up to $30k for young pets | 80–90% | Excellent young-pet bonus; no sub-limits; customisable | Dental/behavioural/therapy are optional |
+| **Fetch** | $30k/year | Up to 100% | Very comprehensive inclusions; direct-to-vet option | App-centric; carefully check PDS/exclusions |
+| **Pet Insurance Australia** | Up to $35k | 70–90% | Highest annual limit among these; flexible excess | Routine care is an add-on/non-insurance benefit |
+| **Bow Wow Meow** | Up to $30k | 70–90% | No sub-limits, GapOnly, strong established provider | Optional extras increase cost |
+| **Knose** | Up to $25k | Up to 90% | No sub-limits; strong coverage; 24/7 vet hotline | Some important areas, such as dental/behavioural, are optional |
+| **Trupanion** | **Unlimited** | **90%** | Best protection against very large/lifetime vet bills; per-condition excess | Usually the premium-priced option |
+End Of Line

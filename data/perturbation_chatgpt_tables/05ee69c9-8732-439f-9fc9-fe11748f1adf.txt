@@ -1,0 +1,11 @@
+2,16fd7f4f-0639-4326-88ee-b613dc508023,08080138-1126-0626-0000-ae79ba7af556,05ee69c9-8732-439f-9fc9-fe11748f1adf,2026-08-08T13:21:36.542313+10:00
+Cheapest pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Insurer | Cost position | Claims speed | Best for |
+|---|---|---|---|
+| **Budget Direct** | 🥇 Usually among the cheapest | **2–5 business days** to contact you for more info | **Lowest price** |
+| **Pet Insurance Australia (PIA)** | $$ | **88% within 1 day; 98% within 5 days**; GapOnly can be ~10 min | **Best speed/price balance** |
+| **Petsy** | $$–$$$ | Usually **5–10 business days**, sometimes faster | Good service + direct-to-vet option |
+| **Knose** | $$–$$$ | Usually **within 5 business days** once documents are complete | Fast, straightforward online claims |
+| **Bow Wow Meow** | $$ | **5–10 business days** | Strong all-round alternative |
+End Of Line

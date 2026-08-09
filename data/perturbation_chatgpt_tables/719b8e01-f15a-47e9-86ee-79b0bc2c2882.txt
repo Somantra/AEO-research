@@ -1,0 +1,10 @@
+2,3e298a36-e77a-4047-a758-02d207af1db6,08080132-1126-0626-0000-fe64b88a5c82,719b8e01-f15a-47e9-86ee-79b0bc2c2882,2026-08-08T13:07:27.523541+10:00
+Best roadside assistance for hybrid cars in Australia with instant online quotes
+Tables found: 1
+| Provider | Hybrid/EV support | Online pricing | Key advantage |
+|---|---|---|---|
+| **[RAA Road Service](https://www.raa.com.au/motor/road-service)** | ✅ Hybrids included | ✅ Prices shown online | **Best SA choice** — 350+ patrols across SA, 24/7 and Australia-wide reciprocal coverage [www.raa.com.au](https://www.raa.com.au/en/motor/road-service?utm_source=chatgpt.com)[www.raa.com.au](https://www.raa.com.au/motor/road-service?utm_source=chatgpt.com) |
+| **[RACV Roadside Assistance](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html)** | ✅ Hybrid + EV | ✅ Online | Excellent Australia-wide option; EV/hybrid assistance at no extra cost and high-voltage-trained patrols on relevant plans [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| **[NRMA Roadside Assistance](https://www.nrma.com.au/roadside-assistance-sa)** | ✅ Hybrid + PHEV | ✅ Join online | Strong national network; in SA, EV/hybrid cover includes mobile charging or towing to a charger [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance-sa?utm_source=chatgpt.com) |
+| **[RACQ Roadside Assistance](https://www.racq.com.au/car/roadside-assistance)** | ✅ Hybrid + EV + PHEV | ✅ Online | Particularly good if travelling Queensland; EV assistance is included with no extra cost [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/roadside-assistance-for-electric-vehicles?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,10 @@
+2,8531c89c-1f46-4482-981d-88633f9c41a0,08080140-1126-0626-0000-e75d08ada48c,ecbf0f98-7ddb-43f5-91a0-096c0f37bb91,2026-08-08T13:24:57.440192+10:00
+Most comprehensive pet insurance for pre-existing conditions in Australia with a fast claims process
+Tables found: 1
+| Insurer | Pre-existing conditions | Claims speed | Overall fit |
+|---|---|---|---|
+| **Fetch** | Excluded, but they proactively review your pet’s history and tell you what won't be covered | **Excellent** — Fast Claims + direct-to-vet payments | ⭐ **Best match** |
+| **Medibank** | Generally excluded | **Excellent** — GapOnly can assess claims in ~5 min | ⭐ Best for fast in-clinic claims |
+| **Pet Insurance Australia** | Excluded unless an exclusion is subsequently reviewed/lifted | Good | Strong comprehensive option |
+| **Knose** | Excluded, with some conditions potentially reviewable after 12 symptom-free months | Good | Good if an old condition has resolved |
+End Of Line

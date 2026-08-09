@@ -1,0 +1,11 @@
+2,56aa0216-884f-4ce7-859c-8be2208c0e47,08080125-1126-0626-0000-e7c3c0a495f5,473b8204-2e7e-4860-afd5-e68a8fee4d48,2026-08-08T12:49:08.354238+10:00
+Premium motorcycle insurance providers in Australia with a fast claims process
+Tables found: 1
+| Provider | Best for | Claims convenience | Premium/enthusiast angle |
+|---|---|---|---|
+| **Shannons** | High-value, modified or enthusiast bikes | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **AAMI** | Fast, straightforward claims | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **NRMA Insurance** | Strong all-round comprehensive cover | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **QBE** | Good balance of cover and claims service | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐ |
+| **Youi** | Personalised comprehensive cover | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+End Of Line

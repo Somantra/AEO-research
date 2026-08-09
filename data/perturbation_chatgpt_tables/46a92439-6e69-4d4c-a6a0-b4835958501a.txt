@@ -1,0 +1,12 @@
+2,9c6aa690-410e-4a4c-a576-f5782ba89954,08080135-1126-0626-0000-5e954100b405,46a92439-6e69-4d4c-a6a0-b4835958501a,2026-08-08T13:14:51.149196+10:00
+Worst travel insurance for adventure sports in Australia compared to other providers
+Tables found: 1
+| Provider | Adventure-sports flexibility | Main weakness | My take |
+|---|---|---|---|
+| **Allianz** | 🟠 Moderate | Adventure Pack required for many activities; **$500 additional excess** for eligible adventure claims; no Personal Liability/Permanent Disability for Adventure Pack activities | **One of the weaker choices for serious adventure travel** |
+| **1Cover** | 🟠 Moderate–Good | Many activities require the Adventure & Sports Pack; must purchase it **at least 24h beforehand**; some benefits remain excluded | Good for selected activities, but read PDS carefully |
+| **Fast Cover** | 🟢 Good | Adventure Pack required for higher-risk activities; activity-specific restrictions | Strong Australian option |
+| **Cover-More** | 🟢 Good | 80 activities automatically covered, but others require Adventure/Adventure+ packs | Good general-purpose choice |
+| **InsureandGo** | 🟢 Good | 150+ activities automatically covered, but higher-risk/winter activities need upgrades | Strong breadth |
+| **World Nomads** | 🟢🟢 Very good | You must select the appropriate activity level/add-on **before buying**; some activities completely excluded | **Probably the best fit for broad adventure travel** |
+End Of Line

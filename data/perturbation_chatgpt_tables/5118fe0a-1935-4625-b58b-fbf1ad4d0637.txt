@@ -1,0 +1,10 @@
+2,ba464bf2-6cfe-4eba-b897-5aa30db22ce2,08080134-1126-0626-0000-8f7527336525,5118fe0a-1935-4625-b58b-fbf1ad4d0637,2026-08-08T13:13:05.402799+10:00
+Safest travel insurance for cruise holidays in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why consider it for cruises | Online quote |
+|---|---|---|
+| Allianz Australia | Offers a dedicated **Cruise Pack** add-on for eligible plans, including cruise medical cover, ship-to-shore evacuation, cabin confinement and some cruise-specific benefits. [www.allianz.com.au](https://www.allianz.com.au/travel-insurance/cruise-cover.html?utm_source=chatgpt.com) | urlAllianz Travel Insurance online quoteturn0search3 |
+| Cover-More | Strong cruise focus with cruise cover options and online quotes; includes cruise-specific protection options depending on plan. [www.covermore.com.au](https://www.covermore.com.au/travel-insurance/cruise-travel-insurance?utm_source=chatgpt.com) | urlCover-More quote pageturn0search5 |
+| Medibank | Offers cruise travel insurance options and allows you to specify cruise destinations/itinerary when building a quote. [www.medibank.com.au](https://www.medibank.com.au/travel-insurance/activity/cruise/?utm_source=chatgpt.com) | urlMedibank travel insuranceturn0search4 |
+| Australia Post Travel Insurance | Provides cruise travel insurance options backed by Zurich Australian Insurance Limited, with online quote availability. [auspost.com.au](https://auspost.com.au/personal/money-travel/travel-services/tips-and-guides/cruise-travel-insurance?utm_source=chatgpt.com) | urlAustralia Post Travel Insuranceturn0search6 |
+End Of Line

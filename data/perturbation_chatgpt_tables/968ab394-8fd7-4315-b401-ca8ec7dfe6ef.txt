@@ -1,0 +1,12 @@
+2,5e4db4bf-89db-48ca-a1a3-618274f04a34,08080133-1126-0626-0000-df87c4fd0ae5,968ab394-8fd7-4315-b401-ca8ec7dfe6ef,2026-08-08T13:08:45.223318+10:00
+Least reliable standalone roadside assistance cover in Australia compared to other providers
+Tables found: 1
+| Provider | Reliability view | Why |
+|---|---|---|
+| **NRMA** | 🟢 Strong | Large established roadside network; generally good real-world reputation |
+| **RACV / RACQ / RAC / RAA** | 🟢 Strong | State motoring clubs with established roadside operations |
+| **24/7 Roadservices** | 🟢 Surprisingly strong | Excellent current customer-review profile: 4.9/5 from ~988 reviews, including 4.8/5 for timeliness [www.productreview.com.au](https://www.productreview.com.au/listings/247-roadservices-australia?utm_source=chatgpt.com) |
+| **Allianz** | 🟡 Mixed/less evidence | Often uses contracted roadside providers, so local performance can vary |
+| **AAMI** | 🟡 Mixed | Good value, but assistance depends on its service network; coverage can be unavailable if no provider is within 100 km [www.finder.com.au](https://www.finder.com.au/car-insurance/aami-roadside-assistance?utm_source=chatgpt.com) |
+| **Budget Direct** | 🔴 **Most concerning** | Current reviews contain repeated complaints about very long waits, phone delays, dispatch problems and jobs not being properly logged [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

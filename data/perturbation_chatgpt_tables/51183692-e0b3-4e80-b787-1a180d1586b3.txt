@@ -1,0 +1,10 @@
+2,e8e0a163-f0a5-4db5-a9ed-440b07b964a3,08080133-1126-0626-0000-eddfa8e7ffad,51183692-e0b3-4e80-b787-1a180d1586b3,2026-08-08T13:10:12.378435+10:00
+Premium roadside assistance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Premium/top tier | Monthly payment | Key premium benefits |
+|---|---:|---:|---|
+| [RAC WA](https://rac.com.au/car-motoring/roadside-assistance) | **Ultimate Plus** | **$36.21/mo** | Unlimited call-outs, person + vehicle cover, stronger towing benefits; particularly strong in WA |
+| [NRMA](https://www.nrma.com.au/roadside-assistance) | **Ultimate Care** | **$21.99/mo** | Up to 100 km free towing, comprehensive assistance |
+| [RACV](https://www.racv.com.au/cars-transport/roadside-assistance/total-care.html) | **Total Care** | **$27/mo** | 100 km towing, caravan/trailer assistance, up to 5 vehicles |
+| [RAA](https://www.raa.com.au/motor/road-service) | **Premium** | **$24.49/mo** | Australia-wide coverage, unlimited call-outs, up to 50 km metro towing and 200 km country entitlement |
+End Of Line

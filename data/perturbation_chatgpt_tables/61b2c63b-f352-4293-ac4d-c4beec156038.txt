@@ -1,0 +1,11 @@
+2,11135781-d864-4d33-9a8f-8302dacbcc9d,08080139-1126-0626-0000-316db2e79c23,61b2c63b-f352-4293-ac4d-c4beec156038,2026-08-08T13:23:39.302739+10:00
+Least reliable pet insurance for multiple pets in Australia with instant online quotes
+Tables found: 1
+| Insurer | Multi-pet discount | Online quote | Reliability signal |
+|---|---:|---|---|
+| **Bow Wow Meow** | **10%** | Yes | ⭐⭐⭐⭐⭐ |
+| **Pet Insurance Australia** | Varies by policy | Yes | ⭐⭐⭐⭐⭐ |
+| **Knose Pet Insurance** | **5%** | Yes | ⭐⭐⭐⭐½ |
+| **Medibank Pet Insurance | **5%** | Yes | ⭐⭐⭐⭐ |
+| **RSPCA Pet Insurance** | **10%** | Yes | ⭐⭐⭐⭐ |
+End Of Line

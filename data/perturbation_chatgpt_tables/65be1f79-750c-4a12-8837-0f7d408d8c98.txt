@@ -1,0 +1,12 @@
+2,f73c965a-be1e-42d4-afc2-5ba4ba7024de,08080133-1126-0626-0000-2e4e0290437c,65be1f79-750c-4a12-8837-0f7d408d8c98,2026-08-08T13:10:15.372678+10:00
+Most comprehensive roadside assistance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | Best for | Customer-review signal | My take |
+|---|---|---:|---|
+| **RAC (WA)** | Best overall reviews | **4.8/5, 1,221 reviews** | ⭐ **Top pick** |
+| **NRMA (NSW/ACT)** | Best large-network option | **4.5/5, 1,913 reviews** | ⭐ Excellent |
+| **RACQ (QLD)** | Best Queensland-specific coverage | **3.2/5, 405 reviews** | ⭐ Excellent coverage, mixed reviews |
+| **RACV (VIC)** | Best Victorian option | **2.6/5, 185 reviews** | Strong product, weaker review sentiment |
+| **RACT (TAS)** | Tasmania/remote driving | **3.6/5, 23 reviews** | Good for Tasmania |
+| **Allianz Roadside** | Insurance-linked alternative | **1.9/5, 134 reviews** | I wouldn't rank it highly |
+End Of Line

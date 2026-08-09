@@ -1,0 +1,10 @@
+2,27067b5d-3b52-413a-8b2e-0ac2fdb490b6,08080128-1126-0626-0000-ec5148e1346d,92e7afdc-0264-4946-b1cf-0a6753fd0162,2026-08-08T12:57:44.783118+10:00
+Cheapest home insurance for first-time homeowners in Australia with monthly payments
+Tables found: 1
+| Insurer | Why consider it | Monthly payments |
+|---|---|---|
+| **Budget Direct** | Often among the cheapest; currently offers **30% off first-year combined home & contents** when bought online | ✅ Yes |
+| **NRMA** | Frequently competitive, particularly in NSW; monthly/quarterly payment available | ✅ Yes |
+| **Youi** | Worth quoting because pricing varies substantially by property | Check quote |
+| **AAMI** | Major insurer and worth comparing, but monthly payment costs more than annual | ✅ Yes |
+End Of Line

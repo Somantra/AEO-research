@@ -1,0 +1,14 @@
+2,d45b42ec-21b8-45a1-83cf-c732f3d99d21,08080125-1126-0626-0000-a955f5fb363c,ec3b2c3b-2d19-46dd-9295-fdde30583067,2026-08-08T12:49:12.879737+10:00
+Premium motorcycle insurance providers in Australia compared to other providers
+Tables found: 1
+| Provider | Position | Best for | Key strengths | Main drawback |
+|---|---|---|---|---|
+| **[Shannons](https://www.shannons.com.au/motorcycle-insurance.html)** | ⭐ Premium | Enthusiasts, modified/classic bikes | Agreed value, listed modifications, **choice of repairer**, riding gear up to $3,000 | Often not the cheapest |
+| **[National Motorcycle Insurance](https://www.nationalmotorcycle.com.au/)** | ⭐ Premium | Riders wanting motorcycle-specific cover | Very comprehensive feature set; choice of repairer, gear & personal effects | Premium can be higher |
+| **[Youi](https://www.youi.com.au/motorcycle-insurance/comprehensive)** | ⭐ Premium/value | Strong all-round coverage & service | Good customer-service reputation, customisable cover, roadside assistance available/featured | No choice of repairer |
+| **[QBE](https://www.qbe.com/au/motorcycle-insurance)** | 🟢 Upper-mid | Strong coverage without paying top dollar | Agreed/market value, $30m liability, up to $4,000 motorcycle apparel | No choice of repairer or roadside option |
+| **[NRMA](https://www.nrma.com.au/motorcycle-insurance/comprehensive-motorbike-insurance)** | 🟢 Mid | Mainstream comprehensive cover | Competitive pricing, lifetime authorised-repair guarantee, accessories/modifications | Less enthusiast-focused |
+| **[AAMI](https://www.aami.com.au/motorcycle-insurance/comprehensive)** | 🟢 Mid | Mainstream riders | Gear cover, theft/hire-car benefits, lifetime repair guarantee | Less specialised than Shannons/National |
+| **[Budget Direct](https://www.budgetdirect.com.au/motorcycle-insurance/comprehensive.html)** | 💰 Value | Keeping premiums down | Market/agreed value, new-bike replacement, guaranteed repairs | Some desirable features are optional |
+| **GIO** | 💰/🟢 Mid | Simple mainstream cover | Choice of repairer and trailer cover included | Market value only; no agreed-value option |
+End Of Line

@@ -1,0 +1,10 @@
+2,d2379025-4d33-447b-9e69-b0247fdac66b,08080139-1126-0626-0000-3a4f3bf4862e,13cc06a5-f701-486e-a68a-65824c2c98a4,2026-08-08T13:23:32.061039+10:00
+Most reliable pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out for multiple pets | Claims speed |
+|---|---|---|
+| Pet Insurance Australia | Good choice if fast claiming is your priority; supports GapOnly® and electronic vet claims | GapOnly® eligible claims can be processed in around 10 minutes; eClaims are typically processed within a few business days [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/make-a-claim/?utm_source=chatgpt.com) |
+| Fetch Pet Insurance | Strong comprehensive cover option; offers multi-pet discounts on some policies | Claims handling varies by claim type and documentation [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Bow Wow Meow | Popular among some multi-pet owners and offers GapOnly® options | Fastest route is generally through GapOnly® participating vets [www.reddit.com](https://www.reddit.com/r/AustralianPets/comments/1ve9or8/aus_which_of_these_insurance_companies_is_best/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Established brand and a common choice among Australian pet owners | GapOnly® availability depends on the policy and participating vets [www.reddit.com](https://www.reddit.com/r/AustralianPets/comments/14pfll7?utm_source=chatgpt.com) |
+End Of Line

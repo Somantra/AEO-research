@@ -1,0 +1,10 @@
+2,cd0abbae-3598-4db6-a4ad-7b1c3a01fa23,08080139-1126-0626-0000-d928869ae06e,27626871-4afd-4561-aa1b-1dccd88d513c,2026-08-08T13:22:57.724425+10:00
+Most trusted pet insurance for older pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Fast-claim option | Older-pet consideration | My take |
+|---|---|---|---|
+| **Medibank Pet Insurance** | **GapOnly**, with eligible claims assessed in around **5 minutes** at participating vets | New policies generally require the pet to be **under 9** | ⭐ **Best for fastest in-clinic claims** |
+| **Fetch Pet Insurance** | FetchPay can pay your vet directly, with outcomes usually around **15 minutes** | Particularly worth checking if your pet is still eligible for new cover | ⭐ **Best overall claims experience** |
+| **RSPCA Pet Insurance** | GapOnly; usually around **10 minutes** for eligible claims | Check current entry-age rules before applying | ⭐ **Strong combination of reputation + claims** |
+| **Pet Insurance Australia (PIA)** | GapOnly around **10 minutes**; eClaims available through 1,050+ vets | New enrolment before the **9th birthday** | ⭐ **Good established option** |
+End Of Line

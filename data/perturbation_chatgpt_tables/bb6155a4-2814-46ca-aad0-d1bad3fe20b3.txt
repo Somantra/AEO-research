@@ -1,0 +1,13 @@
+2,e1a95c6d-729b-46ea-8240-3567104e8283,08080129-1126-0626-0000-6fda99e2e879,bb6155a4-2814-46ca-aad0-d1bad3fe20b3,2026-08-08T13:00:44.241825+10:00
+Most popular roadside assistance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Main coverage | EV out-of-charge help | Approx. price* | My take |
+|---|---|---|---:|---|
+| **NRMA** | NSW, ACT, SA + reciprocal national coverage | Mobile EV charger or tow to charger in SA; EV cover included | From ~$112/yr | ⭐ Strong national network |
+| **RACV** | Victoria + Australia-wide | Tow to accessible charger/destination; EV assistance included | From ~$138–$229+/yr depending on plan | ⭐ Excellent EV-specific benefits |
+| **RACQ** | Queensland + reciprocal national coverage | Tow to accessible charger/destination; HV-aware patrols | From ~$109/yr | ⭐ Excellent EV support |
+| **RAC WA** | WA + Australia-wide | Tow to nearest EV charger | From $128/yr | ⭐ Best-known WA option |
+| **AANT** | Northern Territory | **Mobile EV charging van** in Darwin | Varies | ⭐ Particularly interesting for NT |
+| **RAA** | South Australia | EV roadside support | Varies | Strong SA alternative |
+| **RACT** | Tasmania | EV roadside assistance | Varies | Strong Tasmanian option |
+End Of Line

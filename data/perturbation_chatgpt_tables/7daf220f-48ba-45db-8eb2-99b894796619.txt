@@ -1,0 +1,10 @@
+2,25980aa5-205b-4a8c-a365-1cd5be02d42a,08080120-1126-0626-0000-b079ca4593c7,7daf220f-48ba-45db-8eb2-99b894796619,2026-08-08T12:37:07.101868+10:00
+Worst car insurance for high-risk drivers in Australia with monthly payments
+Tables found: 1
+| Type of insurer | Why it may be a poor fit |
+|---|---|
+| **Premium-focused insurers** | Can become very expensive once risk loadings are applied |
+| **Insurers with strict underwriting** | May refuse cover after serious offences or suspensions |
+| **Policies with expensive monthly instalments** | Monthly payment can sometimes cost more than paying annually (check the total premium, not just the monthly figure) |
+| **Comprehensive cover on high-value cars** | A high-risk rating plus an expensive vehicle can make premiums unreasonable |
+End Of Line

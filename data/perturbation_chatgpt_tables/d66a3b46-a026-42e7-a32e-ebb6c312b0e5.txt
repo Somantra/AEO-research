@@ -1,0 +1,11 @@
+1,5e04ba2e-10cd-4788-9d47-1ef4933de221,08080135-1126-0626-0000-c7a54f65652d,d66a3b46-a026-42e7-a32e-ebb6c312b0e5,2026-08-08T13:14:34.540361+10:00
+Safest pet insurance for multiple pets in Australia
+Tables found: 1
+| Provider | Best for | Why it stands out |
+|---|---|---|
+| Fetch Pet Insurance | Comprehensive cover | High annual benefit options and broad cover; Finder named it a top comprehensive option, with multi-pet discounts available. [www.finder.com.au](https://www.finder.com.au/pet-insurance/best-pet-insurance?utm_source=chatgpt.com) |
+| Pet Insurance Australia | Strong all-rounder | Offers lifetime-style cover options, optional extras, and a multi-pet discount (up to a capped amount depending on policy terms). [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/our-pet-insurance-cover-options/?utm_source=chatgpt.com)[rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/multi-pet-discount-terms-and-conditions/?utm_source=chatgpt.com) |
+| RSPCA Pet Insurance | Multi-pet households | Offers a 10% discount on additional pet policies when eligibility requirements are met. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/multi-pet-discount-terms-and-conditions/?utm_source=chatgpt.com) |
+| Bow Wow Meow | Families wanting high reimbursement | Often considered by Australian pet owners looking for higher reimbursement options and multi-pet savings. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/Pets/comments/1naezj1/best_pet_insurance_australia_recommendations/?utm_source=chatgpt.com) |
+| Petsy | Digital claims experience | Frequently mentioned by Australian pet owners discussing ease of claims and vet payment options, though individual experiences vary. [www.finder.com.au](https://www.finder.com.au/pet-insurance/cheap-pet-insurance?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/Pets/comments/1naezj1/best_pet_insurance_australia_recommendations/?utm_source=chatgpt.com) |
+End Of Line

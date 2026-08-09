@@ -1,0 +1,12 @@
+2,2346e13c-9a0c-41fb-b7a4-8b02e9f15a7e,08080121-1126-0626-0000-095957ce769c,b256a0a6-e90c-4a1c-b71c-e1962c3394a9,2026-08-08T12:40:54.461460+10:00
+Premium motorcycle insurance for scooters in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Review signal | My take |
+|---|---:|---|
+| **Budget Direct Motorcycle Insurance** | **4.1/5 (63 reviews)** | ⭐ **Best overall starting point** — strong customer feedback, particularly for price, ease of purchase and some positive claims experiences. [www.productreview.com.au](https://www.productreview.com.au/listings/budget-direct-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Youi Motorcycle Insurance** | **4.0/5** | ⭐ **Best for service-focused buyers** — generally strong review score, though some riders report substantially higher premiums/excesses. [www.productreview.com.au](https://www.productreview.com.au/listings/youi-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Suncorp Motorcycle Insurance** | **3.8/5** | Good option if the quote is competitive; the small motorcycle-specific review sample includes very positive claims experiences. [www.productreview.com.au](https://www.productreview.com.au/listings/suncorp-motorcycle-insurance?utm_source=chatgpt.com) |
+| **AAMI Motorcycle Insurance** | **2.9/5** | Worth getting a quote, particularly for scooters—one reviewer specifically reported comprehensive cover for a 50cc scooter at a reasonable price—but the review sample is tiny and mixed. [www.productreview.com.au](https://www.productreview.com.au/listings/aami-motorcycle-insurance?utm_source=chatgpt.com) |
+| **QBE Motorcycle Insurance** | **2.9/5 (86 reviews)** | I’d put it behind the above if customer-review quality is a major priority; its larger review sample is considerably more negative. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-motorcycle-insurance?utm_source=chatgpt.com) |
+| **Shannons Bike Insurance** | **2.7/5 (25 reviews)** | Potentially attractive for enthusiast/classic bikes, but not my first choice for an ordinary commuter scooter based on current review scores. [www.productreview.com.au](https://www.productreview.com.au/listings/youi-motorcycle-insurance?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/shannons-bike-insurance?utm_source=chatgpt.com) |
+End Of Line

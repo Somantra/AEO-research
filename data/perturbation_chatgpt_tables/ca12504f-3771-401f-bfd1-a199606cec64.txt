@@ -1,0 +1,14 @@
+2,1b8efded-37ee-4ac6-8382-b1755cf59f84,08080119-1126-0626-0000-369e3f04b991,ca12504f-3771-401f-bfd1-a199606cec64,2026-08-08T12:34:41.681712+10:00
+Premium car insurance for used cars in Australia with monthly payments
+Tables found: 1
+| Insurer | Comprehensive | Monthly payments | Good for |
+|---|---|---|---|
+| **Budget Direct Gold** | ✅ | ✅ | Strong value/features |
+| **YOUI** | ✅ | ✅ | Flexible personalised pricing |
+| **QBE** | ✅ | ✅ | Established insurer + broad cover |
+| **ROLLiN'** | ✅ | ✅ | Simple online insurance; monthly-only premiums |
+| **Coles Insurance** | ✅ | ✅ | Competitive pricing |
+| **BUPA Insurance** | ✅ | ✅ | Comprehensive cover |
+| **Huddle** | ✅ | ✅ | Online-focused option |
+| **Qantas Insurance** | ✅ | ✅ | Useful if you value Qantas benefits |
+End Of Line

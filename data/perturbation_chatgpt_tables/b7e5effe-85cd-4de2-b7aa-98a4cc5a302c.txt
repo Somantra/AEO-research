@@ -1,0 +1,10 @@
+2,f75486ef-fa9b-4dcb-8fd3-1d7418830e74,08080131-1126-0626-0000-12bedbd1224e,b7e5effe-85cd-4de2-b7aa-98a4cc5a302c,2026-08-08T13:04:11.699710+10:00
+Most affordable roadside assistance for older cars in Australia without hidden fees
+Tables found: 1
+| Provider | Current price | Towing | Call-outs | Main catch |
+|---|---:|---|---|---|
+| **Budget Direct** | **$76.46 first year online**, then $89.95 | 20 km from breakdown / 50 km round-trip from contractor depot | Unlimited* | 48-hour wait; $110 fee for pre-existing breakdowns/early use |
+| **RACV Roadside Care** | **$138/year** | 20 km metro | Included | 24-hour waiting period; better local network/benefits |
+| **Allianz Basic** | **from $99/year** | Up to 50 km | — | Terms/limits apply |
+| **RACV Extra Care** | $229/year | 60 km metro/regional | Included | Probably unnecessary for mainly Melbourne driving |
+End Of Line

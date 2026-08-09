@@ -1,0 +1,10 @@
+2,b9aac36a-61fe-4341-b3ce-05db4e0a7104,08080131-1126-0626-0000-0715784ee288,3a2843e8-f730-482b-832f-13a025f67a34,2026-08-08T13:03:40.523093+10:00
+Safest roadside assistance for commercial vehicles in Australia with instant online quotes
+Tables found: 1
+| Provider | Best for | Online quote | Commercial/heavy vehicle | 24/7 |
+|---|---|---:|---:|---:|
+| **Truck Assist** | ⭐ Best overall for trucks | ✅ | ✅ | ✅ |
+| **NTI Truck Assist** | ⭐ Heavy commercial fleets | ✅ | ✅ | ✅ |
+| **GetATow** | ⭐ Instant pay-as-you-go pricing | ✅ Instant | Depends on vehicle/provider | ✅ |
+| **MyDriveShield** | Cars/light commercial vehicles | ✅ Under 2 min | ⚠️ Check GVM | ✅ |
+End Of Line

@@ -1,0 +1,11 @@
+2,a07e10ad-faf9-4e5b-856b-b165af338c08,08080119-1126-0626-0000-c10cafcb3306,022f0f09-9688-4eb0-b27b-fd0f31bd0f2b,2026-08-08T12:34:24.273305+10:00
+Easiest car insurance for used cars in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims convenience | My take |
+|---|---|---|
+| **AAMI** | ⭐⭐⭐⭐⭐ | **Best overall for easy claims** — claims can be lodged 24/7 online/app, and eligible customers can arrange repairs and hire cars online. [www.aami.com.au](https://www.aami.com.au/claim/car?utm_source=chatgpt.com) |
+| **NRMA** | ⭐⭐⭐⭐⭐ | **Best if you're in NSW** — 24/7 online claims, claim tracking, app support and 24/7 phone claims. [www.nrma.com.au](https://www.nrma.com.au/claims/car-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | ⭐⭐⭐⭐ | Very convenient to start a claim 24/7 online/phone, but its published process says a decision can take up to **10 working days** once they have everything needed. [www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/claims/claims-process.html?utm_source=chatgpt.com) |
+| **Allianz** | ⭐⭐⭐⭐ | Worth getting a quote, particularly if its repair/hire-car benefits are strong for your car. |
+| **Youi** | ⭐⭐⭐⭐ | Worth comparing on price, but I'd put claims simplicity ahead of a small premium saving. |
+End Of Line

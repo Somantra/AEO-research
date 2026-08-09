@@ -1,0 +1,12 @@
+2,f043f7d2-335b-424e-81cc-96bb5940ebbe,08080131-1126-0626-0000-4890b1778de8,18aeec51-119c-4035-87ae-ac443d4e3063,2026-08-08T13:04:32.644999+10:00
+Least reliable roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | For an older car | Why |
+|---|---|---|
+| **NRMA** | 🟢 Strong | Large network, unlimited callouts, and explicitly covers older vehicles if roadworthy. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance-sa?utm_source=chatgpt.com) |
+| **RACV** | 🟢 Strong | Established motoring-club network; higher plans provide 60–100 km towing. [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| **RACQ** | 🟢 Strong | Good option for Queensland/regional driving; Everyday Plus offers 50 km towing and covers most vehicles. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/everyday-plus?utm_source=chatgpt.com) |
+| **RAA** | 🟢 Strong in SA | Particularly worth considering for South Australian/regional use; interstate clubs provide reciprocal assistance. |
+| **Insurance-bundled assistance** (AAMI, Budget Direct, etc.) | 🟠 More variable | Can be cheaper, but service is often outsourced/network-dependent. Recent Australian user reports are mixed. [www.reddit.com](https://www.reddit.com/r/DrivingAustralia/comments/1uqdevq/any_good_roadside_assistance_other_than_nrma/?utm_source=chatgpt.com) |
+| **Small/cheap independent services** | 🟠–🔴 Variable | Price can be attractive, but the key question is who actually attends the breakdown and how extensive the towing network is. |
+End Of Line

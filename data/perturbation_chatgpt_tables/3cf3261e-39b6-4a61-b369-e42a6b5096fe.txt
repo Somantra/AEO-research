@@ -1,0 +1,11 @@
+2,182b159a-efba-4342-a21b-1316cacdad29,08080126-1126-0626-0000-f6d362578465,3cf3261e-39b6-4a61-b369-e42a6b5096fe,2026-08-08T12:51:15.097008+10:00
+Most popular home insurance for landlords in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why landlords consider it | Online quote |
+|---|---|---|
+| AAMI | Well-known direct insurer; landlord policies can include building, contents, loss of rent and legal liability options | Available online [www.aami.com.au](https://www.aami.com.au/home-insurance/landlord-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Often competitive on price; offers online discounts for landlord building/contents policies | Available online [www.budgetdirect.com.au](https://www.budgetdirect.com.au/home-contents-insurance/landlord-insurance.html?utm_source=chatgpt.com) |
+| Allianz Australia | Large insurer with landlord cover and online home insurance quotes | Available online [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| QBE Insurance Group | Popular specialist option for landlord cover, including some rental-specific features | Quote availability varies by channel [www.finder.com.au](https://www.finder.com.au/landlord-insurance/best-landlord-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Frequently recognised in landlord insurance satisfaction/value comparisons | Quote available online [www.finder.com.au](https://www.finder.com.au/finder-awards/customer-satisfaction-awards/landlord-insurance-satisfaction?utm_source=chatgpt.com) |
+End Of Line

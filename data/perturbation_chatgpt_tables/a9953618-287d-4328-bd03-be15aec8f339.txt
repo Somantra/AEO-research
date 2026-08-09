@@ -1,0 +1,11 @@
+2,d81fdb54-2194-4ce3-b680-9e9593641a71,08080129-1126-0626-0000-11e2fba8bee1,a9953618-287d-4328-bd03-be15aec8f339,2026-08-08T13:00:03.738092+10:00
+Most affordable roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Cheapest plan | EV support | Key catch |
+|---|---:|---|---|
+| **NRMA** | **$112/year** annually | Yes; national reciprocal coverage | Best price if you're eligible/in NSW, ACT or SA |
+| **RAC WA** | **$128/year advertised** | EV coverage available | Monthly payments have a 6% admin fee, making total **$135.68** |
+| **RAA SA** | **$135/year** | Yes, including BEVs | New members can face a **$154 service fee** for certain early/pre-existing callouts |
+| **RACV** | **$138/year** | Yes, no extra EV charge | $0.50/month admin fee is already included in monthly price |
+| **Allianz** | **$99/year Basic** | **EV out-of-charge is on Platinum**, from $139 | 48-hour waiting period; $100 fee for service during it |
+End Of Line

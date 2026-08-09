@@ -1,0 +1,11 @@
+2,ca35ed8e-1132-4362-a5a5-1171ae426fa2,08080129-1126-0626-0000-89663eb649f8,0da1fe6c-2d51-43e5-b5c1-0bcdceccb289,2026-08-08T12:59:28.765899+10:00
+Safest home insurance providers in Australia with a fast claims process
+Tables found: 1
+| Provider | Claims experience | Overall customer experience | My take |
+|---|---:|---:|---|
+| **RACV** | **67%** rated above average/excellent | **72%** | ⭐ **Best pick for Victoria** |
+| **NRMA** | **69%** | 61% | ⭐ Strong claims track record |
+| **Youi** | **65%** | 67% | ⭐ Best for digital/fast claims |
+| **Suncorp** | **66%** | 65% | Good all-rounder |
+| **RACQ** | **88%*** | **91%** | Excellent results, but Queensland only |
+End Of Line

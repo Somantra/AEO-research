@@ -1,0 +1,9 @@
+2,e410344f-2dae-41dc-bb39-c1fcb71195c0,08080140-1126-0626-0000-cfd976261f80,8947cd8c-7dda-4506-833e-273a71e69180,2026-08-08T13:24:31.542346+10:00
+Easiest pet insurance for pre-existing conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing condition approach | Monthly payments | Best for |
+|---|---|---|---|
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Temporary conditions can potentially be reviewed after **18 months symptom-free**; chronic conditions generally remain excluded | **Yes** | ⭐ Easiest fit if the condition may have resolved |
+| **[Budget Direct Pet Insurance](https://www.budgetdirect.com.au/pet-insurance.html)** | May cover a fully cured condition after **12 months** without signs/treatment, subject to exclusions | Check payment options at quote | Potentially the shortest wait |
+| **[Fetch Pet Insurance](https://www.fetchpet.com.au/)** | Pre-existing conditions are excluded | Check quote/payment options | Good if you mainly want new problems covered |
+End Of Line

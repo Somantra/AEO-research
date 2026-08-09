@@ -1,0 +1,9 @@
+2,3f3c8041-ec52-4893-b62d-0ed346eb745c,08080130-1126-0626-0000-952bcfc43de0,4742fd4c-a356-4f0e-b440-0f91e9cee081,2026-08-08T13:02:28.395392+10:00
+Least reliable roadside assistance for interstate travel in Australia with monthly payments
+Tables found: 1
+| Provider/type | Interstate suitability | Monthly payment | My take |
+|---|---|---|---|
+| **Major motoring clubs** — NRMA/RACV/RACQ/RAA/RAC/AANT/RACT | ⭐⭐⭐⭐⭐ | Usually yes | **Safest choice** |
+| **Budget/insurance-linked roadside plans** | ⭐⭐⭐ | Varies | Cheaper, but check towing/remote-area limits |
+| **Small/independent roadside services** | ⭐⭐ | Sometimes | I'd be cautious for remote interstate travel |
+End Of Line

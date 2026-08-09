@@ -1,0 +1,11 @@
+2,f50d6076-a291-4e61-bd64-d5e7bd161ee1,08080130-1126-0626-0000-65a7d9881205,3a468d5b-6be3-4d9c-8a49-466e3ca151e0,2026-08-08T13:00:54.491962+10:00
+Most comprehensive roadside assistance for electric vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | EV-specific strengths | Hidden-fee risk | Best for |
+|---|---|---|---|
+| RACV | EV out-of-charge assistance, towing to charger, unlimited callouts on some plans, EV-trained patrols | Low if you read towing limits/exclusions | Victoria residents, frequent road trippers |
+| NRMA | Strong EV focus, large patrol network, mobile charging capability in some areas | Check plan-level towing and service limits | NSW drivers |
+| RACQ | Broad regional coverage, useful for Queensland distances | Check regional towing limits | Queensland and regional drivers |
+| RAC Western Australia | Best fit for WA geography and long distances | Confirm remote-area assistance terms | WA drivers |
+| AANT | Has introduced EV mobile charging support in Darwin | Regional limitations apply | NT drivers |
+End Of Line

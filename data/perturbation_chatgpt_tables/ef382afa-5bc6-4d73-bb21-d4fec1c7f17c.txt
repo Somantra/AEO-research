@@ -1,0 +1,10 @@
+2,3d5e8d75-e4b3-4669-96dd-3fc244125905,08080131-1126-0626-0000-36c6492b7158,ef382afa-5bc6-4d73-bb21-d4fec1c7f17c,2026-08-08T13:05:35.839274+10:00
+Least reliable roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider/plan | Main concern | Fee transparency |
+|---|---|---|
+| **Allianz Roadside Assistance** | 48-hour waiting period; $100 service fee if you need help during it; towing isn't provided during that period | ⚠️ Very explicit, but easy to overlook |
+| **NRMA Everyday Care** | Only 25 km free metro towing; longer towing requires an add-on/extra cost | ⚠️ Clear, but limited |
+| **RACQ Basic** | No towing included | ⚠️ Clear, but potentially expensive when you actually need a tow |
+| **Insurance-bundled roadside cover** | Often cheaper, but towing distances, call-out limits and service arrangements vary substantially | ⚠️ Read the PDS carefully |
+End Of Line

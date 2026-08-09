@@ -1,0 +1,12 @@
+2,003cfe38-fd74-4efd-a821-53bab76492ec,08080130-1126-0626-0000-1df93c8333d8,cd0e659d-2ec1-4016-8f49-c614fb6d3668,2026-08-08T13:01:02.551512+10:00
+Cheapest roadside assistance for motorcycles in Australia without hidden fees
+Tables found: 1
+| Provider / plan | Annual price | Free towing | Call-outs | Main catch |
+|---|---:|---|---:|---|
+| **MCAA Standard** | **$59** | 20 km metro / 40 km regional | 2/year | Extra towing is charged |
+| **Rider Support Australia Essential** | $69.95 | 30 km metro / 50 km country | 4/year | Automatic renewal |
+| **MCAA Superior** | $99 | 40 km metro / 80 km regional | 3/year | Limited call-outs |
+| **MCAA Premium** | $119 | 50 km metro / 100 km regional | **Unlimited** | Best value for frequent/long-distance riders |
+| **Rider Support Australia Premium** | $119.95 | 50 km metro / 100 km country | **Unlimited** | Automatic renewal |
+| RACQ Everyday Plus | $179 | 20 km | Unlimited | Mainly relevant if you value RACQ's larger network |
+End Of Line

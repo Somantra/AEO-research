@@ -1,0 +1,12 @@
+2,fa8856d5-c718-4995-b90d-9020b853b87c,08080138-1126-0626-0000-937da517972e,d3a168bc-6b84-4ba8-946f-c3d0f112b5f3,2026-08-08T13:20:17.480660+10:00
+Least reliable travel insurance providers in Australia without hidden fees
+Tables found: 1
+| Provider/underwriter | Why I’d be cautious | My take |
+|---|---|---|
+| **AIG** | A current Australian case reported a very serious dispute involving a rejected medical claim; AIG cited a pre-existing condition. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) | **High caution** for medical/pre-existing-condition cover |
+| **nib Travel** | AFCA has published multiple recent disputes involving cancellation and medical-eligibility claims. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=3ae52563-eb74-f111-ab0f-6045bdc379eb&utm_source=chatgpt.com) | **Read exclusions carefully** |
+| **HDI Global Specialty** | Recent AFCA cases involve disputes over waiting periods and pre-existing medical conditions. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=8c7374b4-e369-f111-a825-70a8a5542790&utm_source=chatgpt.com) | **Check waiting periods/exclusions** |
+| **Chubb** | AFCA recently considered a travel claim where cancellation/additional costs were disputed and the insurer's denial was upheld. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=995937ef-1e18-f111-8341-7ced8db18420&utm_source=chatgpt.com) | **Policy wording matters a lot** |
+| **Tokio Marine** | Recent AFCA cases include disputes over cancellation costs and airline/visa-related losses. [my.afca.org.au](https://my.afca.org.au/searchpublisheddecisions/kb-article/?id=b766c86e-e474-f111-ab0f-6045bdc379eb&utm_source=chatgpt.com) | **Check exactly what “cancellation” covers** |
+| **Allianz** | CHOICE currently reports Allianz's overall insurance customer satisfaction/value as below average, although that's **not travel-insurance-specific**. [www.choice.com.au](https://www.choice.com.au/money/insurance/insurance-advice/insurers/allianz?utm_source=chatgpt.com) | **Not automatically bad, but I'd compare carefully** |
+End Of Line

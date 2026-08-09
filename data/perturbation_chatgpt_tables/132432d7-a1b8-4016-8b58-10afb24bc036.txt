@@ -1,0 +1,10 @@
+2,2685206d-2bd0-4e63-a300-d78579c27ceb,08080139-1126-0626-0000-f52fed4d4288,132432d7-a1b8-4016-8b58-10afb24bc036,2026-08-08T13:22:19.148515+10:00
+Most comprehensive pet insurance for dogs in Australia with a fast claims process
+Tables found: 1
+| Insurer / policy | Comprehensive cover | Claims speed | Annual limit | My take |
+|---|---|---|---:|---|
+| **[Knose Pet Insurance](https://www.knose.com.au/)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ Most claims within 5 working days | Up to **$25k** | **Best overall for comprehensive cover** |
+| **[Pet Insurance Australia – Select & Protect](https://www.petinsuranceaustralia.com.au/)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ 88% within 1 day; 98% within 5 days | Up to **$35k** | **Best combination of coverage + claims speed** |
+| **[Medibank Pet Insurance – Pet Max](https://www.medibank.com.au/pet-insurance/)** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐⭐ GapOnly can process in ~5–10 min | **$30k** | **Best for immediate in-clinic claims** |
+| **[RSPCA Pet Insurance – PetFlex](https://www.rspcapetinsurance.org.au/)** | ⭐⭐⭐⭐½ | ⭐⭐⭐⭐⭐ 99.43% within 5 days* | Up to **$35k** | Strong comprehensive alternative |
+End Of Line

@@ -1,0 +1,10 @@
+2,f22d0b92-c853-4833-9ed6-9a64ec3ef7fa,08080136-1126-0626-0000-f735c4bf2acb,a576d95d-2830-410a-a0df-a6caa2e527da,2026-08-08T13:16:02.380301+10:00
+Least reliable travel insurance for seniors in Australia compared to other providers
+Tables found: 1
+| Provider / type | Why seniors should be cautious | What to check |
+|---|---|---|
+| **Budget/basic policies from any insurer** | Lower premiums often mean more exclusions, lower limits, or fewer benefits | Medical evacuation, cancellation limits, luggage limits |
+| **Policies with strict pre-existing medical rules** | A common source of disputes for older travellers | Whether your heart, diabetes, joint, cancer history, medications, etc. are covered |
+| **Credit-card travel insurance** | Often has tighter eligibility rules and activation requirements | Age limits, trip length, medical cover, proof of expenses |
+| **Some online-only low-cost brands** | Cheap pricing can come with more self-service claims handling | Claim process, emergency assistance availability |
+End Of Line

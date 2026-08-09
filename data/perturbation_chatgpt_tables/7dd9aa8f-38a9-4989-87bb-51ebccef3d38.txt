@@ -1,0 +1,10 @@
+1,0145a257-2ea3-4bc3-a4e6-79a69421b735,08080117-1126-0626-0000-962c869dc107,7dd9aa8f-38a9-4989-87bb-51ebccef3d38,2026-08-08T12:29:31.152807+10:00
+Most comprehensive car insurance for electric vehicles in Australia
+Tables found: 1
+| Insurer | EV battery | Charging cable | Home wall charger | EV repairer | New-car replacement | Standout |
+|---|---|---|---|---|---|---|
+| **Allianz Comprehensive** | ✅ | ✅ | ✅ | ✅ EV-certified + own choice | ✅ Within 2 years* | **Best overall EV-specific cover** |
+| **RACV Complete Care** | ✅* | ✅ Included cables/adaptors | ❌ Car policy | ✅ EV-qualified | ✅ Within 3 years* | **Excellent premium EV package** |
+| **NRMA Comprehensive Plus** | ✅* | ✅ Portable cable | ❌ | ✅ Repair guarantee | ✅* | **Strong all-round option** |
+| **Youi Comprehensive** | ✅ | ❌ automatic cable cover | ❌ | ✅ Quality repair guarantee | ✅ Within 2 years* | **Excellent roadside/claims features** |
+End Of Line

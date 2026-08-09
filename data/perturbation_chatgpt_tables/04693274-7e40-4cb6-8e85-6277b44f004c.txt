@@ -1,0 +1,10 @@
+0,c2a13cef-0703-4bf1-8c9d-e1a0ca2d7f24,08080116-1126-0626-0000-24574c7cf207,04693274-7e40-4cb6-8e85-6277b44f004c,2026-08-08T12:28:25.843128+10:00
+motorcycle insurance for learner riders in Australia
+Tables found: 1
+| Cover | What it generally covers | Good choice for |
+|---|---|---|
+| **CTP (Compulsory Third Party)** | Injuries caused in a crash (requirements vary by state) | Mandatory registration requirement, but **does not cover your bike** or property damage [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com) |
+| **Third Party Property** | Damage you cause to someone else’s vehicle/property | Learners on cheaper bikes who want protection from large repair bills [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com) |
+| **Third Party Fire & Theft** | Third-party damage plus your bike if stolen or fire-damaged | Lower-value bikes where comprehensive is expensive [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com) |
+| **Comprehensive** | Your bike damage, theft, fire, vandalism, and third-party property damage (depending on policy) | Newer or more valuable bikes, or riders who couldn’t afford a replacement [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com) |
+End Of Line

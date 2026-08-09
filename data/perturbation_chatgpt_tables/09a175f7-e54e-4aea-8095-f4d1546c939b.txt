@@ -1,0 +1,11 @@
+2,c9e14657-96ca-4d99-8ad7-114a9f36766b,08080128-1126-0626-0000-3384fc5be1dd,09a175f7-e54e-4aea-8095-f4d1546c939b,2026-08-08T12:57:29.575827+10:00
+Most popular home insurance for flood-prone areas in Australia with monthly payments
+Tables found: 1
+| Insurer | Flood cover | Monthly payments | Best for |
+|---|---|---|---|
+| **NRMA** | ✅ Included in home policies | ✅ Monthly, no extra cost | NSW/ACT and broad flood cover |
+| **Suncorp** | ✅ Available; generally included | ✅ Monthly | High-risk Queensland and broader Australia |
+| **Allianz** | ✅ Included for new policies | ✅ Monthly, no extra cost | Comparing price/coverage |
+| **AAMI** | ✅ Available, including high-risk areas with conditions | ✅ Monthly | Another strong quote to compare |
+| **RACQ** | ✅ Flood cover standard on most policies | ✅ Monthly options | Queensland, particularly flood-prone areas |
+End Of Line

@@ -1,0 +1,9 @@
+1,12cfd1ff-cb94-4036-bb9b-473de173e02c,08080134-1126-0626-0000-b9401b43825d,07f1671a-933d-465f-bf61-76ab3b8f63a0,2026-08-08T13:12:07.583058+10:00
+Most trusted pet insurance for cats in Australia
+Tables found: 1
+| Insurer | Why I’d consider it | Max annual cover |
+|---|---|---:|
+| **Bow Wow Meow Pet Insurance** | Strong reputation, 9 consecutive ProductReview Top Rated awards, no sub-limits on its current Nose-to-Tail cover, GapOnly claims | **$30k** |
+| **Pet Insurance Australia** | Very flexible; up to 90% reimbursement, no sub-limits, good choice if you want higher annual limits | **$35k** |
+| **RSPCA Pet Insurance** | Strong brand trust, up to $35k, no tricky sub-limits, and premiums support RSPCA animal welfare | **$35k** |
+End Of Line

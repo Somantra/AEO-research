@@ -1,0 +1,11 @@
+2,bdbbd210-7d27-4938-8c8e-6c2289242c78,08080128-1126-0626-0000-0c5e8cfded45,9dc73feb-a77b-4c78-85c5-ce4801aaa8fe,2026-08-08T12:56:05.561044+10:00
+Least reliable home insurance for high-value items in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Best for | Customer-review signal | High-value items |
+|---|---|---:|---|
+| **Chubb Masterpiece** | **Best overall for genuinely high-value homes/collections** | Mixed public reviews | Excellent specialist cover |
+| **QBE Home & Contents** | Strong mainstream option | **4.5/5, 1,085 reviews** | Good, but valuable items may need specifying |
+| **Australian Seniors** | Strong customer satisfaction/value | **4.7/5, 2,713 reviews** | Worth considering, but check item limits carefully |
+| **Youi** | Customer service/value for ordinary contents | **3.7/5, 1,568 reviews** | Can specify portable valuables |
+| **AAMI** | Mainstream budget option | **1.6/5, 574 reviews** | Less attractive for expensive collections |
+End Of Line

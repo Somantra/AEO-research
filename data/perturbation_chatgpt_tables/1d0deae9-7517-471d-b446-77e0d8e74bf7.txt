@@ -1,0 +1,10 @@
+2,0f9a060a-f356-43f2-8579-738f9548afc9,08080141-1126-0626-0000-30bb6ff4b556,1d0deae9-7517-471d-b446-77e0d8e74bf7,2026-08-08T13:26:34.798793+10:00
+Premium pet insurance for large dog breeds in Australia with instant online quotes
+Tables found: 1
+| Provider | Why consider it | Online quote |
+|---|---|---|
+| **Fetch** | Up to **$30,000 annual cover**, with 80%, 90% or 100% reimbursement options; Finder’s 2026 award winner for comprehensive cover | Yes |
+| **Medibank Pet Insurance** | Up to **$30,000/year** and up to 90% reimbursement; GapOnly available | Yes |
+| **RSPCA PetFlex** | Up to **$35,000/year**, up to 90% reimbursement and no annual sub-limits | Yes |
+| **Budget Direct Comprehensive** | Up to **$15,000/year**, 80% reimbursement; currently advertises **15% off the first year** when bought online | Yes |
+End Of Line

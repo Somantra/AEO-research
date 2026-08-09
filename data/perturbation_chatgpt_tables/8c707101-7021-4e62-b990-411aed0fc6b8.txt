@@ -1,0 +1,11 @@
+2,4a06285e-58a7-41ab-9ac7-5c015540a3e9,08080131-1126-0626-0000-0f378745774a,8c707101-7021-4e62-b990-411aed0fc6b8,2026-08-08T13:05:10.781927+10:00
+Cheapest roadside assistance plans in Australia without hidden fees
+Tables found: 1
+| Provider | Basic plan | Annual price | Fee transparency | Key catch |
+|---|---:|---:|---|---|
+| **RAC WA – Standard** | $11.30/mo | **$128/yr advertised** | Monthly direct debit becomes $135.68 incl. 6% admin fee | Best cheap option in WA |
+| **AANT – Standard** | $11.58/mo | **$139/yr** | Price shown upfront | NT-focused club |
+| **RACV – Roadside Care** | $12/mo | **$138/yr** | Monthly payments include admin fee | VIC |
+| **RACT – Advantage** | $12/mo | **$144/yr** | Annual price clearly stated | Tasmania |
+| **RAA – Standard** | $11.25/mo | **$135/yr** | Some service fees/exclusions | SA |
+End Of Line

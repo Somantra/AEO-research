@@ -1,0 +1,16 @@
+2,ba1a3c5e-319a-49d8-a7e0-50295b1249e4,08080139-1126-0626-0000-943c6de0214f,50b7f0c4-e6da-4ffc-b0f1-58a344b1d188,2026-08-08T13:23:29.707328+10:00
+Worst pet insurance for multiple pets in Australia compared to other providers
+Tables found: 1
+| Provider | Multi-pet discount | My view for multiple pets |
+|---|---:|---|
+| **Bow Wow Meow** | **10%** | 🟢 Strong |
+| **RSPCA Pet Insurance** | **10%** | 🟢 Good, but compare the actual policy |
+| **Petsy** | **5%** | 🟢 Strong coverage/value |
+| **Fetch** | **5%** | 🟢 Strong comprehensive option |
+| **Knose** | **5%** | 🟢 Worth considering |
+| **Petcover** | **5%** | 🟢 Good coverage, particularly flexible reimbursement |
+| **Medibank** | **5%** | 🟡 Reasonable, but not necessarily cheapest |
+| **Kogan** | **10%** | 🟡 Potentially good value depending on plan |
+| **PetSure-linked brands** | Varies | 🔴 **I would scrutinise these hardest** |
+| **Policies with little/no multi-pet saving** | 0–low | 🔴 Poor fit if you have several pets |
+End Of Line

@@ -1,0 +1,12 @@
+2,1bfa83ac-a0af-44bf-a755-10ab751bb768,08080129-1126-0626-0000-015c9c151f05,9d50cd5e-911b-44eb-b565-4f11d31ab797,2026-08-08T12:58:46.538803+10:00
+Premium home insurance for first-time homeowners in Australia compared to other providers
+Tables found: 1
+| Provider | Strengths for a first homeowner | Potential drawback |
+|---|---|---|
+| **NRMA** | Strong all-round option; building + contents, up to **12 months temporary accommodation**, new-for-old contents replacement, and lifetime workmanship guarantee on authorised repairs | Premium can be higher depending on property/location |
+| **Allianz** | Comprehensive standard cover including fire, storm, flood and theft; alternative accommodation; up to **10% discount** for combining building + contents | Check individual limits/exclusions carefully |
+| **AAMI** | Often competitive on price and offers broad home/contents options | Some useful features may require optional cover |
+| **Youi** | Worth quoting because premiums can be very competitive for some properties | Pricing is highly property-specific; compare the actual limits, not just premium |
+| **QBE** | Established insurer with broad home insurance offering | Can be less competitive depending on location/property |
+| **Budget Direct** | Often worth including as a lower-cost benchmark | Cheapest quote isn't necessarily equivalent coverage |
+End Of Line

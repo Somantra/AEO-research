@@ -1,0 +1,11 @@
+2,d2b7188f-e58b-474f-a547-57dde6c5dde9,08080130-1126-0626-0000-9baf2aa4a447,f6f1f0d7-2d74-47ba-a6cd-257eeb3f7495,2026-08-08T13:03:03.996364+10:00
+Cheapest roadside assistance for commercial vehicles in Australia compared to other providers
+Tables found: 1
+| Provider | Approx. cost | Best for | Notes |
+|---|---:|---|---|
+| RACV Business Roadside Care | **From $125/vehicle/year** | Small fleets, vans, utes (up to 8t GVM) | Unlimited callouts, 24/7, business vehicles, Victoria-focused with interstate partner support. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business.html?utm_source=chatgpt.com) |
+| RACV Fee-for-service business option | **$37/vehicle/year + callout fees** | Low-use vehicles | Lower upfront cost if breakdowns are rare; service call fees apply. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/business/fee-for-service.html?utm_source=chatgpt.com) |
+| NRMA Business/Fleet | Quote-based | NSW fleets, national businesses | Often competitive for fleets but pricing depends on vehicle numbers and coverage. [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RACQ Business/Fleet | Quote-based | Queensland operators | Strong regional coverage; price varies by fleet size. |
+| Independent commercial roadside providers | Often cheaper | Operators wanting basic recovery | Can be cheaper, but check towing limits, response network and truck capability. |
+End Of Line

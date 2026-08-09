@@ -1,0 +1,10 @@
+2,c2eaa69b-3c4b-4271-8997-99faa529f44f,08080132-1126-0626-0000-49c07dd4850c,14819058-f31e-4dc1-9c0d-e96fadd98656,2026-08-08T13:07:12.601740+10:00
+Most comprehensive roadside assistance for rural areas in Australia with instant online quotes
+Tables found: 1
+| Provider / plan | Rural strength | Towing / assistance | Australia-wide | Online pricing |
+|---|---|---|---|---|
+| **RAA Premium** | ⭐⭐⭐⭐⭐ | Up to **200 km** country attendance/towing to designated depot, plus further towing allowance | Yes | Yes |
+| **RACV Total Care** | ⭐⭐⭐⭐⭐ | **100 km** metro & regional towing | Yes | Yes |
+| **NRMA Ultimate Care** | ⭐⭐⭐⭐ | Up to **100 km** towing | Yes | Yes |
+| RAA Plus | ⭐⭐⭐⭐ | Up to **100 km** country | Yes | Yes |
+End Of Line

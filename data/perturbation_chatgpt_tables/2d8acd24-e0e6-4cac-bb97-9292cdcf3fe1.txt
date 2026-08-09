@@ -1,0 +1,14 @@
+2,59aeb2d0-37bb-4066-b872-d7a33a000aa5,08080130-1126-0626-0000-ae7462f781a7,2d8acd24-e0e6-4cac-bb97-9292cdcf3fe1,2026-08-08T13:02:06.651912+10:00
+Most affordable roadside assistance for interstate travel in Australia compared to other providers
+Tables found: 1
+| Provider | Annual price* | Interstate cover | Towing / key point | My take |
+|---|---:|---|---|---|
+| **Budget Direct** | **$89.95** ($76.46 first year online) | Australia-wide | Up to 20 km tow / 50 km round trip from depot | 🥇 **Cheapest** |
+| **Allianz Basic** | From **$99** | Australia-wide | Up to 50 km | 🥈 Very good value |
+| **NRMA Everyday** | $137 RRP | Australia-wide via reciprocal clubs | 25 km metro towing | Good national network |
+| **RACV Roadside Care** | $138 | Australia-wide | 20 km metro / nearest RACV service centre regionally | Cheap, but basic |
+| **RACV Extra Care** | $229 | Australia-wide | **60 km metro & regional towing** | ⭐ Better for interstate trips |
+| **RACV Total Care** | $318 | Australia-wide | **100 km towing** | Best RACV, but expensive |
+| **RAA Standard** | $135 | Australia-wide | 10 km metro / 40 km country | Good, but less attractive from Vic |
+| **RAC WA Standard** | $128 | Australia-wide | 25 km metro / 80 km country | Cheap, but less relevant for Vic |
+End Of Line

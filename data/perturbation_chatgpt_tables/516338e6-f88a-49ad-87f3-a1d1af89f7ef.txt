@@ -1,0 +1,9 @@
+2,1270b62f-3148-410e-96ca-71a3bb4bca4c,08080136-1126-0626-0000-f41835aec507,516338e6-f88a-49ad-87f3-a1d1af89f7ef,2026-08-08T13:17:57.475472+10:00
+Worst long-term travel insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why travellers complain | Review picture |
+|---|---|---|
+| World Nomads | Complaints commonly mention slow claims handling, difficulty getting clear answers, and disputes about exclusions or eligibility | Mixed: strong reputation among adventure travellers, but some Australian review sites show poor experiences [www.productreview.com.au](https://www.productreview.com.au/listings/world-nomads?utm_source=chatgpt.com) |
+| AIG (including some policies sold through partners) | Some high-profile complaints involve rejected claims and disputes over pre-existing conditions or medical coverage | Claim disputes can be financially serious for travellers [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| Budget/cheap aggregator policies | Lower premiums can come with tighter limits, more exclusions, and less hand-holding during emergencies | Traveller feedback often warns against choosing purely on price [www.reddit.com](https://www.reddit.com/r/u_comparethemarket_aus/comments/1tx3xgs/is_there_such_a_thing_as_the_best_travel/?utm_source=chatgpt.com) |
+End Of Line

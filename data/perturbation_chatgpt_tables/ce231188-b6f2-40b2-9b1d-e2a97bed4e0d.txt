@@ -1,0 +1,12 @@
+2,713c3eb4-8ffe-4f69-ac7a-52cad7829132,08080141-1126-0626-0000-4dd791f14d5c,ce231188-b6f2-40b2-9b1d-e2a97bed4e0d,2026-08-08T13:26:28.481618+10:00
+Most popular pet insurance for large dog breeds in Australia compared to other providers
+Tables found: 1
+| Provider | Why it stands out for a large dog | Cover highlights | Main concern |
+|---|---|---|---|
+| **Bow Wow Meow** | ⭐ Strong all-rounder | Up to **$30k**, up to **90%**, **no condition sub-limits**, GapOnly | Premiums can rise as the dog ages |
+| **Petsy** | ⭐ Excellent comprehensive cover | Up to **$25k normally / $30k for eligible young pets**, 80–90%, no condition sub-limits, annual excess | Newer/smaller provider than the biggest brands |
+| **Knose** | ⭐ Particularly attractive for large breeds | Up to **$25k**, 70–90%, **no sub-limits**, chronic-condition cover while renewed | Optional extras have eligibility restrictions |
+| **Trupanion** | ⭐ Best for potentially huge/lifetime costs | **Unlimited** coverage rather than an annual cap; per-condition excess | Usually expensive; per-condition excess |
+| **Pet Insurance Australia (PIA)** | ⭐ Established, popular choice | Up to ~$15k, up to 80%; comprehensive/major medical options | Lower annual maximum and some important sub-limits |
+| **RSPCA Pet Insurance** | Good mainstream alternative | Up to **$35k** on PetFlex, up to 90% | Check the specific PDS carefully for exclusions/sub-limits |
+End Of Line

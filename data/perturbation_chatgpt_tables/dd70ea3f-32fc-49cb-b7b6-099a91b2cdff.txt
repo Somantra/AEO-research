@@ -1,0 +1,10 @@
+2,ebb6451c-4072-4307-8933-8cd039f7dbf6,08080119-1126-0626-0000-59b3773a2e8c,dd70ea3f-32fc-49cb-b7b6-099a91b2cdff,2026-08-08T12:35:16.109069+10:00
+Least reliable comprehensive car insurance in Australia with monthly payments
+Tables found: 1
+| Insurer | Claims experience | Monthly payments |
+|---|---:|---|
+| **Budget Direct** | **52%** rated above average/excellent | ✅ Yes |
+| **AAMI** | **64%** | ✅ Yes |
+| **RACV** | **66%** | ✅ Yes |
+| **Allianz** | **69%** | ✅ Yes |
+End Of Line

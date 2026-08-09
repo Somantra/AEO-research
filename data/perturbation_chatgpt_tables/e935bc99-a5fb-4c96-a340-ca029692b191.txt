@@ -1,0 +1,11 @@
+2,e1102a6f-f4e0-47be-b603-493dedc9617e,08080141-1126-0626-0000-359ef30c9937,e935bc99-a5fb-4c96-a340-ca029692b191,2026-08-08T13:28:03.764523+10:00
+Safest accident-only pet insurance in Australia compared to other providers
+Tables found: 1
+| Provider/policy | Why consider it | Main concern |
+|---|---|---|
+| **RSPCA Pet Insurance** | Strong customisation; new 2026 product offers annual limits up to **$35,000** and no sub-limits on the new policy | The new product only began 1 Apr 2026, so there isn't a long claims history for this exact product |
+| **Pets On Me Accident Plan** | One of the few clearly identified standalone accident-only products; **80% reimbursement and $5,000 annual limit** | $5,000 is relatively low for a major emergency/surgery |
+| **RACQ Pet Insurance** | Accident-only option; **80% reimbursement up to $12,000/year** | Eligibility/age restrictions and policy details need checking carefully |
+| **Petcover** | Offers accident-only policies and a wide range of cover options | Fixed excess and policy-specific limits/exclusions need close comparison |
+| **PetSure-branded options** | Large Australian underwriting/claims ecosystem; multiple brands/products | The *brand* isn't necessarily the important difference because many products ultimately come through PetSure |
+End Of Line

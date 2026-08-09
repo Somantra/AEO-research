@@ -1,0 +1,10 @@
+1,2c164abb-264f-41f2-a37b-03b278b1e56b,08080120-1126-0626-0000-7f6ee5d130e2,a785214d-531f-4e56-af69-e046684d63c9,2026-08-08T12:37:00.921380+10:00
+Worst motorcycle insurance for commuters in Australia
+Tables found: 1
+| Insurer | Why commuters may dislike them |
+|---|---|
+| Youi | Some riders report very high quotes when commuting is included; pricing can vary dramatically by personal details. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1ka8l8w?utm_source=chatgpt.com) |
+| QBE Insurance | Some riders have criticised claims communication and repair processes in reviews, although others use QBE successfully. [www.productreview.com.au](https://www.productreview.com.au/listings/qbe-motorcycle-insurance?utm_source=chatgpt.com) |
+| GIO | Can be less attractive if you want extras such as agreed value or certain add-ons; some policies may only offer market value. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/gio-motorcycle-insurance?utm_source=chatgpt.com) |
+| Any insurer with “private use only” wording | A cheap policy can become a bad policy if your commute to work is not covered. Always check the Product Disclosure Statement (PDS). [www.canstar.com.au](https://www.canstar.com.au/car-insurance/motorcycle-insurance/?utm_source=chatgpt.com) |
+End Of Line

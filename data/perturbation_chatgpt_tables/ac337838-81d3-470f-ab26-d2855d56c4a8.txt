@@ -1,0 +1,12 @@
+2,41d3a9ee-0cdc-4f2d-baa3-b2bbd985d9f9,08080120-1126-0626-0000-01e5906ccdfb,ac337838-81d3-470f-ab26-d2855d56c4a8,2026-08-08T12:38:44.895313+10:00
+Premium car insurance providers in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly payments | Premium positioning | Notable features |
+|---|---|---|---|
+| **Allianz** | ✅ Monthly, **no extra cost** | ⭐ Premium mainstream | Choice of repairer, hail cover, EV cover |
+| **RACV** | ✅ Monthly | ⭐ Premium, especially VIC | **Complete Care** is its highest cover level; 24/7 claims |
+| **NRMA** | ✅ Monthly on most policies | ⭐ Premium mainstream | Comprehensive options, established claims network |
+| **AAMI** | ✅ Monthly | ⭐ Mainstream/premium | Comprehensive cover, flexible payment frequency |
+| **Youi** | ✅ 12 monthly instalments | ⭐ Premium personalised | New-car replacement on eligible cars, hire-car benefits |
+| **Shannons** | ✅ Monthly **at no extra cost** | ⭐⭐ Premium/enthusiast | Agreed value, choice of repairer, modifications/accessories |
+End Of Line

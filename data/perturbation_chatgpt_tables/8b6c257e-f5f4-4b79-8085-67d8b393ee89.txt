@@ -1,0 +1,9 @@
+2,8d464597-0800-4116-81df-9a23378cb6bb,08080141-1126-0626-0000-7176cb329c75,8b6c257e-f5f4-4b79-8085-67d8b393ee89,2026-08-08T13:28:00.975497+10:00
+Easiest accident-only pet insurance in Australia without hidden fees
+Tables found: 1
+| Provider | Accident-only | Simplicity | Main catch |
+|---|---|---|---|
+| **Ruff ’n’ Tumble** | ✅ Dogs only | ⭐⭐⭐⭐⭐ | $40/month + $500 excess per accident |
+| **PetsOnMe Accident Plan** | ✅ Dog/cat | ⭐⭐⭐⭐ | $5,000 annual limit, 80% reimbursement |
+| **PD Accident Plan** | ✅ Dog/cat | ⭐⭐⭐⭐ | $5,000 annual limit, 80% reimbursement |
+End Of Line

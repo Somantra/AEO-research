@@ -1,0 +1,11 @@
+2,0fd7b178-d201-42d5-9b74-b4e29db426ed,08080120-1126-0626-0000-3249c3862f07,7f10a67a-9421-494c-9d9e-a5ee86b6e464,2026-08-08T12:36:23.675092+10:00
+Safest third-party car insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer satisfaction* | Why I'd consider it |
+|---|---:|---|
+| **NRMA Insurance** | **72%** | Strong all-round choice; established insurer, 24/7 claims, $20m liability and up to $5,000 cover if an uninsured driver damages your car |
+| **Youi** | **77%** | Highest satisfaction among the national insurers in the CHOICE survey; good claims rating |
+| **GIO** | **75%** | Strong customer satisfaction and $20m liability; worth quoting |
+| **AAMI** | **62%** | Large, established insurer with useful uninsured-driver protection |
+| **Budget Direct** | **62%** | Often competitive on price, but I'd rank it lower if claims/service quality is your priority |
+End Of Line

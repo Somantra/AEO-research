@@ -1,0 +1,10 @@
+2,6492dfe1-74b6-4d6c-aec4-013cd546f271,08080140-1126-0626-0000-67b1a22d43de,cad08d04-9b2b-4bab-b2d7-618cac0e85c3,2026-08-08T13:25:08.248043+10:00
+Best pet insurance for puppies and kittens in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims speed | Young-pet appeal | Coverage highlights | My take |
+|---|---|---|---|---|
+| **Petsy** | Usually **≤5 business days**; can be faster with pre-existing-condition assessment | **6 weeks+**; 20% lifetime annual-limit bonus if started at 6 weeks–6 months | Up to $30k for young pets, no sub-limits, 80/90% options | 🥇 **Best overall for young pets + fast reimbursement** |
+| **Trupanion** | Very fast when using GapOnly/partner hospitals; pays vet directly | Strong option for puppies/kittens | **90%**, no payout/sub-limits, lifetime per-condition excess | 🥇 **Best for very large/unpredictable vet bills** |
+| **Bow Wow Meow** | **GapOnly ~5 minutes** at participating vets | Good | Up to $30k, up to 90%, GapOnly | 🥈 **Best if immediate claims matter** |
+| **Other PetSure/GapOnly brands** | GapOnly claims assessed in **~5 minutes** | Varies by policy | Varies | Good if your vet supports GapOnly |
+End Of Line

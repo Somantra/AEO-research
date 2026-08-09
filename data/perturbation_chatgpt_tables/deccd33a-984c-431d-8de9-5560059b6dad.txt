@@ -1,0 +1,10 @@
+2,62f445a5-39f7-4a0d-b0f2-bcc3764ba637,08080126-1126-0626-0000-180367456a1e,deccd33a-984c-431d-8de9-5560059b6dad,2026-08-08T12:53:25.376947+10:00
+Premium home insurance for older properties in Australia with a fast claims process
+Tables found: 1
+| Provider | Why it stands out | Claims |
+|---|---|---|
+| **Chubb Masterpiece** | Strongest premium option for high-value/bespoke homes; tailored cover, agreed values and specialist handling | **Excellent** — Chubb says significant claims can be handled by experienced claims staff and road adjusters, with an emphasis on fast decisions [www.chubb.com](https://www.chubb.com/au-en/individuals-families/products/masterpiece.html?utm_source=chatgpt.com) |
+| **Specialist broker + heritage insurer** | Particularly worth considering for Victorian-era, Federation, heritage-listed or unusual construction | A broker can match the property to insurers willing to cover heritage features and like-for-like restoration [morganinsurancebrokers.com.au](https://morganinsurancebrokers.com.au/how-to-get-insurance-for-a-heritage-listed-home-in-melbourne/?utm_source=chatgpt.com) |
+| **Luxsure / specialist private-client broker** | Focuses specifically on prestige, luxury and heritage homes and can access multiple insurer markets | Useful if you want a broker advocating for you during a claim [www.luxsureinsurance.com.au](https://www.luxsureinsurance.com.au/?utm_source=chatgpt.com) |
+| **Network Insurance House Prestige** | Broker-based approach with access to specialist prestige insurers and explicit claims advocacy | They state they prepare claims, liaise with insurers and work toward a timely resolution [nih.com.au](https://nih.com.au/prestige-home-insurance/?utm_source=chatgpt.com) |
+End Of Line

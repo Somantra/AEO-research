@@ -1,0 +1,11 @@
+2,5e89b91a-9b6f-4c7d-bd3c-6e613ec61639,08080123-1126-0626-0000-debe4c5ff4ff,04260d9d-702f-45ac-8b97-331465c2253e,2026-08-08T12:44:55.027217+10:00
+Premium third-party motorcycle insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why consider it | Claims convenience |
+|---|---|---|
+| **[QBE Motorcycle Insurance](https://www.qbe.com/au/motorcycle-insurance)** | Up to **$30m legal liability**; established motorcycle-specific product | **24/7 claims line + online claims**, with a dedicated claims officer [www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **[RACV Motorcycle Insurance](https://www.racv.com.au/insurance/motorcycle-insurance.html)** | TPP includes limited protection for your bike against an uninsured at-fault driver | **24/7 claims help** via app or phone [www.racv.com.au](https://www.racv.com.au/insurance/motorcycle-insurance/third-party.html?utm_source=chatgpt.com) |
+| **[NRMA Motorcycle Insurance](https://www.nrma.com.au/motorcycle-insurance)** | Dedicated motorcycle TPP option from a major Australian insurer | Online claims and established claims infrastructure [www.nrma.com.au](https://www.nrma.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **[ING Motorcycle Insurance](https://www.ing.com.au/insurance/motorcycle-insurance.html)** | TPP, TPP Fire & Theft and Comprehensive options; up to **$20m** property liability | Good digital-first option; currently advertises 15% first-year online discount, subject to T&Cs [www.ing.com.au](https://www.ing.com.au/insurance/motorcycle-insurance.html?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **[Youi Motorcycle Insurance](https://www.youi.com.au/motorcycle-insurance/third-party-cover)** | Up to **$20m legal liability**, with useful optional benefits | Strong digital/phone service proposition [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance/third-party-cover?utm_source=chatgpt.com)[www.qbe.com](https://www.qbe.com/au/motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

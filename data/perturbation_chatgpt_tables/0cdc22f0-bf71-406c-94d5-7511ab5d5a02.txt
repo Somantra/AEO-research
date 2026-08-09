@@ -1,0 +1,12 @@
+2,72572a8e-50ed-451f-92e3-4ada577bc721,08080140-1126-0626-0000-52eb7c73eb9e,0cdc22f0-bf71-406c-94d5-7511ab5d5a02,2026-08-08T13:24:48.357050+10:00
+Most popular pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Pre-existing condition approach | Best suited for |
+|---|---|---|
+| Pet Insurance Australia | Generally excludes pre-existing conditions; some conditions may be reviewed depending on circumstances | Owners wanting broad accident/illness cover for new problems |
+| Fetch Pet Insurance | Generally excludes existing conditions; may consider some previously resolved issues depending on policy terms | Pets with minor past issues that have fully resolved |
+| Petsy | Excludes pre-existing conditions; assessment depends on veterinary history | Digital-first claims experience |
+| Budget Direct | Some curable conditions may become eligible after a symptom-free period (policy dependent) | Pets with temporary past illnesses/injuries |
+| RACQ | Similar approach: some conditions may be reviewed after a period without symptoms | Queensland-based customers or existing RACQ members |
+| Knose | May review some previously excluded conditions after a qualifying period | Owners seeking flexible review options |
+End Of Line

@@ -1,0 +1,11 @@
+2,1bca783d-b248-43ae-9af4-4f33b08252ae,08080137-1126-0626-0000-458b115ad97e,1dfc3245-b661-4fec-8713-c7a901df1073,2026-08-08T13:18:36.062915+10:00
+Premium long-term travel insurance in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Customer-review signal | Best for | My take |
+|---|---|---|---|
+| **Southern Cross Travel Insurance (SCTI)** | **4.6/5 from 3,432 reviews** | Comprehensive premium cover | **My first choice** |
+| **Fast Cover** | **4.7/5** on ProductReview | Strong service + comprehensive options | **Excellent alternative** |
+| **InsureandGo Gold** | **4.2/5 from 2,111 reviews** | Premium cover, including annual multi-trip | Good option, but check trip-duration limit |
+| **Cover-More Premium** | **3.7/5 from 673 reviews** | Strong assistance network | Good coverage, weaker review profile |
+| **World Nomads** | **2.4/5 from 291 reviews** | Adventure/backpacking flexibility | **Wouldn't be my pick if reviews matter** |
+End Of Line

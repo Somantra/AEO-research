@@ -1,0 +1,11 @@
+2,b8478241-4cec-4e62-9d0b-29f707a4c757,08080132-1126-0626-0000-11458633374a,15fa80b5-6b86-4646-b5e6-c274caf08f86,2026-08-08T13:06:19.702358+10:00
+Most affordable roadside assistance for rural areas in Australia with instant online quotes
+Tables found: 1
+| Provider | Cheapest plan | Rural suitability | Online purchase/quote |
+|---|---:|---|---|
+| **Allianz Roadside Assistance** | **$99/year** | ⭐⭐⭐⭐ — Australia-wide, up to 50 km towing | Yes |
+| **RACQ Everyday Lite** | **$80/year** | ⭐⭐⭐ — particularly good in QLD; no towing on Lite | Yes |
+| **NRMA Everyday Care** | **$112/year annually** | ⭐⭐⭐⭐ — strong NSW/ACT network, Australia-wide assistance | Yes |
+| **RACV Roadside Care** | **$138/year** | ⭐⭐⭐ — Extra Care is better for rural VIC | Yes |
+| **RAA Standard** | **$135/year** | ⭐⭐⭐⭐⭐ — particularly strong country provisions in SA | Yes |
+End Of Line

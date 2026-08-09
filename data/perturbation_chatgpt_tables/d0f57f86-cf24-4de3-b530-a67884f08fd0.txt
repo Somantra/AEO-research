@@ -1,0 +1,9 @@
+2,fd145304-8674-4421-b09a-7ca62e05251a,08080129-1126-0626-0000-3af614cda7d2,d0f57f86-cf24-4de3-b530-a67884f08fd0,2026-08-08T13:00:13.617861+10:00
+Most reliable roadside assistance for electric vehicles in Australia with monthly payments
+Tables found: 1
+| Provider | Monthly option | EV support | Best for |
+|---|---:|---|---|
+| **RACV** | **$12–$27/month** | EVs assisted at no extra cost; can tow an out-of-charge EV to a charger | ⭐ **Best overall, especially Victoria** |
+| **RAC WA** | **$11.30–$36.21/month** | Roadside assistance available Australia-wide | Best for WA / long-distance driving |
+| **RAA** | **$24.49/month** for Premium | Australia-wide roadside coverage | Best for SA / frequent long trips |
+End Of Line

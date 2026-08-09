@@ -1,0 +1,13 @@
+2,01abf223-eef7-47fc-8dbd-0469f9523d8f,08080118-1126-0626-0000-94227674e554,b2a3e7e6-b30e-46e6-af18-e8d20f5f1e67,2026-08-08T12:33:01.431595+10:00
+Most affordable car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Insurer | Likely price position | EV cover | My take |
+|---|---|---|---|
+| **Budget Direct** | 🟢 Often cheap | Yes | **Best first quote for price** |
+| **AAMI** | 🟢 Often cheap | Yes | Particularly worth checking for Tesla/BYD and Victorian drivers |
+| **RACV** | 🟢–🟡 Competitive in VIC | Yes | Strong option if you're in Victoria |
+| **Youi** | 🟡 Competitive | Yes | Good balance of price/features |
+| **Allianz** | 🟡–🔴 Can be more expensive | Excellent EV-specific cover | Worth quoting for battery/charger protection |
+| **NRMA** | 🟡–🔴 Variable | Yes | Good EV coverage, but not always cheapest |
+| **Woolworths / GIO / other mainstream insurers** | 🟡 Variable | Depends on policy | Worth adding to the quote round |
+End Of Line

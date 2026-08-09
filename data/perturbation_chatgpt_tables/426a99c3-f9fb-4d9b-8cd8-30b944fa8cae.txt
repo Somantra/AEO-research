@@ -1,0 +1,10 @@
+2,a152fca9-38c7-4db3-99d7-e7effa917156,08080140-1126-0626-0000-dd58b74045fd,426a99c3-f9fb-4d9b-8cd8-30b944fa8cae,2026-08-08T13:24:34.520987+10:00
+Easiest pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Provider | Why it may be easiest | Online quote |
+|---|---|---|
+| Petsy | Offers a pre-existing condition assessment process, which can help you know exclusions earlier rather than discovering them at claim time. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) | Available online |
+| Pet Insurance Australia | Has online quotes and allows certain temporary pre-existing conditions to be reviewed if requirements are met. [www.petinsurance.com.au](https://www.petinsurance.com.au/?utm_source=chatgpt.com) | Available online |
+| Medibank | Allows review of some temporary pre-existing conditions after eligibility requirements. [www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com)[www.medibank.com.au](https://www.medibank.com.au/pet-insurance/?utm_source=chatgpt.com) | Available online |
+| Pet Circle Insurance | Promotes upfront pre-existing condition checks so exclusions are clearer before claims. [www.petcircleinsurance.com.au](https://www.petcircleinsurance.com.au/?utm_source=chatgpt.com) | Available online |
+End Of Line

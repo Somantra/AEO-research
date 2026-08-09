@@ -1,0 +1,15 @@
+2,5bed8149-5fd6-4d58-bd0f-bf2ff31b8db9,08080123-1126-0626-0000-0aeac5d5619e,461ddb6f-b4c0-4db2-bf7a-75191f2e647d,2026-08-08T12:43:30.205836+10:00
+Least reliable comprehensive motorcycle insurance in Australia compared to other providers
+Tables found: 1
+| Provider | Reliability / claims confidence | My take |
+|---|---|---|
+| **Shannons** | 🟢 Very strong | **One of the safest bets** for motorcycle-specific cover |
+| **AAMI** | 🟢 Strong | Good mainstream option; strong 2026 satisfaction results |
+| **QBE** | 🟢 Strong–moderate | Good value and well regarded, but individual claims experiences vary |
+| **GIO** | 🟢 Strong | Particularly good claims/satisfaction indicators |
+| **NRMA** | 🟡 Moderate | Solid insurer, but not necessarily the best value for motorcycles |
+| **Youi** | 🟡 Moderate–strong | Good coverage/service reputation, but premiums can vary substantially |
+| **Budget Direct** | 🟡 Moderate | Attractive pricing/features, but I'd examine the PDS carefully before choosing it purely on price |
+| **National Motorcycle Insurance** | 🟡 Moderate | Motorcycle-focused, worth quoting, but less independently documented than the biggest brands |
+| **Swann** | ⚠️ Don't use for a new policy | It is no longer accepting new motorcycle policies; don't confuse old Swann reviews with current availability. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,1af64fd5-9035-42bf-8be2-59098c8578fd,08080128-1126-0626-0000-e9c163557cbd,3ae07f3c-69b1-4322-89dd-806a32a201c9,2026-08-08T12:57:07.209013+10:00
+Least reliable home insurance for flood-prone areas in Australia with a fast claims process
+Tables found: 1
+| Insurer | Flood suitability | Claims accessibility | My take |
+|---|---|---|---|
+| **Allianz** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Best overall for fast claims process** |
+| **NRMA** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Strong option, particularly NSW/ACT |
+| **Suncorp** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Very good for flood-prone QLD; 24/7 home claims |
+| **QBE** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Worth quoting specifically for flood-risk properties |
+| **Youi** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Competitive and worth comparing, but address-specific |
+End Of Line

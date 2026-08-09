@@ -1,0 +1,11 @@
+2,d06c3403-f13e-4f8e-a5e8-caabea1724bf,08080133-1126-0626-0000-fcaebeadbbeb,42ba40ad-3aed-4cec-8acf-e3d860ab556a,2026-08-08T13:10:12.367794+10:00
+Premium roadside assistance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Premium option | Key strength | Fee transparency |
+|---|---|---|---|
+| **RACQ** | Ultra Care — **$227/yr** | 120 km attendance, 60 km towing; cover can follow you in eligible vehicles | **Very good** — inclusions and limits are published |
+| **NRMA** | Ultimate Care — **$299/yr RRP** | 100 km free towing, unlimited call-outs | **Very good** — pricing and coverage limits are explicit |
+| **RACV** | Total Care — **$318/yr** | 100 km towing, extensive trip benefits | **Very good**, but monthly payment includes a disclosed $0.50 admin fee |
+| **RAA** | Premium — **$293/yr** | Individual cover, unlimited call-outs, up to 50 km metro towing | **Good**, but has explicit service fees in certain circumstances |
+| **RAC** | Ultimate / Ultimate Plus — **$330/$410 yr** | Strong options for frequent and country drivers | **Good** — detailed limits published |
+End Of Line

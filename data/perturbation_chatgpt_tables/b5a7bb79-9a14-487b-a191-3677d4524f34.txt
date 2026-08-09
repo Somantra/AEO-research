@@ -1,0 +1,13 @@
+1,c9fd443d-5f8d-4bd5-a43e-da8de89ef0eb,08080130-1126-0626-0000-650b842c105e,b5a7bb79-9a14-487b-a191-3677d4524f34,2026-08-08T13:02:45.815336+10:00
+Premium roadside assistance providers in Australia
+Tables found: 1
+| Provider | Best for | Premium-level highlights |
+|---|---|---|
+| **NRMA** | Best all-rounder | Unlimited 24/7 callouts; Ultimate Care includes towing up to **100 km**; national reciprocal coverage. [www.nrma.com.au](https://www.nrma.com.au/roadside-assistance?utm_source=chatgpt.com) |
+| **RACV** | Victoria / interstate travel | Total Care is the higher-end option, with interstate reciprocal assistance and stronger towing benefits. [www.racv.com.au](https://www.racv.com.au/help-and-support/emergency-roadside-assistance.html?utm_source=chatgpt.com) |
+| **RACQ** | Queensland | One of the strongest choices for Queensland, particularly regional driving and longer-distance travel. |
+| **RAA** | South Australia / long-distance drivers | Premium includes unlimited callouts, up to **200 km country attendance**, and up to **50 km metro towing**, plus additional travel/accommodation benefits. [www.raa.com.au](https://www.raa.com.au/motor/road-service?rm_campaign=road-service-glovebox-dec21&rm_medium=hyperlink&rm_source=samotor&utm_source=chatgpt.com) |
+| **RAC** | Western Australia | Strong choice for WA, particularly if you frequently travel outside Perth. |
+| **RACT** | Tasmania | Strongest local option for Tasmania, with national reciprocal arrangements. |
+| **Allianz Roadside Assistance** | Nationwide independent alternative | Platinum is **$139/year from** and includes up to **100 km towing**, battery/tyre/fuel/key assistance, EV charge assistance, bogged-vehicle assistance and replacement-vehicle benefits. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/roadside-assistance.html?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,12 @@
+2,30afb9b1-aed4-4424-8013-89473af3d11e,08080121-1126-0626-0000-2550beb11777,0c2bd2b3-bc68-416c-ba9d-29170be5dc31,2026-08-08T12:39:29.294339+10:00
+Least reliable motorcycle insurance for learner riders in Australia with instant online quotes
+Tables found: 1
+| Insurer | Online quote? | Learner rider notes |
+|---|---|---|
+| Youi | Usually starts online, often followed by a call | Some riders report very high quotes for young/inexperienced riders; others like the personalised quoting process. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com)[www.productreview.com.au](https://www.productreview.com.au/listings/youi-comprehensive-motorcycle-insurance?utm_source=chatgpt.com)[www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1vbjwgb/insurance_quotes/?utm_source=chatgpt.com) |
+| AAMI | Yes | Can be expensive for learner riders depending on age, bike and location. Some rider comparisons have found large price differences versus competitors. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance?utm_source=chatgpt.com) |
+| Swann Insurance | Yes/online enquiry options | Popular with some motorcycle riders, but reviews include complaints about policy administration and cancellations. [www.productreview.com.au](https://www.productreview.com.au/listings/swann-comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Yes | Often competitive on price, but as with any budget-focused policy, check excesses, repairer choice and inclusions carefully. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/budget-direct-motorcycle-insurance?utm_source=chatgpt.com) |
+| QBE Insurance | Yes | Often appears in learner rider comparisons; some riders like its cover options, but excesses can be high for inexperienced riders. [www.reddit.com](https://www.reddit.com/r/AussieRiders/comments/1sv4v4f/insurance_as_a_learner/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/comprehensive-motorcycle-insurance?utm_source=chatgpt.com) |
+| NRMA Insurance | Yes | Frequently mentioned by learner riders as competitive on price in some cases. [www.finder.com.au](https://www.finder.com.au/car-insurance/motorcycle-insurance/best-motorcycle-insurance?utm_source=chatgpt.com) |
+End Of Line

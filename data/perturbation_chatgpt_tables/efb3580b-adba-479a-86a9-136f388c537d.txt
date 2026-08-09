@@ -1,0 +1,11 @@
+2,87744919-73a7-43c6-b877-afe0ba392772,08080130-1126-0626-0000-b4136cd0752a,efb3580b-adba-479a-86a9-136f388c537d,2026-08-08T13:01:30.376622+10:00
+Easiest roadside assistance for motorcycles in Australia without hidden fees
+Tables found: 1
+| Provider | Annual price | Call-outs | Free towing | My take |
+|---|---:|---:|---:|---|
+| **Motorcycle Assist Australia (MCAA)** | **$59** Standard | 2 | 20 km metro / 40 km regional | 🥇 Cheapest simple option |
+| **Rider Support Australia (RSA)** | **$69.95** Essential | 4 | 30 km metro / 50 km country | 🥇 Best cheap all-rounder |
+| **Rider Support Australia** | **$119.95** Premium | Unlimited | 50 km metro / 100 km country | Best if you tour |
+| **RACV** | **$138** Roadside Care | — | 20 km metro | Very convenient in Victoria |
+| **RACQ** | **$109** Everyday | — | 20 km | Excellent if you're in Queensland |
+End Of Line

@@ -1,0 +1,11 @@
+2,fb0b5c18-bb59-4a2e-8600-2abe323f30bd,08080121-1126-0626-0000-7cbe35cf25db,e583568e-8c68-4345-80bd-3ca4f13491e4,2026-08-08T12:39:24.424223+10:00
+Least reliable motorcycle insurance for learner riders in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Motorcycle reviews | Learner cover | My take |
+|---|---:|---|---|
+| **Budget Direct** | **4.1/5 (63)** | Yes, subject to eligibility | ⭐ **Best value/reviews combination** |
+| **Youi** | **4.0/5 (106)** | Yes | ⭐ **Best customer-service evidence** |
+| **QBE** | **2.9/5 (86)** | **Yes** | Good learner eligibility, weaker reviews |
+| **Suncorp** | **3.8/5 (2)** | Yes | Positive but too few reviews to rely on |
+| **AAMI** | **2.9/5 (4)** | Yes | Too little evidence; mixed |
+End Of Line

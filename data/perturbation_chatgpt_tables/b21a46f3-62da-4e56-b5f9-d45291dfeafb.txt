@@ -1,0 +1,11 @@
+2,44894867-719e-48ca-a186-01bf1391ac5e,08080135-1126-0626-0000-06df8cebf7fb,b21a46f3-62da-4e56-b5f9-d45291dfeafb,2026-08-08T13:13:41.601908+10:00
+Best travel insurance for family holidays in Australia compared to other providers
+Tables found: 1
+| Provider | Best for | Key strengths | Watch-outs |
+|---|---|---|---|
+| **Cover-More** | ⭐ **Best all-rounder** | Strong comprehensive cover, unlimited overseas medical, good family options, 24/7 assistance, optional cancellation/activity cover | Can be pricier; cancellation cover is an add-on |
+| **Allianz** | ⭐ **Best mainstream alternative** | Family policies, strong comprehensive cover, good cancellation/medical/luggage benefits | Check sub-limits and optional packs carefully |
+| **TID** | 💰 **Best value contender** | Competitive comprehensive plans, unlimited medical on top plan, flexible cancellation limits | Less attractive if you need particularly broad adventure/activity cover |
+| **1Cover** | 💰 **Good value/high limits** | Unlimited overseas medical on higher plans, up to $15k luggage, $5m liability | Some benefits are shared between adult and dependant |
+| **World Nomads** | 🏄 **Best for adventurous families** | 220+ activities, strong Explorer plan, unlimited medical/cancellation on Explorer | Family dependants generally need to be ≤20; not designed for domestic Australian medical costs |
+End Of Line

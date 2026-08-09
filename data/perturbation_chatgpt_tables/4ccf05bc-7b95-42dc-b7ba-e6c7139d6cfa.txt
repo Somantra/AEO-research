@@ -1,0 +1,11 @@
+2,3be29f51-c3d8-4171-9a3d-88c066528c2d,08080120-1126-0626-0000-fbdda6efdea0,4ccf05bc-7b95-42dc-b7ba-e6c7139d6cfa,2026-08-08T12:36:41.368726+10:00
+Premium third-party car insurance in Australia with instant online quotes
+Tables found: 1
+| Insurer | Third-party cover options | Online quote |
+|---|---|---|
+| [NRMA Insurance](https://www.nrma.com.au/car-insurance) | Third Party Property Damage; Third Party Fire & Theft; Comprehensive options | Online quote available [www.nrma.com.au](https://www.nrma.com.au/car-insurance?Product=Premium&utm_source=chatgpt.com) |
+| [Allianz Australia](https://www.allianz.com.au/car-insurance.html) | Third Party Property Damage (including cover for damage you cause to others’ cars/property, subject to policy terms) | Online quote available [www.allianz.com.au](https://www.allianz.com.au/car-insurance/third-party-property-damage-car-insurance.html?utm_source=chatgpt.com)[www.allianz.com.au](https://www.allianz.com.au/car-insurance.html?utm_source=chatgpt.com) |
+| [Youi](https://www.youi.com.au/car-insurance) | Third party and comprehensive products | Online quote process available  |
+| [AAMI](https://www.aami.com.au/car-insurance.html) | Third party and other car insurance options | Online quote available |
+| [QBE Australia](https://www.qbe.com/au) | Third party and broader motor insurance products | Online quote options vary by product |
+End Of Line

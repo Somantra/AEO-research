@@ -1,0 +1,11 @@
+2,88bbe204-41d9-44ea-a6d5-b0939bf3ebb8,08080135-1126-0626-0000-f3754808629b,35b5140f-65a2-4c03-86c3-b6fa25bc9def,2026-08-08T13:14:21.847245+10:00
+Premium travel insurance for family holidays in Australia with a fast claims process
+Tables found: 1
+| Feature | Why it matters |
+|---|---|
+| High overseas medical limit | Medical emergencies can be the largest unexpected cost |
+| Cancellation/interruption cover | Protects prepaid flights, accommodation and tours |
+| 24/7 emergency assistance | Useful when travelling across time zones |
+| Online claim submission | Usually reduces paperwork delays |
+| Clear documentation requirements | Faster claims often depend on having receipts, reports and booking records ready |
+End Of Line

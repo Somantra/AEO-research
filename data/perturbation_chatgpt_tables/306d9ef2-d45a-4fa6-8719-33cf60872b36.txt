@@ -1,0 +1,10 @@
+2,ef97bc18-dd4c-4f66-8d84-cf841d93c03a,08080132-1126-0626-0000-99895fa04635,306d9ef2-d45a-4fa6-8719-33cf60872b36,2026-08-08T13:07:35.291342+10:00
+Worst roadside assistance for hybrid cars in Australia without hidden fees
+Tables found: 1
+| Provider | Hybrid/EV covered | Surprise-fee risk | Key catch |
+|---|---|---|---|
+| **RAA** | ✅ All levels, including hybrids | 🟡 Medium | $114–$154 service fee if you call within 48h of joining |
+| **NRMA** | ✅ Hybrid & plug-in hybrid | 🟢 Low | SA cover has towing limits; remote towing can incur commercial rates |
+| **RACV** | ✅ Hybrid at no extra cost | 🟢 Low | Strong EV/hybrid support, but check plan-specific towing limits |
+| **Manufacturer roadside** | Usually ✅ | 🟢 Very low while included | Coverage varies after the free period |
+End Of Line

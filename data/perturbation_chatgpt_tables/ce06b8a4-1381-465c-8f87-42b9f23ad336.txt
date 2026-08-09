@@ -1,0 +1,9 @@
+2,bf71c8e5-3b7e-4687-ae28-ccad911483b7,08080139-1126-0626-0000-060bf988ee87,ce06b8a4-1381-465c-8f87-42b9f23ad336,2026-08-08T13:23:22.410174+10:00
+Best pet insurance for multiple pets in Australia with a fast claims process
+Tables found: 1
+| Insurer | Multi-pet discount | Fast claiming | Why I'd consider it |
+|---|---:|---|---|
+| **Medibank** | **5%** on each additional pet | **GapOnly ~5 min** | ⭐ **Best overall for fast claims + multiple pets** |
+| **RSPCA Pet Insurance** | **10%** on additional pets | GapOnly + standard claims | ⭐ **Best discount** |
+| **Fetch Pet Insurance** | **5%** | Claims paid directly to vet | Strong comprehensive-cover option |
+End Of Line

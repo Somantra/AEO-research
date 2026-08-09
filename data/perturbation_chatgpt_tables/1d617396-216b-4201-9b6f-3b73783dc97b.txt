@@ -1,0 +1,10 @@
+2,2ad6da7a-eb5e-4f17-865c-aa0e29faea7b,08080136-1126-0626-0000-39bcb5d1f941,1d617396-216b-4201-9b6f-3b73783dc97b,2026-08-08T13:17:13.849303+10:00
+Safest travel insurance for pre-existing medical conditions in Australia with monthly payments
+Tables found: 1
+| Insurer | Pre-existing conditions | Monthly payment |
+|---|---|---|
+| **Cover-More** | ⭐ Strong option — 30+ conditions can be automatically covered if criteria are met; others can be assessed | **Not normally monthly** for Annual Multi-Trip; single-trip payment options need checking at quote |
+| **1Cover** | ⭐ Strong — medical assessment tells you whether your condition can be covered and any extra premium | Payment arrangements should be confirmed during quote |
+| **InsureandGo** | ⭐ Considers pre-existing conditions and assesses them during application | Check current payment option at quote |
+| **TravelInsurance.com.au** | ⭐ 46 conditions automatically covered subject to criteria | Check payment method/terms |
+End Of Line

@@ -1,0 +1,13 @@
+2,ffc0ddea-39ab-4b65-b847-c07e2cc68589,08080118-1126-0626-0000-feeead59a075,5775fa71-b4f9-4302-949f-0889d00d2445,2026-08-08T12:32:55.469709+10:00
+Cheapest car insurance for electric vehicles in Australia compared to other providers
+Tables found: 1
+| Insurer | Likely price position | EV-specific considerations |
+|---|---|---|
+| **Budget Direct** | 🟢 **Often among the cheapest** | Finder’s 2026 Best Value and Best Low Cost insurer; 15% first-year online discount. [www.finder.com.au](https://www.finder.com.au/car-insurance?utm_source=chatgpt.com) |
+| **AAMI** | 🟢 Often competitive | Worth quoting, particularly for Tesla and mainstream EVs |
+| **RACV/RACQ** | 🟢 Can be very competitive | Particularly worth checking depending on your state |
+| **Rollin** | 🟢 Can be cheap | Usage-based/telematics option can produce substantial savings for some drivers; community reports in 2026 have found it cheaper than traditional insurers. [www.reddit.com](https://www.reddit.com/r/CarsAustralia/comments/1s23742/which_insurer/?utm_source=chatgpt.com) |
+| **Allianz** | 🟡 Mid-range, sometimes excellent | Strong EV cover: battery, thermal runaway, charging cables/wall charger and EV-certified repairers. [www.allianz.com.au](https://www.allianz.com.au/car-insurance/ev-insurance.html?utm_source=chatgpt.com)[www.budgetdirect.com.au](https://www.budgetdirect.com.au/car-insurance/articles/cheapest-cars-to-insure-australia.html?utm_source=chatgpt.com) |
+| **NRMA** | 🟡 Often not the absolute cheapest | EV-specific cover and lifetime repair guarantee; up to 10% first-year online discount. [www.nrma.com.au](https://www.nrma.com.au/car-insurance/ev-insurance?utm_source=chatgpt.com) |
+| **Youi** | 🟠 Frequently expensive for EVs | Good features, but recent EV owner reports show quotes substantially above competitors. [www.reddit.com](https://www.reddit.com/r/AustralianEV/comments/1sa3u7d/ev_insurance_surprise_at_the_cost/?utm_source=chatgpt.com) |
+End Of Line

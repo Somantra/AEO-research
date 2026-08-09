@@ -1,0 +1,12 @@
+0,38f9f122-f4e2-4be9-8d37-b207d299242e,08080118-1126-0626-0000-5600e58de1a7,80f7adfe-91c9-44e5-a911-afb476e3faa9,2026-08-08T12:31:53.002779+10:00
+pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Your pet's situation | Likely outcome |
+|---|---|
+| Diabetes, arthritis, cancer, heart disease | ❌ Usually permanently excluded |
+| Hip/elbow dysplasia, cruciate/IVDD issues | ❌ Usually excluded if pre-existing |
+| Previous ear infection that completely resolved | 🟡 May become eligible after a symptom-free period |
+| Previous gastro/skin infection that was cured | 🟡 Potentially reviewable |
+| Condition diagnosed after buying the policy | 🟢 Generally coverable, subject to waiting periods/terms |
+| New, unrelated illness or accident | 🟢 Usually coverable even if another condition is excluded |
+End Of Line

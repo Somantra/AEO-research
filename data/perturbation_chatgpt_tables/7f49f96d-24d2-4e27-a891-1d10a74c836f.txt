@@ -1,0 +1,12 @@
+2,af8f7fd6-37d6-4934-b69b-ac75a20a8112,08080126-1126-0626-0000-ccb1ef9ee8ad,7f49f96d-24d2-4e27-a891-1d10a74c836f,2026-08-08T12:51:33.903560+10:00
+Cheapest home insurance for new builds in Australia with instant online quotes
+Tables found: 1
+| Insurer | Annual quote |
+|---|---:|
+| **Budget Direct** | **$1,568** |
+| NRMA | $3,030 |
+| Allianz | $3,047 |
+| GIO | $3,043 |
+| AAMI | $3,259 |
+| Youi | $3,782 |
+End Of Line

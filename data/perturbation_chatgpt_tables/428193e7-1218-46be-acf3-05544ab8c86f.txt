@@ -1,0 +1,9 @@
+1,d6c58419-179e-4cfc-b6e3-497e504e0f77,08080137-1126-0626-0000-57e94f43edba,428193e7-1218-46be-acf3-05544ab8c86f,2026-08-08T13:18:53.896030+10:00
+Safest accident-only pet insurance in Australia
+Tables found: 1
+| Provider | Why it may be a safer choice | Watch-outs |
+|---|---|---|
+| RSPCA Pet Insurance | Recognised brand, purpose-linked provider, customisable cover options; newer offerings advertise higher annual limits and fewer sub-limits on some products. [www.rspcawa.org.au](https://www.rspcawa.org.au/pet-insurance?utm_source=chatgpt.com) | Check the exact Product Disclosure Statement (PDS)—brand reputation does not guarantee every policy feature. |
+| PetsOnMe | Offers an accident-only plan with an advertised benefit limit and reimbursement option. [www.finder.com.au](https://www.finder.com.au/pet-insurance/accident-only?utm_source=chatgpt.com) | Smaller brand, so review claims process and exclusions carefully. |
+| Woolworths Insurance | Established retail insurance brand with accident-related pet cover options. [insurance.woolworths.com.au](https://insurance.woolworths.com.au/content/dam/Woolworths/Insurance/Pet/UsefulDocumentsPet/Woolworths_Pet_Insurance_PDS-Dec-20.pdf?utm_source=chatgpt.com) | Some accident definitions can be narrower than people expect—read the listed covered events carefully. |
+End Of Line

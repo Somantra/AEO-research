@@ -1,0 +1,9 @@
+2,f81804c8-ee40-4785-8b69-0cbaed1f68a6,08080136-1126-0626-0000-544522c7f196,b1d25bab-9b15-43bb-b6fb-f9e7fbedc4f6,2026-08-08T13:17:57.449073+10:00
+Worst long-term travel insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims-speed reputation | Main concerns to check |
+|---|---|---|
+| AIG Australia (including some travel products sold through partners) | Mixed | Some high-profile disputes have involved medical claims and pre-existing condition decisions. [www.couriermail.com.au](https://www.couriermail.com.au/news/queensland/whitsunday/couples-bali-holiday-becomes-nightmare-in-bitter-fight-with-travel-insurer/news-story/58f57da56141f58a7b0ffc19ed63a06b?utm_source=chatgpt.com) |
+| Fast Cover | Often marketed as fast; many positive reviews, but mixed claim experiences exist | Some customers report delays during complex claims despite straightforward online processes. [help.fastcover.com.au](https://help.fastcover.com.au/article/628-is-your-claims-process-good?utm_source=chatgpt.com) |
+| Large bank-branded travel insurance products | Varies | Check whether the bank is only the distributor and who actually underwrites the policy. |
+End Of Line

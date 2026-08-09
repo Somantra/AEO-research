@@ -1,0 +1,11 @@
+1,c70433fe-01ad-4a43-85f3-3d3c80354e19,08080137-1126-0626-0000-dc4431b44da5,079aade8-cf60-4a97-983c-83bb221a1b99,2026-08-08T13:19:33.289728+10:00
+Safest pet insurance providers in Australia
+Tables found: 1
+| Provider | Why I’d consider it | Main caveat |
+|---|---|---|
+| **Trupanion** | Strong option for major/chronic conditions; **no annual benefit limit** and relatively high new-pet age limit (13 years). | Can be expensive; excess/co-payment structure needs careful comparison. |
+| **Knose** | Good comprehensive-cover option with annual limits up to **$25,000**. | Underwritten by Pacific International, so insurer-level considerations matter. |
+| **Pet Insurance Australia** | Established provider with annual limits up to **$35,000** on its Select & Protect policy. | PetSure underwrites it, so you're effectively choosing a PetSure-backed policy. |
+| **Bow Wow Meow** | Established brand; Nose-to-Tail cover offers up to **$30,000** annually. | Also PetSure-backed. |
+| **RSPCA Pet Insurance** | Recognisable established brand and PetSure-backed. | The RSPCA name doesn't itself mean the policy is better—compare the actual PDS. |
+End Of Line

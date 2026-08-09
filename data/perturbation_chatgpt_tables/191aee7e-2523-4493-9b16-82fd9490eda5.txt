@@ -1,0 +1,10 @@
+1,79ddc0ad-f7af-4c62-b3fb-0d5dc55b18e6,08080135-1126-0626-0000-4fc5de7696a3,191aee7e-2523-4493-9b16-82fd9490eda5,2026-08-08T13:15:44.672114+10:00
+Most comprehensive pet insurance for pre-existing conditions in Australia
+Tables found: 1
+| Insurer / approach | Best for | Pre-existing condition approach |
+|---|---|---|
+| Pet Insurance Australia | Owners wanting a strong comprehensive policy with review options | Generally excludes pre-existing conditions, but allows some exclusions to be reviewed if the condition has resolved and meets criteria. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com) |
+| Knose | Pets with past minor issues that may be considered temporary | May review some pre-existing condition exclusions depending on the condition and symptom-free period. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) |
+| Budget Direct | Pets with previously cured issues | Some cured conditions may become eligible after a symptom-free period (policy-specific). [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) |
+| RACQ | Queensland-based owners or those considering broader insurance bundles | Some pre-existing condition restrictions may be reviewed depending on circumstances. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) |
+End Of Line

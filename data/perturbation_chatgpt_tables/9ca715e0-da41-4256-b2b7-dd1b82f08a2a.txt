@@ -1,0 +1,9 @@
+2,99a818b9-4219-42cf-bcc5-d307bbcf86a7,08080124-1126-0626-0000-aa88d80b5b39,9ca715e0-da41-4256-b2b7-dd1b82f08a2a,2026-08-08T12:46:04.766207+10:00
+Premium motorcycle insurance for older riders in Australia with a fast claims process
+Tables found: 1
+| Insurer | Why it stands out | Claims speed/features |
+|---|---|---|
+| **GIO** | Strong all-round comprehensive motorcycle cover; lifetime repair guarantee on authorised repairs | **24/7 claims**, online lodging in minutes, instant claim number, and online tracking [www.gio.com.au](https://www.gio.com.au/motorcycle-insurance/claims.html?utm_source=chatgpt.com)[www.gio.com.au](https://www.gio.com.au/motorcycle-insurance.html?utm_source=chatgpt.com) |
+| **Youi** | Particularly attractive if you value responsive service and roadside assistance | Comprehensive policies include **24/7 roadside assistance**; claims can be lodged online 24/7; Youi says calls are answered in around 30 seconds on average [www.youi.com.au](https://www.youi.com.au/motorcycle-insurance?utm_source=chatgpt.com) |
+| **Shannons** | Excellent option for enthusiasts, modified/classic bikes and riders wanting **agreed value** | Online claims with an instant claim number; Shannons says it will contact you **within 2 business days** after an online claim is lodged [www.shannons.com.au](https://www.shannons.com.au/claims.html?utm_source=chatgpt.com)[www.shannons.com.au](https://www.shannons.com.au/?utm_source=chatgpt.com) |
+End Of Line

@@ -1,0 +1,11 @@
+2,5874286e-c998-474e-b628-5a19b3896716,08080128-1126-0626-0000-e6bf99487f79,21ad7e16-1654-4b03-9245-47f8026d1fdb,2026-08-08T12:56:53.314461+10:00
+Best home insurance for flood-prone areas in Australia with strong customer reviews
+Tables found: 1
+| Insurer | Why I’d consider it | Customer-review signal | Flood cover |
+|---|---|---|---|
+| **Youi** | Strong overall customer satisfaction; flood included as standard | **3.7/5** on ProductReview; **4.7/5** Trustpilot | ✅ Included |
+| **QBE** | Very strong volume of positive customer reviews and comprehensive cover | **4.5/5** from 1,085 ProductReview reviews | ✅ Included |
+| **AAMI** | Strong mainstream option; flood included and recognised by Canstar for value | Customer feedback is mixed | ✅ Included |
+| **NRMA** | Worth quoting, particularly in NSW/ACT; Canstar rates its WA and NSW/ACT offerings competitively | Mixed-to-good depending on source | ✅ Included |
+| **RAC (WA)** | Strong formal customer-satisfaction recognition in WA | **1.7/5** on ProductReview, so I'd be cautious despite Canstar's award | ✅ Check policy/quote |
+End Of Line

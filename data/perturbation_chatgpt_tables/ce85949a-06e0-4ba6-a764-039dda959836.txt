@@ -1,0 +1,13 @@
+2,4d1acd0b-9c70-425b-b01b-3fe87b2df646,08080126-1126-0626-0000-0d687944362f,ce85949a-06e0-4ba6-a764-039dda959836,2026-08-08T12:52:58.462256+10:00
+Least reliable home insurance for older properties in Australia with monthly payments
+Tables found: 1
+| Insurer | Customers rating experience above average/excellent | My take |
+|---|---:|---|
+| **Qantas Insurance** | **42%** | ⚠️ One of the weakest |
+| **CGU** | **48%** | ⚠️ Weak overall satisfaction |
+| **CBA** | **51%** | ⚠️ Below average |
+| **Allianz** | **55%** | ⚠️ Mixed |
+| **GIO** | **55%** | ⚠️ Mixed |
+| **Everyday/Woolworths** | **57%** | ⚠️ Mixed |
+| **Budget Direct** | **58%** | ⚠️ Mixed, particularly claims |
+End Of Line

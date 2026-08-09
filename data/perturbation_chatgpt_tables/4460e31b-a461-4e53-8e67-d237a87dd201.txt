@@ -1,0 +1,11 @@
+2,ae1089b5-09c0-406a-80ba-d3c298b453d9,08080140-1126-0626-0000-f3ace5ad476f,4460e31b-a461-4e53-8e67-d237a87dd201,2026-08-08T13:24:51.508688+10:00
+Premium pet insurance for pre-existing conditions in Australia compared to other providers
+Tables found: 1
+| Provider | Existing chronic condition | Temporary pre-existing condition | My take |
+|---|---|---|---|
+| **Pet Insurance Australia (PIA)** | ❌ Generally permanently excluded | ✅ Can become coverable after **18 symptom-free months** | **Very strong option** |
+| **Bow Wow Meow** | ❌ Permanently excluded | ✅ Exclusion can be removed after **18 months without signs** | **Very strong option** |
+| **Petsy** | ❌ Chronic conditions remain excluded | ✅ Some temporary conditions can be reviewed after recovery | **Excellent transparency** |
+| **RSPCA** | ❌ Generally excluded | ✅ Can request reassessment; temporary conditions may qualify | **Worth quoting** |
+| **Fetch** | ❌ Excluded | ⚠️ Generally doesn't cover pre-existing conditions | Better for pets without existing issues |
+End Of Line

@@ -1,0 +1,11 @@
+2,85b76f90-ccc4-4cd3-9def-8d86122df4eb,08080119-1126-0626-0000-f5418b7e5a2e,b0972bbb-7526-403e-9ca8-4db7b064a3ef,2026-08-08T12:36:13.992587+10:00
+Least reliable third-party car insurance in Australia with a fast claims process
+Tables found: 1
+| Insurer | Claims experience rated above average/excellent |
+|---|---:|
+| **Budget Direct** | **52%** |
+| **AAMI** | **64%** |
+| **RACV** | **66%** |
+| **Allianz** | **69%** |
+| **APIA** | **70%** |
+End Of Line

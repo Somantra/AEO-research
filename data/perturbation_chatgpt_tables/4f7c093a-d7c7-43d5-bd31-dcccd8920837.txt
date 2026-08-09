@@ -1,0 +1,12 @@
+2,fcc12b58-a020-46fc-9d99-a39fe372933a,08080120-1126-0626-0000-1041b082042f,4f7c093a-d7c7-43d5-bd31-dcccd8920837,2026-08-08T12:38:18.641370+10:00
+Least reliable car insurance providers in Australia with monthly payments
+Tables found: 1
+| Insurer | Customer satisfaction* | Claims experience* | My take |
+|---|---:|---:|---|
+| **Allianz** | 61% | 69% | ⚠️ Below average overall |
+| **Budget Direct** | 62% | **52%** | ⚠️ Biggest concern for claims |
+| **AAMI** | 62% | 64% | ⚠️ Below average |
+| **RACV** | 64% | 66% | ⚠️ Below average |
+| **Suncorp** | 68% | 75% | 🟡 Average |
+| **Qantas** | 70% | — | 🟡 Average |
+End Of Line

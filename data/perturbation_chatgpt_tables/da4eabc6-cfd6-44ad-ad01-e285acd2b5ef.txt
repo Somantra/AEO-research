@@ -1,0 +1,11 @@
+2,b07f37e2-297f-4f9e-a0ff-07f17b6e1cdf,08080131-1126-0626-0000-71a5d5e24feb,da4eabc6-cfd6-44ad-ad01-e285acd2b5ef,2026-08-08T13:03:43.342342+10:00
+Safest roadside assistance for commercial vehicles in Australia without hidden fees
+Tables found: 1
+| Provider | Best for | Fee transparency | Vehicle limits |
+|---|---|---|---|
+| **Ampol Commercial Roadside Assistance** | **Trucks/heavy vehicles** | ⭐⭐⭐⭐ | Commercial cover for vehicles **over 3.5t GVM**, powered by NRMA |
+| **RAC WA BusinessWise** | Fleets, especially WA | ⭐⭐⭐⭐⭐ | Australia-wide; published per-vehicle pricing |
+| **RACV Business Roadside** | Light commercial fleets | ⭐⭐⭐⭐⭐ | Up to **8t GVM** |
+| **RACQ Business** | QLD fleets | ⭐⭐⭐⭐ | Normally up to **4.5t**, limited services up to 6t |
+| **RAA Business** | SA fleets | ⭐⭐⭐⭐ | Australia-wide fleet service |
+End Of Line

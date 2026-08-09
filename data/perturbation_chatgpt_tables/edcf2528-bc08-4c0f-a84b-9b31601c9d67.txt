@@ -1,0 +1,13 @@
+2,737e0b7f-d8f6-4072-b7a0-63579d5a4ad9,08080131-1126-0626-0000-b8eb57385a74,edcf2528-bc08-4c0f-a84b-9b31601c9d67,2026-08-08T13:05:24.075056+10:00
+Worst roadside assistance plans in Australia compared to other providers
+Tables found: 1
+| Provider / plan | Value | Towing | Biggest weakness |
+|---|---|---|---|
+| **Allianz Basic** | 🔴 Poor | 50 km | Relatively basic benefits for the price |
+| **RACV Roadside Care** | 🟠 Below average for rural use | 20 km metro | Very short towing limit |
+| **RAA Standard** | 🟠 Basic | 10 km metro | Only 4 call-outs/year |
+| **Allianz Platinum** | 🟢 Good | 100 km | More expensive than club-style plans |
+| **RACV Extra Care** | 🟢 Good | 60 km | Not the cheapest |
+| **RACV Total Care** | 🟢 Very good | 100 km | Higher annual cost |
+| **RAA Plus/Premium** | 🟢 Very good | 20/50 km metro, much higher country allowances | Best suited to SA members |
+End Of Line

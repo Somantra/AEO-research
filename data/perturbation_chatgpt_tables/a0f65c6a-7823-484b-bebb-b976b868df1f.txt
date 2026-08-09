@@ -1,0 +1,11 @@
+2,239a9646-7651-4a4e-87fd-73c4ba8a0c1a,08080128-1126-0626-0000-648201028eec,a0f65c6a-7823-484b-bebb-b976b868df1f,2026-08-08T12:56:53.299940+10:00
+Most affordable home insurance for flood-prone areas in Australia with instant online quotes
+Tables found: 1
+| Insurer | Flood cover | Online quote | Affordability signal |
+|---|---|---|---|
+| **[Youi](https://www.youi.com.au/home-insurance)** | Included | Yes | **Strong** — Canstar currently lists it at the lower-price end; Youi says 78% of surveyed QLD switchers saved, averaging $240/year. [www.canstar.com.au](https://www.canstar.com.au/home-insurance/?utm_source=chatgpt.com) |
+| **[Allianz](https://www.allianz.com.au/home-insurance.html)** | Included as standard on new policies | Yes | **Strong contender for flood-prone QLD**; specifically says high-risk flood/cyclone properties may be eligible and participates in the Cyclone Reinsurance Pool. [www.allianz.com.au](https://www.allianz.com.au/home-insurance.html?utm_source=chatgpt.com) |
+| **[AAMI](https://www.aami.com.au/home-insurance)** | Automatically included | Yes | **Worth quoting**, particularly in QLD. AAMI currently advertises $50 off the first year when quoting/buying online. [www.aami.com.au](https://www.aami.com.au/home-insurance/qld?utm_source=chatgpt.com) |
+| **[QBE](https://www.qbe.com/au)** | Available | Yes/online comparison | **Best flood-focused option according to Finder's 2026 ranking**; Finder names QBE its "Best for floods." [www.finder.com.au](https://www.finder.com.au/home-insurance/best-home-insurance?utm_source=chatgpt.com) |
+| **[Budget Direct](https://www.budgetdirect.com.au/)** | Optional | Yes | Often **very cheap**, but check that flood is available for your specific address before comparing it with policies that automatically include flood. [www.finder.com.au](https://www.finder.com.au/home-insurance/flood-insurance?utm_source=chatgpt.com) |
+End Of Line

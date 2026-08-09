@@ -1,0 +1,12 @@
+2,4db7ccd6-faf5-4111-b489-80aa4981f6ad,08080140-1126-0626-0000-a4a5b109ee3a,914edad1-55a4-4b4d-899a-d9b5afd04713,2026-08-08T13:26:17.997650+10:00
+Easiest pet insurance for large dog breeds in Australia compared to other providers
+Tables found: 1
+| Provider | Ease of claims | Large-dog coverage | Key advantage | My take |
+|---|---|---|---|---|
+| **Fetch** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Direct-to-vet payments + no dollar sub-limits | **Easiest overall** |
+| **PIA** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Up to $35k + no sub-limits + GapOnly | **Best established alternative** |
+| **Petsy** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Simple policies + direct-to-vet option | **Good middle ground** |
+| **Medibank** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Up to $30k, up to 90% | Good mainstream option |
+| **RSPCA Pet Insurance** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Up to $35k, up to 90%, no sub-limits | Worth quoting |
+| **Budget Direct** | ⭐⭐⭐⭐ | ⭐⭐⭐ | Often competitive pricing | Better if price is priority |
+End Of Line

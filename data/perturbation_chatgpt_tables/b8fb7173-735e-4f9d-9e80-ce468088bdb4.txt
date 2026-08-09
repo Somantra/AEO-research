@@ -1,0 +1,10 @@
+2,0d8e5b4b-5b50-4523-ba83-c8df899d12e1,08080140-1126-0626-0000-bd523cd6394e,b8fb7173-735e-4f9d-9e80-ce468088bdb4,2026-08-08T13:24:31.051730+10:00
+Least reliable pet insurance for pre-existing conditions in Australia with instant online quotes
+Tables found: 1
+| Insurer | Pre-existing-condition approach | Online quote |
+|---|---|---|
+| **Petsy** | Particularly transparent: offers a **free pre-existing condition assessment** after joining, so they review your vet history and tell you what will be excluded. Temporary conditions that have completely resolved may potentially be reviewed; chronic conditions such as cancer, arthritis and allergies remain excluded. [petsy.com.au](https://petsy.com.au/?utm_source=chatgpt.com) | **Yes — quick online quote** [petsy.com.au](https://petsy.com.au/?utm_source=chatgpt.com) |
+| **Knose** | Some fully resolved pre-existing conditions can potentially have exclusions reviewed, with the period varying by condition. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) | **Yes — quote in ~60 seconds** [petsy.com.au](https://petsy.com.au/?utm_source=chatgpt.com)[quote.knose.com.au](https://quote.knose.com.au/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia (PIA)** | Temporary conditions may cease being treated as pre-existing after **18 months without noticeable signs/symptoms**. Chronic conditions and several specified conditions remain excluded. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/pre-existing-conditions/?utm_source=chatgpt.com)[www.finder.com.au](https://www.finder.com.au/pet-insurance/pre-existing-conditions?utm_source=chatgpt.com) | Yes |
+| **Budget Direct** | A cured pre-existing condition may become eligible after **12 months symptom-free**, according to CHOICE. [www.choice.com.au](https://www.choice.com.au/money/insurance/pet/buying-guides/pet-insurance?utm_source=chatgpt.com) | Yes |
+End Of Line

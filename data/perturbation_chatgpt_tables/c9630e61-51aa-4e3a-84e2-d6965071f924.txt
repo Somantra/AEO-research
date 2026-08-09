@@ -1,0 +1,11 @@
+2,34e355a3-5649-4536-92d5-4de9b2d42c5b,08080133-1126-0626-0000-d605f203373a,c9630e61-51aa-4e3a-84e2-d6965071f924,2026-08-08T13:09:20.952953+10:00
+Cheapest roadside assistance providers in Australia without hidden fees
+Tables found: 1
+| Provider | Approx. annual cost | Good for | Watch for |
+|---|---:|---|---|
+| Budget Direct roadside assistance | ~$90/year | Cheapest standalone-style option; unlimited call-outs listed in comparisons | Check towing limits and add-on conditions [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RAC Standard (WA) | ~$128–$136/year | Good value if you are in WA; strong local network | Monthly payment may include admin fees; check entitlements [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance?cmpag=memberbenefits&cmpprv=cheetahmail&cmpprv=cheetahmail%3Fcmptp%3Dedm&cmppt=membership&cmptp=edm&utm_source=chatgpt.com) |
+| NRMA Everyday Care | ~$137/year | Established national provider | Higher tiers add useful extras but cost more [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RAA Standard | ~$135/year | Reasonable state-based option | Limited call-outs compared with premium plans [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+| RACQ | varies | Good if you drive in QLD | Premium plans can become expensive [www.finder.com.au](https://www.finder.com.au/car-insurance/car-insurance-roadside-assistance?utm_source=chatgpt.com) |
+End Of Line

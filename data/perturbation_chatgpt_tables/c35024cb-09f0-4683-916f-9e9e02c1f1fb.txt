@@ -1,0 +1,12 @@
+1,43a2a554-f8f4-4072-a9b6-c49961a3de12,08080136-1126-0626-0000-781a81810448,c35024cb-09f0-4683-916f-9e9e02c1f1fb,2026-08-08T13:16:30.294054+10:00
+Most popular pet insurance for puppies and kittens in Australia
+Tables found: 1
+| Insurer / brand | Why consider it | Best for |
+|---|---|---|
+| **[Medibank Pet Insurance](https://www.medibank.com.au/pet-insurance/)** | Up to $30,000 annual cover and up to 90% reimbursement on eligible bills; GapOnly is available | **Strong all-rounder** |
+| **[RSPCA Pet Insurance](https://www.rspcapetinsurance.org.au/)** | PetFlex offers up to $35,000 annual cover and up to 90% back, with no sub-limits on some options | **High cover limits** |
+| **[Pet Insurance Australia](https://www.petinsuranceaustralia.com.au/)** | Established Australian provider with accident & illness options | **Established provider** |
+| **[Bow Wow Meow](https://bowwowinsurance.com.au/)** | Popular with Australian pet owners and offers GapOnly on eligible policies | **Flexible coverage / claims convenience** |
+| **[Trupanion Australia](https://trupanion.com.au/)** | Focuses heavily on comprehensive veterinary cover and can pay participating vets directly | **Large unexpected vet bills** |
+| **[Petsy](https://petsy.com.au/)** | Newer-generation Australian pet insurer with high annual limits | **Modern/high-limit policies** |
+End Of Line

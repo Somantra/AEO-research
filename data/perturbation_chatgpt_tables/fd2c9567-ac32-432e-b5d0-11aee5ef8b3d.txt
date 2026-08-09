@@ -1,0 +1,21 @@
+0,cfbd8669-0b63-4805-9626-44624c50d627,08080117-1126-0626-0000-2f308f477e79,fd2c9567-ac32-432e-b5d0-11aee5ef8b3d,2026-08-08T12:29:56.836151+10:00
+home insurance providers in Australia
+Tables found: 1
+| Provider | Good for / notes |
+|---|---|
+| **AAMI** | Large mainstream insurer; home & contents |
+| **Allianz** | Home, building and contents; strong nationwide presence |
+| **NRMA Insurance** | Particularly worth checking in NSW; building, contents and landlord cover |
+| **QBE** | Major Australian insurer with home & contents products |
+| **Suncorp** | Home, contents and landlord insurance |
+| **Youi** | Known for personalised pricing; home & contents |
+| **Budget Direct** | Often worth checking for competitive pricing |
+| **GIO** | Major general insurer offering home insurance |
+| **RACV** | Victoria-focused |
+| **RACQ** | Queensland-focused |
+| **RAA** | South Australia-focused |
+| **RAC** | Western Australia-focused |
+| **Apia** | Home insurance aimed particularly at older Australians |
+| **Westpac** | Home and landlord insurance |
+| **Australian Seniors** | Insurance products primarily targeted at over-50s |
+End Of Line

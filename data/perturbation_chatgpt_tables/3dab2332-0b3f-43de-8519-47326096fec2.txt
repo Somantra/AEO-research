@@ -1,0 +1,12 @@
+2,304cb118-b9b0-430a-b2d0-c0890ff5e1f0,08080128-1126-0626-0000-d4533cecfc9a,3dab2332-0b3f-43de-8519-47326096fec2,2026-08-08T12:58:16.120555+10:00
+Least reliable home insurance for first-time homeowners in Australia with monthly payments
+Tables found: 1
+| Insurer | Claims rated above average/excellent | My take |
+|---|---:|---|
+| **Budget Direct** | 49% | ⚠️ Caution |
+| **GIO** | 50% | ⚠️ Caution |
+| **Allianz** | 52% | ⚠️ Caution |
+| **ANZ** | 52% | ⚠️ Caution |
+| **CBA** | 54% | ⚠️ Caution |
+| **AAMI** | 57% | 🟡 Mixed |
+End Of Line

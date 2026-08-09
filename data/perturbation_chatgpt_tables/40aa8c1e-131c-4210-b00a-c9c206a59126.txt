@@ -1,0 +1,11 @@
+1,3693ba97-414b-4d0b-ba9d-8cc7feae0dd0,08080134-1126-0626-0000-3e13ffa18544,40aa8c1e-131c-4210-b00a-c9c206a59126,2026-08-08T13:13:20.894941+10:00
+Best pet insurance for older pets in Australia
+Tables found: 1
+| Insurer | Best for | New-pet age limit | Key point |
+|---|---|---:|---|
+| **RSPCA Pet Insurance** | **Best overall if under 9** | Under 9 for PetFlex | No maximum age once continuously insured; no sub-limits on its current PetFlex product. [rspcapetinsurance.org.au](https://rspcapetinsurance.org.au/faqs/our-cover/?utm_source=chatgpt.com) |
+| **Bow Wow Meow** | **Best flexible comprehensive cover** | Up to 9 | Up to $30k annual limit, 70/80/90% reimbursement and no per-condition sub-limits. [bowwowinsurance.com.au](https://bowwowinsurance.com.au/discover-our-new-nose-to-tail-cover-test/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia** | **Good senior-pet option if under 9** | Under 9 for comprehensive | Lifetime continuation if enrolled before 9 and there's no break in cover. [www.petinsuranceaustralia.com.au](https://www.petinsuranceaustralia.com.au/frequently-asked-questions/?utm_source=chatgpt.com) |
+| **Pet Insurance Australia – Pet Essentials** | **Older pet needing some cover** | Under 12 | Less comprehensive; importantly, benefit percentage drops to 65% from age 8 and condition limits apply. [petinsuranceaustralia.com.au](https://petinsuranceaustralia.com.au/2mthnew/?utm_source=chatgpt.com) |
+| **Petcover** | Alternative worth quoting | Generally under 8 | More restrictive entry ages, so less attractive for a genuinely senior pet. [www.petcovergroup.com](https://www.petcovergroup.com/au/dog-insurance/dog-insurance-plans/?utm_source=chatgpt.com) |
+End Of Line

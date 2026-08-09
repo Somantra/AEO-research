@@ -1,0 +1,10 @@
+2,73d240ed-eb73-475c-924d-e829fdd061ec,08080132-1126-0626-0000-ce62392995b4,0fac3553-4bc7-4400-b4cd-b25170dea696,2026-08-08T13:08:05.427112+10:00
+Premium roadside assistance for hybrid cars in Australia with a fast claims process
+Tables found: 1
+| Provider | Why it may suit hybrid owners |
+|---|---|
+| RACV | Offers roadside assistance for hybrid and electric vehicles, 24/7 support, app-based assistance requests, patrol tracking in metro Melbourne, and states that help typically arrives within an hour. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com) |
+| NRMA | Large national roadside network; some partner programs provide hybrid/EV battery assistance and towing support. [www.smart.com.au](https://www.smart.com.au/novated-leasing/services/roadside-assistance/?utm_source=chatgpt.com) |
+| AAMI | Roadside Assist can be added to comprehensive car insurance, with 24/7 Australia-wide help for breakdowns, towing, flat batteries and related issues. [www.aami.com.au](https://www.aami.com.au/car-insurance/comprehensive/roadside-assist?utm_source=chatgpt.com) |
+| Hyundai Australia Premium Roadside Support | A manufacturer-backed option if you own a Hyundai hybrid; includes 24/7 Australia-wide roadside support. [www.hyundai.com](https://www.hyundai.com/au/roadside-support?utm_source=chatgpt.com) |
+End Of Line

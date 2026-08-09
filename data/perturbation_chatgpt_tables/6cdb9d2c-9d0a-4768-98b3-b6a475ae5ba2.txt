@@ -1,0 +1,11 @@
+2,be553e3c-f8fd-446f-9a71-ec7630eb34c2,08080117-1126-0626-0000-e0cfae9e25e7,6cdb9d2c-9d0a-4768-98b3-b6a475ae5ba2,2026-08-08T12:29:13.972398+10:00
+Most popular car insurance for young drivers in Australia with monthly payments
+Tables found: 1
+| Insurer | Young-driver suitability | Monthly payments |
+|---|---|---|
+| **Budget Direct** | ⭐ Strong value option | ✅ Available; Canstar currently lists pay-monthly at no extra cost |
+| **Youi** | ⭐ Good features, including for learners | ✅ Available |
+| **Allianz** | ⭐ Good mainstream option | ✅ Monthly at no extra cost |
+| **NRMA** | ⭐ Popular, broad coverage | ✅ Available |
+| **AAMI** | ⭐ Worth getting a quote | ✅ Available |
+End Of Line

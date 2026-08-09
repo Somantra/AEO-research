@@ -1,0 +1,9 @@
+2,63c51f05-affd-4081-96dd-ffb46d9f664d,08080129-1126-0626-0000-79fe0331a081,18af8781-0488-4de6-8205-98bfb5d9be32,2026-08-08T12:59:56.175820+10:00
+Cheapest roadside assistance for electric vehicles in Australia with a fast claims process
+Tables found: 1
+| Provider | Starting price | EV out-of-charge | Towing | Speed/convenience |
+|---|---:|---|---|---|
+| **urlAllianz Roadside Assistanceturn2view0** | **$99/yr** | Yes, on Platinum | Up to 100 km Platinum | **Very good** — 24/7, phone-based |
+| **urlNRMA Roadside Assistanceturn0search0** | **$112/yr** annually | Yes | 25–100 km depending on plan | Very good; national reciprocal coverage |
+| **urlRACV Roadside Assistanceturn1search0** | **$138/yr** | **Yes, all plans** | 20–100 km depending on plan | **Excellent** — app + real-time patrol tracking |
+End Of Line

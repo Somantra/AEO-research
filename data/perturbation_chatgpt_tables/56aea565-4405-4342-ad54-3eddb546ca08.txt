@@ -1,0 +1,13 @@
+2,6d598baf-ebb8-4196-83d0-d509cd9699d0,08080131-1126-0626-0000-43d90b5cd5be,56aea565-4405-4342-ad54-3eddb546ca08,2026-08-08T13:04:23.465220+10:00
+Worst roadside assistance for older cars in Australia compared to other providers
+Tables found: 1
+| Provider | Older car suitability | Why |
+|---|---|---|
+| **RACV (VIC)** | 🟢 **Very good** | Most vehicles are eligible, with no stated age cut-off; higher plans offer up to 100 km towing. [www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance.html?utm_source=chatgpt.com)[www.racv.com.au](https://www.racv.com.au/cars-transport/roadside-assistance/roadside-care.html?utm_source=chatgpt.com) |
+| **RAC WA** | 🟢 **Very good** | No obvious age penalty; Australia-wide service and unlimited call-outs. [rac.com.au](https://rac.com.au/car-motoring/roadside-assistance/compare?utm_source=chatgpt.com) |
+| **RACQ (QLD)** | 🟢 **Good** | Covers most cars, including older vehicles, with options up to more comprehensive towing/benefits. [www.racq.com.au](https://www.racq.com.au/car/roadside-assistance/everyday-roadside?utm_source=chatgpt.com) |
+| **RAA (SA)** | 🟢 **Very good** | Particularly attractive for an older car because the cover is **personal rather than tied to one vehicle**. [www.raa.com.au](https://www.raa.com.au/en/component-library/compare-alt-bg?utm_source=chatgpt.com) |
+| **NRMA** | 🟡 **Generally good** | Worth considering, but the exact roadside product and towing entitlements matter more than simply choosing NRMA. |
+| **Insurer-based roadside assistance** | 🟠 **Variable** | Often cheaper, but commonly has shorter towing limits and less extensive breakdown benefits than the motoring clubs. |
+| **Cheap third-party roadside services** | 🔴 **Potentially worst for an old car** | The headline price can look attractive, but limited towing, call-out restrictions and less extensive recovery benefits can become painful when an older car suffers a serious breakdown. |
+End Of Line

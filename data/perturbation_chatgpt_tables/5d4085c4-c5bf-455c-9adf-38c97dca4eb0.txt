@@ -1,0 +1,9 @@
+2,a8fce0e8-9a5a-46fc-9314-b76c26eceb8f,08080133-1126-0626-0000-5a8b43abeb2b,5d4085c4-c5bf-455c-9adf-38c97dca4eb0,2026-08-08T13:10:49.293351+10:00
+Least reliable travel insurance for business trips in Australia without hidden fees
+Tables found: 1
+| Insurer | Best for | Fee/excess transparency | Business-specific cover |
+|---|---|---|---|
+| **Cover-More Business** | Frequent international business travel | **Good** — PDS clearly lists applicable excesses | **Excellent** |
+| **Allianz Multi-Trip/Comprehensive** | Straightforward business trips | **Good** — excess shown and selectable | Moderate |
+| **1Cover Frequent Traveller** | Value-conscious frequent traveller | **Very good** — PDS clearly states excess and optional reductions | Moderate |
+End Of Line

@@ -1,0 +1,11 @@
+2,82408b14-7808-48da-9efc-f5cb57e87413,08080128-1126-0626-0000-757943441082,d56e0799-104f-4da1-89e8-7a32d5abfd32,2026-08-08T12:56:42.234986+10:00
+Cheapest home insurance for flood-prone areas in Australia with monthly payments
+Tables found: 1
+| Insurer | Flood cover | Why check it |
+|---|---|---|
+| **QBE** | Available | Finder currently rates QBE as its **best for floods** [www.finder.com.au](https://www.finder.com.au/home-insurance/best-home-insurance?utm_source=chatgpt.com) |
+| **Budget Direct** | Optional | Generally positioned as a lower-cost insurer; currently offers online discounts [www.finder.com.au](https://www.finder.com.au/home-insurance/flood-insurance?utm_source=chatgpt.com) |
+| **Youi** | Optional | Rated highly for overall value, though flood pricing varies substantially by property [www.finder.com.au](https://www.finder.com.au/home-insurance/best-home-insurance?utm_source=chatgpt.com) |
+| **Allianz** | Available on eligible policies | Particularly worth quoting for higher-risk properties; actual pricing is highly address-dependent |
+| **NRMA** | Available | Flood cover available on relevant policies; worth comparing, especially in NSW/ACT [www.canstar.com.au](https://www.canstar.com.au/home-insurance/flood-insurance-australia/?utm_source=chatgpt.com) |
+End Of Line

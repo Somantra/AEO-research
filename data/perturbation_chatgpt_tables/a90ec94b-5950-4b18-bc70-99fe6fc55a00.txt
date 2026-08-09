@@ -1,0 +1,9 @@
+2,0b39bf74-7747-4a08-b065-203f187c86e5,08080142-1126-0626-0000-3a27a665167f,a90ec94b-5950-4b18-bc70-99fe6fc55a00,2026-08-08T13:28:36.702831+10:00
+Worst pet insurance providers in Australia with strong customer reviews
+Tables found: 1
+| Provider | ProductReview rating | What stands out |
+|---|---:|---|
+| **Budget Direct Pet Insurance** | **1.9/5** (49 reviews) | Repeated complaints about claim denials, exclusions/pre-existing-condition interpretations and poor claim outcomes |
+| **PetSure** *(underwriter behind multiple brands)* | Mixed/poor sentiment on its own review page | Complaints focus heavily on claim decisions and interactions with claims staff |
+| **Pet Insurance Australia** | **4.5/5** (2,259 reviews) | **Not a “worst” provider by reviews**; however, some long-term customers complain about premium increases and narrowing/sub-limits |
+End Of Line

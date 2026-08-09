@@ -1,0 +1,13 @@
+1,4b5aba16-190d-41b5-96b7-03ad25fce1c6,08080123-1126-0626-0000-0a8c47035119,6965ab10-c05d-4e98-b136-773c1c766921,2026-08-08T12:44:04.400622+10:00
+Cheapest home insurance for landlords in Australia
+Tables found: 1
+| Insurer/provider | Why I'd check it | Price tendency |
+|---|---|---|
+| **QBE** | Strong value according to Canstar; landlord-specific cover | **Often cheaper** |
+| **AAMI** | Competitive general insurer; tenant protection can be added | **Often cheap** |
+| **GIO** | Worth quoting, particularly for straightforward rentals | **Often competitive** |
+| **Allianz** | Competitive general insurer; available through some banking brands | **Often competitive** |
+| **NRMA** | Worth checking, especially in NSW/ACT | **Competitive** |
+| **EBM RentCover** | Specialist landlord insurer | Usually not the absolute cheapest |
+| **Terri Scheer** | Very established specialist landlord insurer | Often pricier, but comprehensive |
+End Of Line

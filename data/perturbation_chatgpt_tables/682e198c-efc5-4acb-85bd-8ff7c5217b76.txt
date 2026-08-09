@@ -1,0 +1,13 @@
+2,ee7ab60e-457e-4395-8640-90697d945153,08080139-1126-0626-0000-92b776adc9ab,682e198c-efc5-4acb-85bd-8ff7c5217b76,2026-08-08T13:23:03.539394+10:00
+Most popular pet insurance for older pets in Australia compared to other providers
+Tables found: 1
+| Provider | New-pet age limit | Senior-pet suitability | Key point |
+|---|---:|---|---|
+| **Real Insurance** | **Under 16** on Classic | ⭐⭐⭐⭐⭐ | One of the strongest options if your pet is already 9–15 |
+| **Australian Seniors** | **Up to 15** on some cover | ⭐⭐⭐⭐⭐ | Specifically aimed at older Australians/pets; senior-friendly entry age |
+| **Pet Insurance Australia** | **Under 12** for Pet Essentials; under 9 for higher cover | ⭐⭐⭐⭐ | More flexible entry age, but comprehensive cover generally requires joining earlier |
+| **Guardian / Real / similar senior products** | Up to **15** | ⭐⭐⭐⭐ | Worth quoting for a 9–15-year-old |
+| **Medibank** | **Under 9** | ⭐⭐⭐ | Good once enrolled, but not for a newly insured 9+ pet |
+| **RSPCA / many mainstream providers** | Generally around **8–9** | ⭐⭐ | Better suited to pets insured before senior age |
+| **Pet Insurance Australia comprehensive** | **Before 9th birthday** | ⭐⭐⭐ | Strong if already insured; lifetime continuation once enrolled |
+End Of Line

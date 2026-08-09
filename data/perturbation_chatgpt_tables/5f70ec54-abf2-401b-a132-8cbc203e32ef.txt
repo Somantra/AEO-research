@@ -1,0 +1,11 @@
+2,e38ce3d6-cbdc-4c24-a8e5-fb417d9c9495,08080139-1126-0626-0000-8d5a19c229ad,5f70ec54-abf2-401b-a132-8cbc203e32ef,2026-08-08T13:22:19.837859+10:00
+Premium pet insurance for dogs in Australia with instant online quotes
+Tables found: 1
+| Provider | Max annual cover | Reimbursement | Notable features | Online quote |
+|---|---:|---:|---|---|
+| **Pet Insurance Australia** | **$35,000** | Up to **90%** | No hidden sub-limits, flexible excess, GapOnly | [Get a quote](https://www.petinsuranceaustralia.com.au/dog-insurance/) |
+| **RSPCA Pet Insurance – PetFlex** | **$35,000** | Up to **90%** | No sub-limits, customisable excess, optional dental/behavioural cover | [Get a quote](https://rspcapetinsurance.org.au/customisable-pet-insurance/) |
+| **Medibank Pet Max** | **$30,000** | Up to **90%** | Extra Care, no sub-limits on several major conditions, GapOnly | [Get a quote](https://www.medibank.com.au/pet-insurance/dog/) |
+| **Petsy** | **$25,000** | — | No sub-limits, $0 annual excess available | [Get a quote](https://quote.petsy.com.au/) |
+| **Budget Direct Comprehensive** | **$15,000** | **80%** | Online quote, 15% first-year online discount currently advertised | [Get a quote](https://www.budgetdirect.com.au/pet-insurance/comprehensive.html) |
+End Of Line

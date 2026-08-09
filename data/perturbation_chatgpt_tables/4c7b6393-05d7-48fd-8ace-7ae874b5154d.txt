@@ -1,0 +1,10 @@
+2,5ee71ad0-3d56-47ba-b5ff-02ffec80ee79,08080119-1126-0626-0000-7aaf58bea5e9,4c7b6393-05d7-48fd-8ace-7ae874b5154d,2026-08-08T12:34:10.328519+10:00
+Worst car insurance for used cars in Australia with instant online quotes
+Tables found: 1
+| Insurer | Why some used-car owners dislike them | Online quote experience |
+|---|---|---|
+| Youi | Some customers complain that quotes can involve lengthy follow-up calls rather than a simple instant price; others find premiums expensive compared with competitors. [www.reddit.com](https://www.reddit.com/r/AusFinance/comments/1c4j5yl/youis_new_trick_to_waste_your_time_dont_bother/?utm_source=chatgpt.com) | Often starts online but may involve phone contact |
+| RAC | Some customers report renewal price increases or reduced vehicle valuations, although experiences vary by state and policy. [www.reddit.com](https://www.reddit.com/r/perth/comments/1ljal61?utm_source=chatgpt.com) | Usually has online quoting |
+| Budget Direct | Often competitive on price, but some drivers complain about claim outcomes or policy limitations; cheap premiums can mean checking exclusions carefully. [www.finder.com.au](https://www.finder.com.au/car%20insurance?utm_source=chatgpt.com) | Fast online quotes |
+| Bingle | Low-cost online model can suit older cars, but some people prefer insurers with more repairer choice and broader service options. [www.finder.com.au](https://www.finder.com.au/car-%20insurance?utm_source=chatgpt.com) | Very online-focused |
+End Of Line
