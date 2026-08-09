@@ -136,6 +136,68 @@ directly in a browser. It has:
 - Category comparison matrices (brands × modifiers per product category), so you can compare
   which brands' positioning moves most under a given modifier.
 
+## How the optional scores work
+
+Both optional flags measure the *same thing* the default Jaccard metric does — how much a brand's
+positioning language moved between the base query and its perturbed variant — but with richer
+signals than surface word overlap. Both operate on a **pair of phrases**: `base_phrase` (how
+ChatGPT described the brand *without* the modifier) and `perturbed_phrase` (how it described the
+same brand with exactly one quality word, e.g. "cheapest", added). Both also deduplicate first —
+every unique phrase is scored once, no matter how many pairs reference it — then attach per-pair
+columns to `perturbation_pairs.csv`.
+
+### `--score-sentiment` — did the *tone* move, and which way?
+
+Answers "was the brand described more positively, more negatively, or more neutrally once the
+modifier was added?" This is the only score that is **directional**.
+
+- Each phrase runs through a local HuggingFace transformer,
+  `cardiffnlp/twitter-roberta-base-sentiment-latest` (a RoBERTa model fine-tuned on tweets to
+  classify text as positive / negative / neutral). It runs on your machine (CPU, or CUDA if
+  available); the only network use is a one-time model download from the Hub. **No API key, no
+  per-call cost.**
+- Light preprocessing replaces @-handles and URLs with placeholders — a quirk inherited from the
+  model's Twitter training data, so they don't confuse the classifier.
+- The model's raw logits are turned into three probabilities that sum to 1.0 via `softmax` (e.g.
+  positive 0.70, neutral 0.25, negative 0.05).
+- The stored value is a **signed shift**, computed per label as
+  `perturbed_probability − base_probability`, giving `sentiment_shift_positive`,
+  `sentiment_shift_negative`, and `sentiment_shift_neutral`. A `sentiment_shift_positive` of
+  `+0.30` means the perturbed phrasing reads markedly more positive than the base; values near `0`
+  mean the tone didn't move.
+
+### `--score-embeddings` — did the *meaning* move?
+
+Answers "is ChatGPT saying roughly the same thing, or something genuinely different?" — semantic
+similarity rather than tone.
+
+- Each phrase is sent to the **OpenAI embeddings API** (`text-embedding-3-small` by default,
+  override with `OPENAI_EMBEDDING_MODEL`), which returns a high-dimensional vector representing the
+  phrase's meaning. **This is the part that requires your own `OPENAI_API_KEY` and costs money per
+  call** — small, and kept minimal by the dedup step.
+- For each pair it computes **cosine similarity** between the two vectors — the cosine of the angle
+  between them, ranging roughly 0→1. `embedding_similarity = 0.95` means the two descriptions mean
+  nearly the same thing (wording barely moved the meaning); `0.60` means the meaning shifted
+  substantially.
+- Note this is a *similarity*, so it runs opposite to the Jaccard *distance*: high similarity =
+  small change.
+
+### Why run more than one
+
+The three metrics catch different failure modes of each other. Jaccard can flag that words changed
+but not whether it matters; two phrasings can share few words yet mean the same thing (embedding
+catches that), and two phrasings can be semantically close yet flip tone (sentiment catches that).
+Sentiment is the one that supplies the *directional* narrative the report leads with — "described
+as low-cost with the modifier, value-for-money without it" — while embedding tells you whether the
+meaning genuinely diverged and Jaccard gives a cheap, always-on baseline.
+
+| | Jaccard (default) | `--score-sentiment` | `--score-embeddings` |
+|---|---|---|---|
+| Measures | surface word overlap | tone (pos/neg/neutral) | semantic meaning |
+| Directional? | no | **yes** — signed shift | no (magnitude only) |
+| Cost / setup | free, built-in | free, local model (`torch`) | **OpenAI key, paid** |
+| Answers | "did the words change?" | "did the feeling change, and which way?" | "did the meaning change?" |
+
 ## Known limitations
 
 - **Pairing is inferred, not designed.** Query pairs are found by normalizing away known
