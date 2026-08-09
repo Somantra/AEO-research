@@ -140,6 +140,44 @@ directly in a browser. It has:
   auto-detects these columns: if they're absent or empty it renders exactly as before, so the base
   pipeline is unchanged. See "How the optional scores work" below for what these columns mean.
 
+## How the word-shift (Jaccard) metric is calculated
+
+Word shift is the default, always-on metric (no flag needed) and the one the report's meter and all
+rankings are built on. It is the **Jaccard distance** between the token *sets* of the two
+positioning phrases. For a base phrase `a` and perturbed phrase `b` (`jaccard_distance()` in
+`perturbation_chatgpt_brand_position.py`):
+
+1. Tokenize case-insensitively into sets — order and repetition discarded:
+   `A = set(re.findall(r"\w+", a.lower()))` and `B = set(re.findall(r"\w+", b.lower()))`. The
+   pattern `\w+` matches maximal runs of word characters (letters, digits, underscore;
+   Unicode-aware in Python's `re`), so punctuation is dropped and serves only as a delimiter.
+2. Compute Jaccard distance = 1 − Jaccard similarity:
+
+   ```
+   word_shift = 1 − |A ∩ B| / |A ∪ B|
+   ```
+
+3. Edge case: if both token sets are empty, the function returns `0.0` (and the `|A ∪ B| = 0`
+   division is guarded).
+4. The stored `jaccard_distance` column is this value **rounded to 4 decimals**; the report renders
+   it to 2 decimals as the "Word shift" meter — `0` = identical token sets, `1` = no shared tokens.
+
+Worked example: `a = "good value for money"` → `A = {good, value, for, money}`;
+`b = "the cheapest option, great value"` → `B = {the, cheapest, option, great, value}`. Then
+`A ∩ B = {value}` (size 1) and `A ∪ B` has 8 distinct tokens, so `word_shift = 1 − 1/8 = 0.875`.
+
+Properties for review:
+
+- **Set-based, not sequence-based.** Token order and repeated tokens do not affect the score:
+  `"value cover"` and `"cover value value"` reduce to the same set. A separate *human-readable,
+  ordered* diff is stored in the `word_diff` column, built with `difflib.SequenceMatcher` over the
+  whitespace-split word lists (emitting `-removed` / `+added` fragments). That column is display
+  annotation only — it is **not** the word-shift number and is not what the meter shows.
+- **Range** `[0, 1]`; symmetric in `a` and `b`.
+- **No stemming, stop-word removal, or lemmatization** — it is a literal surface-token overlap, so
+  two close paraphrases can still score high. This is why the report treats the quoted phrases as
+  the primary evidence and the number as supporting context.
+
 ## How the optional scores work
 
 Both optional flags measure the *same thing* the default Jaccard metric does — how much a brand's
@@ -173,6 +211,55 @@ modifier was added?" This is the only score that is **directional**.
   `+0.30` means the perturbed phrasing reads markedly more positive than the base; values near `0`
   mean the tone didn't move.
 
+#### Exact calculation of the "Tone shift" number
+
+The three per-label shifts above are what's stored in `perturbation_pairs.csv`. The single **Tone
+shift** value shown in the HTML report is derived from them as follows. For one pair, let the
+sentiment model's probability outputs be:
+
+```
+base phrase:      p_base = (p_pos^base, p_neg^base, p_neu^base),   summing to 1
+perturbed phrase: p_pert = (p_pos^pert, p_neg^pert, p_neu^pert),   summing to 1
+```
+
+The stored per-label shifts are the element-wise difference `Δ = p_pert − p_base`:
+
+```
+Δ_positive = p_pos^pert − p_pos^base   (= sentiment_shift_positive)
+Δ_negative = p_neg^pert − p_neg^base   (= sentiment_shift_negative)
+Δ_neutral  = p_neu^pert − p_neu^base   (= sentiment_shift_neutral)
+```
+
+The report's Tone shift is the **net polarity swing**, positive minus negative:
+
+```
+tone_shift = Δ_positive − Δ_negative
+```
+
+Interpretation and rendering (in `sentiment_net()` / `tone_chip()` in
+`build_perturbation_brand_positioning_report.py`):
+
+- `tone_shift > +0.02`  → ▲ "more positive"
+- `tone_shift < −0.02`  → ▼ "more negative"
+- otherwise             → • "no tone change" (a ±0.02 dead-band to suppress rounding-level noise)
+
+Properties worth noting for review:
+
+- **Range.** Each `Δ ∈ [−1, +1]`, so `tone_shift ∈ [−2, +2]`; in practice it clusters near 0.
+- **Why neutral is excluded from the headline.** Because `p_base` and `p_pert` each sum to 1, the
+  three shifts sum to zero: `Δ_positive + Δ_negative + Δ_neutral = 0`. So `Δ_neutral` carries no
+  independent polarity information — `tone_shift = Δ_positive − Δ_negative` is a pure
+  positive-vs-negative contrast, and `Δ_neutral` is reported only in the cell's hover tooltip for
+  completeness.
+- **Direction, not magnitude of change.** `tone_shift` deliberately does *not* measure how far the
+  distribution moved (that would be, e.g., total variation `½·Σ|Δ|`); it measures which way the
+  net polarity went. Two pairs with the same `tone_shift` can have moved by different total
+  amounts. This is intentional — it's the one metric here meant to answer "which direction," and
+  should be read alongside word shift / meaning shift, which carry the magnitude.
+- **No control-group normalization.** Like every other metric in this report, `tone_shift` is a raw
+  base-vs-perturbed difference and is *not* yet benchmarked against the model's own response
+  variance (see Known limitations — no noise-floor pairs exist in the current corpus).
+
 ### `--score-embeddings` — did the *meaning* move?
 
 Answers "is ChatGPT saying roughly the same thing, or something genuinely different?" — semantic
@@ -188,6 +275,40 @@ similarity rather than tone.
   substantially.
 - Note this is a *similarity*, so it runs opposite to the Jaccard *distance*: high similarity =
   small change.
+
+#### Exact calculation of the "Meaning shift" number
+
+The `embedding_similarity` column stores the **cosine similarity** between the two phrases'
+embedding vectors. For base-phrase embedding `u` and perturbed-phrase embedding `v`
+(`cosine_similarity()` in `embedding_scoring.py`):
+
+```
+cos_sim = (u · v) / (‖u‖ · ‖v‖)          # dot product ÷ product of L2 norms
+```
+
+stored as `embedding_similarity`, **rounded to 4 decimals**. The report's **Meaning shift** value
+is derived from it (`meaning_cell()` in `build_perturbation_brand_positioning_report.py`):
+
+```
+meaning_shift = max(0, 1 − cos_sim)
+```
+
+Properties for review:
+
+- **The `max(0, …)` clamp** guards the theoretical negative-cosine case. OpenAI
+  `text-embedding-3-*` vectors are L2-normalized, so `u · v` already *is* the cosine, and in
+  practice `cos_sim` sits in roughly `[0.2, 1.0]`, so the clamp rarely binds.
+- **Rendering.** Displayed to 2 decimals, with the raw 4-decimal cosine in the cell's hover title;
+  `meaning_shift = 0` means identical meaning, larger means more divergent.
+- **Not on the same absolute scale as word shift.** Cosine similarity for these embeddings
+  compresses into a high, narrow band, so `1 − cos_sim` is systematically smaller than the Jaccard
+  word shift for the *same* pair. Compare a pair's meaning shift against *other pairs'* meaning
+  shifts, not directly against its own word shift.
+- **To reproduce independently:** embed each unique phrase once with the same model (default
+  `text-embedding-3-small`, overridable via `OPENAI_EMBEDDING_MODEL`), then apply the two formulas
+  above. Embeddings are deduplicated per unique phrase, so identical phrases yield identical vectors
+  and therefore `cos_sim = 1`, `meaning_shift = 0`. Note results are only reproducible against the
+  same embedding model/version — a different model will shift the absolute numbers.
 
 ### Why run more than one
 
