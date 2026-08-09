@@ -92,8 +92,12 @@ requirements-optional.txt`):
   **Requires your own key**: copy `.env.example` to `.env` and set `OPENAI_API_KEY` (or export
   it in your shell). No key ships with this repo, and nothing calls out to OpenAI unless you
   pass this flag.
-- `--terms-file` — supply your own list of perturbation terms (one per line) instead of the
-  built-in default list (`cheapest`, `best`, `worst`, `most reliable`, `safest`, ...).
+- `--terms-file` — supply your own list of perturbation terms, one per line, no comments (see
+  `terms.example.txt`, which reproduces the built-in default list below as a starting point to
+  edit), instead of the built-in default:
+  `cheapest`, `cheap`, `most affordable`, `affordable`, `budget`, `best`, `worst`,
+  `most reliable`, `least reliable`, `easiest`, `hardest`, `fastest`, `slowest`, `safest`,
+  `most trusted`, `most popular`, `premium`.
 
 ### Step 2 — build the report
 
@@ -177,3 +181,5 @@ directly in a browser. It has:
 - `requirements.txt` / `requirements-optional.txt` — base vs. opt-in dependencies.
 - `.env.example` — template for your own `OPENAI_API_KEY`, only needed for
   `--score-embeddings`.
+- `terms.example.txt` — starting point for `--terms-file`: the built-in default perturbation
+  terms, one per line.
