@@ -72,13 +72,13 @@ without it too, just skips that test. **No API key is required for the default r
 ```bash
 python3 perturbation_chatgpt_brand_position.py \
     ../../data/perturbation_chatgpt_tables \
-    ./output
+    .
 ```
 
 Note the console line `Parsed <N> file(s)...` — you'll want that number for `--total-files` in
 step 2. For the corpus in this repo, N is 4,445.
 
-Writes `./output/perturbation_pairs.csv`: one row per (brand, base query, perturbed query) pair,
+Writes `perturbation_pairs.csv` (in the current directory): one row per (brand, base query, perturbed query) pair,
 including multi-modifier pairs and any control pairs found, plus a printed summary of median
 distance per modifier group and (if `scipy` is installed and there's enough data) a
 Kruskal-Wallis test across groups.
@@ -103,8 +103,8 @@ requirements-optional.txt`):
 
 ```bash
 python3 build_perturbation_brand_positioning_report.py \
-    ./output/perturbation_pairs.csv \
-    ./output/report.html \
+    perturbation_pairs.csv \
+    report.html \
     --total-files 4445
 ```
 
